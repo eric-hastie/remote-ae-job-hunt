@@ -1,0 +1,56 @@
+Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL
+AffiniPay,300,$150-160K,MM,Austin,Y,,Professional-services payments,https://job-boards.greenhouse.io/embed/job_app?for=affinipay1&token=4594484006
+Maxio,150,,SMB/MM,Atlanta,Y,,SaaS billing & revenue,https://maxio.applytojob.com/apply/usMeWdgx3X
+Hex,172,$250K,MM,San Francisco,Y,,Data science / analytics,https://hex.tech/careers/5369996004/?gh_jid=5369996004
+Apollo.io,250,~$180K,MM,San Francisco,Y,85,Sales intelligence / GTM,https://job-boards.greenhouse.io/apolloio/jobs/6015562004
+Bloomreach,422,$200-250K,MM,Mountain View,Y,89,E-commerce personalization,https://job-boards.greenhouse.io/bloomreach/jobs/7051101
+Deel,982,$175-185K,MM,San Francisco,Y,86,Global payroll / EOR,https://jobs.ashbyhq.com/deel/19edf0ba-b735-421b-a22c-b11e6734e282
+HiBob,574,$160-240K,MM,New York,Y,80,HRIS / HR-tech,https://hibob-fa0ad69d0cb34a.careers.hibob.com/jobs/3072f3c1-3212-4ac2-bc6a-a69be0eac267
+Samsara,public,$152-190K,MM,San Francisco,Y,86,Fleet / IoT telematics,https://www.samsara.com/company/careers/roles/7609057?gh_jid=7609057
+Lytx,769,$250-290K,MM,San Diego,Y,69,Fleet video telematics,https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Senior-Account-Executive--Mid-Market-_R-3981
+Vanta,504,$213-251K,MM,San Francisco,Y,88,AI security / compliance GRC,https://jobs.ashbyhq.com/Vanta/fe5fd1a4-12ff-4703-bed5-6c2f34ba7768
+Abnormal Security,534,~$170-200K,MM,San Francisco,Y,,Email / AI cybersecurity,https://job-boards.greenhouse.io/abnormalsecurity/jobs/7662284003
+Sumo Logic,346,~$176-206K,MM,Redwood City,Y,,Cloud security / SIEM,https://job-boards.greenhouse.io/sumologic/jobs/7905630
+Drata,328,$170-262K,MM,San Diego,Y,,GRC / compliance automation,https://jobs.ashbyhq.com/drata/3304848c-68bd-4e3d-8e6d-da244797fe6d
+Thoropass,98,$250-300K,MM,New York,Y,,GRC / SOC2 compliance,https://job-boards.greenhouse.io/thoropass/jobs/6001423004
+Cobalt,187,$119-175K,MM,San Francisco,Y,,Pentest-as-a-Service / vuln mgmt,https://job-boards.greenhouse.io/cobaltio/jobs/8526503002
+Huntress,298,$160K,MM,Ellicott City MD,Y,,Managed cybersecurity / MDR,https://job-boards.greenhouse.io/huntress
+Render,258,$200-330K,MM/Ent,San Francisco,Y,,Cloud app hosting / PaaS,https://jobs.ashbyhq.com/render/c6b1ea04-755d-46e8-b197-68c235aff85c
+Confluent,public,~$329K,MM/Ent,Mountain View,Y,,Data streaming (Kafka),https://careers.confluent.io/jobs/12034817-account-executive
+Vantage,25,$160-320K,MM/Ent,Brooklyn NY,Y,,Cloud cost / FinOps,https://jobs.ashbyhq.com/vantage/3648f4bf-40fb-43c8-8bb7-6c4c625a6808
+BILL,public,$160-227K (MM) / $224-329K (Ent),MM/Ent,San Jose,Y,81,AP/AR automation / payments,https://job-boards.greenhouse.io/billcom/jobs/6019000004
+Drivetrain,39,,MM/Ent,San Jose,Y,,FP&A / financial planning,https://jobs.lever.co/drivetrain/f70cc800-2b65-460f-879a-9623ea2ed7d2
+Demandbase,175,$220-300K,MM/Ent,San Francisco,Y,87,ABM / GTM platform,https://jobs.ashbyhq.com/demandbase/f1433369-924b-469a-9bcf-b7e78799204f
+Customer.io,bootstrapped,$230K,MM/Ent,Portland,Y,,Messaging / marketing automation,https://job-boards.greenhouse.io/customerio/jobs/8001442
+Trunk Tools,70,,MM/Ent,New York,Y,,Construction AI / project mgmt,https://jobs.ashbyhq.com/Trunk%20Tools/374c4cef-f34d-47ec-892d-b219e8222a66
+Eve,164,$300-310K (Ent) / $150-200K base (MM),MM/Ent,San Francisco,Y,,AI-native legal platform,https://job-boards.greenhouse.io/eve/jobs/4204346009
+Doppler,29,$220-250K,MM/Ent,San Francisco,Y,,Secrets management,https://jobs.ashbyhq.com/Doppler/0b96a7c6-a460-4e41-b6a8-904c04929c8f
+Arctic Wolf,899,,Ent (MM-focused),Eden Prairie MN,Y,,MDR / SOC / security ops,https://job-boards.greenhouse.io/arcticwolfnetworks
+Honeycomb,177,$274-300K,Ent,San Francisco,Y,81,Observability,https://job-boards.greenhouse.io/honeycomb/jobs/5187339008
+Cribl,600,$280-320K,Ent,San Francisco,Y,89,Telemetry / observability pipeline,https://job-boards.greenhouse.io/cribl/jobs/5720688004
+PagerDuty,public,$250-320K,Ent,San Francisco,Y,79,Incident response / monitoring,https://job-boards.greenhouse.io/pagerduty/jobs/5751681004
+Pulumi,99,$180-300K,Ent,Seattle,Y,,IaC / cloud dev tools,https://job-boards.greenhouse.io/pulumicorporation/jobs/7685999003
+Retool,350,$180-350K base,Ent,San Francisco,Y,84,Internal-tools / app dev,https://retool.com/careers/account-executive-enterprise-east--sales--united-states-remote
+Apollo GraphQL,183,$110-210K,Ent,San Francisco,Y,76,API / GraphQL platform,https://jobs.ashbyhq.com/apollo-graphql/415db1ad-746c-4384-acda-7caadf5c457b
+Redpanda,266,$150-165K base,Ent,San Francisco,Y,,Streaming data platform,https://job-boards.greenhouse.io/redpandadata/jobs/4694385005
+Monte Carlo,236,$300-350K,Ent,San Francisco,Y,,Data observability / quality,https://jobs.ashbyhq.com/montecarlodata/4a57ba0f-3be5-4138-b863-f8c7a575c3e0
+Sigma Computing,581,~$220K,Ent,San Francisco,Y,,Cloud BI / analytics,https://job-boards.greenhouse.io/sigmacomputing/jobs/7767630003
+Temporal,650,$300-350K,Ent,Seattle,Y,95,Workflow orchestration infra,https://job-boards.greenhouse.io/temporaltechnologies/jobs/5047650007
+Infisical,19,,Ent,San Francisco,Y,,Secrets mgmt / security infra,https://jobs.ashbyhq.com/infisical/01227d50-aba6-4a79-8a27-72d40f1fa4b6
+Accrue,29,$240-320K,Ent,New York,Y,,Payments / branded wallets,https://job-boards.greenhouse.io/accrue/jobs/4423338008
+Chargebee,468,~$200K (base 130-140K),Ent,North Bethesda MD,Y,,Subscription billing / revenue,https://jobs.chargebee.com/job/Remote-Account-Executive-1-Enterprise/56776344/
+ThoughtSpot,664,~$218K,Ent,Mountain View,Y,79,Search & AI analytics (BI),https://thoughtspot.wd5.myworkdayjobs.com/en-US/careers/job/Enterprise-Account-Executive_JR2099
+ClickHouse,1050,$280-320K,Ent,Bay Area,Y,,Real-time analytics / OLAP DB,https://job-boards.greenhouse.io/clickhouse/jobs/5800037004
+Gong,583,$270-330K,Ent,San Francisco,Y,88,Revenue intelligence / salestech,https://job-boards.greenhouse.io/gongio/jobs/4655626006
+Rippling,2400,~$300K,Ent,San Francisco,Y,86,HRIS / HCM + IT/Finance,https://ats.rippling.com/rippling/jobs/0db7c317-22c6-4e86-a67d-09e573ce0d96
+Komodo Health,314,$140-180K base+comm,Ent,San Francisco,Y,79,Healthcare data / analytics,https://job-boards.greenhouse.io/komodohealth/jobs/8422588002
+Deepgram,215,$300-340K,Ent,San Francisco,Y,96,Voice AI / speech infra,https://jobs.ashbyhq.com/deepgram/7fe7bd7d-b337-4337-b459-a892be80789e
+Cresta,282,$240-300K,Ent,San Francisco,Y,91,Generative AI for contact centers,https://job-boards.greenhouse.io/cresta/jobs/4494927008
+Glean,504,$260-320K,Ent,Palo Alto,Y,80,Enterprise AI assistant / search,https://job-boards.greenhouse.io/gleanwork/jobs/4702559005
+Arize AI,131,$250-300K,Ent,Berkeley/SF,Y,87,AI / LLM observability,https://job-boards.greenhouse.io/arizeai/jobs/5730389004
+Augury,369,,Ent,New York,Y,84,Industrial AI / machine-health,https://www.augury.com/careers/strategic-account-executive-7809130002/
+Commure,750,~$300K,Ent,Mountain View,Y,78,AI healthcare ops / RCM,https://jobs.ashbyhq.com/commure/cde9a56a-e907-4277-a9f1-a6b7f9e9ae6e
+Keeper Security,60,,Ent,Chicago,Y,,IAM / PAM / secrets mgmt,https://job-boards.greenhouse.io/keepersecurity/jobs/4090345009
+Halcyon,209,$280-320K,Ent,Austin,Y,,Anti-ransomware / endpoint,https://job-boards.greenhouse.io/halcyon/jobs/5708979004
+Sysdig,744,$283-388K,Ent,San Francisco,Y,,Cloud security / vuln & threat,https://jobs.lever.co/sysdig/3d907d1e-40cc-4b71-9991-d9cc7681fba0
+GitGuardian,56,$310-340K,Ent (West only),Paris / US,Y,,Secrets detection / DevSecOps,https://careers.gitguardian.com/jobs/7861885-enterprise-account-executive-west

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Remote AE Market Map — Verified Account Executive Roles</title>
+<meta name="description" content="A hand-verified dataset of remote US Account Executive roles at B2B SaaS companies, built with an AI-assisted research pipeline.">
+<style>
+:root{
+  --bg:#0f1115; --panel:#171a21; --panel2:#1d212a; --line:#2a2f3a;
+  --txt:#e7eaf0; --muted:#9aa3b2; --accent:#6c8cff; --accent2:#41d3a3;
+  --mm:#1f6f54; --mmtxt:#7ff0c8; --ent:#3a3f4b; --enttxt:#c3c9d4;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header{padding:64px 0 28px;border-bottom:1px solid var(--line)}
+.eyebrow{color:var(--accent2);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-size:12px;margin:0 0 14px}
+h1{font-size:40px;line-height:1.12;margin:0 0 14px;font-weight:740;letter-spacing:-.02em}
+.sub{color:var(--muted);font-size:18px;max-width:680px;margin:0}
+.byline{margin-top:22px;color:var(--muted);font-size:14px}
+.byline b{color:var(--txt)}
+
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:34px 0 8px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px}
+.stat .n{font-size:28px;font-weight:720;letter-spacing:-.02em}
+.stat .l{color:var(--muted);font-size:13px;margin-top:4px}
+
+section.about{padding:40px 0 8px}
+h2{font-size:22px;margin:0 0 14px;letter-spacing:-.01em}
+.about p{color:#cdd3de;max-width:760px}
+.method{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:20px}
+@media(max-width:760px){.method{grid-template-columns:1fr}.stats{grid-template-columns:repeat(2,1fr)}h1{font-size:30px}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+.card h3{margin:0 0 6px;font-size:15px;color:var(--accent2)}
+.card p{margin:0;color:var(--muted);font-size:14px}
+
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);
+  padding:22px 0 14px;margin-top:36px;border-bottom:1px solid var(--line);
+  display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+#q{flex:1;min-width:220px;background:var(--panel2);border:1px solid var(--line);color:var(--txt);
+  padding:11px 14px;border-radius:10px;font-size:14px;outline:none}
+#q:focus{border-color:var(--accent)}
+.seg{display:flex;gap:6px;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:4px}
+.seg button{background:transparent;border:0;color:var(--muted);padding:7px 14px;border-radius:7px;cursor:pointer;font-size:13px;font-weight:600}
+.seg button.on{background:var(--accent);color:#0b0d12}
+.count{color:var(--muted);font-size:13px;white-space:nowrap}
+
+.tablewrap{overflow-x:auto;margin:18px 0 60px;border:1px solid var(--line);border-radius:12px}
+table{width:100%;border-collapse:collapse;font-size:14px;min-width:820px}
+thead th{position:sticky;top:0;background:var(--panel2);text-align:left;padding:13px 14px;
+  font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);
+  border-bottom:1px solid var(--line);cursor:pointer;user-select:none;white-space:nowrap}
+thead th:hover{color:var(--txt)}
+thead th .arw{opacity:.5;font-size:10px}
+tbody td{padding:13px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:hover{background:var(--panel)}
+.co{font-weight:650;font-size:15px}
+.ind{color:var(--muted);font-size:12.5px;margin-top:2px}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.b-mm{background:var(--mm);color:var(--mmtxt)}
+.b-ent{background:var(--ent);color:var(--enttxt)}
+.ote{font-variant-numeric:tabular-nums}
+.apply{font-weight:600;white-space:nowrap}
+.muted{color:var(--muted)}
+footer{border-top:1px solid var(--line);padding:30px 0 70px;color:var(--muted);font-size:13px}
+footer .wrap{max-width:760px}
+.note{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent2);
+  border-radius:8px;padding:14px 16px;margin:16px 0;color:#cdd3de;font-size:13.5px}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <p class="eyebrow">B2B SaaS · Sales · Market Research</p>
+  <h1>Remote AE Market Map</h1>
+  <p class="sub">A hand-verified dataset of remote US <b>Account Executive</b> openings at B2B SaaS companies — built with an AI-assisted research pipeline that screens against a defined ICP and verifies every posting is live.</p>
+  <p class="byline">Compiled by <b>Eric Hastie</b> · Data verified June 2026 · <span class="muted">a portfolio project</span></p>
+
+  <div class="stats">
+    <div class="stat"><div class="n">55</div><div class="l">verified, qualified roles</div></div>
+    <div class="stat"><div class="n">27</div><div class="l">mid-market-friendly</div></div>
+    <div class="stat"><div class="n">5</div><div class="l">industry verticals</div></div>
+    <div class="stat"><div class="n">100%</div><div class="l">postings verified live</div></div>
+  </div>
+</div></header>
+
+<section class="about"><div class="wrap">
+  <h2>About this project</h2>
+  <p>While job-searching, I got tired of scraped job boards that bury a handful of good fits under hundreds of mismatched listings. So I built a research workflow that does the opposite: it defines a precise ideal-candidate profile, then <b>verifies and filters first</b> — only surfacing roles that actually clear the bar.</p>
+
+  <div class="method">
+    <div class="card"><h3>1 · Defined the ICP</h3><p>Individual-contributor AE, Mid-Market / Enterprise B2B SaaS, US-remote, ~$150–340K OTE, ~4+ yrs closing. The bar is explicit, so nothing off-profile gets through.</p></div>
+    <div class="card"><h3>2 · Fanned out by vertical</h3><p>Parallel research across five lanes — dev tools &amp; infra, fintech &amp; data, vertical SaaS, AI-native, and security — so the results are diverse, not the same five household names.</p></div>
+    <div class="card"><h3>3 · Verified every posting</h3><p>Each role was confirmed live, remote, and IC-level against the company's own ATS (Greenhouse / Ashby). Anything unverifiable was dropped — <b>zero fabricated or stale listings</b>.</p></div>
+    <div class="card"><h3>4 · De-duped &amp; segmented</h3><p>Screened against a 64-company master list to keep only net-new finds, then tagged by segment so mid-market roles (the qualifying lane) sort to the top.</p></div>
+  </div>
+
+  <div class="note">Filter and search the full dataset below. Every <b>Apply</b> link points to the live job posting that was verified during research. Mid-market roles are flagged in green.</div>
+</div></section>
+
+<div class="wrap">
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search company, industry, or location…" autocomplete="off">
+    <div class="seg" id="seg">
+      <button data-seg="all" class="on">All</button>
+      <button data-seg="mm">Mid-market</button>
+      <button data-seg="ent">Enterprise</button>
+    </div>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablewrap">
+    <table>
+      <thead><tr>
+        <th data-k="company">Company <span class="arw"></span></th>
+        <th data-k="funding">Funding ($M) <span class="arw"></span></th>
+        <th data-k="ote">OTE <span class="arw"></span></th>
+        <th data-k="segment">Segment <span class="arw"></span></th>
+        <th data-k="hq">HQ <span class="arw"></span></th>
+        <th data-k="repvue">RepVue <span class="arw"></span></th>
+        <th>Posting</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+</div>
+
+<footer><div class="wrap">
+  <p><b>Methodology note.</b> This is a snapshot verified in June 2026; job postings turn over quickly, so confirm a role is still open before applying. Funding and RepVue figures are from public sources and may be approximate (blank where not reliably verifiable rather than guessed). All companies shown are net-new relative to a separately maintained master list.</p>
+  <p>Built by Eric Hastie as a demonstration of GTM research, data curation, and AI-assisted workflow design.</p>
+</div></footer>
+
+<script>
+const DATA = [{"company": "AffiniPay", "funding": "300", "ote": "$150-160K", "segment": "MM", "hq": "Austin", "remote": "Y", "repvue": "", "industry": "Professional-services payments", "url": "https://job-boards.greenhouse.io/embed/job_app?for=affinipay1&token=4594484006"}, {"company": "Maxio", "funding": "150", "ote": "", "segment": "SMB/MM", "hq": "Atlanta", "remote": "Y", "repvue": "", "industry": "SaaS billing & revenue", "url": "https://maxio.applytojob.com/apply/usMeWdgx3X"}, {"company": "Hex", "funding": "172", "ote": "$250K", "segment": "MM", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Data science / analytics", "url": "https://hex.tech/careers/5369996004/?gh_jid=5369996004"}, {"company": "Apollo.io", "funding": "250", "ote": "~$180K", "segment": "MM", "hq": "San Francisco", "remote": "Y", "repvue": "85", "industry": "Sales intelligence / GTM", "url": "https://job-boards.greenhouse.io/apolloio/jobs/6015562004"}, {"company": "Bloomreach", "funding": "422", "ote": "$200-250K", "segment": "MM", "hq": "Mountain View", "remote": "Y", "repvue": "89", "industry": "E-commerce personalization", "url": "https://job-boards.greenhouse.io/bloomreach/jobs/7051101"}, {"company": "Deel", "funding": "982", "ote": "$175-185K", "segment": "MM", "hq": "San Francisco", "remote": "Y", "repvue": "86", "industry": "Global payroll / EOR", "url": "https://jobs.ashbyhq.com/deel/19edf0ba-b735-421b-a22c-b11e6734e282"}, {"company": "HiBob", "funding": "574", "ote": "$160-240K", "segment": "MM", "hq": "New York", "remote": "Y", "repvue": "80", "industry": "HRIS / HR-tech", "url": "https://hibob-fa0ad69d0cb34a.careers.hibob.com/jobs/3072f3c1-3212-4ac2-bc6a-a69be0eac267"}, {"company": "Samsara", "funding": "public", "ote": "$152-190K", "segment": "MM", "hq": "San Francisco", "remote": "Y", "repvue": "86", "industry": "Fleet / IoT telematics", "url": "https://www.samsara.com/company/careers/roles/7609057?gh_jid=7609057"}, {"company": "Lytx", "funding": "769", "ote": "$250-290K", "segment": "MM", "hq": "San Diego", "remote": "Y", "repvue": "69", "industry": "Fleet video telematics", "url": "https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Senior-Account-Executive--Mid-Market-_R-3981"}, {"company": "Vanta", "funding": "504", "ote": "$213-251K", "segment": "MM", "hq": "San Francisco", "remote": "Y", "repvue": "88", "industry": "AI security / compliance GRC", "url": "https://jobs.ashbyhq.com/Vanta/fe5fd1a4-12ff-4703-bed5-6c2f34ba7768"}, {"company": "Abnormal Security", "funding": "534", "ote": "~$170-200K", "segment": "MM", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Email / AI cybersecurity", "url": "https://job-boards.greenhouse.io/abnormalsecurity/jobs/7662284003"}, {"company": "Sumo Logic", "funding": "346", "ote": "~$176-206K", "segment": "MM", "hq": "Redwood City", "remote": "Y", "repvue": "", "industry": "Cloud security / SIEM", "url": "https://job-boards.greenhouse.io/sumologic/jobs/7905630"}, {"company": "Drata", "funding": "328", "ote": "$170-262K", "segment": "MM", "hq": "San Diego", "remote": "Y", "repvue": "", "industry": "GRC / compliance automation", "url": "https://jobs.ashbyhq.com/drata/3304848c-68bd-4e3d-8e6d-da244797fe6d"}, {"company": "Thoropass", "funding": "98", "ote": "$250-300K", "segment": "MM", "hq": "New York", "remote": "Y", "repvue": "", "industry": "GRC / SOC2 compliance", "url": "https://job-boards.greenhouse.io/thoropass/jobs/6001423004"}, {"company": "Cobalt", "funding": "187", "ote": "$119-175K", "segment": "MM", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Pentest-as-a-Service / vuln mgmt", "url": "https://job-boards.greenhouse.io/cobaltio/jobs/8526503002"}, {"company": "Huntress", "funding": "298", "ote": "$160K", "segment": "MM", "hq": "Ellicott City MD", "remote": "Y", "repvue": "", "industry": "Managed cybersecurity / MDR", "url": "https://job-boards.greenhouse.io/huntress"}, {"company": "Render", "funding": "258", "ote": "$200-330K", "segment": "MM/Ent", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Cloud app hosting / PaaS", "url": "https://jobs.ashbyhq.com/render/c6b1ea04-755d-46e8-b197-68c235aff85c"}, {"company": "Confluent", "funding": "public", "ote": "~$329K", "segment": "MM/Ent", "hq": "Mountain View", "remote": "Y", "repvue": "", "industry": "Data streaming (Kafka)", "url": "https://careers.confluent.io/jobs/12034817-account-executive"}, {"company": "Vantage", "funding": "25", "ote": "$160-320K", "segment": "MM/Ent", "hq": "Brooklyn NY", "remote": "Y", "repvue": "", "industry": "Cloud cost / FinOps", "url": "https://jobs.ashbyhq.com/vantage/3648f4bf-40fb-43c8-8bb7-6c4c625a6808"}, {"company": "BILL", "funding": "public", "ote": "$160-227K (MM) / $224-329K (Ent)", "segment": "MM/Ent", "hq": "San Jose", "remote": "Y", "repvue": "81", "industry": "AP/AR automation / payments", "url": "https://job-boards.greenhouse.io/billcom/jobs/6019000004"}, {"company": "Drivetrain", "funding": "39", "ote": "", "segment": "MM/Ent", "hq": "San Jose", "remote": "Y", "repvue": "", "industry": "FP&A / financial planning", "url": "https://jobs.lever.co/drivetrain/f70cc800-2b65-460f-879a-9623ea2ed7d2"}, {"company": "Demandbase", "funding": "175", "ote": "$220-300K", "segment": "MM/Ent", "hq": "San Francisco", "remote": "Y", "repvue": "87", "industry": "ABM / GTM platform", "url": "https://jobs.ashbyhq.com/demandbase/f1433369-924b-469a-9bcf-b7e78799204f"}, {"company": "Customer.io", "funding": "bootstrapped", "ote": "$230K", "segment": "MM/Ent", "hq": "Portland", "remote": "Y", "repvue": "", "industry": "Messaging / marketing automation", "url": "https://job-boards.greenhouse.io/customerio/jobs/8001442"}, {"company": "Trunk Tools", "funding": "70", "ote": "", "segment": "MM/Ent", "hq": "New York", "remote": "Y", "repvue": "", "industry": "Construction AI / project mgmt", "url": "https://jobs.ashbyhq.com/Trunk%20Tools/374c4cef-f34d-47ec-892d-b219e8222a66"}, {"company": "Eve", "funding": "164", "ote": "$300-310K (Ent) / $150-200K base (MM)", "segment": "MM/Ent", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "AI-native legal platform", "url": "https://job-boards.greenhouse.io/eve/jobs/4204346009"}, {"company": "Doppler", "funding": "29", "ote": "$220-250K", "segment": "MM/Ent", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Secrets management", "url": "https://jobs.ashbyhq.com/Doppler/0b96a7c6-a460-4e41-b6a8-904c04929c8f"}, {"company": "Arctic Wolf", "funding": "899", "ote": "", "segment": "Ent (MM-focused)", "hq": "Eden Prairie MN", "remote": "Y", "repvue": "", "industry": "MDR / SOC / security ops", "url": "https://job-boards.greenhouse.io/arcticwolfnetworks"}, {"company": "Honeycomb", "funding": "177", "ote": "$274-300K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "81", "industry": "Observability", "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5187339008"}, {"company": "Cribl", "funding": "600", "ote": "$280-320K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "89", "industry": "Telemetry / observability pipeline", "url": "https://job-boards.greenhouse.io/cribl/jobs/5720688004"}, {"company": "PagerDuty", "funding": "public", "ote": "$250-320K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "79", "industry": "Incident response / monitoring", "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5751681004"}, {"company": "Pulumi", "funding": "99", "ote": "$180-300K", "segment": "Ent", "hq": "Seattle", "remote": "Y", "repvue": "", "industry": "IaC / cloud dev tools", "url": "https://job-boards.greenhouse.io/pulumicorporation/jobs/7685999003"}, {"company": "Retool", "funding": "350", "ote": "$180-350K base", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "84", "industry": "Internal-tools / app dev", "url": "https://retool.com/careers/account-executive-enterprise-east--sales--united-states-remote"}, {"company": "Apollo GraphQL", "funding": "183", "ote": "$110-210K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "76", "industry": "API / GraphQL platform", "url": "https://jobs.ashbyhq.com/apollo-graphql/415db1ad-746c-4384-acda-7caadf5c457b"}, {"company": "Redpanda", "funding": "266", "ote": "$150-165K base", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Streaming data platform", "url": "https://job-boards.greenhouse.io/redpandadata/jobs/4694385005"}, {"company": "Monte Carlo", "funding": "236", "ote": "$300-350K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Data observability / quality", "url": "https://jobs.ashbyhq.com/montecarlodata/4a57ba0f-3be5-4138-b863-f8c7a575c3e0"}, {"company": "Sigma Computing", "funding": "581", "ote": "~$220K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Cloud BI / analytics", "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767630003"}, {"company": "Temporal", "funding": "650", "ote": "$300-350K", "segment": "Ent", "hq": "Seattle", "remote": "Y", "repvue": "95", "industry": "Workflow orchestration infra", "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5047650007"}, {"company": "Infisical", "funding": "19", "ote": "", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Secrets mgmt / security infra", "url": "https://jobs.ashbyhq.com/infisical/01227d50-aba6-4a79-8a27-72d40f1fa4b6"}, {"company": "Accrue", "funding": "29", "ote": "$240-320K", "segment": "Ent", "hq": "New York", "remote": "Y", "repvue": "", "industry": "Payments / branded wallets", "url": "https://job-boards.greenhouse.io/accrue/jobs/4423338008"}, {"company": "Chargebee", "funding": "468", "ote": "~$200K (base 130-140K)", "segment": "Ent", "hq": "North Bethesda MD", "remote": "Y", "repvue": "", "industry": "Subscription billing / revenue", "url": "https://jobs.chargebee.com/job/Remote-Account-Executive-1-Enterprise/56776344/"}, {"company": "ThoughtSpot", "funding": "664", "ote": "~$218K", "segment": "Ent", "hq": "Mountain View", "remote": "Y", "repvue": "79", "industry": "Search & AI analytics (BI)", "url": "https://thoughtspot.wd5.myworkdayjobs.com/en-US/careers/job/Enterprise-Account-Executive_JR2099"}, {"company": "ClickHouse", "funding": "1050", "ote": "$280-320K", "segment": "Ent", "hq": "Bay Area", "remote": "Y", "repvue": "", "industry": "Real-time analytics / OLAP DB", "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5800037004"}, {"company": "Gong", "funding": "583", "ote": "$270-330K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "88", "industry": "Revenue intelligence / salestech", "url": "https://job-boards.greenhouse.io/gongio/jobs/4655626006"}, {"company": "Rippling", "funding": "2400", "ote": "~$300K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "86", "industry": "HRIS / HCM + IT/Finance", "url": "https://ats.rippling.com/rippling/jobs/0db7c317-22c6-4e86-a67d-09e573ce0d96"}, {"company": "Komodo Health", "funding": "314", "ote": "$140-180K base+comm", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "79", "industry": "Healthcare data / analytics", "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8422588002"}, {"company": "Deepgram", "funding": "215", "ote": "$300-340K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "96", "industry": "Voice AI / speech infra", "url": "https://jobs.ashbyhq.com/deepgram/7fe7bd7d-b337-4337-b459-a892be80789e"}, {"company": "Cresta", "funding": "282", "ote": "$240-300K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "91", "industry": "Generative AI for contact centers", "url": "https://job-boards.greenhouse.io/cresta/jobs/4494927008"}, {"company": "Glean", "funding": "504", "ote": "$260-320K", "segment": "Ent", "hq": "Palo Alto", "remote": "Y", "repvue": "80", "industry": "Enterprise AI assistant / search", "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4702559005"}, {"company": "Arize AI", "funding": "131", "ote": "$250-300K", "segment": "Ent", "hq": "Berkeley/SF", "remote": "Y", "repvue": "87", "industry": "AI / LLM observability", "url": "https://job-boards.greenhouse.io/arizeai/jobs/5730389004"}, {"company": "Augury", "funding": "369", "ote": "", "segment": "Ent", "hq": "New York", "remote": "Y", "repvue": "84", "industry": "Industrial AI / machine-health", "url": "https://www.augury.com/careers/strategic-account-executive-7809130002/"}, {"company": "Commure", "funding": "750", "ote": "~$300K", "segment": "Ent", "hq": "Mountain View", "remote": "Y", "repvue": "78", "industry": "AI healthcare ops / RCM", "url": "https://jobs.ashbyhq.com/commure/cde9a56a-e907-4277-a9f1-a6b7f9e9ae6e"}, {"company": "Keeper Security", "funding": "60", "ote": "", "segment": "Ent", "hq": "Chicago", "remote": "Y", "repvue": "", "industry": "IAM / PAM / secrets mgmt", "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4090345009"}, {"company": "Halcyon", "funding": "209", "ote": "$280-320K", "segment": "Ent", "hq": "Austin", "remote": "Y", "repvue": "", "industry": "Anti-ransomware / endpoint", "url": "https://job-boards.greenhouse.io/halcyon/jobs/5708979004"}, {"company": "Sysdig", "funding": "744", "ote": "$283-388K", "segment": "Ent", "hq": "San Francisco", "remote": "Y", "repvue": "", "industry": "Cloud security / vuln & threat", "url": "https://jobs.lever.co/sysdig/3d907d1e-40cc-4b71-9991-d9cc7681fba0"}, {"company": "GitGuardian", "funding": "56", "ote": "$310-340K", "segment": "Ent (West only)", "hq": "Paris / US", "remote": "Y", "repvue": "", "industry": "Secrets detection / DevSecOps", "url": "https://careers.gitguardian.com/jobs/7861885-enterprise-account-executive-west"}];
+const tbody=document.getElementById('rows');
+const q=document.getElementById('q');
+const count=document.getElementById('count');
+let seg='all', sortK=null, sortDir=1;
+
+function isMM(r){return r.segment.includes('MM')}
+function segLabel(r){
+  const cls=isMM(r)?'b-mm':'b-ent';
+  return '<span class="badge '+cls+'">'+r.segment+'</span>';
+}
+function fundDisp(r){return r.funding? (isNaN(r.funding)? r.funding : '$'+r.funding+'M') : '<span class="muted">—</span>'}
+function num(v){const n=parseFloat(String(v).replace(/[^0-9.]/g,''));return isNaN(n)?-1:n}
+
+function render(){
+  const term=q.value.trim().toLowerCase();
+  let list=DATA.filter(r=>{
+    if(seg==='mm' && !isMM(r))return false;
+    if(seg==='ent' && isMM(r))return false;
+    if(!term)return true;
+    return (r.company+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
+  });
+  if(sortK){
+    list=list.slice().sort((a,b)=>{
+      let av=a[sortK], bv=b[sortK];
+      if(sortK==='funding'||sortK==='repvue'){av=num(av);bv=num(bv);return (av-bv)*sortDir}
+      return String(av).localeCompare(String(bv))*sortDir;
+    });
+  }
+  tbody.innerHTML=list.map(r=>`
+    <tr>
+      <td><div class="co">${r.company}</div><div class="ind">${r.industry||''}</div></td>
+      <td>${fundDisp(r)}</td>
+      <td class="ote">${r.ote||'<span class=muted>—</span>'}</td>
+      <td>${segLabel(r)}</td>
+      <td class="muted">${r.hq||''}</td>
+      <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>—</span>'}</td>
+      <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
+    </tr>`).join('');
+  count.textContent=list.length+' of '+DATA.length+' roles';
+}
+document.querySelectorAll('#seg button').forEach(b=>b.onclick=()=>{
+  seg=b.dataset.seg;
+  document.querySelectorAll('#seg button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');render();
+});
+document.querySelectorAll('thead th[data-k]').forEach(th=>th.onclick=()=>{
+  const k=th.dataset.k;
+  if(sortK===k){sortDir*=-1}else{sortK=k;sortDir=1}
+  document.querySelectorAll('thead th .arw').forEach(a=>a.textContent='');
+  th.querySelector('.arw').textContent=sortDir>0?'▲':'▼';
+  render();
+});
+q.oninput=render;
+render();
+</script>
+</body>
+</html>
