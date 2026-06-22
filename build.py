@@ -34,7 +34,7 @@ TEMPLATE = r'''<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Remote AE Market Map — Verified Account Executive Roles</title>
+<title>Remote AE Market Map - Verified Account Executive Roles</title>
 <meta name="description" content="A hand-verified dataset of remote US Account Executive roles at B2B SaaS companies, built with an AI-assisted research pipeline.">
 <style>
 :root{
@@ -105,7 +105,7 @@ footer .wrap{max-width:760px}
 <header><div class="wrap">
   <p class="eyebrow">B2B SaaS · Sales · Market Research</p>
   <h1>Remote AE Market Map</h1>
-  <p class="sub">A hand-verified dataset of remote US <b>Account Executive</b> openings at B2B SaaS companies — built with an AI-assisted research pipeline that screens against a defined ICP and verifies every posting is live.</p>
+  <p class="sub">A hand-verified dataset of remote US <b>Account Executive</b> openings at B2B SaaS companies - built with an AI-assisted research pipeline that screens against a defined ICP and verifies every posting is live.</p>
   <p class="byline">Compiled by <b>Eric Hastie</b> · Data verified __DATEHUMAN__ · <span class="muted">a portfolio project</span></p>
   <p class="byline" style="margin-top:6px"><b>Current roles</b> &nbsp;·&nbsp; <a href="history.html">History &amp; Trends →</a></p>
   <div class="stats">
@@ -117,15 +117,16 @@ footer .wrap{max-width:760px}
 </div></header>
 <section class="about"><div class="wrap">
   <h2>About this project</h2>
-  <p>While job-searching, I got tired of scraped job boards that bury a handful of good fits under hundreds of mismatched listings. So I built a research workflow that does the opposite: it defines a precise ideal-candidate profile, then <b>verifies and filters first</b> — only surfacing roles that actually clear the bar. It re-runs weekly, so the data stays current and the history doubles as a view into how the remote-AE market is moving.</p>
+  <p>While job-searching, I got tired of scraped job boards that bury a handful of good fits under hundreds of mismatched listings. So I built a research workflow that does the opposite: it defines a precise ideal-candidate profile, then <b>verifies and filters first</b> - only surfacing roles that actually clear the bar. It re-runs weekly, so the data stays current and the history doubles as a view into how the remote-AE market is moving.</p>
   <div class="method">
-    <div class="card"><h3>1 · Defined the ICP</h3><p>Individual-contributor AE, Mid-Market / Enterprise B2B SaaS, US-remote, ~$150–340K OTE, ~4+ yrs closing. The bar is explicit, so nothing off-profile gets through.</p></div>
-    <div class="card"><h3>2 · Fanned out by vertical</h3><p>Parallel research across five lanes — dev tools &amp; infra, fintech &amp; data, vertical SaaS, AI-native, and security — so the results are diverse, not the same five household names.</p></div>
-    <div class="card"><h3>3 · Verified every posting</h3><p>Each role was confirmed live, remote, and IC-level against the company's own ATS (Greenhouse / Ashby). Anything unverifiable was dropped — <b>zero fabricated or stale listings</b>.</p></div>
+    <div class="card"><h3>1 · Defined the ICP</h3><p>Individual-contributor AE, Mid-Market / Enterprise B2B SaaS, US-remote, ~$150-340K OTE, ~4+ yrs closing. The bar is explicit, so nothing off-profile gets through.</p></div>
+    <div class="card"><h3>2 · Fanned out by vertical</h3><p>Parallel research across five lanes - dev tools &amp; infra, fintech &amp; data, vertical SaaS, AI-native, and security - so the results are diverse, not the same five household names.</p></div>
+    <div class="card"><h3>3 · Verified every posting</h3><p>Each role was confirmed live, remote, and IC-level against the company's own ATS (Greenhouse / Ashby). Anything unverifiable was dropped - <b>zero fabricated or stale listings</b>.</p></div>
     <div class="card"><h3>4 · De-duped &amp; segmented</h3><p>Screened against a 64-company master list to keep only net-new finds, then tagged by segment so mid-market roles (the qualifying lane) sort to the top.</p></div>
   </div>
   <h2 style="margin-top:34px">Where this goes next</h2>
-  <p>Beyond my own search, this is a working prototype for <b>territory intelligence</b>. Job postings are one of the cleanest buying signals in B2B sales — a company opening a RevOps role, standing up a new region, or scaling its CS or implementation team telegraphs budget, active initiatives, and pain points well before any intent-data vendor flags them. In a sales seat I'll point this same pipeline at my book of business: continuously scanning target accounts' careers pages to surface timing signals, catch org and leadership changes, and prioritize outreach toward the accounts that are actively investing — turning public hiring data into a prospecting and account-planning edge.</p>
+  <p>Beyond my own search, this is a working prototype for <b>territory intelligence</b>. Job postings are one of the cleanest buying signals in B2B sales: a company opening a RevOps role, standing up a new region, or scaling its CS or implementation team telegraphs budget, active initiatives, and pain points well before any intent-data vendor flags them. In a sales seat I'll point this same pipeline at my book of business, scanning target accounts' careers pages to surface timing signals and catch org and leadership changes.</p>
+  <p>And because every run is snapshotted, the signal compounds over time. An account's week-over-week hiring history tells a story that sharpens <b>account planning</b>: sustained hiring points to expansion and the right moment to upsell, a sudden freeze can flag churn risk, and a new leader or function hints at where the next initiative is headed. The same engine that keeps this dataset current becomes a running intelligence feed on the accounts that matter most.</p>
 
   <div class="note">Filter and search the full dataset below. Every <b>Apply</b> link points to the live job posting that was verified during research. Mid-market roles are flagged in green.</div>
 </div></section>
@@ -166,7 +167,7 @@ const count=document.getElementById('count');
 let seg='all', sortK=null, sortDir=1;
 function isMM(r){return r.segment.includes('MM')}
 function segLabel(r){const cls=isMM(r)?'b-mm':'b-ent';return '<span class="badge '+cls+'">'+r.segment+'</span>';}
-function fundDisp(r){return r.funding? (isNaN(r.funding)? r.funding : '$'+r.funding+'M') : '<span class="muted">—</span>'}
+function fundDisp(r){return r.funding? (isNaN(r.funding)? r.funding : '$'+r.funding+'M') : '<span class="muted">-</span>'}
 function num(v){const n=parseFloat(String(v).replace(/[^0-9.]/g,''));return isNaN(n)?-1:n}
 function render(){
   const term=q.value.trim().toLowerCase();
@@ -187,10 +188,10 @@ function render(){
     <tr>
       <td><div class="co">${r.company}</div><div class="ind">${r.industry||''}</div></td>
       <td>${fundDisp(r)}</td>
-      <td class="ote">${r.ote||'<span class=muted>—</span>'}</td>
+      <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>
       <td>${segLabel(r)}</td>
       <td class="muted">${r.hq||''}</td>
-      <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>—</span>'}</td>
+      <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>-</span>'}</td>
       <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
     </tr>`).join('');
   count.textContent=list.length+' of '+DATA.length+' roles';
@@ -255,7 +256,7 @@ HISTORY_TEMPLATE = r'''<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>History & Trends — Remote AE Market Map</title>
+<title>History & Trends - Remote AE Market Map</title>
 <style>
 :root{--bg:#0f1115;--panel:#171a21;--panel2:#1d212a;--line:#2a2f3a;--txt:#e7eaf0;--muted:#9aa3b2;--accent:#6c8cff;--accent2:#41d3a3;}
 *{box-sizing:border-box}
@@ -340,13 +341,13 @@ function drawChart(){
   document.getElementById('chart').innerHTML=s;
 }
 function drawLog(){
-  const chips=(a,c)=> a.length? a.map(x=>`<span class="chip ${c}">${x}</span>`).join(' ') : '<span class="muted">—</span>';
+  const chips=(a,c)=> a.length? a.map(x=>`<span class="chip ${c}">${x}</span>`).join(' ') : '<span class="muted">-</span>';
   document.getElementById('log').innerHTML = M.slice().reverse().map((d,ri)=>{
     const prev = M[M.length-2-ri];
     const delta = prev ? d.total-prev.total : 0;
     const dt = delta>0?`<span class="up">+${delta}</span>`:delta<0?`<span class="down">${delta}</span>`:`<span class="muted">±0</span>`;
     const snap=`https://github.com/${REPO}/blob/main/data/${d.date}.csv`;
-    const head=`<div class="wkhead"><b>${d.date}</b> · ${d.total} roles ${dt} · avg OTE ${d.avg_ote?('$'+d.avg_ote+'K'):'—'} · <a href="${snap}" target="_blank" rel="noopener">snapshot ↗</a></div>`;
+    const head=`<div class="wkhead"><b>${d.date}</b> · ${d.total} roles ${dt} · avg OTE ${d.avg_ote?('$'+d.avg_ote+'K'):'-'} · <a href="${snap}" target="_blank" rel="noopener">snapshot ↗</a></div>`;
     if(d.first) return `<div class="wk">${head}<div class="wkrow"><span class="muted">Initial dataset of ${d.total} verified roles.</span></div></div>`;
     return `<div class="wk">${head}
       <div class="wkrow"><span class="lbl">Added</span> ${chips(d.added,'add')}</div>
@@ -385,7 +386,7 @@ def main():
                 .replace("__WEEKS__", str(len(snaps)))
                 .replace("__CURRENT__", str(snaps[-1]["total"]))
                 .replace("__NETCHG__", f"+{net}" if net >= 0 else str(net))
-                .replace("__AVGOTE__", f"${avg}K" if avg else "—"))
+                .replace("__AVGOTE__", f"${avg}K" if avg else "-"))
         with open(os.path.join(ROOT, "history.html"), "w") as f:
             f.write(hist)
         print(f"built history.html: {len(snaps)} snapshots, net {net:+d} since {snaps[0]['date']}")

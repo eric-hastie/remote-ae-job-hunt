@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>History & Trends — Remote AE Market Map</title>
+<title>History & Trends - Remote AE Market Map</title>
 <style>
 :root{--bg:#0f1115;--panel:#171a21;--panel2:#1d212a;--line:#2a2f3a;--txt:#e7eaf0;--muted:#9aa3b2;--accent:#6c8cff;--accent2:#41d3a3;}
 *{box-sizing:border-box}
@@ -88,13 +88,13 @@ function drawChart(){
   document.getElementById('chart').innerHTML=s;
 }
 function drawLog(){
-  const chips=(a,c)=> a.length? a.map(x=>`<span class="chip ${c}">${x}</span>`).join(' ') : '<span class="muted">—</span>';
+  const chips=(a,c)=> a.length? a.map(x=>`<span class="chip ${c}">${x}</span>`).join(' ') : '<span class="muted">-</span>';
   document.getElementById('log').innerHTML = M.slice().reverse().map((d,ri)=>{
     const prev = M[M.length-2-ri];
     const delta = prev ? d.total-prev.total : 0;
     const dt = delta>0?`<span class="up">+${delta}</span>`:delta<0?`<span class="down">${delta}</span>`:`<span class="muted">±0</span>`;
     const snap=`https://github.com/${REPO}/blob/main/data/${d.date}.csv`;
-    const head=`<div class="wkhead"><b>${d.date}</b> · ${d.total} roles ${dt} · avg OTE ${d.avg_ote?('$'+d.avg_ote+'K'):'—'} · <a href="${snap}" target="_blank" rel="noopener">snapshot ↗</a></div>`;
+    const head=`<div class="wkhead"><b>${d.date}</b> · ${d.total} roles ${dt} · avg OTE ${d.avg_ote?('$'+d.avg_ote+'K'):'-'} · <a href="${snap}" target="_blank" rel="noopener">snapshot ↗</a></div>`;
     if(d.first) return `<div class="wk">${head}<div class="wkrow"><span class="muted">Initial dataset of ${d.total} verified roles.</span></div></div>`;
     return `<div class="wk">${head}
       <div class="wkrow"><span class="lbl">Added</span> ${chips(d.added,'add')}</div>
