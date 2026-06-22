@@ -124,6 +124,9 @@ footer .wrap{max-width:760px}
     <div class="card"><h3>3 · Verified every posting</h3><p>Each role was confirmed live, remote, and IC-level against the company's own ATS (Greenhouse / Ashby). Anything unverifiable was dropped — <b>zero fabricated or stale listings</b>.</p></div>
     <div class="card"><h3>4 · De-duped &amp; segmented</h3><p>Screened against a 64-company master list to keep only net-new finds, then tagged by segment so mid-market roles (the qualifying lane) sort to the top.</p></div>
   </div>
+  <h2 style="margin-top:34px">Where this goes next</h2>
+  <p>Beyond my own search, this is a working prototype for <b>territory intelligence</b>. Job postings are one of the cleanest buying signals in B2B sales — a company opening a RevOps role, standing up a new region, or scaling its CS or implementation team telegraphs budget, active initiatives, and pain points well before any intent-data vendor flags them. In a sales seat I'll point this same pipeline at my book of business: continuously scanning target accounts' careers pages to surface timing signals, catch org and leadership changes, and prioritize outreach toward the accounts that are actively investing — turning public hiring data into a prospecting and account-planning edge.</p>
+
   <div class="note">Filter and search the full dataset below. Every <b>Apply</b> link points to the live job posting that was verified during research. Mid-market roles are flagged in green.</div>
 </div></section>
 <div class="wrap">
