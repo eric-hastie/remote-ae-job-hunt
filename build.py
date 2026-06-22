@@ -18,13 +18,17 @@ def tier(seg):
     if "MM" in seg: return 1
     return 2
 
+def clean(v):
+    # normalize em/en dashes to plain hyphens so weekly data never reintroduces them
+    return v.replace("—", "-").replace("–", "-") if isinstance(v, str) else v
+
 def load():
     with open(CSV_PATH, newline="") as f:
         r = list(csv.DictReader(f))
     rows = [{
-        "company": x["Company"], "funding": x["Funding ($M)"], "ote": x["OTE"],
-        "segment": x["Segment"], "hq": x["HQ"], "remote": x["Remote"],
-        "repvue": x["RepVue"], "industry": x["Industry"], "url": x["Job Posting URL"],
+        "company": clean(x["Company"]), "funding": clean(x["Funding ($M)"]), "ote": clean(x["OTE"]),
+        "segment": clean(x["Segment"]), "hq": clean(x["HQ"]), "remote": clean(x["Remote"]),
+        "repvue": clean(x["RepVue"]), "industry": clean(x["Industry"]), "url": clean(x["Job Posting URL"]),
     } for x in r]
     rows.sort(key=lambda x: tier(x["segment"]))  # stable within tier
     return rows
@@ -238,7 +242,7 @@ def snapshots():
         snaps.append({
             "date": m.group(1), "total": len(rows), "mm": mm, "ent": len(rows) - mm,
             "avg_ote": round(sum(otes) / len(otes)) if otes else None,
-            "companies": sorted(r["Company"] for r in rows),
+            "companies": sorted(clean(r["Company"]) for r in rows),
         })
     snaps.sort(key=lambda s: s["date"])
     for i, s in enumerate(snaps):
