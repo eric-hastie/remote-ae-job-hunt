@@ -72,6 +72,14 @@ Drop anything unverified — no "just in case." No fabrication; leave Funding/Re
 
 **Fallback:** WebFetch the company's `/careers` or `/jobs` page and read it. Unverifiable → not listed.
 
+**Remote vs in-office (read carefully — this trips people up):** judge remote by THIS posting's own
+designation, not by generic company-culture text. A posting explicitly labeled "Remote, United States"
+**counts as remote** even if the body has boilerplate like "we value in-person collaboration / our hubs
+are in office N days" — especially when the company ALSO runs separate city-specific postings for the
+same role (the Remote posting exists for non-hub candidates). ONLY disqualify for remote when THIS role
+states a specific in-office cadence (e.g. "expected in office 3+ days/week"). Example: Postman's Remote
+MM-AE posting qualifies (distinct from its city postings); Checkr's Strategic AE does not ("3+ days").
+
 ## Rotation (current: weekly)
 
 Get ISO week `W` (`date -u +%V`). Verticals: [0] Dev tools/infra/observability/data · [1]
