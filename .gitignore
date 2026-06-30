@@ -1,1 +1,4 @@
 .DS_Store
+
+# RepVue's proprietary dataset - staged locally, never published
+data/repvue_universe.csv
