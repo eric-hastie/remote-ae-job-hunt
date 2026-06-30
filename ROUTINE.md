@@ -1,106 +1,94 @@
 # Routine: Remote AE Market Map — operating spec
 
-**This file is the source of truth for what the scheduled refresh does.** The Claude.ai routine's
-job is simply: *clone this repo, read this file, execute it exactly, then commit & push.* Change the
-behavior by editing THIS FILE — no need to touch the cloud routine's prompt.
+**This file is the source of truth for what the scheduled refresh does.** The cloud routine's job is:
+*read this file, execute it exactly, then commit & push.* Change behavior by editing THIS FILE.
+
+## Files
+
+- **`data/latest.csv`** — canonical PUBLISHED list = companies that *currently* have a qualifying open
+  role. Columns: `Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL`.
+- **`data/claude_universe.csv`** — the MEMORY: *every company ever evaluated*, win or not. Columns:
+  `Company,Source,RepVue Score,Last Checked,Currently Open,Notes`. This is the dedup set so we never
+  re-discover a company we've already considered. **It must grow every run** (see Job 2, step 4).
+- **`data/repvue_universe.csv`** — *(Phase 2, pending Eric's browser pull)* all RepVue companies + scores.
+- `data/YYYY-MM-DD.csv` — dated snapshot of `latest.csv` each run.
+
+## Tool & cost rules
+
+- **WebFetch / WebSearch ONLY for web access.** NEVER curl/wget/Bash to fetch URLs.
+- Bash is allowed ONLY for git, `python3 build.py`, `date`, and file ops — not for research.
+- **Work inline — do NOT spawn subagents.** Be token-conscious (this draws on a subscription quota):
+  don't over-fan-out; stop a vertical as soon as it's dry (see loop rule).
+
+## The bar (ICP — a role qualifies only if it clears ALL)
+
+IC **Account Executive** (NOT SDR/BDR, NOT "Associate AE", NOT Director/VP/RVP) · segment **MM** or
+**MM/Ent** preferred (pure **Ent** allowed but tagged so it sorts last) · **US-remote** (not
+hybrid/office/non-US) · **OTE ~$150K–$340K** (blank if not reliably known — never guess) · **B2B SaaS** ·
+**~4+ yrs** closing (reject 8+ senior-only and junior/BDR).
 
 ---
 
-## Output contract (don't break these)
+## Job 1 — Re-verify every row in `latest.csv`
 
-- `data/latest.csv` is canonical. Columns, in order:
-  `Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL`
-- Segment values: `MM`, `MM/Ent`, `Ent`, `SMB/MM` (MM-friendly ones sort to the top).
-- After editing `latest.csv`, run **`python3 build.py`** to regenerate `index.html` and `history.html`.
-  **Never hand-edit `index.html`.**
-- Snapshot the run as `data/YYYY-MM-DD.csv` (copy of the final `latest.csv`).
-- Commit with message `Weekly refresh YYYY-MM-DD: +N, -M (verticals: ...)` and push.
-- Use plain hyphens, never em/en dashes (build.py normalizes, but keep data clean).
+WebFetch each row's posting. If it's closed/404/redirected-to-stub, find that company's current open
+US-remote IC-AE posting and update the URL; if the company has **no** qualifying open AE role anymore,
+**drop the row** from `latest.csv` and set its `claude_universe.csv` row to `Currently Open = N`
+(update `Last Checked`). Use the ATS reference below to check fast before falling back to careers pages.
 
-## The bar (ICP — a role qualifies only if it clears ALL of these)
+## Job 2 — Discover net-new companies
 
-- **Role:** individual-contributor **Account Executive**. NOT SDR/BDR, NOT "Associate AE", NOT Director/VP/RVP.
-- **Segment:** Mid-Market or MM/Ent preferred. Pure Enterprise is allowed but tagged `Ent` so it sorts last.
-- **Experience:** ~4+ yrs closing. Reject senior-only ("8+ yrs") and junior/BDR-level.
-- **Remote:** must be **US remote** (not hybrid, not office-bound, not non-US).
-- **Comp:** ~$150K–$340K OTE (leave blank if not reliably verifiable — never guess).
-- **Type:** B2B SaaS.
+Rotate verticals to control cost (see Rotation). For each vertical in this run, run finder passes
+**loop-until-dry**:
 
----
+1. Propose qualifying companies in the vertical that are **NOT already in `data/claude_universe.csv`**
+   (the full memory — winners AND past no-role evaluations) and not found earlier this run.
+2. **Verify** each proposed company has an open qualifying role via the ATS reference / careers page.
+   Capture the human-facing posting URL.
+3. **Repeat passes on the same vertical until a pass yields 0 net-new qualifying companies** (one fully
+   dry pass), capped at **4 passes per vertical** to bound cost.
+4. **Record EVERY company you evaluated this run into `data/claude_universe.csv`** — not just winners:
+   - new winner → add row, `Currently Open = Y`, Notes = role/segment.
+   - evaluated but no qualifying role (closed, wrong segment, not remote, senior-only) → add row,
+     `Currently Open = N`, Notes = the reason.
+   - Set `Last Checked` to today on every row you touched. This is what makes future runs skip
+     already-considered companies and spend effort on genuinely new ones.
+5. Add the winners (Currently Open = Y) to `latest.csv`.
 
-## What each run does — TWO jobs
+Drop anything unverified — no "just in case." No fabrication; leave Funding/RepVue blank if unknown.
 
-### Job 1 — Re-verify every existing posting in `latest.csv`
+## ATS reference (check these JSON endpoints first; `{slug}` = board token, try company name lowercased)
 
-For each row, re-fetch its posting and confirm it is **still open, still remote-US, still IC AE**.
-- If the URL 404s / role is closed / no longer remote → **remove the row**.
-- If the company clearly still has an equivalent open qualifying role at a new URL → update the URL.
-- Use the **ATS reference** below to check fast via JSON endpoints before falling back to the careers page.
-
-### Job 2 — Discover net-new companies
-
-Fan out research agents by **vertical** (this run's rotation — see Rotation). For each vertical, run
-finder passes **loop-until-dry**:
-
-1. Propose companies in the vertical that are **NOT** already on the exclusion set
-   (= every company in `latest.csv` ∪ the dedup sheet ∪ everything found earlier in this run
-   ∪ `data/claude_universe.csv` once it exists).
-2. For each proposed company, **verify** an open qualifying role exists (ATS reference below). Capture the posting URL.
-3. Keep the verified ones; record every company evaluated (kept or rejected, with reason) into the run log.
-4. **Repeat passes on the same vertical until a pass returns 0 net-new qualifying companies**
-   (one fully dry pass), capped at **4 passes per vertical** to bound cost.
-
-A company makes the list only if its posting is fetched and confirmed open + remote-US + IC AE.
-**Drop anything unverified — no "just in case."** Each agent reports what it excluded and why
-(not remote / wrong segment / closed / senior-only) as proof real filtering happened.
-
----
-
-## ATS reference (check these JSON endpoints first — fast and reliable)
-
-Use **WebFetch** only (never Bash/curl). `{slug}` = the company's board token (try the company name
-lowercased, no spaces; adjust if the first try 404s).
-
-| ATS | Endpoint (GET JSON) |
-|-----|---------------------|
-| **Greenhouse** | `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` |
+| ATS | Endpoint (GET JSON via WebFetch) |
+|-----|-----|
+| **Greenhouse** | `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` (human: `https://job-boards.greenhouse.io/{slug}/jobs/{id}`) |
 | **Ashby** | `https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true` |
 | **Lever** | `https://api.lever.co/v0/postings/{slug}?mode=json` |
 | **SmartRecruiters** | `https://api.smartrecruiters.com/v1/companies/{slug}/postings` |
 | **Workable** | `https://apply.workable.com/api/v1/widget/accounts/{slug}?details=true` |
 | **Recruitee** | `https://{slug}.recruitee.com/api/offers/` |
-| **Rippling** | careers page under `ats.rippling.com/{slug}/jobs` (no clean public JSON — read the page) |
-| **Workday** | tenant-specific (`{tenant}.wdN.myworkdayjobs.com`); no universal API — read the careers page / search the role |
+| **Rippling** | careers page `https://ats.rippling.com/{slug}/jobs` (read the page) |
+| **Workday** | tenant-specific `{tenant}.wdN.myworkdayjobs.com`; no universal API — read careers page |
 
-**Fallback for any company not on the above:** WebFetch the company's `/careers` or `/jobs` page
-directly and read it. If a role can't be verified open + remote-US, it does **not** go on the list.
-
-When a posting includes structured comp (Ashby `includeCompensation`, some Greenhouse), capture the OTE.
-
----
+**Fallback:** WebFetch the company's `/careers` or `/jobs` page and read it. Unverifiable → not listed.
 
 ## Rotation (current: weekly)
 
-Each run scans **2 rotating verticals** (loop-until-dry within each). Rotate through:
-`dev tools & infra/observability/data` · `fintech/payments/accounting/BI` ·
-`vertical SaaS` · `horizontal SaaS` · `AI-native B2B SaaS` · `security/DevSecOps (lower priority)`.
+Get ISO week `W` (`date -u +%V`). Verticals: [0] Dev tools/infra/observability/data · [1]
+Fintech/payments/accounting/BI · [2] Vertical & horizontal SaaS (sales/martech, HR, healthcare, fleet,
+construction) · [3] AI-native B2B SaaS · [4] Cybersecurity/DevSecOps/GRC (lower priority). Cover TWO
+per run: `W mod 5` and `(W+1) mod 5`, each loop-until-dry.
 
-> **Phase 2 (pending — do not implement until the universe files exist and we size it):**
-> Switch discovery from vertical-brainstorm to **universe-driven rotation**. Inputs:
-> `data/repvue_universe.csv` (all RepVue cos + score — Eric pulls via browser) and
-> `data/claude_universe.csv` (every company Claude has evaluated, accumulating). Move to a **daily**
-> run that checks one rotating **slice** of the union universe per day, sized so every company is
-> re-checked ~once/week. Weekly, also run one vertical-brainstorm pass to find net-new companies to
-> ADD to `claude_universe.csv`. The found-open-role subset stays in `latest.csv`. Chunk size +
-> cadence get finalized once we know the universe count.
-
-## Dedup sources
-
-- `data/latest.csv` — the current published list (primary exclusion set).
-- Master Google Sheet `1isGMPqH3YpSIMUolmo59mIijiuvplQMeCvAqeuBEn1A`, tab "Copy of Claude list"
-  (gid 1623716953) — pass these names into each agent's prompt as an exclusion list.
-- `data/claude_universe.csv` — once it exists, also exclude/track against it.
+> **Phase 2 (pending — do NOT implement until `data/repvue_universe.csv` exists and we size it):**
+> switch discovery to **universe-driven rotation** — daily runs that each check one rotating *slice*
+> of `claude_universe.csv` ∪ `repvue_universe.csv` for newly-opened roles, sized so every company is
+> re-checked ~weekly, plus a weekly vertical-brainstorm pass to ADD net-new companies to the universe.
+> Chunk size + cadence finalized once we know the universe count.
 
 ## Finish
 
-`python3 build.py` → verify counts → copy `latest.csv` to `data/YYYY-MM-DD.csv` → commit → push.
+`python3 build.py` (regenerates `index.html` + `history.html` — NEVER hand-edit those) → copy
+`latest.csv` to `data/$(date -u +%F).csv` → `git add -A` → commit
+`Weekly refresh <today>: +<added>, -<dropped> (verticals: <names>)` → `git push origin main`
+(if rejected: `git pull --rebase` then push; **never force-push**) → print a short summary:
+added, dropped, link fixes, new total, universe size, verticals scanned.

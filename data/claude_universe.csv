@@ -1,61 +1,125 @@
-Company,Source,RepVue Score,Last Checked,Currently Open
-8am (f/k/a AffiniPay),claude,,2026-06-30,Y
-Maxio,claude,,2026-06-30,Y
-Hex,claude,,2026-06-30,Y
-Apollo.io,claude,85,2026-06-30,Y
-Bloomreach,claude,89,2026-06-30,Y
-Deel,claude,86,2026-06-30,Y
-HiBob,claude,80,2026-06-30,Y
-Samsara,claude,86,2026-06-30,Y
-Lytx,claude,69,2026-06-30,Y
-Vanta,claude,88,2026-06-30,Y
-Abnormal Security,claude,,2026-06-30,Y
-Sumo Logic,claude,,2026-06-30,Y
-Drata,claude,,2026-06-30,Y
-Thoropass,claude,,2026-06-30,Y
-Huntress,claude,,2026-06-30,Y
-Lattice,claude,,2026-06-30,Y
-Highspot,claude,,2026-06-30,Y
-Render,claude,,2026-06-30,Y
-Confluent,claude,,2026-06-30,Y
-Vantage,claude,,2026-06-30,Y
-BILL,claude,81,2026-06-30,Y
-Demandbase,claude,87,2026-06-30,Y
-Customer.io,claude,,2026-06-30,Y
-Trunk Tools,claude,,2026-06-30,Y
-Eve,claude,,2026-06-30,Y
-Doppler,claude,,2026-06-30,Y
-Ironclad,claude,,2026-06-30,Y
-Pigment,claude,,2026-06-30,Y
-Arctic Wolf,claude,,2026-06-30,Y
-Honeycomb,claude,81,2026-06-30,Y
-Cribl,claude,89,2026-06-30,Y
-PagerDuty,claude,79,2026-06-30,Y
-Pulumi,claude,,2026-06-30,Y
-Retool,claude,84,2026-06-30,Y
-Apollo GraphQL,claude,76,2026-06-30,Y
-Redpanda,claude,,2026-06-30,Y
-Monte Carlo,claude,,2026-06-30,Y
-Sigma Computing,claude,,2026-06-30,Y
-Temporal,claude,95,2026-06-30,Y
-Infisical,claude,,2026-06-30,Y
-Accrue,claude,,2026-06-30,Y
-Chargebee,claude,,2026-06-30,Y
-ThoughtSpot,claude,79,2026-06-30,Y
-ClickHouse,claude,,2026-06-30,Y
-Gong,claude,88,2026-06-30,Y
-Rippling,claude,86,2026-06-30,Y
-Komodo Health,claude,79,2026-06-30,Y
-Deepgram,claude,96,2026-06-30,Y
-Cresta,claude,91,2026-06-30,Y
-Glean,claude,80,2026-06-30,Y
-Arize AI,claude,87,2026-06-30,Y
-Augury,claude,84,2026-06-30,Y
-Commure,claude,78,2026-06-30,Y
-Keeper Security,claude,,2026-06-30,Y
-Halcyon,claude,,2026-06-30,Y
-Sysdig,claude,,2026-06-30,Y
-GitGuardian,claude,,2026-06-30,Y
-Webflow,claude,,2026-06-30,Y
-Leapsome,claude,,2026-06-30,Y
-Writer,claude,,2026-06-30,Y
+Company,Source,RepVue Score,Last Checked,Currently Open,Notes
+8am (f/k/a AffiniPay),claude,,2026-06-30,Y,has open qualifying role
+Abnormal Security,claude,,2026-06-30,Y,has open qualifying role
+Accrue,claude,,2026-06-30,Y,has open qualifying role
+Acquia,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Affinity.co,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Apollo GraphQL,claude,76,2026-06-30,Y,has open qualifying role
+Apollo.io,claude,85,2026-06-30,Y,has open qualifying role
+Arcade,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Arctic Wolf,claude,,2026-06-30,Y,has open qualifying role
+Arize AI,claude,87,2026-06-30,Y,has open qualifying role
+Articulate,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Ashby,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Augury,claude,84,2026-06-30,Y,has open qualifying role
+Beautiful.ai,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+BILL,claude,81,2026-06-30,Y,has open qualifying role
+Bloomreach,claude,89,2026-06-30,Y,has open qualifying role
+Chainguard,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Chargebee,claude,,2026-06-30,Y,has open qualifying role
+ClickHouse,claude,,2026-06-30,Y,has open qualifying role
+Cloudzero,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Commure,claude,78,2026-06-30,Y,has open qualifying role
+Commvault,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Confluent,claude,,2026-06-30,Y,has open qualifying role
+Cresta,claude,91,2026-06-30,Y,has open qualifying role
+Cribl,claude,89,2026-06-30,Y,has open qualifying role
+Customer.io,claude,,2026-06-30,Y,has open qualifying role
+Databricks,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Deel,claude,86,2026-06-30,Y,has open qualifying role
+Deepgram,claude,96,2026-06-30,Y,has open qualifying role
+Delinea,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Demandbase,claude,87,2026-06-30,Y,has open qualifying role
+Doppler,claude,,2026-06-30,Y,has open qualifying role
+Drata,claude,,2026-06-30,Y,has open qualifying role
+DroneDeploy,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Elastic,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Eve,claude,,2026-06-30,Y,has open qualifying role
+Fiddler AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Fleetio,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Fluint,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+GitGuardian,claude,,2026-06-30,Y,has open qualifying role
+Gitlab,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Glean,claude,80,2026-06-30,Y,has open qualifying role
+Gong,claude,88,2026-06-30,Y,has open qualifying role
+Grafana Labs,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Halcyon,claude,,2026-06-30,Y,has open qualifying role
+HappyCo,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Hex,claude,,2026-06-30,Y,has open qualifying role
+HiBob,claude,80,2026-06-30,Y,has open qualifying role
+Highspot,claude,,2026-06-30,Y,has open qualifying role
+Hightouch,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Hivel,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Honeycomb,claude,81,2026-06-30,Y,has open qualifying role
+Huntress,claude,,2026-06-30,Y,has open qualifying role
+Incident.io,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Infios,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Infisical,claude,,2026-06-30,Y,has open qualifying role
+Ironclad,claude,,2026-06-30,Y,has open qualifying role
+Itential,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Iterable,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Jama Software,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Keeper Security,claude,,2026-06-30,Y,has open qualifying role
+Komodo Health,claude,79,2026-06-30,Y,has open qualifying role
+Kong,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Lattice,claude,,2026-06-30,Y,has open qualifying role
+LaunchDarkly,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Leapsome,claude,,2026-06-30,Y,has open qualifying role
+Limble,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Linear,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Lockthreat,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Lytx,claude,69,2026-06-30,Y,has open qualifying role
+Mabl,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Maintainx,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Maxio,claude,,2026-06-30,Y,has open qualifying role
+Mercury,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Merge,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Meter,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Mindtickle,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Mistral AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Monte Carlo,claude,,2026-06-30,Y,has open qualifying role
+Motive,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Neo4j,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Nerdio,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Net Health,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+NetBox Labs,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Numeric,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Outsystems,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+PagerDuty,claude,79,2026-06-30,Y,has open qualifying role
+Pigment,claude,,2026-06-30,Y,has open qualifying role
+Pulumi,claude,,2026-06-30,Y,has open qualifying role
+Pylon,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Ramp,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Redpanda,claude,,2026-06-30,Y,has open qualifying role
+Render,claude,,2026-06-30,Y,has open qualifying role
+Retool,claude,84,2026-06-30,Y,has open qualifying role
+Rillet,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Rippling,claude,86,2026-06-30,Y,has open qualifying role
+Rocket Software,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Samsara,claude,86,2026-06-30,Y,has open qualifying role
+ScaleOps,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Servicenow,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Sierra,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Sigma Computing,claude,,2026-06-30,Y,has open qualifying role
+Smartsheet,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+SmartSuite,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Starburst,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Sumo Logic,claude,,2026-06-30,Y,has open qualifying role
+Supermetrics,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Syniti,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Synthflow AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Sysdig,claude,,2026-06-30,Y,has open qualifying role
+Temporal,claude,95,2026-06-30,Y,has open qualifying role
+The Access Group,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Thoropass,claude,,2026-06-30,Y,has open qualifying role
+ThoughtSpot,claude,79,2026-06-30,Y,has open qualifying role
+Tines,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Trunk Tools,claude,,2026-06-30,Y,has open qualifying role
+Vanta,claude,88,2026-06-30,Y,has open qualifying role
+Vantage,claude,,2026-06-30,Y,has open qualifying role
+Webflow,claude,,2026-06-30,Y,has open qualifying role
+Workato,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Workiva,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Wrike,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Writer,claude,,2026-06-30,Y,has open qualifying role
+Zscaler,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
