@@ -92,6 +92,10 @@ per run: `W mod 5` and `(W+1) mod 5`, each loop-until-dry.
 > of `claude_universe.csv` ∪ `repvue_universe.csv` for newly-opened roles, sized so every company is
 > re-checked ~weekly, plus a weekly vertical-brainstorm pass to ADD net-new companies to the universe.
 > Chunk size + cadence finalized once we know the universe count.
+>
+> **NEVER gate on RepVue's `has_active_jobs` flag.** RepVue's job-posting data is stale/unreliable —
+> that's the exact gap this project exists to fill. We search every company on its rotation turn
+> regardless of that flag; it is stored for reference only and must never filter the universe.
 
 ## Finish
 
