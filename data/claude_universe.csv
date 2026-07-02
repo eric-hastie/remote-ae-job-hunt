@@ -1589,7 +1589,7 @@ BQE Software,repvue,83.12,2026-07-02,N,RepVue scan: no verified role / ATS unres
 Metronome,repvue,83.11,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Goldcast,repvue,83.11,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Avetta,repvue,,2026-07-02,N,ATS unresolved: AE roles found but expansion-focused; OTE unclear; network blocks API verification
-HubSpot,repvue,,2026-07-02,N,ATS unresolved: MM AE found on GH (hubspotjobs) remote US — network blocks API verification
+HubSpot,repvue,,2026-07-02,Y,open qualifying role (MM AE Remote-USA); verified locally 7/2 after cloud API block
 Infegy,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
 TMC Transportation,repvue,,2026-07-02,N,not B2B SaaS (freight/logistics company)
 FieldRoutes,repvue,,2026-07-02,N,no qualifying AE found; acquired by ServiceTitan
@@ -1605,7 +1605,7 @@ Instana,repvue,,2026-07-02,N,IBM subsidiary; posts on IBM careers — not standa
 People Inc,repvue,,2026-07-02,N,not B2B SaaS; slug matches DotdashMeredith (media company)
 SEEK,repvue,,2026-07-02,N,not US B2B SaaS (Australian job board)
 Iron Bow Technologies,repvue,,2026-07-02,N,not B2B SaaS (IT VAR/reseller)
-ClickUp,repvue,,2026-07-02,N,ATS unresolved: MM AE confirmed remote US on Ashby (clickup) — network blocks API verification
+ClickUp,repvue,,2026-07-02,Y,"open qualifying role (Ent AE Chicago territory, US remote); verified locally 7/2 after cloud API block"
 Market Leader,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards (real estate CRM)
 Nue.io,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
 Windfall Data,repvue,,2026-07-02,N,ATS unresolved: MM AE on Lever (windfalldata) — remote status unclear without JD access
@@ -1620,7 +1620,7 @@ Speexx,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
 Humanitix,repvue,,2026-07-02,N,not B2B SaaS (nonprofit event ticketing platform)
 Advizex,repvue,,2026-07-02,N,not B2B SaaS (IT VAR/reseller)
 W.W. Grainger,repvue,,2026-07-02,N,not B2B SaaS (industrial distribution company)
-Adthena,repvue,,2026-07-02,N,ATS unresolved: AE roles on Ashby (adthena) — US/remote status unclear without JD access
+Adthena,repvue,,2026-07-02,Y,open qualifying role (Ent AE Austin (remote)); verified locally 7/2 after cloud API block
 Gravitee,repvue,,2026-07-02,N,hybrid only (Denver/NYC offices required)
 Bubble,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
 Easy Metrics Inc.,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
@@ -1630,7 +1630,7 @@ GE Healthcare,repvue,,2026-07-02,N,not B2B SaaS (healthcare devices/services com
 SpotDraft,repvue,,2026-07-02,N,no qualifying AE found (Ashby board exists but no AE listings visible)
 Tenable,repvue,,2026-07-02,N,ATS unresolved: not on standard ATS boards; uses own career site
 Workfront (owned by Adobe),repvue,,2026-07-02,N,Adobe subsidiary — not standalone SaaS
-Forma.ai,repvue,,2026-07-02,N,ATS unresolved: Ent AE on GH (formaaiinc) — network blocks API verification
+Forma.ai,repvue,,2026-07-02,Y,open qualifying role (AE Remote USA/Canada); verified locally 7/2 after cloud API block
 Hopin,repvue,,2026-07-02,N,pivoted/acquired (by Bizzabo); no AE found
 Hivebrite,repvue,,2026-07-02,N,ATS unresolved: AE on Lever (hivebrite) — US/remote status unclear without JD access
 Bioventus,repvue,,2026-07-02,N,not B2B SaaS (biotherapeutics company)
