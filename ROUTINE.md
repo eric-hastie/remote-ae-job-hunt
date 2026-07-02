@@ -73,6 +73,17 @@ Then act on the script's output:
 5. **Confirm the board belongs to the right company** — same-name collisions exist (an "Augment"
    logistics-AI company's AE role was once attributed to Augment Code).
 
+## Which job this run does (decide at start; Job 1 runs EVERY run first)
+
+Get `H=$(date -u +%H)` (runs fire at 03/08/13/18/23) and `D=$(date -u +%u)` (1 = Monday):
+
+1. **Monday 18:00 UTC run** (`D==1 && H==18`) → **Job F — weekly funding-news sweep**.
+2. Else, if `data/scan_queue.csv` still has companies not in `claude_universe.csv` → **Job 2 — queue scan**.
+3. Else (queue dry): `H` in {13, 23} → **Job 3 — ATS-native search**; `H` in {03, 08, 18} →
+   **Job 4 — re-check rotation**.
+
+One job per run (plus Job 1). Do not combine or improvise beyond the selected job's budget.
+
 ## Job 2 — Scan the next 50 queue companies
 
 1. Compute this run's batch: read `data/scan_queue.csv` top-to-bottom and take the **first 50 rows
@@ -93,16 +104,46 @@ Then act on the script's output:
 
 Drop anything unverified — no "just in case." No fabrication; leave Funding/RepVue blank if unknown.
 
-## Job 2-FALLBACK — when the queue is dry (re-check rotation)
+## Job 3 — ATS-native search (net-new startups, queue-dry runs at 13:00 & 23:00 UTC)
 
-When step 1 above yields ZERO unchecked queue companies, switch this run's 50-company budget to
-**re-checking** the universe for newly-opened roles: take the 50 `Currently Open = N` rows with the
-oldest `Last Checked` (highest RepVue Score first as tiebreak), skipping rows whose Notes mark a
-permanent disqualification (acquired / defunct / not B2B SaaS / different company), and run them
-through the same check-and-record loop (update `Last Checked` + Notes; flips to Y go into
-`latest.csv`). Roles churn — a company that had nothing last month may have an opening today.
-Net-new discovery of companies NOT on RepVue (funding announcements, ATS-native search, VC portfolio
-boards) is a separate planned job — do not improvise it; Eric will spec it in this file when chosen.
+Find postings directly on the ATS platforms — the posting first, the company second. This catches
+startups too new or obscure for RepVue.
+
+1. Run ~8–10 WebSearch queries, rotating phrasing across runs, all scoped to hosted-board domains:
+   `site:jobs.ashbyhq.com "account executive" mid-market remote`, same for
+   `site:job-boards.greenhouse.io` and `site:jobs.lever.co`; vary with "commercial account executive",
+   "AE" + "remote (US)", segment words ("mid market", "growth"), and without the segment word.
+2. From the hits, collect candidate companies **not already in `claude_universe.csv`** (paren-aware
+   base-name match). Search hits are LEADS, not verification — a hit may be a dead posting.
+3. Verify each candidate on its board's JSON API per the ATS reference + URL-capture rules (the search
+   hit tells you the board slug — confirm the posting ID is in the API response, then judge the bar:
+   IC AE, US-remote from JD text, segment, OTE, B2B SaaS, company identity).
+4. Record EVERY candidate evaluated into `claude_universe.csv` (`Source = ats-search`, Y/N + reason,
+   `Last Checked` = today); winners → `latest.csv`. Budget: stop at 50 companies evaluated or when
+   the query set is exhausted, whichever comes first.
+
+## Job 4 — Re-check rotation (queue-dry runs at 03:00, 08:00, 18:00 UTC)
+
+Re-check the universe for newly-opened roles: take the 50 `Currently Open = N` rows with the oldest
+`Last Checked` (highest RepVue Score first as tiebreak), skipping rows whose Notes mark a permanent
+disqualification (acquired / defunct / not B2B SaaS / different company), and run them through the
+same check-and-record loop as Job 2 (update `Last Checked` + Notes; flips to Y go into `latest.csv`).
+Roles churn — a company that had nothing last month may have an opening today.
+
+## Job F — Weekly funding-news sweep (Monday 18:00 UTC run, replaces the other jobs that run)
+
+Newly funded B2B SaaS companies hire AEs within weeks and are exactly the ones RepVue hasn't scored.
+
+1. WebSearch for B2B SaaS funding announcements from the LAST 7 DAYS: "Series A/B/C" + "B2B SaaS"
+   raise/funding round announcements, TechCrunch/Axios/BusinessWire funding roundups, "announced
+   Series B" news queries. Prefer Series B/C (Series A is usually too early for a $150K+ OTE MM AE,
+   but include any Series A explicitly scaling a sales team).
+2. Build the candidate list; skip companies already in `claude_universe.csv`.
+3. ATS-check each candidate per the reference + capture rules (find the board via ONE search if the
+   company site doesn't link it; cap ~5 fetches + 1 search per company, same as Job 2).
+4. Record EVERY candidate evaluated into `claude_universe.csv` (`Source = funding-news`, Y/N + reason,
+   `Last Checked` = today); winners → `latest.csv`. Budget: up to 50 companies evaluated; most weeks
+   the qualifying raise count will be far smaller — that's fine, do not pad the list.
 
 ## ATS reference (check these JSON endpoints first; `{slug}` = board token, try company name lowercased)
 
