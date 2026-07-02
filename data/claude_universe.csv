@@ -1,11 +1,11 @@
 Company,Source,RepVue Score,Last Checked,Currently Open,Notes
-8am (f/k/a AffiniPay),claude,,2026-06-30,Y,has open qualifying role
-Abnormal Security,claude,,2026-06-30,Y,has open qualifying role
+8am (f/k/a AffiniPay),claude,,2026-07-02,N,dropped 2026-07-02: only Associate AE (BDR-level) on board
+Abnormal Security,claude,,2026-07-02,Y,has open qualifying role
 Accrue,claude,,2026-06-30,Y,has open qualifying role
 Acquia,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Affinity.co,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Apollo GraphQL,claude,76,2026-06-30,Y,has open qualifying role
-Apollo.io,claude,85,2026-06-30,Y,has open qualifying role
+Apollo.io,claude,85,2026-07-02,Y,has open qualifying role
 Arcade,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Arctic Wolf,claude,,2026-06-30,Y,has open qualifying role
 Arize AI,claude,87,2026-06-30,Y,has open qualifying role
@@ -13,28 +13,28 @@ Articulate,claude,,2026-06-30,N,evaluated (prior master exclusion list); no list
 Ashby,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Augury,claude,84,2026-06-30,Y,has open qualifying role
 Beautiful.ai,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-BILL,claude,81,2026-06-30,Y,has open qualifying role
-Bloomreach,claude,89,2026-06-30,Y,has open qualifying role
+BILL,claude,81,2026-07-02,Y,has open qualifying role
+Bloomreach,claude,89,2026-07-02,Y,has open qualifying role
 Chainguard,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Chargebee,claude,,2026-06-30,Y,has open qualifying role
 ClickHouse,claude,,2026-06-30,Y,has open qualifying role
 Cloudzero,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Commure,claude,78,2026-06-30,Y,has open qualifying role
 Commvault,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Confluent,claude,,2026-06-30,Y,has open qualifying role
+Confluent,claude,,2026-07-02,Y,has open qualifying role
 Cresta,claude,91,2026-06-30,Y,has open qualifying role
 Cribl,claude,89,2026-06-30,Y,has open qualifying role
-Customer.io,claude,,2026-06-30,Y,has open qualifying role
+Customer.io,claude,,2026-07-02,Y,has open qualifying role
 Databricks,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Deel,claude,86,2026-06-30,Y,has open qualifying role
+Deel,claude,86,2026-07-02,Y,has open qualifying role
 Deepgram,claude,96,2026-06-30,Y,has open qualifying role
 Delinea,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Demandbase,claude,87,2026-06-30,Y,has open qualifying role
-Doppler,claude,,2026-06-30,Y,has open qualifying role
-Drata,claude,,2026-06-30,Y,has open qualifying role
+Demandbase,claude,87,2026-07-02,N,"dropped 2026-07-02: no IC AE on live Ashby board (only Growth Account Director, MM expansion)"
+Doppler,claude,,2026-07-02,Y,has open qualifying role
+Drata,claude,,2026-07-02,Y,has open qualifying role
 DroneDeploy,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Elastic,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Eve,claude,,2026-06-30,Y,has open qualifying role
+Eve,claude,,2026-07-02,Y,has open qualifying role
 Fiddler AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Fleetio,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Fluint,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -45,33 +45,33 @@ Gong,claude,88,2026-06-30,Y,has open qualifying role
 Grafana Labs,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Halcyon,claude,,2026-06-30,Y,has open qualifying role
 HappyCo,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Hex,claude,,2026-06-30,Y,has open qualifying role
-HiBob,claude,80,2026-06-30,Y,has open qualifying role
-Highspot,claude,,2026-06-30,Y,has open qualifying role
+Hex,claude,,2026-07-02,Y,has open qualifying role
+HiBob,claude,80,2026-07-02,Y,has open qualifying role
+Highspot,claude,,2026-07-02,Y,has open qualifying role
 Hightouch,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Hivel,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Honeycomb,claude,81,2026-06-30,Y,has open qualifying role
-Huntress,claude,,2026-06-30,Y,has open qualifying role
+Huntress,claude,,2026-07-02,Y,has open qualifying role
 Incident.io,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Infios,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Infisical,claude,,2026-06-30,Y,has open qualifying role
-Ironclad,claude,,2026-06-30,Y,has open qualifying role
+Ironclad,claude,,2026-07-02,N,"dropped 2026-07-02: Ent-only AEs, hybrid per JD despite (Remote) label; board is Ashby ironcladhq not Greenhouse"
 Itential,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Iterable,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Jama Software,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Keeper Security,claude,,2026-06-30,Y,has open qualifying role
 Komodo Health,claude,79,2026-06-30,Y,has open qualifying role
 Kong,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Lattice,claude,,2026-06-30,Y,has open qualifying role
+Lattice,claude,,2026-07-02,Y,has open qualifying role
 LaunchDarkly,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Leapsome,claude,,2026-06-30,Y,has open qualifying role
+Leapsome,claude,,2026-07-02,N,dropped 2026-07-02: High-Velocity AE is hybrid-NYC 2d/wk + SMB segment; board Remote label misleading
 Limble,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Linear,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Lockthreat,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Lytx,claude,69,2026-06-30,Y,has open qualifying role
+Lytx,claude,69,2026-07-02,Y,has open qualifying role
 Mabl,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Maintainx,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Maxio,claude,,2026-06-30,Y,has open qualifying role
+Maxio,claude,,2026-07-02,Y,has open qualifying role
 Mercury,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Merge,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Meter,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -86,17 +86,17 @@ NetBox Labs,claude,,2026-06-30,N,evaluated (prior master exclusion list); no lis
 Numeric,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Outsystems,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 PagerDuty,claude,79,2026-06-30,Y,has open qualifying role
-Pigment,claude,,2026-06-30,Y,has open qualifying role
+Pigment,claude,,2026-07-02,Y,has open qualifying role
 Pulumi,claude,,2026-06-30,Y,has open qualifying role
 Pylon,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Ramp,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Redpanda,claude,,2026-06-30,Y,has open qualifying role
-Render,claude,,2026-06-30,Y,has open qualifying role
+Render,claude,,2026-07-02,Y,has open qualifying role
 Retool,claude,84,2026-06-30,Y,has open qualifying role
 Rillet,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Rippling,claude,86,2026-06-30,Y,has open qualifying role
 Rocket Software,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Samsara,claude,86,2026-06-30,Y,has open qualifying role
+Samsara,claude,86,2026-07-02,Y,has open qualifying role
 ScaleOps,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Servicenow,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Sierra,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -104,19 +104,19 @@ Sigma Computing,claude,,2026-06-30,Y,has open qualifying role
 Smartsheet,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 SmartSuite,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Starburst,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Sumo Logic,claude,,2026-06-30,Y,has open qualifying role
+Sumo Logic,claude,,2026-07-02,Y,has open qualifying role
 Supermetrics,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Syniti,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Synthflow AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Sysdig,claude,,2026-06-30,Y,has open qualifying role
 Temporal,claude,95,2026-06-30,Y,has open qualifying role
 The Access Group,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Thoropass,claude,,2026-06-30,Y,has open qualifying role
+Thoropass,claude,,2026-07-02,Y,has open qualifying role
 ThoughtSpot,claude,79,2026-06-30,Y,has open qualifying role
 Tines,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Trunk Tools,claude,,2026-06-30,Y,has open qualifying role
-Vanta,claude,88,2026-06-30,Y,has open qualifying role
-Vantage,claude,,2026-06-30,Y,has open qualifying role
+Trunk Tools,claude,,2026-07-02,Y,has open qualifying role
+Vanta,claude,88,2026-07-02,N,dropped 2026-07-02: core AEs Dublin-only; US-remote is SLED/gov specialty only
+Vantage,claude,,2026-07-02,Y,has open qualifying role
 Webflow,claude,,2026-06-30,Y,has open qualifying role
 Workato,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Workiva,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -124,7 +124,7 @@ Wrike,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed ro
 Writer,claude,,2026-06-30,Y,has open qualifying role
 Zscaler,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Amplitude,claude,,2026-06-30,Y,Strategic AE (Ent) remote-NE US; product analytics
-Postman,claude,,2026-06-30,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
+Postman,claude,,2026-07-02,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
 Mixpanel,claude,,2026-06-30,N,only London hybrid AE; no US-remote
 CockroachDB,claude,,2026-06-30,N,only Singapore AE; no US-remote
 Pendo,claude,,2026-06-30,N,SMB Raleigh + Ent EMEA/APAC only; no US-remote MM
@@ -187,11 +187,11 @@ Asurint,repvue,96.11,2026-06-30,N,top-260 RepVue scan: no verified role / ATS un
 Accord,repvue,96.11,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 TA Instruments,repvue,96.09,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 SewerAI,repvue,96.08,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Amplemarket,repvue,95.97,2026-06-30,Y,top-260 RepVue scan: open AE role
+Amplemarket,repvue,95.97,2026-07-02,Y,top-260 RepVue scan: open AE role
 CloudTalk,repvue,95.90,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Actively AI,repvue,95.88,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 RemoFirst,repvue,95.84,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Nooks,repvue,95.75,2026-06-30,Y,top-260 RepVue scan: open AE role
+Nooks,repvue,95.75,2026-07-02,Y,top-260 RepVue scan: open AE role
 Interseller,repvue,95.75,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Juro,repvue,95.68,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 2B Talent Solutions,repvue,95.67,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
@@ -204,19 +204,19 @@ Omni,repvue,95.32,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unres
 Force Management,repvue,95.26,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 AIHR,repvue,95.25,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Rockerbox,repvue,95.23,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Maxwell,repvue,95.17,2026-06-30,Y,top-260 RepVue scan: open AE role
+Maxwell,repvue,95.17,2026-07-02,Y,top-260 RepVue scan: open AE role
 QuotaPath,repvue,95.16,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Jack Henry,repvue,95.08,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Ionic,repvue,95.08,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Scytale,repvue,95.04,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Okteto,repvue,95.03,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Popl,repvue,94.93,2026-06-30,Y,top-260 RepVue scan: open AE role
+Popl,repvue,94.93,2026-07-02,Y,top-260 RepVue scan: open AE role
 Americor,repvue,94.89,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 ProfitWell,repvue,94.80,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Landytech,repvue,94.79,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Temporal Technologies,repvue,94.71,2026-06-30,Y,top-260 RepVue scan: open AE role
 ROLLER Software,repvue,94.67,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-QA Wolf,repvue,94.63,2026-06-30,Y,top-260 RepVue scan: open AE role
+QA Wolf,repvue,94.63,2026-07-02,Y,top-260 RepVue scan: open AE role
 MutinyHQ,repvue,94.63,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 NuVasive,repvue,94.58,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 SafeSend,repvue,94.56,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
@@ -230,7 +230,7 @@ Topline Pro,repvue,94.45,2026-06-30,N,top-260 RepVue scan: no verified role / AT
 TitanX,repvue,94.42,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Guidewire Software,repvue,94.40,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 LPT Realty,repvue,94.38,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-UserGems,repvue,94.37,2026-06-30,Y,top-260 RepVue scan: open AE role
+UserGems,repvue,94.37,2026-07-02,Y,top-260 RepVue scan: open AE role
 Nvidia,repvue,94.32,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Lane Four,repvue,94.28,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Pacvue,repvue,94.25,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
@@ -251,7 +251,7 @@ MEDDICC,repvue,93.84,2026-06-30,N,top-260 RepVue scan: no verified role / ATS un
 SpotHero,repvue,93.73,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 AMAROK,repvue,93.70,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Salesfinity,repvue,93.69,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Karbon,repvue,93.66,2026-06-30,Y,top-260 RepVue scan: open AE role
+Karbon,repvue,93.66,2026-07-02,Y,top-260 RepVue scan: open AE role
 Skip fka SkipTheDishes,repvue,93.64,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Element451,repvue,93.59,2026-06-30,Y,top-260 RepVue scan: open AE role
 SiriusXM,repvue,93.58,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
@@ -274,7 +274,7 @@ Strider Technologies,repvue,93.24,2026-06-30,N,top-260 RepVue scan: no verified 
 Censys,repvue,93.23,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 InsideSales,repvue,93.21,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 eMoney Advisor,repvue,93.16,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Tremendous,repvue,93.16,2026-06-30,Y,top-260 RepVue scan: open AE role
+Tremendous,repvue,93.16,2026-07-02,Y,top-260 RepVue scan: open AE role
 Cycode,repvue,93.04,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Pipedrive,repvue,93.04,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Brellium,repvue,92.99,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
@@ -334,11 +334,11 @@ Boostlingo,repvue,91.69,2026-06-30,N,top-260 RepVue scan: no verified role / ATS
 Lightico,repvue,91.68,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Braintrust.dev,repvue,91.68,2026-06-30,Y,top-260 RepVue scan: open AE role
 Skydio,repvue,91.66,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-HockeyStack,repvue,91.65,2026-06-30,Y,top-260 RepVue scan: open AE role
+HockeyStack,repvue,91.65,2026-07-02,Y,top-260 RepVue scan: open AE role
 Regie.ai,repvue,91.65,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Hearsay Systems,repvue,91.61,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 iManage,repvue,91.61,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Workshop,repvue,91.60,2026-06-30,Y,top-260 RepVue scan: open AE role
+Workshop,repvue,91.60,2026-07-02,Y,top-260 RepVue scan: open AE role
 IntelAgree,repvue,91.57,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 AtriCure,repvue,91.56,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Windsurf,repvue,91.55,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
@@ -363,13 +363,13 @@ Field Materials,repvue,91.26,2026-06-30,N,top-260 RepVue scan: no verified role 
 Rebuy Engine,repvue,91.24,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 BrandBastion,repvue,91.18,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Trucker Tools,repvue,91.18,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Scribe,repvue,91.16,2026-06-30,Y,top-260 RepVue scan: open AE role
+Scribe,repvue,91.16,2026-07-02,Y,top-260 RepVue scan: open AE role
 Descope,repvue,91.16,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Jellyfish Co,repvue,91.15,2026-06-30,Y,top-260 RepVue scan: open AE role
 Prompt Health,repvue,91.12,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Access Systems,repvue,91.12,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Packsize,repvue,91.12,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Influ2,repvue,91.11,2026-06-30,Y,top-260 RepVue scan: open AE role
+Influ2,repvue,91.11,2026-07-02,Y,top-260 RepVue scan: open AE role
 Dow,repvue,91.09,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Sitemate,repvue,91.07,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Giatec,repvue,91.05,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
@@ -407,7 +407,7 @@ Ketch,repvue,90.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unres
 Pulley,repvue,90.56,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Verusen,repvue,90.51,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Cycle Labs,repvue,90.50,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-AirGarage,repvue,90.46,2026-06-30,Y,top500 RepVue scan: open AE role
+AirGarage,repvue,90.46,2026-07-02,N,dropped 2026-07-02: no sales roles at all
 Tive Inc,repvue,90.44,2026-06-30,Y,top500 RepVue scan: open AE role
 Azuga Inc,repvue,90.43,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Cyera,repvue,90.39,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -430,7 +430,7 @@ HCSS,repvue,90.14,2026-06-30,N,top500 RepVue scan: no verified role / ATS unreso
 LinearB,repvue,90.14,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Veterans United Home Loans,repvue,90.13,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Warmly,repvue,90.12,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Garner Health,repvue,90.11,2026-06-30,Y,top500 RepVue scan: open AE role
+Garner Health,repvue,90.11,2026-07-02,Y,top500 RepVue scan: open AE role
 Toro TMS,repvue,90.10,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Basware,repvue,90.08,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Jasper,repvue,90.00,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -458,18 +458,18 @@ Bennie,repvue,89.65,2026-06-30,N,top500 RepVue scan: no verified role / ATS unre
 OnRamp,repvue,89.58,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Buyers Edge Platform,repvue,89.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Torq,repvue,89.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Horizon3.ai,repvue,89.56,2026-06-30,Y,top500 RepVue scan: open AE role
+Horizon3.ai,repvue,89.56,2026-07-02,Y,top500 RepVue scan: open AE role
 OneSignal,repvue,89.56,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Reply.io,repvue,89.55,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 NEC Corporation of America,repvue,89.53,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Mudflap,repvue,89.53,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-NeuraFlash,repvue,89.52,2026-06-30,Y,top500 RepVue scan: open AE role
+NeuraFlash,repvue,89.52,2026-07-02,Y,top500 RepVue scan: open AE role
 Intercontinental Exchange (ICE),repvue,89.51,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Enjoy Technology Inc,repvue,89.50,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Postscript.io,repvue,89.49,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Axos Bank,repvue,89.49,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Medius,repvue,89.48,2026-06-30,Y,top500 RepVue scan: open AE role
-Sprinto,repvue,89.48,2026-06-30,Y,top500 RepVue scan: open AE role
+Sprinto,repvue,89.48,2026-07-02,Y,top500 RepVue scan: open AE role
 AMD,repvue,89.47,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Prisma SD-WAN,repvue,89.47,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 CobbleStone Software,repvue,89.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -516,14 +516,14 @@ RCN Technologies,repvue,89.09,2026-06-30,N,top500 RepVue scan: no verified role 
 Trella Health,repvue,89.08,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 ClientSuccess,repvue,89.08,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Evolve Security,repvue,89.05,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Tekmetric,repvue,89.02,2026-06-30,Y,top500 RepVue scan: open AE role
+Tekmetric,repvue,89.02,2026-07-02,Y,top500 RepVue scan: open AE role
 FMX,repvue,89.01,2026-06-30,Y,top500 RepVue scan: open AE role
 PerkSpot,repvue,89.01,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Ermetic,repvue,89.01,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Thousandeyes,repvue,88.95,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Machinio,repvue,88.94,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Orum,repvue,88.94,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Balto,repvue,88.93,2026-06-30,Y,top500 RepVue scan: open AE role
+Balto,repvue,88.93,2026-07-02,Y,top500 RepVue scan: open AE role
 Dyson,repvue,88.90,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Groove,repvue,88.89,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Schneider Electric,repvue,88.89,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -594,7 +594,7 @@ Anvilogic,repvue,88.40,2026-06-30,N,top500 RepVue scan: no verified role / ATS u
 Noesis,repvue,88.40,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Cato Networks,repvue,88.38,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 ZOLL Data Systems,repvue,88.37,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Aligned,repvue,88.37,2026-06-30,Y,top500 RepVue scan: open AE role
+Aligned,repvue,88.37,2026-07-02,Y,top500 RepVue scan: open AE role
 Radar Labs,repvue,88.37,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Appspace,repvue,88.35,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Dooly,repvue,88.35,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -607,7 +607,7 @@ Coca-Cola,repvue,88.29,2026-06-30,N,top500 RepVue scan: no verified role / ATS u
 Nsight Health,repvue,88.28,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Workvivo,repvue,88.28,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Gong.io,repvue,88.28,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Augment Code,repvue,88.26,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Augment Code,repvue,88.26,2026-07-02,N,dropped 2026-07-02: no AE on board (one generic eng req); prior AE listing likely different co (goaugment.com)
 Global-e,repvue,88.26,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 CaptiveAire Systems,repvue,88.26,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Sensor Tower,repvue,88.25,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -618,7 +618,7 @@ Snowflake,repvue,88.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS u
 Air Charter Service,repvue,88.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Quilt Software,repvue,88.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Rheaply,repvue,88.23,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Flockjay,repvue,88.22,2026-06-30,Y,top500 RepVue scan: open AE role
+Flockjay,repvue,88.22,2026-07-02,Y,top500 RepVue scan: open AE role
 Lightspeed DMS,repvue,88.19,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Grip Security,repvue,88.18,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Waites,repvue,88.18,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -669,7 +669,7 @@ Millennium Health,repvue,87.86,2026-06-30,N,top500 RepVue scan: no verified role
 IDeaS Revenue Solutions,repvue,87.86,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Wayground,repvue,87.85,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 SafetyWing,repvue,87.84,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Stripe,repvue,87.83,2026-06-30,Y,top500 RepVue scan: open AE role
+Stripe,repvue,87.83,2026-07-02,Y,top500 RepVue scan: open AE role
 Greenhouse Software,repvue,87.80,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Sanity,repvue,87.79,2026-06-30,Y,top500 RepVue scan: open AE role
 "KETIV Technologies, Inc.",repvue,87.77,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -684,7 +684,7 @@ Alternative Payments,repvue,87.71,2026-06-30,N,top500 RepVue scan: no verified r
 Roche,repvue,87.71,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Zumper,repvue,87.71,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 MetLife,repvue,87.69,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Snapdocs,repvue,87.69,2026-06-30,Y,top500 RepVue scan: open AE role
+Snapdocs,repvue,87.69,2026-07-02,Y,top500 RepVue scan: open AE role
 Copper,repvue,87.67,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Triptease,repvue,87.67,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Locus Robotics,repvue,87.66,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -692,7 +692,7 @@ Ignition,repvue,87.66,2026-06-30,N,top500 RepVue scan: no verified role / ATS un
 Reltio,repvue,87.65,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Shift Technology,repvue,87.65,2026-06-30,Y,top500 RepVue scan: open AE role
 Yipitdata,repvue,87.65,2026-06-30,Y,top500 RepVue scan: open AE role
-Calix,repvue,87.64,2026-06-30,Y,top500 RepVue scan: open AE role
+Calix,repvue,87.64,2026-07-02,N,dropped 2026-07-02: only SMB-segment regional AEs remain (Workday board moved to /External)
 Trane Technologies,repvue,87.64,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Luciq,repvue,87.63,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Passport,repvue,87.62,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -703,7 +703,7 @@ Instrumentl,repvue,87.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS
 Mission Cloud,repvue,87.58,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 1Huddle,repvue,87.56,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Oliver Wyman,repvue,87.54,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Parchment,repvue,87.54,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Parchment,repvue,87.54,2026-07-02,Y,link re-verified live 2026-07-02 (published as Parchment (Instructure))
 Observe,repvue,87.52,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Linxup,repvue,87.51,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Tugboat Logic,repvue,87.50,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -771,7 +771,7 @@ SMART Technologies,repvue,87.07,2026-06-30,N,top500 RepVue scan: no verified rol
 Ease,repvue,87.05,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Alvys,repvue,87.05,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Businessolver,repvue,87.05,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Singular,repvue,87.05,2026-06-30,Y,top500 RepVue scan: open AE role
+Singular,repvue,87.05,2026-07-02,Y,top500 RepVue scan: open AE role
 strongDM,repvue,87.05,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Maven Clinic,repvue,87.03,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Henkel,repvue,87.03,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -785,7 +785,7 @@ Dandy,repvue,86.99,2026-06-30,N,top500 RepVue scan: no verified role / ATS unres
 Sun Life,repvue,86.98,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Redzone,repvue,86.98,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 CHEQ,repvue,86.97,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Embrace,repvue,86.96,2026-06-30,Y,top500 RepVue scan: open AE role
+Embrace,repvue,86.96,2026-07-02,Y,top500 RepVue scan: open AE role
 Brevo,repvue,86.96,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 AppFolio,repvue,86.95,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Passage Health,repvue,86.94,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -1063,7 +1063,7 @@ BoomTown ROI,repvue,85.25,2026-07-01,N,top1000 RepVue scan: no verified role / A
 Palo Alto Networks,repvue,85.25,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Keela,repvue,85.24,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 ElevenLabs,repvue,85.24,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-AssetWatch,repvue,85.24,2026-07-01,Y,top1000 RepVue scan: open AE role
+AssetWatch,repvue,85.24,2026-07-02,Y,top1000 RepVue scan: open AE role
 LeagueApps,repvue,85.23,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Bausch and Lomb,repvue,85.23,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Sentieo (AlphaSense),repvue,85.22,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -1090,7 +1090,7 @@ AlertMedia,repvue,85.11,2026-07-01,N,top1000 RepVue scan: no verified role / ATS
 Benepass,repvue,85.10,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Financial Times,repvue,85.10,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Duro,repvue,85.10,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Breezeway,repvue,85.09,2026-07-01,Y,top1000 RepVue scan: open AE role
+Breezeway,repvue,85.09,2026-07-02,Y,top1000 RepVue scan: open AE role
 Securly,repvue,85.08,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Visa,repvue,85.07,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Cencora (AmerisourceBergen),repvue,85.06,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -1101,7 +1101,7 @@ Ecotrak Facility Management Software,repvue,85.04,2026-07-01,N,top1000 RepVue sc
 Pathlock,repvue,85.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Guesty,repvue,85.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Source Intelligence,repvue,85.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Qualified,repvue,85.04,2026-07-01,Y,top1000 RepVue scan: open AE role
+Qualified,repvue,85.04,2026-07-02,Y,top1000 RepVue scan: open AE role
 TechnoMile,repvue,85.03,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 ReviewTrackers,repvue,85.03,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 DoorLoop,repvue,85.03,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -1189,7 +1189,7 @@ Main Street Hub,repvue,84.42,2026-07-01,N,RepVue scan: no verified role / ATS un
 Stryker,repvue,84.42,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Carta,repvue,84.42,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Sunbit,repvue,84.83,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
-OnBoard,repvue,84.83,2026-07-01,Y,RepVue scan: open AE role
+OnBoard,repvue,84.83,2026-07-02,Y,RepVue scan: open AE role
 Fairwinds,repvue,84.82,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Manta,repvue,84.82,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Canto,repvue,84.82,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
@@ -1208,7 +1208,7 @@ SAP Signavio,repvue,84.76,2026-07-01,N,RepVue scan: no verified role / ATS unres
 Fisher Investments,repvue,84.76,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 BuildOps,repvue,84.75,2026-07-01,Y,RepVue scan: open AE role
 Firebolt,repvue,84.75,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
-Salesforce,repvue,84.74,2026-07-01,Y,RepVue scan: open AE role
+Salesforce,repvue,84.74,2026-07-02,N,dropped 2026-07-02: only remote Growth Business AE is Non-Profit req restricted to NYC metro
 Smarty,repvue,84.73,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 LocalShift,repvue,84.73,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Device42,repvue,84.73,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
@@ -1297,7 +1297,7 @@ AtScale,repvue,84.22,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Suralink,repvue,84.22,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 The Millennium Alliance,repvue,84.21,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Socure,repvue,84.21,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
-Vividly,repvue,84.20,2026-07-01,Y,RepVue scan: open AE role
+Vividly,repvue,84.20,2026-07-02,Y,RepVue scan: open AE role
 IMAGINiT Technologies,repvue,84.20,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 CooperVision,repvue,84.19,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Cypris,repvue,84.19,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
@@ -1309,7 +1309,7 @@ Vim,repvue,84.17,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Tradify,repvue,84.16,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 "Wasabi Technologies, Inc",repvue,84.16,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Flashtract,repvue,84.15,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
-Bloomerang,repvue,84.14,2026-07-01,Y,RepVue scan: open AE role
+Bloomerang,repvue,84.14,2026-07-02,Y,RepVue scan: open AE role
 Omnipresent,repvue,84.13,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Interplay Learning,repvue,84.13,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
 Branch App,repvue,84.12,2026-07-01,N,RepVue scan: no verified role / ATS unresolved
@@ -1369,7 +1369,7 @@ Fieldwire,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolv
 Ivalua,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 LiveFlow,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Superside,repvue,83.87,2026-07-02,Y,RepVue scan: open AE role
-Twilio,repvue,83.87,2026-07-02,Y,RepVue scan: open AE role
+Twilio,repvue,83.87,2026-07-02,N,dropped 2026-07-02: no US AE roles (only AU/MX/UK/JP)
 airSlate,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Epicor,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Wilmington plc,repvue,83.86,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -1410,7 +1410,7 @@ Proof,repvue,83.76,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Schlumberger,repvue,83.76,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Moov Technologies,repvue,83.75,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Adyen,repvue,83.74,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-Phocas Software,repvue,83.72,2026-07-02,Y,RepVue scan: open AE role
+Phocas Software,repvue,83.72,2026-07-02,N,dropped 2026-07-02: zero open roles company-wide (Workable board empty)
 J.P. Morgan Chase,repvue,83.72,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Darwinian Ventures,repvue,83.72,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Corus Entertainment,repvue,83.72,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -1420,7 +1420,7 @@ ABC Fitness,repvue,83.71,2026-07-02,N,RepVue scan: no verified role / ATS unreso
 RxVantage,repvue,83.70,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Factur,repvue,83.70,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Veriff,repvue,83.70,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-360Learning,repvue,83.70,2026-07-02,Y,RepVue scan: open AE role
+360Learning,repvue,83.70,2026-07-02,N,dropped 2026-07-02: MM AE is Canada-only
 Jobot,repvue,83.69,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Cinch,repvue,83.68,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Leasecake,repvue,83.68,2026-07-02,N,RepVue scan: no verified role / ATS unresolved

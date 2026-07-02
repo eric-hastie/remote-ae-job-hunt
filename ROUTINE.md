@@ -16,7 +16,8 @@
 ## Tool & cost rules
 
 - **WebFetch / WebSearch ONLY for web access.** NEVER curl/wget/Bash to fetch URLs.
-- Bash is allowed ONLY for git, `python3 build.py`, `date`, and file ops — not for research.
+- Bash is allowed ONLY for git, `python3 build.py`, `python3 scripts/verify_links.py`, `date`, and
+  file ops — not for open-ended research.
 - **Work inline — do NOT spawn subagents.** Be token-conscious (this draws on a subscription quota):
   don't over-fan-out; stop a vertical as soon as it's dry (see loop rule).
 
@@ -31,10 +32,38 @@ hybrid/office/non-US) · **OTE ~$150K–$340K** (blank if not reliably known —
 
 ## Job 1 — Re-verify every row in `latest.csv`
 
-WebFetch each row's posting. If it's closed/404/redirected-to-stub, find that company's current open
-US-remote IC-AE posting and update the URL; if the company has **no** qualifying open AE role anymore,
-**drop the row** from `latest.csv` and set its `claude_universe.csv` row to `Currently Open = N`
-(update `Last Checked`). Use the ATS reference below to check fast before falling back to careers pages.
+**Run `python3 scripts/verify_links.py` FIRST** (Bash is allowed for this script). It deterministically
+checks every row's job ID against the ATS's own JSON API (Greenhouse/Ashby/Lever — most rows) and
+prints, for each broken row, the current AE postings on the same board with exact URLs copied from the
+API. Do NOT re-verify API-covered rows by WebFetching posting pages — a dead Greenhouse posting returns
+HTTP 200 and silently redirects to the full board (`?error=true`), so page-reads pass dead links
+(this corrupted the list once; see URL-capture rules below).
+
+Then act on the script's output:
+- **DEAD/BROKEN with a qualifying replacement candidate** (IC AE, US-remote, right segment — read the
+  JD if unsure): update the row's URL, copying the replacement URL **verbatim from the script output**.
+- **DEAD/BROKEN with no qualifying candidate**: drop the row from `latest.csv` and set its
+  `claude_universe.csv` row to `Currently Open = N` (update `Last Checked`).
+- **UNKNOWN rows** (bot-blocked/JS-only sites — Workday, Salesforce, custom career sites): verify these
+  the LLM way — WebFetch the careers site/sitemap, cross-check search-indexed copies of the company's
+  own board. If liveness can't be established, keep the row but note it; never invent a new URL.
+
+## URL-capture rules (apply to BOTH jobs — these prevent the two failure modes that broke the list)
+
+1. **Copy URLs only from an ATS JSON API response** (`absolute_url` / `jobUrl` / `hostedUrl`) or, for
+   non-API sites, the site's own sitemap/board page. NEVER record a URL from WebSearch results or
+   aggregators (LinkedIn/Indeed/BuiltIn/etc. carry stale postings that soft-redirect on Greenhouse).
+2. **Never retype or reconstruct a job ID.** Lever/Ashby IDs are 36-char UUIDs; retyping them from a
+   fetched page produces hallucinated IDs (this happened: a working Highspot URL was overwritten with a
+   nonexistent UUID). Copy-paste exactly, or don't write the URL.
+3. **A fetch that lands on the company's full job board is a DEAD posting**, even with HTTP 200 —
+   Greenhouse appends `?error=true` and shows the board. "The page mentions Account Executive" is NOT
+   verification that THIS posting is live; only ID-present-in-board-API is.
+4. **Verify remote from the JD text, not the board's location label.** Ashby "New York (Remote)" labels
+   have meant hybrid-2-days-in-office in the JD body (Leapsome, Ironclad). Apply the existing
+   remote-vs-boilerplate nuance rule below.
+5. **Confirm the board belongs to the right company** — same-name collisions exist (an "Augment"
+   logistics-AI company's AE role was once attributed to Augment Code).
 
 ## Job 2 — Discover net-new companies
 
