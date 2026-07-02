@@ -3,6 +3,9 @@
 **This file is the source of truth for what the scheduled refresh does.** The cloud routine's job is:
 *read this file, execute it exactly, then commit & push.* Change behavior by editing THIS FILE.
 
+**Cadence (since 2026-07-02): runs every ~5 hours, 50 queue companies per run.** Be efficient — one
+run's discovery work is bounded by the 50-company cap, not by verticals or loop-until-dry.
+
 ## Files
 
 - **`data/latest.csv`** — canonical PUBLISHED list = companies that *currently* have a qualifying open
@@ -10,8 +13,13 @@
 - **`data/claude_universe.csv`** — the MEMORY: *every company ever evaluated*, win or not. Columns:
   `Company,Source,RepVue Score,Last Checked,Currently Open,Notes`. This is the dedup set so we never
   re-discover a company we've already considered. **It must grow every run** (see Job 2, step 4).
-- **`data/repvue_universe.csv`** — *(Phase 2, pending Eric's browser pull)* all RepVue companies + scores.
-- `data/YYYY-MM-DD.csv` — dated snapshot of `latest.csv` each run.
+- **`data/scan_queue.csv`** — the DISCOVERY QUEUE: RepVue companies with score ≥ 80, best-score-first,
+  minus everything already in `claude_universe.csv` at build time (2026-07-02: 1,003 companies).
+  Columns: `Company,Slug` (Slug = starting guess for the ATS board token). The queue file itself is
+  never edited by the routine — progress is tracked by recording checked companies into
+  `claude_universe.csv`, so "next up" = first N queue rows not yet in the universe.
+- `data/repvue_universe.csv` — gitignored/local-only (RepVue's proprietary data; not in cloud clones).
+- `data/YYYY-MM-DD.csv` — dated snapshot of `latest.csv`, refreshed each run.
 
 ## Tool & cost rules
 
@@ -65,26 +73,36 @@ Then act on the script's output:
 5. **Confirm the board belongs to the right company** — same-name collisions exist (an "Augment"
    logistics-AI company's AE role was once attributed to Augment Code).
 
-## Job 2 — Discover net-new companies
+## Job 2 — Scan the next 50 queue companies
 
-Rotate verticals to control cost (see Rotation). For each vertical in this run, run finder passes
-**loop-until-dry**:
-
-1. Propose qualifying companies in the vertical that are **NOT already in `data/claude_universe.csv`**
-   (the full memory — winners AND past no-role evaluations) and not found earlier this run.
-2. **Verify** each proposed company has an open qualifying role via the ATS reference / careers page.
-   Capture the human-facing posting URL.
-3. **Repeat passes on the same vertical until a pass yields 0 net-new qualifying companies** (one fully
-   dry pass), capped at **4 passes per vertical** to bound cost.
-4. **Record EVERY company you evaluated this run into `data/claude_universe.csv`** — not just winners:
-   - new winner → add row, `Currently Open = Y`, Notes = role/segment.
-   - evaluated but no qualifying role (closed, wrong segment, not remote, senior-only) → add row,
-     `Currently Open = N`, Notes = the reason.
-   - Set `Last Checked` to today on every row you touched. This is what makes future runs skip
-     already-considered companies and spend effort on genuinely new ones.
-5. Add the winners (Currently Open = Y) to `latest.csv`.
+1. Compute this run's batch: read `data/scan_queue.csv` top-to-bottom and take the **first 50 rows
+   whose Company is NOT yet in `data/claude_universe.csv`** (match on the lowercased name before any
+   " (" suffix — e.g. `Tableau (Salesforce)` matches `tableau`).
+2. For each company, check for an open qualifying role (see The bar) via the ATS reference below —
+   JSON endpoints first, `Slug` as the first board-token guess, then obvious variants, then ONE
+   WebSearch (`{company} careers account executive`) to find the real board. Cap ~5 fetches + 1 search
+   per company; unresolved after that = record as N / "ATS unresolved". Follow the URL-capture rules.
+3. **Record EVERY company checked into `data/claude_universe.csv`** — winners AND losers:
+   - qualifying role → add row `Currently Open = Y`, Notes = role/segment; add to `latest.csv`.
+   - no qualifying role → add row `Currently Open = N`, Notes = the reason
+     (no AE / not remote / wrong segment / senior-only / not B2B SaaS / ATS unresolved).
+   - `Source = repvue`, `Last Checked` = today. This recording IS the queue's progress marker.
+4. **Be terse per company** — fetch, decide against the bar, record one line, move on. No JD dumps in
+   your working notes. If the session can't finish all 50, stop cleanly at a smaller number: every
+   company actually checked must be recorded, and files must never be left half-updated.
 
 Drop anything unverified — no "just in case." No fabrication; leave Funding/RepVue blank if unknown.
+
+## Job 2-FALLBACK — when the queue is dry (re-check rotation)
+
+When step 1 above yields ZERO unchecked queue companies, switch this run's 50-company budget to
+**re-checking** the universe for newly-opened roles: take the 50 `Currently Open = N` rows with the
+oldest `Last Checked` (highest RepVue Score first as tiebreak), skipping rows whose Notes mark a
+permanent disqualification (acquired / defunct / not B2B SaaS / different company), and run them
+through the same check-and-record loop (update `Last Checked` + Notes; flips to Y go into
+`latest.csv`). Roles churn — a company that had nothing last month may have an opening today.
+Net-new discovery of companies NOT on RepVue (funding announcements, ATS-native search, VC portfolio
+boards) is a separate planned job — do not improvise it; Eric will spec it in this file when chosen.
 
 ## ATS reference (check these JSON endpoints first; `{slug}` = board token, try company name lowercased)
 
@@ -109,27 +127,17 @@ same role (the Remote posting exists for non-hub candidates). ONLY disqualify fo
 states a specific in-office cadence (e.g. "expected in office 3+ days/week"). Example: Postman's Remote
 MM-AE posting qualifies (distinct from its city postings); Checkr's Strategic AE does not ("3+ days").
 
-## Rotation (current: weekly)
-
-Get ISO week `W` (`date -u +%V`). Verticals: [0] Dev tools/infra/observability/data · [1]
-Fintech/payments/accounting/BI · [2] Vertical & horizontal SaaS (sales/martech, HR, healthcare, fleet,
-construction) · [3] AI-native B2B SaaS · [4] Cybersecurity/DevSecOps/GRC (lower priority). Cover TWO
-per run: `W mod 5` and `(W+1) mod 5`, each loop-until-dry.
-
-> **Phase 2 (pending — do NOT implement until `data/repvue_universe.csv` exists and we size it):**
-> switch discovery to **universe-driven rotation** — daily runs that each check one rotating *slice*
-> of `claude_universe.csv` ∪ `repvue_universe.csv` for newly-opened roles, sized so every company is
-> re-checked ~weekly, plus a weekly vertical-brainstorm pass to ADD net-new companies to the universe.
-> Chunk size + cadence finalized once we know the universe count.
->
 > **NEVER gate on RepVue's `has_active_jobs` flag.** RepVue's job-posting data is stale/unreliable —
-> that's the exact gap this project exists to fill. We search every company on its rotation turn
-> regardless of that flag; it is stored for reference only and must never filter the universe.
+> that's the exact gap this project exists to fill. We check every company on its queue turn
+> regardless of that flag.
+
+*(Retired 2026-07-02: the weekly vertical-brainstorm rotation — it hit diminishing returns once the
+universe covered the obvious names. Discovery is now the RepVue score-≥80 queue above.)*
 
 ## Finish
 
 `python3 build.py` (regenerates `index.html` + `history.html` — NEVER hand-edit those) → copy
 `latest.csv` to `data/$(date -u +%F).csv` → `git add -A` → commit
-`Weekly refresh <today>: +<added>, -<dropped> (verticals: <names>)` → `git push origin main`
-(if rejected: `git pull --rebase` then push; **never force-push**) → print a short summary:
-added, dropped, link fixes, new total, universe size, verticals scanned.
+`Refresh <UTC date+hour>: +<added> -<dropped> ~<links fixed> | checked <n> (queue <remaining>)`
+→ `git push origin main` (if rejected: `git pull --rebase` then push; **never force-push**) → print a
+short summary: added, dropped, link fixes, companies checked, queue remaining, new total, universe size.
