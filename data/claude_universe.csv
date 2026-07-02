@@ -1588,3 +1588,53 @@ Navan,repvue,83.12,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 BQE Software,repvue,83.12,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Metronome,repvue,83.11,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Goldcast,repvue,83.11,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
+Avetta,repvue,,2026-07-02,N,ATS unresolved: AE roles found but expansion-focused; OTE unclear; network blocks API verification
+HubSpot,repvue,,2026-07-02,N,ATS unresolved: MM AE found on GH (hubspotjobs) remote US — network blocks API verification
+Infegy,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+TMC Transportation,repvue,,2026-07-02,N,not B2B SaaS (freight/logistics company)
+FieldRoutes,repvue,,2026-07-02,N,no qualifying AE found; acquired by ServiceTitan
+MVF Global,repvue,,2026-07-02,N,not B2B SaaS (performance marketing / demand gen company)
+Kaspersky,repvue,,2026-07-02,N,US operations prohibited (FCC/FTC ban on Kaspersky products)
+MacStadium,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+Otter.ai,repvue,,2026-07-02,N,no qualifying AE found; GH board slug 'otterai' not found
+Findem,repvue,,2026-07-02,N,ATS unresolved: Ent AE on Lever (findem) dated Jan 2025 — likely filled
+Intercom,repvue,,2026-07-02,N,hybrid only (3 days/week in-office required)
+Labatt Brewing Company,repvue,,2026-07-02,N,not B2B SaaS (beer company)
+Markem-Imaje,repvue,,2026-07-02,N,not B2B SaaS (industrial marking equipment)
+Instana,repvue,,2026-07-02,N,IBM subsidiary; posts on IBM careers — not standalone SaaS
+People Inc,repvue,,2026-07-02,N,not B2B SaaS; slug matches DotdashMeredith (media company)
+SEEK,repvue,,2026-07-02,N,not US B2B SaaS (Australian job board)
+Iron Bow Technologies,repvue,,2026-07-02,N,not B2B SaaS (IT VAR/reseller)
+ClickUp,repvue,,2026-07-02,N,ATS unresolved: MM AE confirmed remote US on Ashby (clickup) — network blocks API verification
+Market Leader,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards (real estate CRM)
+Nue.io,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+Windfall Data,repvue,,2026-07-02,N,ATS unresolved: MM AE on Lever (windfalldata) — remote status unclear without JD access
+AO Globe Life,repvue,,2026-07-02,N,not B2B SaaS (insurance company)
+Drop,repvue,,2026-07-02,N,not B2B SaaS (consumer loyalty/rewards platform)
+West Monroe,repvue,,2026-07-02,N,not B2B SaaS (management consulting firm)
+Motion,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+Thumbtack,repvue,,2026-07-02,N,not B2B SaaS (consumer home services marketplace)
+Perfect Venue,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+Mercer,repvue,,2026-07-02,N,not B2B SaaS (HR consulting firm)
+Speexx,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+Humanitix,repvue,,2026-07-02,N,not B2B SaaS (nonprofit event ticketing platform)
+Advizex,repvue,,2026-07-02,N,not B2B SaaS (IT VAR/reseller)
+W.W. Grainger,repvue,,2026-07-02,N,not B2B SaaS (industrial distribution company)
+Adthena,repvue,,2026-07-02,N,ATS unresolved: AE roles on Ashby (adthena) — US/remote status unclear without JD access
+Gravitee,repvue,,2026-07-02,N,hybrid only (Denver/NYC offices required)
+Bubble,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+Easy Metrics Inc.,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+Tanium,repvue,,2026-07-02,N,ATS unresolved: AE on tanium.com/careers — not on standard ATS boards; can't verify remote/OTE
+Slang.ai,repvue,,2026-07-02,N,not remote (field-based AE); restaurant SMB market — OTE likely below threshold
+GE Healthcare,repvue,,2026-07-02,N,not B2B SaaS (healthcare devices/services company)
+SpotDraft,repvue,,2026-07-02,N,no qualifying AE found (Ashby board exists but no AE listings visible)
+Tenable,repvue,,2026-07-02,N,ATS unresolved: not on standard ATS boards; uses own career site
+Workfront (owned by Adobe),repvue,,2026-07-02,N,Adobe subsidiary — not standalone SaaS
+Forma.ai,repvue,,2026-07-02,N,ATS unresolved: Ent AE on GH (formaaiinc) — network blocks API verification
+Hopin,repvue,,2026-07-02,N,pivoted/acquired (by Bizzabo); no AE found
+Hivebrite,repvue,,2026-07-02,N,ATS unresolved: AE on Lever (hivebrite) — US/remote status unclear without JD access
+Bioventus,repvue,,2026-07-02,N,not B2B SaaS (biotherapeutics company)
+Torch,repvue,,2026-07-02,N,ATS unresolved: Ent AE on Lever (torch) remote US — network blocks API verification
+DataRails,repvue,,2026-07-02,N,ATS unresolved: US remote AE on GH (datarails) OTE ~$250K — network blocks API verification
+Qobra,repvue,,2026-07-02,N,no US AE found; French company with no US ATS board
+Crystal Knows,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
