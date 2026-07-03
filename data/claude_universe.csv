@@ -1122,7 +1122,7 @@ Kpler,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unre
 Textline,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Quantivate,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 OpenAsset,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-n8n,repvue,84.96,2026-07-01,Y,top1000 RepVue scan: open AE role
+n8n,repvue,84.96,2026-07-03,N,Ent AE posting dead (Ashby ID expired); MM AE replacement exists but US-remote unverifiable (JS-only page; US AEs predominantly hybrid)
 Divvy Homes,repvue,84.95,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Clarabridge,repvue,84.95,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Voxpopme,repvue,84.95,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -1788,3 +1788,53 @@ Verathon Medical,repvue,,2026-07-03,N,not B2B SaaS target — medical devices
 EDB (EnterpriseDB),repvue,,2026-07-03,Y,open Ent AE role (cloud managed PostgreSQL); US-remote; Greenhouse ID 7713194003
 Smarsh,repvue,,2026-07-03,Y,open Ent AE role (compliance archiving, financial services); US-remote; Lever ID cd0167b4-bdc3-49f6-b215-e267efed3365
 Hatch,repvue,,2026-07-03,N,ATS unresolved — home services CRM; not MM B2B SaaS match
+ICON plc,repvue,,2026-07-03,N,not B2B SaaS (pharma CRO / clinical trials)
+Blue Yonder,repvue,,2026-07-03,N,ATS unresolved (Lever 404; supply chain SaaS)
+Coconut Software,repvue,,2026-07-03,N,ATS unresolved (Ashby/Lever 404)
+HackerOne,repvue,,2026-07-03,N,no AE on official Ashby board (AI engineering only); Senior AE roles may be stale
+LightStep,repvue,,2026-07-03,N,defunct — acquired by ServiceNow 2021
+Fonoa,repvue,,2026-07-03,Y,Strategic AE / Ent / Remote USA (Ashby); tax automation SaaS
+Reprise,repvue,,2026-07-03,N,no AE role (Ashby: only Dir Marketing)
+Sunnova,repvue,,2026-07-03,N,not B2B SaaS (residential solar energy)
+Influitive,repvue,,2026-07-03,N,ATS unresolved (GH/Lever 404)
+ID.me,repvue,,2026-07-03,Y,Enterprise AE Workforce Identity / Remote US / OTE $280-320K
+BackBox,repvue,,2026-07-03,N,ATS unresolved (Ashby/GH 404)
+Fieldguide,repvue,,2026-07-03,Y,Strategic AE / Ent / Remote USA / base $140-170K (50/50 split)
+Simon Data,repvue,,2026-07-03,N,ATS unresolved (GH/Lever 404)
+Club,repvue,,2026-07-03,N,ATS unresolved (Lever brandbassador 404; Danish company)
+Metrie,repvue,,2026-07-03,N,not B2B SaaS (building products)
+Daloopa,repvue,,2026-07-03,N,ATS unresolved (Ashby 404)
+Anheuser-Busch,repvue,,2026-07-03,N,not B2B SaaS (beer/beverages)
+IMS (Investor Management Services),repvue,,2026-07-03,N,ATS unresolved
+CreativeX,repvue,,2026-07-03,N,ATS unresolved (Ashby 404)
+Addepar,repvue,,2026-07-03,Y,AE Core+ / MM / Remote USA / base $128-160K
+The Hartford,repvue,,2026-07-03,N,not B2B SaaS (insurance company)
+VITL Power,repvue,,2026-07-03,N,not B2B SaaS (energy)
+adesso SE,repvue,,2026-07-03,N,not B2B SaaS (IT services / German consultancy)
+Syncari,repvue,,2026-07-03,N,ATS unresolved (Ashby 404)
+NinjaOne,repvue,,2026-07-03,Y,Enterprise AE SLED / Ent / Remote IL / IT mgmt SaaS
+Planful,repvue,,2026-07-03,N,no AE role (GH hostanalytics: SDR/CSM/IC only)
+Kustomer,repvue,,2026-07-03,N,no AE on Ashby board (engineering/marketing only)
+LeanDNA,repvue,,2026-07-03,N,ATS unresolved (GH/Ashby 404)
+BillingPlatform,repvue,,2026-07-03,N,ATS unresolved (GH 404)
+Akeneo,repvue,,2026-07-03,N,ATS unresolved (GH/Lever/Ashby 404)
+Zipcar,repvue,,2026-07-03,N,not B2B SaaS (car sharing / consumer)
+UiPath,repvue,,2026-07-03,N,ATS unresolved (GH/Lever 404)
+DataSnipper,repvue,,2026-07-03,N,no AE role (Ashby: CSM/engineering/BDR only)
+Direct Supply,repvue,,2026-07-03,N,ATS unresolved (GH 404)
+Fiverr,repvue,,2026-07-03,N,ATS unresolved (GH/Lever 404)
+Medrio,repvue,,2026-07-03,N,no AE role (GH: VP Product/Eng/SRE only)
+Replicated,repvue,,2026-07-03,N,ATS unresolved (Ashby/Lever 404)
+Cloudinary,repvue,,2026-07-03,N,no qualifying US AE (only London Senior AE; 8+ yrs req)
+Beckhoff Automation,repvue,,2026-07-03,N,not B2B SaaS (industrial hardware/automation)
+Vertice,repvue,,2026-07-03,N,no US AE (Ashby: all London/Brno roles)
+RightBound,repvue,,2026-07-03,N,ATS unresolved (Ashby 404)
+Humi,repvue,,2026-07-03,N,ATS unresolved (GH 404)
+Pegasystems,repvue,,2026-07-03,N,ATS unresolved (GH 404)
+PwC,repvue,,2026-07-03,N,not B2B SaaS (professional services)
+SAP,repvue,,2026-07-03,N,not typical MM/Ent startup AE role (enterprise ERP giant)
+Supernus Pharmaceuticals,repvue,,2026-07-03,N,not B2B SaaS (pharmaceuticals)
+Commusoft,repvue,,2026-07-03,N,ATS unresolved (GH 404)
+Talon.One,repvue,,2026-07-03,N,no AE role (GH talonone: SDR/eng/marketing only)
+Veeam,repvue,,2026-07-03,N,ATS unresolved (GH/Lever/Ashby 404)
+NetJets,repvue,,2026-07-03,N,not B2B SaaS (private aviation / fractional jet)
