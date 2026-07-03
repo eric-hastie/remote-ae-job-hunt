@@ -21,7 +21,7 @@ ClickHouse,claude,,2026-06-30,Y,has open qualifying role
 Cloudzero,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Commure,claude,78,2026-06-30,Y,has open qualifying role
 Commvault,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Confluent,claude,,2026-07-02,Y,has open qualifying role
+Confluent,claude,,2026-07-03,N,posting dead — UUID not in Ashby board; no qualifying AE role
 Cresta,claude,91,2026-06-30,Y,has open qualifying role
 Cribl,claude,89,2026-06-30,Y,has open qualifying role
 Customer.io,claude,,2026-07-02,Y,has open qualifying role
@@ -46,7 +46,7 @@ Grafana Labs,claude,,2026-06-30,N,evaluated (prior master exclusion list); no li
 Halcyon,claude,,2026-06-30,Y,has open qualifying role
 HappyCo,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Hex,claude,,2026-07-02,Y,has open qualifying role
-HiBob,claude,80,2026-07-02,Y,has open qualifying role
+HiBob,claude,80,2026-07-03,N,posting dead — UUID not in HiBob ATS; custom career site
 Highspot,claude,,2026-07-02,Y,has open qualifying role
 Hightouch,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Hivel,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -937,7 +937,7 @@ Red Bull,repvue,85.95,2026-07-01,N,top1000 RepVue scan: no verified role / ATS u
 Achieve,repvue,85.94,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Swipeby,repvue,85.94,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Vic.ai,repvue,85.94,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Ansys,repvue,85.93,2026-07-01,Y,top1000 RepVue scan: open AE role
+Ansys,repvue,85.93,2026-07-03,N,posting dead — DNS failure on careers.ansys.com; Synopsys subsidiary, site unresolvable
 Webware.ai,repvue,85.92,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Bilin Technology,repvue,85.92,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 PNI HCM,repvue,85.92,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -1354,7 +1354,7 @@ Paymerang,repvue,83.95,2026-07-02,N,RepVue scan: no verified role / ATS unresolv
 SevenRooms,repvue,83.94,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 "Treace Medical Concepts, Inc.",repvue,83.94,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Expel,repvue,83.94,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-Tableau (Salesforce),repvue,83.93,2026-07-02,Y,RepVue scan: open AE role
+Tableau (Salesforce),repvue,83.93,2026-07-03,N,posting dead — Salesforce careers redirect; no live qualifying Tableau AE role
 IHS Markit,repvue,83.93,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 FastSpring,repvue,83.91,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Merge by Merative,repvue,83.91,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -1738,3 +1738,53 @@ Triplebyte,repvue,,2026-07-03,N,hiring platform pivoted/wound down
 NFP,repvue,,2026-07-03,N,not B2B SaaS (insurance broker/benefits firm)
 Accelevents,repvue,,2026-07-03,N,Ashby board empty; no active jobs
 Seismic,repvue,,2026-07-03,N,no qualifying US-remote IC AE found
+Oktopost,repvue,,2026-07-03,N,no qualifying AE role — B2B social media mgmt; no US-remote IC AE posting found
+Zonda,repvue,,2026-07-03,N,not B2B SaaS target — housing/construction data analytics; no qualifying AE
+Adjust,repvue,,2026-07-03,N,ATS unresolved — mobile measurement SaaS (AppLovin subsidiary); no qualifying US-remote AE found
+Axis Communications,repvue,,2026-07-03,N,not B2B SaaS target — physical security hardware (Swedish company)
+Legrand,repvue,,2026-07-03,N,not B2B SaaS target — electrical/smart building hardware
+Opentrons Labworks Inc.,repvue,,2026-07-03,N,not B2B SaaS target — lab automation robotics
+OnShift,repvue,,2026-07-03,N,ATS unresolved — healthcare workforce scheduling SaaS; Greenhouse 404
+MESH,repvue,,2026-07-03,N,ATS unresolved — company identity unclear; no qualifying AE found
+GUIDEcx,repvue,,2026-07-03,N,ATS unresolved — customer onboarding SaaS; Greenhouse 404
+GWI,repvue,,2026-07-03,N,ATS unresolved — audience/consumer insights data; Ashby 404
+Vanguard,repvue,,2026-07-03,N,not B2B SaaS target — financial services giant
+Geotab,repvue,,2026-07-03,N,no qualifying AE — fleet telematics; no AE roles on Greenhouse board
+Paycom,repvue,,2026-07-03,N,ATS unresolved — payroll/HCM (public); Greenhouse 404
+AssemblyAI,repvue,,2026-07-03,N,no qualifying AE — Founding Ent AE geo-restricted to SF or NY; not US-remote
+Salt Security,repvue,,2026-07-03,N,no qualifying AE — Ent AEs all geo-restricted (Heartland/Gulf South/NJ-Philly/ANZ)
+Vatica Health,repvue,,2026-07-03,N,ATS unresolved — healthcare AI risk adjustment SaaS; no ATS found
+Asana,repvue,,2026-07-03,N,no qualifying AE — project mgmt SaaS (public); no IC AE on Greenhouse board
+Experian,repvue,,2026-07-03,N,not B2B SaaS target — credit bureau/data company
+BT,repvue,,2026-07-03,N,not B2B SaaS target — UK telecom
+Devada,repvue,,2026-07-03,N,ATS unresolved — company identity unclear; no qualifying AE found
+Comarch,repvue,,2026-07-03,N,not US target — EU enterprise software/telecom (Poland HQ)
+Avigilon,repvue,,2026-07-03,N,not B2B SaaS target — physical security cameras (Motorola Solutions)
+Peakon,repvue,,2026-07-03,N,ATS unresolved — employee engagement (Workday subsidiary); no independent ATS
+Xfactor.io,repvue,,2026-07-03,N,ATS unresolved — value selling platform (DecisionLink); Lever 404
+Hologic,repvue,,2026-07-03,N,not B2B SaaS target — medical devices
+Optos,repvue,,2026-07-03,N,not B2B SaaS target — medical imaging devices
+InsightSquared,repvue,,2026-07-03,N,ATS unresolved — revenue intelligence SaaS; no ATS endpoint found
+Integris,repvue,,2026-07-03,N,ATS unresolved — IT managed services; not typical B2B SaaS AE target
+First Advantage,repvue,,2026-07-03,N,ATS unresolved — background screening SaaS; no qualifying US-remote AE found
+UPS Supply Chain Solutions,repvue,,2026-07-03,N,not B2B SaaS target — logistics division of UPS
+Movement Mortgage,repvue,,2026-07-03,N,not B2B SaaS target — mortgage company
+When I Work,repvue,,2026-07-03,N,ATS unresolved — shift scheduling SaaS; Lever/Greenhouse 404
+Axonius,repvue,,2026-07-03,N,no qualifying AE — all Ent AEs geo-restricted to specific states; no US-remote IC MM AE
+PennyMac Loan Services,repvue,,2026-07-03,N,not B2B SaaS target — mortgage company
+Bruker,repvue,,2026-07-03,N,not B2B SaaS target — scientific instruments
+AudioEye,repvue,,2026-07-03,N,no qualifying AE — digital accessibility SaaS; no AE roles on Greenhouse board
+Dayforce,repvue,,2026-07-03,N,ATS unresolved — HCM SaaS (public Ceridian); uses own Dayforce ATS system
+Descartes Systems Group,repvue,,2026-07-03,N,ATS unresolved — supply chain logistics SaaS; no ATS endpoint found
+Paymentus,repvue,,2026-07-03,N,ATS unresolved — bill payment platform; Lever/Greenhouse 404
+Agicap España,repvue,,2026-07-03,N,not US target — cash flow management SaaS (French company, Spain branch)
+RealWork Labs,repvue,,2026-07-03,N,ATS unresolved — real estate local marketing; small/niche; no qualifying AE
+Perforce Delphix,repvue,,2026-07-03,N,no qualifying AE — Lever board: Japan AE + hybrid BDR only; no US-remote IC AE
+Integral Ad Science,repvue,,2026-07-03,N,ATS unresolved — digital ad measurement (IAS); no ATS endpoint found
+Par Technology,repvue,,2026-07-03,N,ATS unresolved — restaurant/retail technology; not typical B2B SaaS AE target
+Advanced Drainage Systems,repvue,,2026-07-03,N,not B2B SaaS target — drainage products manufacturer
+Ambient.ai,repvue,,2026-07-03,N,ATS unresolved — physical security AI; Ashby 404
+Verathon Medical,repvue,,2026-07-03,N,not B2B SaaS target — medical devices
+EDB (EnterpriseDB),repvue,,2026-07-03,Y,open Ent AE role (cloud managed PostgreSQL); US-remote; Greenhouse ID 7713194003
+Smarsh,repvue,,2026-07-03,Y,open Ent AE role (compliance archiving, financial services); US-remote; Lever ID cd0167b4-bdc3-49f6-b215-e267efed3365
+Hatch,repvue,,2026-07-03,N,ATS unresolved — home services CRM; not MM B2B SaaS match
