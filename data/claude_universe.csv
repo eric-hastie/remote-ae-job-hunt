@@ -27,7 +27,7 @@ Cribl,claude,89,2026-06-30,Y,has open qualifying role
 Customer.io,claude,,2026-07-02,Y,has open qualifying role
 Databricks,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Deel,claude,86,2026-07-02,Y,has open qualifying role
-Deepgram,claude,96,2026-06-30,Y,has open qualifying role
+Deepgram,claude,96,2026-07-02,N,link-fix 2026-07-02: Ashby board confirmed no AE postings; dropped
 Delinea,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Demandbase,claude,87,2026-07-02,N,"dropped 2026-07-02: no IC AE on live Ashby board (only Growth Account Director, MM expansion)"
 Doppler,claude,,2026-07-02,Y,has open qualifying role
@@ -54,7 +54,7 @@ Honeycomb,claude,81,2026-06-30,Y,has open qualifying role
 Huntress,claude,,2026-07-02,Y,has open qualifying role
 Incident.io,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Infios,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Infisical,claude,,2026-06-30,Y,has open qualifying role
+Infisical,claude,,2026-07-02,N,"link-fix 2026-07-02: Commercial AE requires SF/Austin relocation, not US-wide remote; dropped"
 Ironclad,claude,,2026-07-02,N,"dropped 2026-07-02: Ent-only AEs, hybrid per JD despite (Remote) label; board is Ashby ironcladhq not Greenhouse"
 Itential,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Iterable,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -85,12 +85,12 @@ Net Health,claude,,2026-06-30,N,evaluated (prior master exclusion list); no list
 NetBox Labs,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Numeric,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Outsystems,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-PagerDuty,claude,79,2026-06-30,Y,has open qualifying role
+PagerDuty,claude,79,2026-07-02,N,link-fix 2026-07-02: all live AE roles require 8+ yrs (senior-only); dropped
 Pigment,claude,,2026-07-02,Y,has open qualifying role
-Pulumi,claude,,2026-06-30,Y,has open qualifying role
+Pulumi,claude,,2026-07-02,N,link-fix 2026-07-02: no US-remote AE candidates on Greenhouse board; dropped
 Pylon,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Ramp,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Redpanda,claude,,2026-06-30,Y,has open qualifying role
+Redpanda,claude,,2026-07-02,N,link-fix 2026-07-02: Lever board gone (BOARD_GONE); dropped
 Render,claude,,2026-07-02,Y,has open qualifying role
 Retool,claude,84,2026-06-30,Y,has open qualifying role
 Rillet,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -108,7 +108,7 @@ Sumo Logic,claude,,2026-07-02,Y,has open qualifying role
 Supermetrics,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Syniti,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Synthflow AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Sysdig,claude,,2026-06-30,Y,has open qualifying role
+Sysdig,claude,,2026-07-02,N,link-fix 2026-07-02: no AE candidates on board; dropped
 Temporal,claude,95,2026-06-30,Y,has open qualifying role
 The Access Group,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Thoropass,claude,,2026-07-02,Y,has open qualifying role
@@ -468,7 +468,7 @@ Intercontinental Exchange (ICE),repvue,89.51,2026-06-30,N,top500 RepVue scan: no
 Enjoy Technology Inc,repvue,89.50,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Postscript.io,repvue,89.49,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Axos Bank,repvue,89.49,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Medius,repvue,89.48,2026-06-30,Y,top500 RepVue scan: open AE role
+Medius,repvue,89.48,2026-07-02,N,"link-fix 2026-07-02: career site HTTP dead, no accessible replacement; dropped"
 Sprinto,repvue,89.48,2026-07-02,Y,top500 RepVue scan: open AE role
 AMD,repvue,89.47,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Prisma SD-WAN,repvue,89.47,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -572,7 +572,7 @@ SalesAi,repvue,88.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS unr
 airfocus,repvue,88.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Scotiabank,repvue,88.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 SiteZeus,repvue,88.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-GitHub,repvue,88.57,2026-06-30,Y,top500 RepVue scan: open AE role
+GitHub,repvue,88.57,2026-07-02,N,"link-fix 2026-07-02: career site HTTP dead, no accessible Greenhouse board; dropped"
 Aquera,repvue,88.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 GRAPHISOFT,repvue,88.54,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Macabacus,repvue,88.54,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -759,7 +759,7 @@ Deeto,repvue,87.12,2026-06-30,N,top500 RepVue scan: no verified role / ATS unres
 Automata,repvue,87.12,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Toast,repvue,87.11,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Uproar Partners,repvue,87.10,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Camunda,repvue,87.10,2026-06-30,Y,top500 RepVue scan: open AE role
+Camunda,repvue,87.10,2026-07-02,N,link-fix 2026-07-02: all live AE roles are EU/international only; dropped
 Leavitt Machinery,repvue,87.10,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Skuid,repvue,87.10,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 SimCorp,repvue,87.09,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -812,7 +812,7 @@ Beanworks,repvue,86.79,2026-06-30,N,top500 RepVue scan: no verified role / ATS u
 Numerator,repvue,86.78,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Liongard,repvue,86.76,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Tennant Company,repvue,86.75,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Onshape,repvue,86.75,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Onshape,repvue,86.75,2026-07-02,N,"link-fix 2026-07-02: PTC career site HTTP dead, no alternative found; dropped"
 Fellow.ai,repvue,86.75,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Clariti,repvue,86.74,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Hiya Inc.,repvue,86.74,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -941,7 +941,7 @@ Ansys,repvue,85.93,2026-07-01,Y,top1000 RepVue scan: open AE role
 Webware.ai,repvue,85.92,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Bilin Technology,repvue,85.92,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 PNI HCM,repvue,85.92,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Vartana,repvue,85.91,2026-07-01,Y,top1000 RepVue scan: open AE role
+Vartana,repvue,85.91,2026-07-02,N,link-fix 2026-07-02: Lever board gone (BOARD_GONE); dropped
 Digital Realty,repvue,85.89,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Toolio,repvue,85.88,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 TradeWing,repvue,85.87,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -956,7 +956,7 @@ VMware,repvue,85.83,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unr
 Vertex Inc.,repvue,85.83,2026-07-01,Y,top1000 RepVue scan: open AE role
 Dubber,repvue,85.82,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 XOi Technologies,repvue,85.81,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Optro,repvue,85.81,2026-07-01,Y,top1000 RepVue scan: open AE role
+Optro,repvue,85.81,2026-07-02,N,link-fix 2026-07-02: Ashby board gone (BOARD_GONE); dropped
 AlphaSights,repvue,85.80,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Firefly,repvue,85.80,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 StorMagic,repvue,85.79,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -1001,7 +1001,7 @@ ExperiencePoint,repvue,85.59,2026-07-01,N,top1000 RepVue scan: no verified role 
 Regal Plastic Supply Company Inc.,repvue,85.59,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Normalyze,repvue,85.58,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Redfin,repvue,85.57,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Tiger Data,repvue,85.57,2026-07-01,Y,top1000 RepVue scan: open AE role
+Tiger Data,repvue,85.57,2026-07-02,N,"link-fix 2026-07-02: only live AE candidate is Barcelona/Spain, not US; dropped"
 Absorb Software,repvue,85.56,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Vena Solutions,repvue,85.55,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Bizzabo,repvue,85.54,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -1448,7 +1448,7 @@ Branch,repvue,83.60,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 nCino,repvue,83.59,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Armstrong Transport Group,repvue,83.59,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Blue Mountain Quality,repvue,83.59,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-You.com,repvue,83.59,2026-07-02,Y,RepVue scan: open AE role
+You.com,repvue,83.59,2026-07-02,N,link-fix 2026-07-02: no AE roles on Greenhouse board; dropped
 Recurrency,repvue,83.58,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 IntelligenceBank,repvue,83.58,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Simpli.fi,repvue,83.57,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -1528,7 +1528,7 @@ Nutrient,repvue,83.28,2026-07-02,N,RepVue scan: no verified role / ATS unresolve
 DraftKings,repvue,83.28,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Sticky.io,repvue,83.28,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Array Behavioral Care,repvue,83.28,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-Perforce Software,repvue,83.27,2026-07-02,Y,RepVue scan: open AE role
+Perforce Software,repvue,83.27,2026-07-02,N,link-fix 2026-07-02: all live AE candidates are non-US territories; dropped
 "Rezult Group, Inc.",repvue,83.27,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Flowspace,repvue,83.26,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 ResQ,repvue,83.26,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -1638,3 +1638,53 @@ Torch,repvue,,2026-07-02,N,ATS unresolved: Ent AE on Lever (torch) remote US —
 DataRails,repvue,,2026-07-02,N,ATS unresolved: US remote AE on GH (datarails) OTE ~$250K — network blocks API verification
 Qobra,repvue,,2026-07-02,N,no US AE found; French company with no US ATS board
 Crystal Knows,repvue,,2026-07-02,N,no qualifying AE found on standard ATS boards
+The Art of Education University,repvue,,2026-07-02,N,not B2B SaaS (online education institution)
+PerfectServe,repvue,,2026-07-02,N,no AE roles on board (only impl/ops)
+Converge Technology Solutions,repvue,,2026-07-02,N,not B2B SaaS (IT reseller/VAR)
+Zenjob,repvue,,2026-07-02,N,"not US-focused B2B SaaS (German HR staffing, EU market)"
+New Home Star,repvue,,2026-07-02,N,not B2B SaaS (real estate sales organization)
+Rise People,repvue,,2026-07-02,N,"not US-focused (Canadian HR SaaS, Canada-only market)"
+ServiceTitan,repvue,,2026-07-02,N,"ATS unresolved (Workday, JS-rendered, could not load AE posting)"
+Xactly Corp,repvue,,2026-07-02,N,ATS unresolved (could not find ATS board on Greenhouse/Lever)
+Tacton,repvue,,2026-07-02,N,"ATS unresolved (Lever 404, no board found)"
+Doppel,repvue,,2026-07-02,N,no AE roles (Ashby board: engineering/security ops only)
+Rexel,repvue,,2026-07-02,N,not B2B SaaS (electrical distribution company)
+Valimail,repvue,,2026-07-02,N,no AE roles (Greenhouse board empty)
+ControlUp,repvue,,2026-07-02,Y,"Enterprise IT ops SaaS; Commercial AE West, USA remote (WA/OR/CA/etc); Lever board"
+BioRender,repvue,,2026-07-02,N,"no AE roles (Lever: only test job, no sales openings)"
+TIDI Products,repvue,,2026-07-02,N,not B2B SaaS (medical supplies manufacturer)
+Repay,repvue,,2026-07-02,N,"ATS unresolved (Lever 404, Greenhouse 404)"
+ForgeRock,repvue,,2026-07-02,N,acquired by Ping Identity (2023) → Thales; no longer standalone brand
+iCapital,repvue,,2026-07-02,N,no AE roles (Greenhouse: relationship managers and engineers only)
+Press Ganey Forsta,repvue,,2026-07-02,N,ATS unresolved (Greenhouse 404 for slug 'forsta')
+CreatorIQ,repvue,,2026-07-02,Y,"B2B influencer marketing SaaS; Enterprise AE, California (Remote); Ashby board"
+Grantify US,repvue,,2026-07-02,N,not B2B SaaS (grant writing/consulting service)
+Wireless Zone LLC,repvue,,2026-07-02,N,not B2B SaaS (Verizon telecom retail franchise)
+American Fidelity,repvue,,2026-07-02,N,not B2B SaaS (insurance company)
+FM:Systems,repvue,,2026-07-02,N,ATS unresolved (Greenhouse 404)
+Industrious,repvue,,2026-07-02,N,not B2B SaaS (coworking space operator)
+Hexagon ALI,repvue,,2026-07-02,N,"ATS unresolved (Lever 404, no board found)"
+Digicert,repvue,,2026-07-02,N,no qualifying AE (Greenhouse: only associate account manager)
+SafeLease,repvue,,2026-07-02,N,no AE roles (Ashby: BDRs and ops only)
+PatientNow,repvue,,2026-07-02,N,ATS unresolved (Ashby 404)
+Tessell,repvue,,2026-07-02,N,ATS unresolved (Ashby 404)
+ResMan Property Management Software,repvue,,2026-07-02,N,ATS unresolved (Greenhouse 404)
+Jones Software,repvue,,2026-07-02,N,ATS unresolved (Greenhouse 404)
+Eigen Technologies,repvue,,2026-07-02,N,"ATS unresolved (Ashby 404, Greenhouse 404)"
+Relativity,repvue,,2026-07-02,N,ATS unresolved (Lever 404; Relativity Space found instead on Greenhouse)
+monday.com,repvue,,2026-07-02,N,"ATS unresolved (Greenhouse 404, own ATS JS-only); has AE roles per search but board inaccessible"
+Fever,repvue,,2026-07-02,N,not B2B SaaS (B2C event discovery platform)
+OpenSpace,repvue,,2026-07-02,N,"no US-remote AE (Greenhouse: field-based AE, 50% travel, in-market required)"
+Envysion,repvue,,2026-07-02,N,ATS unresolved (Greenhouse 404)
+Glean.ai,repvue,,2026-07-02,N,ATS unresolved (Ashby 404 for slug 'glean-ai')
+BizzyCar,repvue,,2026-07-02,N,ATS unresolved (no standard board found); likely SMB vertical only
+Concentra,repvue,,2026-07-02,N,not B2B SaaS (occupational medicine clinic network)
+project44,repvue,,2026-07-02,N,"no AE roles (Greenhouse: CS manager, director AI ops roles only)"
+Tock,repvue,,2026-07-02,N,acquired by Squarespace (2023); no longer standalone B2B SaaS
+Orthofix,repvue,,2026-07-02,N,not B2B SaaS (orthopedic medical device company)
+Aqua Security,repvue,,2026-07-02,N,"ATS unresolved (Greenhouse 404, Ashby 404, search: no standard ATS board found)"
+Schoox,repvue,,2026-07-02,N,ATS unresolved (Ashby 404)
+Moxo,repvue,,2026-07-02,N,ATS unresolved (Ashby 404 for slug 'moxtra')
+Wagepoint,repvue,,2026-07-02,N,"not US-focused (Canadian payroll SaaS, Canada SMB market)"
+TigerConnect,repvue,,2026-07-02,N,"ATS unresolved (Greenhouse 404, Lever 404)"
+QTS Data Centers,repvue,,2026-07-02,N,not B2B SaaS (data center REIT)
