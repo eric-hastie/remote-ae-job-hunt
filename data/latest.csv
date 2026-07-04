@@ -3,8 +3,6 @@ Maxio,150,,SMB/MM,Atlanta,Y,,SaaS billing & revenue,https://maxio.applytojob.com
 Hex,172,$220-240K,MM,San Francisco,Y,,Data science / analytics,https://hex.tech/careers/midmarket-account-executive/
 Apollo.io,250,~$180K,MM,San Francisco,Y,85,Sales intelligence / GTM,https://job-boards.greenhouse.io/apolloio/jobs/6015562004
 Bloomreach,422,$200-250K,MM,Mountain View,Y,89,E-commerce personalization,https://job-boards.greenhouse.io/bloomreach/jobs/7051101
-Deel,982,$175-185K,MM,San Francisco,Y,86,Global payroll / EOR,https://jobs.ashbyhq.com/deel/19edf0ba-b735-421b-a22c-b11e6734e282
-HiBob,574,$160-240K,MM,New York,Y,80,HRIS / HR-tech,https://hibob-fa0ad69d0cb34a.careers.hibob.com/jobs/3072f3c1-3212-4ac2-bc6a-a69be0eac267
 Samsara,public,$152-190K,MM,San Francisco,Y,86,Fleet / IoT telematics,https://www.samsara.com/company/careers/roles/7609126?gh_jid=7609126
 Lytx,769,$250-290K,MM,San Diego,Y,69,Fleet video telematics,https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Senior-Account-Executive--Mid-Market-_R-3981
 Abnormal Security,534,~$170-200K,MM,San Francisco,Y,,Email / AI cybersecurity,https://job-boards.greenhouse.io/abnormalsecurity/jobs/7662284003
@@ -24,16 +22,13 @@ Eve,164,$300-310K (Ent) / $150-200K base (MM),MM/Ent,San Francisco,Y,,AI-native 
 Doppler,29,$220-250K,MM/Ent,San Francisco,Y,,Secrets management,https://jobs.ashbyhq.com/Doppler/1d4d38d5-4501-4c76-91bc-538521020099
 Pigment,390,~$200-320K,MM/Ent,Paris / US,Y,,FP&A / business planning SaaS,https://jobs.lever.co/pigment/ffcd4bd3-b8c0-4778-a545-49d70511ed72
 Arctic Wolf,899,,Ent (MM-focused),Eden Prairie MN,Y,,MDR / SOC / security ops,https://arcticwolf.wd1.myworkdayjobs.com/External
-Honeycomb,177,$274-300K,Ent,San Francisco,Y,81,Observability,https://job-boards.greenhouse.io/honeycomb/jobs/4662407008Retool,350,$180-350K base,Ent,San Francisco,Y,84,Internal-tools / app dev,https://retool.com/careers/account-executive-enterprise-east--sales--united-states-remote
-Apollo GraphQL,183,$110-210K,Ent,San Francisco,Y,76,API / GraphQL platform,https://jobs.ashbyhq.com/apollo-graphql/bbe935fa-7e4a-40d6-8623-c9fa911a1202
-Redpanda,266,$150-165K base,Ent,San Francisco,Y,,Streaming data platform,https://job-boards.greenhouse.io/redpandadata/jobs/4694385005
+Honeycomb,177,$274-300K,Ent,San Francisco,Y,81,Observability,https://job-boards.greenhouse.io/honeycomb/jobs/4662407008
+Retool,350,$180-350K base,Ent,San Francisco,Y,84,Internal-tools / app dev,https://retool.com/careers/account-executive-enterprise-east--sales--united-states-remote
+Apollo GraphQL,183,$110-210K,Ent,San Francisco,Y,76,API / GraphQL platform,https://jobs.ashbyhq.com/apollo-graphql/415db1ad-746c-4384-acda-7caadf5c457b
 Monte Carlo,236,$300-350K,Ent,San Francisco,Y,,Data observability / quality,https://jobs.ashbyhq.com/montecarlodata/4a57ba0f-3be5-4138-b863-f8c7a575c3e0
 Sigma Computing,581,~$220K,Ent,San Francisco,Y,,Cloud BI / analytics,https://job-boards.greenhouse.io/sigmacomputing/jobs/7767630003
-Temporal,650,$300-350K,Ent,Seattle,Y,95,Workflow orchestration infra,https://job-boards.greenhouse.io/temporaltechnologies/jobs/5095636007
-Infisical,19,,Ent,San Francisco,Y,,Secrets mgmt / security infra,https://jobs.ashbyhq.com/infisical/01227d50-aba6-4a79-8a27-72d40f1fa4b6
+Infisical,19,,MM,San Francisco,Y,,Secrets mgmt / security infra,https://jobs.ashbyhq.com/infisical/1c7943a5-81b9-48dd-a355-bab3492399f1
 Accrue,29,$240-320K,Ent,New York,Y,,Payments / branded wallets,https://job-boards.greenhouse.io/accrue/jobs/4497383008
-Chargebee,468,~$200K (base 130-140K),Ent,North Bethesda MD,Y,,Subscription billing / revenue,https://careers.chargebee.com/jobs/DhPXRPHS4dut/enterprise-account-executive-any-location-within-usa
-ThoughtSpot,664,~$218K,Ent,Mountain View,Y,79,Search & AI analytics (BI),https://thoughtspot.wd5.myworkdayjobs.com/en-US/careers/job/Enterprise-Account-Executive_JR2099
 ClickHouse,1050,$280-320K,Ent,Bay Area,Y,,Real-time analytics / OLAP DB,https://job-boards.greenhouse.io/clickhouse/jobs/5800037004
 Gong,583,$270-330K,Ent,San Francisco,Y,88,Revenue intelligence / salestech,https://job-boards.greenhouse.io/gongio/jobs/4655626006
 Rippling,2400,~$300K,Ent,San Francisco,Y,86,HRIS / HCM + IT/Finance,https://ats.rippling.com/rippling/jobs/0db7c317-22c6-4e86-a67d-09e573ce0d96
@@ -41,15 +36,13 @@ Komodo Health,314,$140-180K base+comm,Ent,San Francisco,Y,79,Healthcare data / a
 Deepgram,215,$300-340K,Ent,San Francisco,Y,96,Voice AI / speech infra,https://jobs.ashbyhq.com/Deepgram/91ea80f4-cc54-4c52-8ef5-d2c2b2764640
 Cresta,282,$240-300K,Ent,San Francisco,Y,91,Generative AI for contact centers,https://job-boards.greenhouse.io/cresta/jobs/4494927008
 Glean,504,$260-320K,Ent,Palo Alto,Y,80,Enterprise AI assistant / search,https://job-boards.greenhouse.io/gleanwork/jobs/4694661005
-Arize AI,131,$250-300K,Ent,Berkeley/SF,Y,87,AI / LLM observability,https://job-boards.greenhouse.io/arizeai/jobs/5410031004
-Augury,369,,Ent,New York,Y,84,Industrial AI / machine-health,https://job-boards.greenhouse.io/augury/jobs/8133702002
+Arize AI,131,$250-300K,Ent,Berkeley/SF,Y,87,AI / LLM observability,https://job-boards.greenhouse.io/arizeai/jobs/6098773004
 Commure,750,~$300K,Ent,Mountain View,Y,78,AI healthcare ops / RCM,https://jobs.ashbyhq.com/commure/cde9a56a-e907-4277-a9f1-a6b7f9e9ae6e
 Keeper Security,60,,Ent,Chicago,Y,,IAM / PAM / secrets mgmt,https://job-boards.greenhouse.io/keepersecurity/jobs/4090345009
-Halcyon,209,$280-320K,Ent,Austin,Y,,Anti-ransomware / endpoint,https://job-boards.greenhouse.io/halcyon/jobs/5762532004
-Sysdig,744,$283-388K,Ent,San Francisco,Y,,Cloud security / vuln & threat,https://jobs.lever.co/sysdig/d200f988-f8db-4b5c-a717-b0e876e04766
+Halcyon,209,$280-320K,Ent,Austin,Y,,Anti-ransomware / endpoint,https://job-boards.greenhouse.io/halcyon/jobs/5708979004
 GitGuardian,56,$310-340K,Ent (West only),Paris / US,Y,,Secrets detection / DevSecOps,https://careers.gitguardian.com/jobs/7861885-enterprise-account-executive-west
-Webflow,336,$205-270K,Ent,San Francisco,Y,,Website builder / digital experience,https://job-boards.greenhouse.io/webflow/jobs/7595470
-Writer,369,,Ent,San Francisco,Y,,AI enterprise platform,https://jobs.ashbyhq.com/writer/651006b5-6654-464f-b50d-8db9e3513b89
+Webflow,336,,MM,San Francisco,Y,,Website builder / digital experience,https://job-boards.greenhouse.io/webflow/jobs/6124408
+Writer,369,$340-350K,Ent,San Francisco,Y,,AI enterprise platform,https://jobs.ashbyhq.com/writer/55e79a1b-ca5b-42be-89d6-21409d034713
 Amplitude,,,Ent,San Francisco,Y,,Product analytics,https://job-boards.greenhouse.io/amplitude/jobs/8593702002
 6sense,,,Ent,San Francisco,Y,,ABM / B2B predictive intelligence,https://job-boards.greenhouse.io/6sense/jobs/5542296
 Postman,,$180-230K,MM,San Francisco,Y,,API development platform,https://job-boards.greenhouse.io/postman/jobs/7722321003
@@ -78,14 +71,11 @@ Garner Health,,"$200,000–$225,000",MM,"New York, NY",Y,90.11,Health Benefits /
 Insider One,,$300K,Ent,"Istanbul, Turkey (US remote role)",Y,89.89,MarTech SaaS,https://jobs.lever.co/insiderone/4fbfb579-7cef-4be9-aca5-2a5b87d38f3d
 Horizon3.ai,,$180K–$240K,MM/Ent,"San Francisco, CA",Y,89.56,Cybersecurity SaaS,https://jobs.ashbyhq.com/horizon3ai/c72d82d9-ec73-4163-9b8e-00be0623ae44
 NeuraFlash,,,MM/Ent,"Needham, MA",Y,89.52,Salesforce/AWS Consulting SaaS,https://job-boards.greenhouse.io/neuraflash/jobs/6013420004
-Medius,,$300K–$350K,Ent,"Stockholm, Sweden (US remote)",Y,89.48,AP Automation SaaS,https://career.medius.com/jobs/7445284-enterprise-account-executive-us-remote
 Sprinto,,$140K–$200K,Ent,"San Francisco, CA",Y,89.48,Security Compliance SaaS,https://jobs.lever.co/Sprinto/71158459-781d-43bd-984c-f16af3b503fa
 Tekmetric,,,MM,"Austin, TX",Y,89.02,Software,https://job-boards.greenhouse.io/tekmetric/jobs/6016176004
 FMX,,,Ent,"Columbus, OH",Y,89.01,Software,https://apply.workable.com/fmx/j/19BF5A3A6E
-UserEvidence,,,Ent,"Jackson, WY",Y,89.20,Software,https://apply.workable.com/userevidence/j/9CD3099D27
 Balto,,$245K–$255K,MM,"St. Louis, MO",Y,88.93,Software (AI contact center / sales coaching),https://ats.rippling.com/balto/jobs/3c26c96d-3dad-47f1-81c9-5c38095a5e76
 Doxel,,$220K–$320K,Ent,"Redwood City, CA",Y,88.88,Software (AI construction tech),https://jobs.lever.co/doxel/ae7d9fa9-7a7e-4060-b810-db04d29aae66
-GitHub,,$264K–$354K (50/50 split on $132K–$177K ,Ent,"San Francisco, CA",Y,88.57,Internet / Developer Tools,https://www.github.careers/careers-home/jobs/3018
 Megaport,,~$300K (market data; not stated in posti,Ent,"Brisbane, Australia (US operations)",Y,88.60,Internet / Network-as-a-Service,https://jobs.lever.co/megaport/c1fd8abd-364c-498a-906d-34ca8d69d1b4
 Aligned,,"$220,000",MM,"Wilmington, DE",Y,88.37,Software (B2B SaaS - Digital Sales Rooms),https://job-boards.greenhouse.io/aligned/jobs/4685191101
 AlphaSense,,$230K–$280K est. (base $99K–$155K + unca,Ent,"New York, NY",Y,88.24,Software,https://job-boards.greenhouse.io/AlphaSense/jobs/8169790002
@@ -101,7 +91,6 @@ Parchment (Instructure),,$180K–$225K,MM,"Salt Lake City, UT",Y,,Software (EdTe
 Rafay,,,Ent,"Sunnyvale, CA",Y,87.36,Software,https://rafay.co/careers/enterprise-account-executive-us-remote
 A-LIGN,,,Ent,"Tampa, FL",Y,87.22,Information Technology and Services,https://job-boards.greenhouse.io/ALIGN/jobs/8045085002
 Pricefx,,,Ent,"Chicago, IL",Y,87.22,Software,https://careers.jobscore.com/careers/pricefx/jobs/enterprise-account-executive-co-htuQD5p84LpuKVOWVL_
-Camunda,,~$244K (est. range $190K–$323K; posting ,Ent,"Berlin, Germany (fully distributed globally)",Y,87.10,Software (process automation/orchestration),https://jobs.ashbyhq.com/camunda/0e9e28dc-dfaf-4de5-8dd2-8dfd3a7f7642
 Kyriba,,$265K–$320K (base $147K–$186K),Ent,"San Diego, CA",Y,87.08,Software (treasury/financial SaaS),https://kyriba.wd5.myworkdayjobs.com/en-US/Kyriba-Careers/job/Strategic-Account-Executive_R-06229
 Singular,,,MM/Ent,"San Francisco, CA",Y,87.05,Software (mobile marketing analytics),https://jobs.ashbyhq.com/singular/2eef2b4a-8db5-4340-a600-050119b35c98
 Satori Cyber,,$300K–$320K,Ent,"San Diego, CA",Y,87.08,Software (data security/cybersecurity SaaS),https://satoricyber.com/careers/enterprise-account-executive-locationus-east/
@@ -113,14 +102,10 @@ Buildkite,,"$220K–$300K (base $110K–$150K, 50/50 spl",Ent,"Melbourne, Austra
 Seso Inc.,,"$180,000–$260,000 OTE uncapped",Ent,"San Francisco, CA",Y,86.27,Software,https://job-boards.greenhouse.io/sesolabor/jobs/4506861005
 Taulia,,,Ent,"San Francisco, CA",Y,86.21,Finance / Fintech SaaS,https://careers.taulia.com/job/Regional-Account-Executive-%28Midwest%29/1354118500/
 Ansys (Synopsys subsidiary),,~$260K (RepVue median; not stated in pos,Ent,"Canonsburg, PA",Y,85.93,Software (B2B simulation/EDA),https://careers.ansys.com/job/San-Diego-Enterprise-Account-Executive-Semiconductor-Remote-CA-92121/1257871500/
-Vartana,,,Ent,"San Francisco, CA",Y,85.91,Software (Revenue Acceleration / Fintech SaaS,https://jobs.lever.co/Vartana/0e4c6de6-a64a-4185-883f-8c56ef52f878
 Vertex Inc.,,$160K–$300K,Ent,"King of Prussia, PA",Y,85.83,Software (Tax Technology SaaS),https://builtin.com/company/vertex/jobs
-Optro (AuditBoard),,$240K–$360K,Ent,"Cerritos, CA",Y,85.81,Software (GRC / Audit Risk SaaS),https://jobs.ashbyhq.com/auditboard/0f831e12-a7ed-4d2e-aafe-1c7c425fb897
-SailPoint,,~$280K-$300K,Ent,"Austin, TX",Y,85.77,Software (Identity Security),https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-Massachusetts-USA/Enterprise-Account-Executive-Massachusetts_R013016
 Varicent,,,Ent,"Toronto, Canada",Y,85.76,Software (Sales Performance Management),https://job-boards.greenhouse.io/varicent/jobs/4826237008
-Tiger Data,,"$280,000–$320,000",Ent,"San Francisco, CA",Y,85.57,Software (Data Infrastructure / B2B SaaS),https://jobs.ashbyhq.com/tigerdata/15be1baf-144f-47fd-85e4-62c0a25f17d8
 runZero,,$300K,Ent,"Boulder, CO",Y,85.46,Software (Cybersecurity),https://www.runzero.com/about/careers/apply/?gh_jid=5821374004
-FireMon,,,Ent,"Overland Park, KS",Y,85.31,Software (Cybersecurity),https://jobs.lever.co/firemon/3e01a57d-9c84-46d6-b47e-e5dccfbf3e28
+FireMon,,,Ent,"Overland Park, KS",Y,85.31,Software (Cybersecurity),https://jobs.lever.co/firemon/c5c7c67f-617d-4740-ba8c-94d071de60ee
 AssetWatch,,,MM,"Charlotte, NC",Y,85.24,Manufacturing / IoT SaaS,https://job-boards.greenhouse.io/assetwatch/jobs/4633800005
 Crunchtime (Zenput),,$200K–$240K,Ent,"Boston, MA",Y,79.59,Restaurant Operations SaaS,https://boards.greenhouse.io/zenput/jobs/5792748004
 Breezeway,,,MM/Ent,"Boston, MA",Y,85.09,Internet / Hospitality SaaS,https://job-boards.greenhouse.io/breezeway/jobs/5231813008
@@ -128,11 +113,10 @@ Qualified,,$200K–$250K,MM,"San Francisco, CA",Y,85.04,Software,https://jobs.as
 Runway,,$250K–$300K,Ent,"New York, NY",Y,84.98,Software,https://jobs.ashbyhq.com/runway-ml/0a79e4be-d7ea-4d43-9400-33a23f552b81
 Juniper Square,,,Ent,"San Francisco, CA",Y,85.00,Information Technology and Services,https://jobs.ashbyhq.com/junipersquare/f4864a91-dfc8-47f4-b0af-ae3fb3f65557
 Turquoise Health,,$220K–$245K,Ent,"San Diego, CA (fully remote company)",Y,84.93,Healthcare SaaS / Price Transparency,https://jobs.ashbyhq.com/turquoise-health/a25eb0dd-89bd-4a59-94a2-f8439fe3f10b
-n8n,,$250K–$300K,Ent,"Berlin, Germany (US remote team)",Y,84.96,Workflow Automation SaaS,https://jobs.ashbyhq.com/n8n/c7fa45d1-6c5f-4fb8-8224-e5e04529c2bf
+n8n,,$160-200K,MM,"Berlin, Germany (US remote team)",Y,84.96,Workflow Automation SaaS,https://jobs.ashbyhq.com/n8n/6958f6e4-ea19-4ddd-87df-d96901640e85
 Verifiable,,,Ent,"Austin, TX (fully remote)",Y,84.88,Healthcare Credentialing SaaS,https://jobs.lever.co/verifiable/5a01eded-7e4c-473d-8dd5-0711cd08ebb0
 Endor Labs,,$240K–$320K,Ent,"Palo Alto, CA",Y,84.84,Software / Application Security,https://job-boards.greenhouse.io/endorlabs/jobs/4704667005
 AcuityMD,,"$240,000–$300,000",Ent,"Boston, MA",Y,84.53,Medical Device SaaS,https://job-boards.greenhouse.io/acuitymd/jobs/5722026004
-CoLab Software,,,Ent,"St. John's, NL, Canada",Y,84.53,Engineering Collaboration SaaS,https://job-boards.greenhouse.io/colabsoftware/jobs/5263320008
 Smartling,,"$200,000–$240,000",Ent,"New York, NY",Y,84.46,Software,https://job-boards.greenhouse.io/smartling/jobs/7438991
 OnBoard,,,MM,"Indianapolis, IN",Y,84.83,Software,https://job-boards.greenhouse.io/onboardmeetings/jobs/5994263004
 BuildOps,,$280K–$300K,Ent,"Los Angeles, CA",Y,84.75,Software,https://job-boards.greenhouse.io/buildops/jobs/5818344004
@@ -142,30 +126,24 @@ Dynatrace,,"~$280K-$384K (base $140K-$192K, ~49/51 s",Ent,"Waltham, MA",Y,83.98,
 Tableau (Salesforce),,"Base $77,550-$267,250 (OTE ~$155K-$285K ",MM/Ent,"Seattle, WA",Y,,Software,https://careers.salesforce.com/en/jobs/jr298335/commercialenterprise-account-executive-tableau-tech-mediaconsumer-business-services/
 Superside,,~$235K (RepVue median),Ent,"San Francisco, CA",Y,83.87,Professional / Business Services,https://careers.superside.com/jobs/enterprise-account-executive
 Figma,,,MM,"San Francisco, CA",Y,83.82,Software,https://job-boards.greenhouse.io/figma/jobs/5422236004
-F5,,,Ent,"Seattle, WA",Y,83.81,Information Technology and Services,https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Enterprise-Account-Executive--Financial-Services-_RP1037101
-Genesys,,$180K–$300K,MM,"Daly City, CA",Y,83.78,Software (CCaaS / B2B SaaS),https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Account-Executive--Commercial_JR106428
-Zapier,,$250K–$290K,Ent,"San Francisco, CA (fully remote)",Y,83.77,Software (Workflow Automation B2B SaaS),https://jobs.ashbyhq.com/zapier/68b635ca-0d12-4b3c-9404-3cc2a2f99274
+Zapier,,$180-230K,MM,"San Francisco, CA (fully remote)",Y,83.77,Software (Workflow Automation B2B SaaS),https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672
 Contentstack,,~$210K-$260K (base $105K-$130K + variabl,MM,"San Francisco, CA",Y,83.61,Software / Headless CMS SaaS,https://job-boards.greenhouse.io/Contentstack/jobs/7763656003
 Datch,,,Ent,"San Francisco, CA",Y,83.60,Software,https://www.datch.io/jobs/account-executive
-You.com,,$150K–$200K base (OTE unspecified),Ent,"Palo Alto, CA",Y,83.59,Software,https://job-boards.greenhouse.io/youcom/jobs/5079079008
 TrustArc,,,MM/Ent,"San Francisco, CA",Y,83.54,Software (Data Privacy SaaS),https://jobs.lever.co/trustarc/86de7104-e6a0-4a23-953d-7c7b66ac514b
 Active Network (Global Payments),,,Ent,"Atlanta, GA",Y,83.46,Software (Recreation Management SaaS),https://jobs.globalpayments.com/en/jobs/r0069162/senior-account-executive-enterprise/
 CivicPlus,,$116K–$205K,Ent,"Manhattan, KS",Y,83.42,Information Technology and Services (GovTech ,https://jobs.jobvite.com/civicplus/job/o2vbAfw2
 Verse.ai,,$290K–$350K,Ent,"San Francisco, CA",Y,83.34,Energy Intelligence Software (B2B SaaS),https://job-boards.greenhouse.io/verse/jobs/5158103008
-Perforce Software,,$280K–$300K,Ent,"Minneapolis, MN",Y,83.27,Software,https://jobs.lever.co/perforce/44a61a19-7d63-4707-a941-8804dd17649f
 Widewail,,$140K,MM,"Burlington, VT",Y,83.25,Software,https://ats.rippling.com/widewail/jobs/c0b9e2d9-98f3-4d39-8a74-430e0eb9e93a
 Procore Technologies,,$174K–$240K,MM,"Carpinteria, CA",Y,83.20,Software,https://careers.procore.com/jobs/commercial-account-executive-us-remote-ma-massachusetts-united-states
 Obsidian Security,,,Ent,"Newport Beach, CA",Y,83.16,Software,https://job-boards.greenhouse.io/obsidiansecurity/jobs/4822499008
 Akamai,,"$157,900–$328,100",Ent,"Cambridge, MA",Y,83.15,Software,https://jobs.akamai.com/en/sites/CX_1/job/1545
 Portnox,,,MM/MM-Ent,"Austin, TX (R&D Israel)",Y,83.17,Information Technology and Services,https://portnox.pinpointhq.com/jobs/209552
-HubSpot,,,MM,"Cambridge, MA",Y,83,CRM & marketing platform,https://www.hubspot.com/careers/jobs/5990166?gh_jid=5990166
 Datarails,,,MM,New York,Y,83,FP&A software,https://job-boards.greenhouse.io/datarails/jobs/4302569009
 Forma.ai,,,Ent,Toronto,Y,83,Sales performance management,https://job-boards.greenhouse.io/formaaiinc/jobs/4295669005
 ClickUp,,,Ent,San Diego,Y,83,Productivity / work management,https://jobs.ashbyhq.com/clickup/b7c38a60-b46d-475a-b15b-757421abfc03
 Adthena,,,Ent,Austin / London,Y,83,Search intelligence,https://jobs.ashbyhq.com/adthena/29939a07-c944-4535-9252-daae6c2e55d4
 CreatorIQ,,,Ent,"Los Angeles, CA",Y,,Software (B2B Influencer Marketing / Creator Intelligence SaaS),https://jobs.ashbyhq.com/creatoriq/123df564-db11-46f0-b59a-0659b1491ce4
 ControlUp,,,MM,"Santa Clara, CA",Y,,Software (IT Operations / Digital Employee Experience SaaS),https://jobs.lever.co/controlup/59b39087-15e5-4ea5-ba36-e68e10863053
-EDB (EnterpriseDB),,,Ent,"Bedminster, NJ",Y,,Enterprise database SaaS (cloud managed PostgreSQL),https://www.enterprisedb.com/careers/job-openings?gh_jid=7713194003
 Smarsh,,,Ent,"Portland, OR",Y,,Compliance archiving B2B SaaS (financial services),https://jobs.lever.co/smarsh/cd0167b4-bdc3-49f6-b215-e267efed3365
 Fonoa,,,Ent,"Dublin, Ireland (US remote team)",Y,,Tax automation SaaS,https://jobs.ashbyhq.com/fonoa/17d99b1a-5177-488c-b485-6db96ee02bc6
 ID.me,394,$280K-$320K,Ent,"McLean, VA",Y,,Identity verification SaaS,https://job-boards.greenhouse.io/idme/jobs/7675013003
@@ -175,4 +153,6 @@ NinjaOne,231,,Ent (SLED),"Austin, TX",Y,,IT management SaaS (MSP/endpoint),https
 Northspyre,,$250K+,Ent,"Atlanta, GA",Y,,Construction / Real Estate Development SaaS,https://job-boards.greenhouse.io/northspyre/jobs/7774971003
 Classy.org (GoFundMe Pro),,$135K-$200K,MM,"San Diego, CA",Y,,Nonprofit Fundraising SaaS,https://job-boards.greenhouse.io/gofundme/jobs/7398335
 Dovetail,,,MM,"Sydney, Australia",Y,,User research / product insights SaaS,https://jobs.ashbyhq.com/dovetail/f963c62b-100d-47df-b5aa-954464065bb2
-Druva,,,MM,"Sunnyvale, CA",Y,,Cloud data protection SaaS,https://www.druva.com/why-druva/explore/careers/jobs/8575565002/?gh_jid=8575565002
+DailyPay,,,Ent,"New York, NY",Y,,Earned wage access / HR benefits SaaS,https://jobs.ashbyhq.com/dailypay/85c57e2b-2535-4f66-91b5-d36f71dda1ce
+Lumos,,,Ent,"San Francisco, CA",Y,,SaaS management / app governance,https://jobs.ashbyhq.com/lumos/29e2c4e5-d7c8-4e00-9c51-9aad8509a9c3
+Fello,,,MM,,Y,,Real estate marketing / CRM SaaS,https://fello.rippling-ats.com/job/776922/senior-account-executive
