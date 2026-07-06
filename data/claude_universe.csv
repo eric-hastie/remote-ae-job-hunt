@@ -2099,7 +2099,7 @@ Revvity,repvue,,2026-07-04,N,not B2B SaaS (life sciences instruments; rebranded 
 CipherHealth,repvue,,2026-07-04,N,AE exists (GH 7700010) but 8-15yr req; senior-only
 Pindrop Security,repvue,,2026-07-04,N,no AE role on GH board (only Director-level sales)
 Verified First,repvue,,2026-07-04,N,ATS unresolved (no match on standard boards)
-Brinks Inc,repvue,,2026-07-04,N,not B2B SaaS (security transport company)
+Brink’s Inc,repvue,,2026-07-04,N,not B2B SaaS (security transport company)
 Bitwarden,repvue,,2026-07-04,Y,MM AE (GH 7789818003) + Ent AE (7789345003); US-remote; 4-8yr
 Maltego Technologies,repvue,,2026-07-04,N,ATS unresolved (Lever 404; no board found)
 QGenda,repvue,,2026-07-04,N,no AE role on GH board
@@ -2138,7 +2138,7 @@ Marigold,repvue,,2026-07-04,N,ATS unresolved (Lever/GH 404; no board after 3 tri
 ELB Learning,repvue,,2026-07-04,N,ATS unresolved; niche e-learning dev tools
 GoSite,repvue,,2026-07-04,N,SMB-only local business SaaS; no MM/Ent AE
 Agent Elite,repvue,,2026-07-04,N,not B2B SaaS (real estate agent technology)
-Brink's Inc,repvue,,2026-07-05,N,not B2B SaaS (physical security/cash logistics)
+Brink’s Inc,repvue,,2026-07-05,N,not B2B SaaS (physical security/cash logistics)
 "ServiceMax, Inc.",repvue,,2026-07-05,N,ATS unresolved (Salesforce subsidiary; not on GH/Ashby/Lever)
 "Chetu, Inc.",repvue,,2026-07-05,N,not B2B SaaS (IT services/custom dev)
 "Cellular Sales, Inc.",repvue,,2026-07-05,N,not B2B SaaS (telecom retail)
@@ -2188,7 +2188,7 @@ Fortem International,repvue,,2026-07-05,N,ATS unresolved (not on Lever)
 ReliaQuest,repvue,,2026-07-05,N,ATS unresolved (uses Workday JS-blocked; Enterprise AE roles exist)
 Secure24,repvue,,2026-07-05,N,not B2B SaaS (alarm/security services)
 OneSource Virtual,repvue,,2026-07-05,N,ATS unresolved (Workday BPO services)
-Brink's Inc,repvue,,2026-07-05,N,not B2B SaaS (cash management/physical security)
+Brink’s Inc,repvue,,2026-07-05,N,not B2B SaaS (cash management/physical security)
 Hippo Insurance,repvue,,2026-07-05,N,ATS unresolved (GH/Ashby/Lever 404; insurance product not B2B SaaS)
 Equinix,repvue,,2026-07-05,N,not B2B SaaS (data center infrastructure/colocation)
 Menlo Security,repvue,,2026-07-05,N,no AE (Ashby: only engineering/finance/security roles)
@@ -2237,7 +2237,7 @@ Davisware,repvue,,2026-07-05,N,ATS unresolved (GH/Ashby 404; niche field service
 Fusion Risk Management,repvue,,2026-07-05,N,ATS unresolved (GH/Lever/Ashby 404; risk/BCM SaaS; OTE may be below bar)
 Parloa,repvue,,2026-07-05,N,no US AE (EU Greenhouse: only Austria and Turkey AE roles)
 Corelight,repvue,,2026-07-05,N,territory-based remote AE (Central/Dallas territory only; senior Enterprise AE)
-Brink's Inc,repvue,,2026-07-05,N,not B2B SaaS (armored car/cash management services)
+Brink’s Inc,repvue,,2026-07-05,N,not B2B SaaS (armored car/cash management services)
 Umbrella,repvue,,2026-07-05,N,ATS unresolved (tried Anodot slug; no AE found on boards)
 "Axonics, Inc.",repvue,,2026-07-05,N,not B2B SaaS (medical devices)
 Briq,repvue,,2026-07-05,N,ATS unresolved (no board found after multiple tries)
@@ -2287,7 +2287,7 @@ Invoca,repvue,,2026-07-05,N,no AE (GH board found under invoca slug; no current 
 Green Key Resources,repvue,,2026-07-05,N,not B2B SaaS (staffing/recruiting agency)
 aPriori,repvue,,2026-07-05,N,posting not found (Enterprise AE job 5159062004 returns 404 on GH board)
 Envoy Global,repvue,,2026-07-05,Y,Enterprise AE; Chicago or Remote (US); ~$175K OTE; immigration management SaaS
-Brink's Inc,repvue,,2026-07-05,N,not B2B SaaS (armored trucks / cash management)
+Brink’s Inc,repvue,,2026-07-05,N,not B2B SaaS (armored trucks / cash management)
 Arbon Equipment Corporation,repvue,,2026-07-05,N,not B2B SaaS (industrial equipment dealer)
 Uncountable Inc.,repvue,,2026-07-05,N,Junior AE only (no IC AE roles on Ashby board)
 Salus,repvue,,2026-07-05,N,ATS unresolved (no B2B SaaS AE found on standard boards)
@@ -2337,7 +2337,7 @@ Rescale,repvue,,2026-07-05,N,no AE on current Ashby board (only Engagement Manag
 ConstructConnect,repvue,,2026-07-05,N,ATS unresolved (Cincinnati-based; no confirmed US-remote AE)
 Apex Revenue,repvue,,2026-07-05,N,not B2B SaaS (outsourced outbound sales services)
 Love's Travel Stops,repvue,,2026-07-05,N,not B2B SaaS (truck stops / travel centers)
-Brink's Inc,repvue,,2026-07-05,N,not B2B SaaS (cash logistics / armored car)
+Brink’s Inc,repvue,,2026-07-05,N,not B2B SaaS (cash logistics / armored car)
 "Tellius, Inc.",repvue,,2026-07-05,Y,AI analytics SaaS; open Ent AE on Greenhouse (already in latest.csv)
 BlackLine,repvue,,2026-07-05,N,ATS unresolved (iCIMS; current MM AE posting URLs returned 410/404)
 AgentSync,repvue,,2026-07-05,N,no AE role currently (Rippling ATS; only legal/product open)
@@ -2387,7 +2387,7 @@ SV Academy,repvue,,2026-07-05,N,not B2B SaaS (sales training bootcamp)
 Avalara,repvue,,2026-07-05,N,ATS unresolved (tax compliance SaaS; Vista Equity; Workday)
 Sybill,repvue,,2026-07-05,N,no qualifying AE (only Head of Sales open; AI sales SaaS)
 Flywheel Digital,repvue,,2026-07-05,N,no AE role (only future-opps placeholder; retail media SaaS)
-Brink's Inc,repvue,,2026-07-06,N,not B2B SaaS (armored transport/physical security)
+Brink’s Inc,repvue,,2026-07-06,N,not B2B SaaS (armored transport/physical security)
 SaaS Labs,repvue,,2026-07-06,N,ATS unresolved (no board found on GH/Ashby/Lever)
 SiteDocs,repvue,,2026-07-06,N,ATS unresolved (no board found)
 Second Nature,repvue,,2026-07-06,Y,Account Executive MM US-remote $175K-$240K OTE (Resident Experience Platform SaaS)
@@ -2437,3 +2437,53 @@ UpSlide,repvue,,2026-07-06,N,ATS unresolved (UK-based document automation; not f
 Hummingbird,repvue,,2026-07-06,N,ATS unresolved (AML/compliance SaaS; not found on major boards)
 Staffbase,repvue,,2026-07-06,N,no AE roles (GH board confirmed; no current AE openings)
 Flywire,repvue,,2026-07-06,N,ATS unresolved (SmartRecruiters 0 results; job URL 404)
+Medallion,repvue,,2026-07-06,Y,"Enterprise AE, Remote US, OTE $290-320K; healthcare SaaS provider ops"
+Brink’s Inc,repvue,,2026-07-06,N,not B2B SaaS (cash/security logistics)
+Mad City Windows & Baths,repvue,,2026-07-06,N,not B2B SaaS (home improvement)
+Beqom,repvue,,2026-07-06,N,no US AE; only Switzerland-based AE
+Slashdot Media,repvue,,2026-07-06,N,not B2B SaaS (tech media)
+ShipHawk,repvue,,2026-07-06,N,no AE role; only SDR and general interest app
+Lavu,repvue,,2026-07-06,N,SMB restaurant POS; not qualifying segment
+Relex Solutions,repvue,,2026-07-06,N,only AE in Japan; no US remote AE
+PitchBook Data,repvue,,2026-07-06,N,AE requires 5 days in office
+The Alexander Group,repvue,,2026-07-06,N,not B2B SaaS (consulting firm)
+Barrington James,repvue,,2026-07-06,N,not B2B SaaS (life sciences staffing)
+Bamboo Health,repvue,,2026-07-06,N,no AE role on Rippling board
+Xceptor,repvue,,2026-07-06,N,ATS unresolved
+Block,repvue,,2026-07-06,N,fintech/payments; no qualifying B2B SaaS AE
+Demandforce,repvue,,2026-07-06,N,acquired by Internet Brands
+"xMatters, inc",repvue,,2026-07-06,N,acquired by Everbridge 2021
+ForUsAll,repvue,,2026-07-06,N,SMB 401k benefits platform; not qualifying segment
+Rock Content,repvue,,2026-07-06,N,no active AE postings (Lever board empty)
+Lucid Software,repvue,,2026-07-06,N,NA MM AE roles all in-office (Raleigh/SLC)
+Keelvar,repvue,,2026-07-06,N,ATS unresolved
+Blue Horizons Group,repvue,,2026-07-06,N,not B2B SaaS (IT staffing/consulting)
+CareRev,repvue,,2026-07-06,N,not B2B SaaS (healthcare staffing marketplace)
+Morningstar,repvue,,2026-07-06,N,financial data/research firm; not B2B SaaS
+ProcessUnity,repvue,,2026-07-06,N,AE is EMEA-focused only
+Stukent,repvue,,2026-07-06,N,niche EdTech (textbooks/simulations)
+CentralReach,repvue,,2026-07-06,N,only SMB AE; not qualifying segment
+Axcient,repvue,,2026-07-06,N,acquired by ConnectWise
+Qualifacts,repvue,,2026-07-06,N,ATS unresolved
+Homeward,repvue,,2026-07-06,N,not B2B SaaS (real estate/insurance)
+Fresha,repvue,,2026-07-06,N,SMB beauty/wellness booking; not qualifying segment
+Talkwalker,repvue,,2026-07-06,N,no active AE postings (Lever board empty)
+AODocs,repvue,,2026-07-06,N,ATS unresolved
+HP Poly,repvue,,2026-07-06,N,hardware (headsets/video); not B2B SaaS
+Cognism,repvue,,2026-07-06,N,no AE open (only London-based roles)
+Oticon,repvue,,2026-07-06,N,hearing aids hardware; not B2B SaaS
+Generac,repvue,,2026-07-06,N,power equipment hardware; not B2B SaaS
+Netsmart,repvue,,2026-07-06,N,ATS unresolved
+NetDocuments,repvue,,2026-07-06,N,only Small Market AE in-office (Lehi UT)
+Sharebite,repvue,,2026-07-06,N,niche employee food benefits; not qualifying
+TestGorilla,repvue,,2026-07-06,N,no AE role (only Customer Lifecycle Specialist)
+Abacus.AI,repvue,,2026-07-06,N,only Associate AE (entry-level/SDR-adjacent)
+Polly,repvue,,2026-07-06,N,no active AE postings (Lever API 404)
+KickUp,repvue,,2026-07-06,N,niche EdTech (school districts)
+Levitate,repvue,,2026-07-06,N,SMB relationship marketing; not qualifying segment
+Trimble Viewpoint,repvue,,2026-07-06,N,ATS unresolved (Workday)
+Airbase,repvue,,2026-07-06,N,acquired by Paylocity; HCM AE OTE too low
+T-Mobile,repvue,,2026-07-06,N,telecom; not B2B SaaS
+AgencyBloc,repvue,,2026-07-06,N,ATS unresolved
+Leanplum,repvue,,2026-07-06,N,merged into CleverTap 2023
+Conquer,repvue,,2026-07-06,N,ATS unresolved
