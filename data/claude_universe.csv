@@ -351,7 +351,7 @@ Go Sales,repvue,91.41,2026-06-30,N,top-260 RepVue scan: no verified role / ATS u
 Kiavi,repvue,91.40,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Convoy,repvue,91.37,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Capitol Canary,repvue,91.36,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Oscilar,repvue,91.34,2026-06-30,Y,top-260 RepVue scan: open AE role
+Oscilar,repvue,91.34,2026-07-07,N,posting dead (Ashby ID 3746e53b gone; no AE on board 2026-07-07)
 Savvas,repvue,91.34,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Squeeze Media,repvue,91.31,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Wrapbook,repvue,91.31,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
@@ -2550,3 +2550,53 @@ Quantifind,funding-news,,2026-07-06,N,ATS unresolved (risk intelligence platform
 Exa,funding-news,,2026-07-06,N,developer AI search infrastructure; no B2B SaaS AE motion
 Armada,funding-news,,2026-07-06,N,not B2B SaaS (edge computing hardware for industrial/defense)
 Modal Labs,funding-news,,2026-07-06,N,developer-tool serverless GPU infrastructure; no enterprise AE motion
+Workspot Inc,repvue,,2026-07-07,N,ATS unresolved (VDI/cloud desktop B2B SaaS; no board found on standard ATS)
+Xometry,repvue,,2026-07-07,N,not B2B SaaS (manufacturing parts marketplace)
+GAINS,repvue,,2026-07-07,N,ATS unresolved (supply chain planning SaaS; no board found on standard ATS)
+Weaveworks,repvue,,2026-07-07,N,defunct - shut down Feb 2024
+Selectquote,repvue,,2026-07-07,N,not B2B SaaS (consumer insurance marketplace)
+Stax Payments,repvue,,2026-07-07,N,not B2B SaaS (SMB payment processing)
+ROI Hunter,repvue,,2026-07-07,N,EU-focused marketing analytics SaaS; no US AE board found
+Cloudera,repvue,,2026-07-07,N,ATS unresolved (large data platform; custom enterprise ATS)
+Gallup,repvue,,2026-07-07,N,not B2B SaaS (consulting/research firm)
+AVEVA,repvue,,2026-07-07,N,not US-remote MM AE (industrial software; EMEA-focused)
+DataBank IMX,repvue,,2026-07-07,N,not B2B SaaS (data center colocation)
+Varonis,repvue,,2026-07-07,N,ATS unresolved - Jobvite; only Federal AE (DC/MD/VA territory) found; no confirmed non-federal remote AE
+White Cup,repvue,,2026-07-07,N,ATS unresolved (CRM for distributors; no board found)
+Nesco Resource,repvue,,2026-07-07,N,not B2B SaaS (staffing agency)
+Compliance & Risks,repvue,,2026-07-07,N,rebranded to Adherent; no AE found
+Esper Regulatory Technologies,repvue,,2026-07-07,N,not enterprise B2B SaaS AE (govt policy mgmt platform; small team; govt clients)
+PosiGen,repvue,,2026-07-07,N,not B2B SaaS (solar energy company)
+DHI,repvue,,2026-07-07,N,not B2B SaaS product (Dice.com/ClearanceJobs job marketplace)
+FranConnect,repvue,,2026-07-07,N,ATS unresolved (franchise management SaaS; no board found on standard ATS)
+Blue Orange Digital,repvue,,2026-07-07,N,not B2B SaaS (analytics consulting agency)
+Choco,repvue,,2026-07-07,N,not enterprise B2B SaaS (restaurant supply ordering app)
+Great Place to Work,repvue,,2026-07-07,N,not B2B SaaS (HR certification and consulting)
+OutboundEngine,repvue,,2026-07-07,N,wrong segment (SMB marketing automation for realtors/insurance; not MM/Ent AE)
+SkyKick,repvue,,2026-07-07,N,ATS unresolved (Microsoft cloud management SaaS; no board found on standard ATS)
+Brightflag,repvue,,2026-07-07,N,ATS unresolved (legal spend mgmt SaaS; Workday JS-heavy; could not verify open AE role)
+Intellum,repvue,,2026-07-07,N,no AE roles on Greenhouse (intelluminc board; only PM/Director/talent community)
+BigID,repvue,,2026-07-07,N,no AE roles on Greenhouse (bigid board; only RSM/CSM/SE roles)
+VasoHealthcare,repvue,,2026-07-07,N,not B2B SaaS (medical equipment sales/marketing)
+American Express,repvue,,2026-07-07,N,not B2B SaaS (financial services conglomerate)
+AB Tasty,repvue,,2026-07-07,N,no US AE roles (EU experimentation SaaS; only VP Sales on Lever; no AE posting)
+Smith & Nephew,repvue,,2026-07-07,N,not B2B SaaS (medical devices)
+Highlight,repvue,,2026-07-07,Y,Enterprise AE; US-remote; $230-250K OTE; B2B SaaS (consumer product research platform for CPG brands)
+Yooz,repvue,,2026-07-07,N,ATS unresolved (AP automation; uses recruiting firm; own ATS not found)
+Medtronic,repvue,,2026-07-07,N,not B2B SaaS (medical devices)
+Cynet Security,repvue,,2026-07-07,N,no open positions (cybersecurity; Comeet board empty)
+NetSPI,repvue,,2026-07-07,N,ATS unresolved (pentesting platform; UKG ATS; could not access board)
+Yardi,repvue,,2026-07-07,N,ATS unresolved (property management software; no standard ATS board found)
+OpenComp,repvue,,2026-07-07,N,ATS unresolved (compensation data SaaS; no board found on standard ATS)
+Siemens,repvue,,2026-07-07,N,not B2B SaaS (industrial conglomerate)
+Haas Alert,repvue,,2026-07-07,N,no AE openings (vehicle safety tech; only Technical Delivery Lead on careers page)
+MariaDB,repvue,,2026-07-07,N,ATS unresolved (database software; no standard ATS board found)
+Taboola,repvue,,2026-07-07,N,no qualifying US-remote AE (digital advertising network; international roles only)
+Allied Universal Technology Services,repvue,,2026-07-07,N,not B2B SaaS (security services company)
+Coda,repvue,,2026-07-07,N,ATS unresolved (collaborative docs SaaS; no board found on standard ATS)
+Dataprise,repvue,,2026-07-07,N,not B2B SaaS (IT managed services/MSP)
+InfluxData,repvue,,2026-07-07,N,no AE roles (time series DB SaaS; Ashby board only shows Director of Finance)
+GOVX,repvue,,2026-07-07,N,not B2B SaaS (consumer marketplace for military/veteran discounts)
+Unify GTM,repvue,,2026-07-07,N,no AE on current board (GTM automation SaaS; AE posting closed on Ashby)
+Axion,repvue,,2026-07-07,N,ATS unresolved (manufacturing quality AI; Ashby API 404; Glassdoor shows NYC location; could not confirm remote)
+Sendoso,repvue,,2026-07-07,N,no AE roles (gifting/direct mail SaaS; Lever board only shows non-AE roles)
