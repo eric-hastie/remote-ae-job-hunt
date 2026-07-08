@@ -249,60 +249,60 @@ KLS Martin Group,repvue,93.86,2026-07-08,N,medical/surgical instruments; not B2B
 Raptor Maps,repvue,93.85,2026-07-08,N,ATS unresolved (tried multiple slugs); solar software; re-checked 2026-07-08
 MEDDICC,repvue,93.84,2026-07-08,N,sales methodology training company; not a B2B SaaS product; re-checked 2026-07-08
 SpotHero,repvue,93.73,2026-07-08,N,consumer parking marketplace; not B2B SaaS; re-checked 2026-07-08
-AMAROK,repvue,93.70,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Salesfinity,repvue,93.69,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
+AMAROK,repvue,93.70,2026-07-08,N,not B2B SaaS (physical perimeter security hardware)
+Salesfinity,repvue,93.69,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever; likely small startup)
 Karbon,repvue,93.66,2026-07-02,Y,top-260 RepVue scan: open AE role
-Skip fka SkipTheDishes,repvue,93.64,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
+Skip fka SkipTheDishes,repvue,93.64,2026-07-08,N,not B2B SaaS (consumer food delivery app)
 Element451,repvue,93.59,2026-06-30,Y,top-260 RepVue scan: open AE role
-SiriusXM,repvue,93.58,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Groundcover,repvue,93.57,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Connecteam,repvue,93.56,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Sublime Security,repvue,93.54,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Trullion,repvue,93.54,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Revenoid,repvue,93.49,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Vicarius,repvue,93.48,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Acumatica,repvue,93.48,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-SoFi,repvue,93.43,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Skio,repvue,93.37,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Shopmonkey,repvue,93.36,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Zinc,repvue,93.32,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Gilead Sciences,repvue,93.31,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Betts,repvue,93.28,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
+SiriusXM,repvue,93.58,2026-07-08,N,not B2B SaaS (satellite radio/streaming media)
+Groundcover,repvue,93.57,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
+Connecteam,repvue,93.56,2026-07-08,Y,MM AE US-remote (territory-based); workforce management SaaS
+Sublime Security,repvue,93.54,2026-07-08,N,no open roles (Ashby board empty)
+Trullion,repvue,93.54,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
+Revenoid,repvue,93.49,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
+Vicarius,repvue,93.48,2026-07-08,N,ATS unresolved (JS-rendered careers page)
+Acumatica,repvue,93.48,2026-07-08,N,ATS unresolved (GH 503; no standard ATS match)
+SoFi,repvue,93.43,2026-07-08,N,ATS unresolved (primarily consumer; B2B Galileo not on standard boards)
+Skio,repvue,93.37,2026-07-08,N,no AE role open (Lever: only partner mgr/eng/design)
+Shopmonkey,repvue,93.36,2026-07-08,N,SMB hybrid SF only; not remote MM/Ent
+Zinc,repvue,93.32,2026-07-08,N,ATS unresolved (Zinc Work Pinpoint board; no AE role found)
+Gilead Sciences,repvue,93.31,2026-07-08,N,not B2B SaaS (pharma/biotech)
+Betts,repvue,93.28,2026-07-08,N,staffing/recruiting agency; not product B2B SaaS
 Orb,repvue,93.26,2026-06-30,Y,top-260 RepVue scan: open AE role
-Virtru,repvue,93.25,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Strider Technologies,repvue,93.24,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Censys,repvue,93.23,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-InsideSales,repvue,93.21,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-eMoney Advisor,repvue,93.16,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
+Virtru,repvue,93.25,2026-07-08,N,government/public sector AEs only; security clearance required
+Strider Technologies,repvue,93.24,2026-07-08,N,no AE role open (GH: only engineering/intelligence roles)
+Censys,repvue,93.23,2026-07-08,N,AE Japan only; no US role
+InsideSales,repvue,93.21,2026-07-08,N,acquired by Aurea Software 2021; no longer independent
+eMoney Advisor,repvue,93.16,2026-07-08,N,senior-only (10+ years required)
 Tremendous,repvue,93.16,2026-07-02,Y,top-260 RepVue scan: open AE role
-Cycode,repvue,93.04,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Pipedrive,repvue,93.04,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Brellium,repvue,92.99,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Roofr,repvue,92.97,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Victory Home Remodeling,repvue,92.92,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Texas Instruments,repvue,92.92,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-OpenAI,repvue,92.89,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Pento,repvue,92.88,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-DX,repvue,92.87,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Rainforest QA,repvue,92.84,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-National General,repvue,92.83,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Owner.com,repvue,92.82,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Beck Technology,repvue,92.77,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Hiver,repvue,92.73,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Lightyear,repvue,92.73,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-LTK,repvue,92.73,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Luzmo,repvue,92.71,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Rocketlane,repvue,92.69,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Cambridge Spark,repvue,92.69,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Roboflow,repvue,92.66,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Thread,repvue,92.62,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Telenor,repvue,92.58,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Dexcom,repvue,92.55,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Arch,repvue,92.54,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Qwiet AI,repvue,92.52,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-SafeBase,repvue,92.50,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-simpleclub,repvue,92.48,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Mosaic.tech,repvue,92.42,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
+Cycode,repvue,93.04,2026-07-08,N,acquired by Check Point Software 2024
+Pipedrive,repvue,93.04,2026-07-08,N,no US roles (only EU office locations on Lever)
+Brellium,repvue,92.99,2026-07-08,N,hybrid NYC only; not fully remote
+Roofr,repvue,92.97,2026-07-08,N,no qualifying AE role (bilingual SDR roles only)
+Victory Home Remodeling,repvue,92.92,2026-07-08,N,not B2B SaaS (home remodeling contractor)
+Texas Instruments,repvue,92.92,2026-07-08,N,not B2B SaaS (semiconductor manufacturer)
+OpenAI,repvue,92.89,2026-07-08,N,"only ""Account Director"" roles (Director title; not IC AE per spec)"
+Pento,repvue,92.88,2026-07-08,N,UK-focused payroll SaaS; no US AE role
+DX,repvue,92.87,2026-07-08,N,acquired by Atlassian; no longer standalone
+Rainforest QA,repvue,92.84,2026-07-08,N,ATS unresolved (not on GH; appears pivoted/acquired)
+National General,repvue,92.83,2026-07-08,N,not B2B SaaS (insurance carrier)
+Owner.com,repvue,92.82,2026-07-08,N,no AE role open (Ashby board: only eng/PM roles)
+Beck Technology,repvue,92.77,2026-07-08,N,ATS unresolved (not on standard ATS boards)
+Hiver,repvue,92.73,2026-07-08,N,no open positions (Pinpoint board empty)
+Lightyear,repvue,92.73,2026-07-08,N,experience bar too low (2+ years required; below ~4+ yr min)
+LTK,repvue,92.73,2026-07-08,Y,AE Scale New Business Sales; US-remote; MM to Ent brands
+Luzmo,repvue,92.71,2026-07-08,N,no AE role open (Recruitee board checked)
+Rocketlane,repvue,92.69,2026-07-08,N,senior-only (6-14 years required)
+Cambridge Spark,repvue,92.69,2026-07-08,N,UK-focused education company; not US B2B SaaS
+Roboflow,repvue,92.66,2026-07-08,N,hybrid NYC only; not remote
+Thread,repvue,92.62,2026-07-08,N,in-person NYC only (Enterprise AE not remote)
+Telenor,repvue,92.58,2026-07-08,N,not B2B SaaS (telecom carrier)
+Dexcom,repvue,92.55,2026-07-08,N,not B2B SaaS (medical device)
+Arch,repvue,92.54,2026-07-08,N,in-person SF only (Founding AE; not remote)
+Qwiet AI,repvue,92.52,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
+SafeBase,repvue,92.50,2026-07-08,N,no open AE role (GH posting 4446158005 dead)
+simpleclub,repvue,92.48,2026-07-08,N,not US B2B SaaS (German consumer edtech)
+Mosaic.tech,repvue,92.42,2026-07-08,N,no AE role open (Ashby: GTM Associates and EMEA Head only)
 Byte,repvue,92.39,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Edgescan,repvue,92.34,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
 Platform9,repvue,92.30,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
