@@ -268,7 +268,7 @@ Shopmonkey,repvue,93.36,2026-07-08,N,SMB hybrid SF only; not remote MM/Ent
 Zinc,repvue,93.32,2026-07-08,N,ATS unresolved (Zinc Work Pinpoint board; no AE role found)
 Gilead Sciences,repvue,93.31,2026-07-08,N,not B2B SaaS (pharma/biotech)
 Betts,repvue,93.28,2026-07-08,N,staffing/recruiting agency; not product B2B SaaS
-Orb,repvue,93.26,2026-06-30,Y,top-260 RepVue scan: open AE role
+Orb,repvue,93.26,2026-07-09,N,AE roles now hybrid / not US-remote (all postings HQ-SF or NYC office)
 Virtru,repvue,93.25,2026-07-08,N,government/public sector AEs only; security clearance required
 Strider Technologies,repvue,93.24,2026-07-08,N,no AE role open (GH: only engineering/intelligence roles)
 Censys,repvue,93.23,2026-07-08,N,AE Japan only; no US role
@@ -1797,7 +1797,7 @@ Fonoa,repvue,,2026-07-03,Y,Strategic AE / Ent / Remote USA (Ashby); tax automati
 Reprise,repvue,,2026-07-03,N,no AE role (Ashby: only Dir Marketing)
 Sunnova,repvue,,2026-07-03,N,not B2B SaaS (residential solar energy)
 Influitive,repvue,,2026-07-03,N,ATS unresolved (GH/Lever 404)
-ID.me,repvue,,2026-07-03,Y,Enterprise AE Workforce Identity / Remote US / OTE $280-320K
+ID.me,repvue,,2026-07-09,N,in-office 5 days/week; no US-remote AE role
 BackBox,repvue,,2026-07-03,N,ATS unresolved (Ashby/GH 404)
 Fieldguide,repvue,,2026-07-03,Y,Strategic AE / Ent / Remote USA / base $140-170K (50/50 split)
 Simon Data,repvue,,2026-07-03,N,ATS unresolved (GH/Lever 404)
@@ -2708,4 +2708,7 @@ Hudl,ats-search,,2026-07-09,N,OTE $80-120K below $150K threshold; sports analyti
 Mend.io,ats-search,,2026-07-09,N,no IC AE role; RSM/Channel Manager titles only
 Overflow,ats-search,,2026-07-09,N,nonprofit/faith sector vertical; OTE undisclosed
 Yelp,ats-search,,2026-07-09,N,ad-tech/local business not B2B SaaS; Lever posting 404 dead
+Spekit,ats-search,,2026-07-09,Y,MM AE US-remote; OTE ~$170-240K; sales enablement/digital adoption SaaS; Ashby board
+Agicap,ats-search,,2026-07-09,N,no US AE roles; all postings European markets only
+Dataiku,ats-search,,2026-07-09,N,no qualifying US remote AE; Federal/Public Sector only (10+ yrs too senior)
 Jobgether,ats-search,,2026-07-09,N,job aggregator/platform not a target company
