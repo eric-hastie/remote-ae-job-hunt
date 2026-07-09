@@ -357,61 +357,61 @@ Squeeze Media,repvue,91.31,2026-07-08,N,ATS unresolved
 Wrapbook,repvue,91.31,2026-07-08,N,"no qualifying AE (Ashby: no AE roles, BDR/CSM/Support only)"
 Booster Enterprises,repvue,91.30,2026-07-08,N,"fuel delivery service, not B2B SaaS"
 Orama Solutions,repvue,91.30,2026-07-08,N,ATS unresolved (Ashby 404)
-Saepio Information Security,repvue,91.29,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-SEWELL,repvue,91.27,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Field Materials,repvue,91.26,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Rebuy Engine,repvue,91.24,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-BrandBastion,repvue,91.18,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Trucker Tools,repvue,91.18,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
+Saepio Information Security,repvue,91.29,2026-07-09,N,re-check: ATS unresolved
+SEWELL,repvue,91.27,2026-07-09,N,re-check: ATS unresolved
+Field Materials,repvue,91.26,2026-07-09,N,re-check: ATS unresolved (not B2B SaaS)
+Rebuy Engine,repvue,91.24,2026-07-09,N,re-check: ATS unresolved
+BrandBastion,repvue,91.18,2026-07-09,N,re-check: ATS unresolved
+Trucker Tools,repvue,91.18,2026-07-09,N,re-check: ATS unresolved
 Scribe,repvue,91.16,2026-07-02,Y,top-260 RepVue scan: open AE role
-Descope,repvue,91.16,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
+Descope,repvue,91.16,2026-07-09,N,"re-check: Greenhouse board found, no AE roles (eng/CS only)"
 Jellyfish Co,repvue,91.15,2026-06-30,Y,top-260 RepVue scan: open AE role
-Prompt Health,repvue,91.12,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Access Systems,repvue,91.12,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Packsize,repvue,91.12,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
+Prompt Health,repvue,91.12,2026-07-09,N,re-check: ATS unresolved
+Access Systems,repvue,91.12,2026-07-09,N,re-check: ATS unresolved
+Packsize,repvue,91.12,2026-07-09,N,re-check: not B2B SaaS (packaging hardware)
 Influ2,repvue,91.11,2026-07-02,Y,top-260 RepVue scan: open AE role
-Dow,repvue,91.09,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Sitemate,repvue,91.07,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Giatec,repvue,91.05,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Armory,repvue,91.04,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Alkira,repvue,91.03,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Cognition,repvue,90.99,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-BUCHI Laboratory Equipment,repvue,90.97,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Swiftly,repvue,90.97,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-"Applied Medical Technology, Inc. (AMT)",repvue,90.96,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Savant Labs,repvue,90.96,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-M-Files,repvue,90.95,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-DemandJump,repvue,90.94,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Salesforce Maps,repvue,90.93,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Outbuild,repvue,90.91,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Kallidus,repvue,90.91,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Ideals,repvue,90.85,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Inky,repvue,90.80,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Cisco Meraki,repvue,90.79,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-RudderStack,repvue,90.78,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Tailscale,repvue,90.74,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Consensus,repvue,90.71,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-RevenueCat,repvue,90.69,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Reddit,repvue,90.68,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Proliant,repvue,90.66,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Cyberhaven,repvue,90.66,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Masergy,repvue,90.65,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Rhino,repvue,90.65,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Fox Pest Control,repvue,90.64,2026-06-30,N,top-260 RepVue scan: no verified role / ATS unresolved
-Plaid,repvue,90.63,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Kuebix By FreightWise,repvue,90.62,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Loop Returns,repvue,90.61,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ZenQMS,repvue,90.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Brainshark,repvue,90.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Ketch,repvue,90.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Pulley,repvue,90.56,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Verusen,repvue,90.51,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Cycle Labs,repvue,90.50,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Dow,repvue,91.09,2026-07-09,N,re-check: not B2B SaaS (chemical company)
+Sitemate,repvue,91.07,2026-07-09,N,"re-check: Ashby board found, no US-remote AE (London/Sydney AM only)"
+Giatec,repvue,91.05,2026-07-09,N,re-check: ATS unresolved
+Armory,repvue,91.04,2026-07-09,N,"re-check: Ashby board found, no AE roles (NYC in-office tech only)"
+Alkira,repvue,91.03,2026-07-09,N,re-check: ATS unresolved
+Cognition,repvue,90.99,2026-07-09,N,"re-check: Ashby board found, only Account Director titles (not IC AE)"
+BUCHI Laboratory Equipment,repvue,90.97,2026-07-09,N,re-check: not B2B SaaS (lab equipment)
+Swiftly,repvue,90.97,2026-07-09,N,"re-check: Lever board found (transit platform), no AE roles"
+"Applied Medical Technology, Inc. (AMT)",repvue,90.96,2026-07-09,N,re-check: not B2B SaaS (medical devices)
+Savant Labs,repvue,90.96,2026-07-09,N,re-check: ATS unresolved
+M-Files,repvue,90.95,2026-07-09,N,re-check: ATS unresolved
+DemandJump,repvue,90.94,2026-07-09,N,re-check: ATS unresolved
+Salesforce Maps,repvue,90.93,2026-07-09,N,re-check: not standalone company (Salesforce product unit)
+Outbuild,repvue,90.91,2026-07-09,N,re-check: ATS unresolved
+Kallidus,repvue,90.91,2026-07-09,N,re-check: ATS unresolved
+Ideals,repvue,90.85,2026-07-09,N,"re-check: Lever board 404, Ashby AEs geo-specific only (not US-remote)"
+Inky,repvue,90.80,2026-07-09,N,re-check: ATS unresolved
+Cisco Meraki,repvue,90.79,2026-07-09,N,re-check: not standalone (Cisco division)
+RudderStack,repvue,90.78,2026-07-09,N,re-check: ATS unresolved
+Tailscale,repvue,90.74,2026-07-09,N,"re-check: Greenhouse board found, only hybrid-Denver Customer AE (OTE $100-125K)"
+Consensus,repvue,90.71,2026-07-09,N,"re-check: Lever board 404, likely moved ATS"
+RevenueCat,repvue,90.69,2026-07-09,N,"re-check: Ashby board found, MM AE no longer listed"
+Reddit,repvue,90.68,2026-07-09,N,re-check: not B2B SaaS (consumer social)
+Proliant,repvue,90.66,2026-07-09,N,re-check: ATS unresolved
+Cyberhaven,repvue,90.66,2026-07-09,N,"re-check: Ashby board found, Enterprise AE 8+ yrs required (senior-only)"
+Masergy,repvue,90.65,2026-07-09,N,re-check: acquired by Comcast Business 2021 (defunct standalone)
+Rhino,repvue,90.65,2026-07-09,N,re-check: ATS unresolved
+Fox Pest Control,repvue,90.64,2026-07-09,N,re-check: not B2B SaaS (pest control)
+Plaid,repvue,90.63,2026-07-09,N,"re-check: Lever board empty, Ashby has management role only (not IC AE)"
+Kuebix By FreightWise,repvue,90.62,2026-07-09,N,re-check: ATS unresolved
+Loop Returns,repvue,90.61,2026-07-09,Y,Enterprise AE US-remote; OTE ~$241K; Lever loopreturns board
+ZenQMS,repvue,90.59,2026-07-09,N,re-check: ATS unresolved
+Brainshark,repvue,90.57,2026-07-09,N,re-check: acquired by Bigtincan 2021 (defunct standalone)
+Ketch,repvue,90.57,2026-07-09,Y,Enterprise AE Remote-USA; OTE $300-350K; Lever board
+Pulley,repvue,90.56,2026-07-09,N,"re-check: Greenhouse/Ashby boards found, no AE roles"
+Verusen,repvue,90.51,2026-07-09,N,"re-check: Greenhouse board found, only Associate AE (not IC AE)"
+Cycle Labs,repvue,90.50,2026-07-09,N,re-check: ATS unresolved
 AirGarage,repvue,90.46,2026-07-02,N,dropped 2026-07-02: no sales roles at all
 Tive Inc,repvue,90.44,2026-06-30,Y,top500 RepVue scan: open AE role
-Azuga Inc,repvue,90.43,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Cyera,repvue,90.39,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Strive,repvue,90.38,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Azuga Inc,repvue,90.43,2026-07-09,N,re-check: acquired by Bridgestone 2021 (defunct standalone)
+Cyera,repvue,90.39,2026-07-09,N,"re-check: Comeet board found, Enterprise AE posting closed"
+Strive,repvue,90.38,2026-07-09,N,re-check: ATS unresolved
 Armis Security,repvue,90.38,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Sprig,repvue,90.37,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Endpoint Protector,repvue,90.35,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
