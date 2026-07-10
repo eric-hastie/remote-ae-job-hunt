@@ -2729,3 +2729,10 @@ Oversee,ats-search,,2026-07-10,Y,Enterprise AE; TX/FL remote; OTE $180-220K; tra
 TalentPluto,ats-search,,2026-07-10,N,staffing firm posting client co roles; not a SaaS company
 Grapevine,ats-search,,2026-07-10,N,NYC HQ; 5 days onsite; not remote
 Condukt,ats-search,,2026-07-10,N,London/Porto only; no US-remote role
+Contentful,ats-search,,2026-07-10,N,Greenhouse board: no AE roles (job 7874855 not in API; stale search result)
+Nightfall,ats-search,,2026-07-10,N,ATS unresolved: Lever board 404; posting page 403
+Benepass,ats-search,,2026-07-10,N,Ashby board: no AE roles open; only engineering/product
+CollegeVine,ats-search,,2026-07-10,N,ATS unresolved: Ashby API 404 (both collegevine and collegevine.com slugs)
+ClearBank,ats-search,,2026-07-10,N,London-based fintech banking API; no US remote AE roles
+Tabz,ats-search,,2026-07-10,N,empty Ashby board; no open roles
+GoLinks,ats-search,,2026-07-10,N,Remote MM AE open but OTE $140K below bar ($150K floor)
