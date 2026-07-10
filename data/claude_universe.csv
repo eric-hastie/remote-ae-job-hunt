@@ -369,7 +369,7 @@ Jellyfish Co,repvue,91.15,2026-06-30,Y,top-260 RepVue scan: open AE role
 Prompt Health,repvue,91.12,2026-07-09,N,re-check: ATS unresolved
 Access Systems,repvue,91.12,2026-07-09,N,re-check: ATS unresolved
 Packsize,repvue,91.12,2026-07-09,N,re-check: not B2B SaaS (packaging hardware)
-Influ2,repvue,91.11,2026-07-02,Y,top-260 RepVue scan: open AE role
+Influ2,repvue,91.11,2026-07-10,N,posting dead (Lever ID 404); no qualifying US replacement on board
 Dow,repvue,91.09,2026-07-09,N,re-check: not B2B SaaS (chemical company)
 Sitemate,repvue,91.07,2026-07-09,N,"re-check: Ashby board found, no US-remote AE (London/Sydney AM only)"
 Giatec,repvue,91.05,2026-07-09,N,re-check: ATS unresolved
@@ -1122,7 +1122,7 @@ Kpler,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unre
 Textline,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Quantivate,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 OpenAsset,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-n8n,repvue,84.96,2026-07-01,Y,top1000 RepVue scan: open AE role
+n8n,repvue,84.96,2026-07-10,N,posting dead (Ashby ID 404); only EMEA/talent-pool candidates on board; no qualifying US role
 Divvy Homes,repvue,84.95,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Clarabridge,repvue,84.95,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Voxpopme,repvue,84.95,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -2712,3 +2712,20 @@ Spekit,ats-search,,2026-07-09,Y,MM AE US-remote; OTE ~$170-240K; sales enablemen
 Agicap,ats-search,,2026-07-09,N,no US AE roles; all postings European markets only
 Dataiku,ats-search,,2026-07-09,N,no qualifying US remote AE; Federal/Public Sector only (10+ yrs too senior)
 Jobgether,ats-search,,2026-07-09,N,job aggregator/platform not a target company
+Illumio,ats-search,,2026-07-10,N,no qualifying US AE role on Ashby board
+Udacity,ats-search,,2026-07-10,N,posting dead (GH 404)
+Novara,ats-search,,2026-07-10,N,SMB only; not MM/Ent segment
+JumpCloud,ats-search,,2026-07-10,N,no US-remote commercial AE posting found
+Cyderes,ats-search,,2026-07-10,N,MSSP managed services; not B2B SaaS
+Outreach,ats-search,,2026-07-10,Y,Commercial AE; US-remote; MM; sales engagement SaaS
+WorkWave,ats-search,,2026-07-10,Y,Enterprise AE; US-remote; OTE $190-250K; field service SaaS
+Bluesight,ats-search,,2026-07-10,Y,Senior AE; US-remote; OTE $200-220K+; healthcare SaaS
+BriteCore,ats-search,,2026-07-10,Y,Enterprise AE; US-remote; P&C insurance SaaS
+Roebling,ats-search,,2026-07-10,N,ATS unresolved (Ashby board 404)
+9fin,ats-search,,2026-07-10,N,no AE roles on board; UK-focused
+GaggleAMP,ats-search,,2026-07-10,Y,MM AE; US-remote; OTE $160K+; employee advocacy SaaS
+SPOTIO,ats-search,,2026-07-10,N,hybrid (Tues/Wed office in Addison TX); not remote
+Oversee,ats-search,,2026-07-10,Y,Enterprise AE; TX/FL remote; OTE $180-220K; travel spend SaaS
+TalentPluto,ats-search,,2026-07-10,N,staffing firm posting client co roles; not a SaaS company
+Grapevine,ats-search,,2026-07-10,N,NYC HQ; 5 days onsite; not remote
+Condukt,ats-search,,2026-07-10,N,London/Porto only; no US-remote role
