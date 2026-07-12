@@ -2,14 +2,14 @@ Company,Source,RepVue Score,Last Checked,Currently Open,Notes
 8am (f/k/a AffiniPay),claude,,2026-07-02,N,dropped 2026-07-02: only Associate AE (BDR-level) on board
 Abnormal Security,claude,,2026-07-02,Y,has open qualifying role
 Accrue,claude,,2026-06-30,Y,has open qualifying role
-Acquia,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Affinity.co,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Acquia,claude,,2026-07-12,Y,"Enterprise AE, US-remote (Greenhouse office: Remote-United States), job 7976489; base $120K-$135K + variable"
+Affinity.co,claude,,2026-07-12,N,Greenhouse board now empty; previously had MM and Strategic AE roles; no current qualifying role
 Apollo GraphQL,claude,76,2026-06-30,Y,has open qualifying role
 Apollo.io,claude,85,2026-07-02,Y,has open qualifying role
-Arcade,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Arcade,claude,,2026-07-12,N,"ATS unresolved; sales gamification SaaS, no AE found on major boards"
 Arctic Wolf,claude,,2026-06-30,Y,has open qualifying role
 Arize AI,claude,87,2026-06-30,Y,has open qualifying role
-Articulate,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Articulate,claude,,2026-07-12,N,Lever board shows only Product Marketing Manager; no current AE role
 Ashby,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Augury,claude,84,2026-07-04,N,posting dead; no AE roles on board
 Beautiful.ai,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -848,56 +848,56 @@ Aurea Software,repvue,86.55,2026-07-11,N,AE roles via Crossover only (non-standa
 Cherry,repvue,86.55,2026-07-11,N,not B2B SaaS (patient/dental financing)
 Carolina Handling,repvue,86.53,2026-07-11,N,not B2B SaaS (material handling equipment dealer)
 Superchat,repvue,86.53,2026-07-11,N,"German messaging platform, primarily DACH market"
-Actifio,repvue,86.50,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-AssuredPartners,repvue,86.49,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Sendcloud,repvue,86.48,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-GoEngineer,repvue,86.48,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Actifio,repvue,86.50,2026-07-12,N,acquired by Google Cloud 2022 (permanent disqualification)
+AssuredPartners,repvue,86.49,2026-07-12,N,insurance broker / not B2B SaaS (permanent)
+Sendcloud,repvue,86.48,2026-07-12,N,"ATS unresolved; Dutch B2B SaaS, no US AE found on major boards"
+GoEngineer,repvue,86.48,2026-07-12,N,"CAD reseller/VAR, not B2B SaaS product company (permanent)"
 Monte Carlo Data,repvue,86.47,2026-06-30,Y,top500 RepVue scan: open AE role
-Cisco Systems,repvue,86.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-CareAcademy,repvue,86.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-"AppCard, Inc.",repvue,86.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Canopy,repvue,86.45,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ClickTime,repvue,86.44,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Coalesce.io,repvue,86.43,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Kipu Health,repvue,86.42,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-tray.io,repvue,86.41,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Recharge,repvue,86.41,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-InvestNext,repvue,86.40,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Workday,repvue,86.40,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-JobGet,repvue,86.38,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-XM Cyber,repvue,86.38,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Cisco Systems,repvue,86.46,2026-07-12,N,ATS unresolved (Workday JS-only); MM AE roles exist per search but specific posting URL unverifiable
+CareAcademy,repvue,86.46,2026-07-12,N,ATS unresolved; no AE found on major boards
+"AppCard, Inc.",repvue,86.46,2026-07-12,N,ATS unresolved; no AE found on major boards
+Canopy,repvue,86.45,2026-07-12,N,only hybrid SMB AE in South Jordan UT; no US-remote MM/Ent AE
+ClickTime,repvue,86.44,2026-07-12,N,ATS unresolved; no AE found on major boards
+Coalesce.io,repvue,86.43,2026-07-12,N,empty Ashby board; no roles posted
+Kipu Health,repvue,86.42,2026-07-12,N,ATS unresolved; no AE found on major boards
+tray.io,repvue,86.41,2026-07-12,N,no AE on Ashby board (tray-ai); only Account Partners and Sales Engineers
+Recharge,repvue,86.41,2026-07-12,N,no AE roles on Ashby board; only BDR/CS/Engineering
+InvestNext,repvue,86.40,2026-07-12,N,ATS unresolved; no AE found on major boards
+Workday,repvue,86.40,2026-07-12,N,ATS unresolved (own Workday system JS-only); only Customer Base AEs found; no net-new US-remote MM AE verifiable
+JobGet,repvue,86.38,2026-07-12,N,B2C job marketplace for hourly workers; not B2B SaaS ICP
+XM Cyber,repvue,86.38,2026-07-12,N,ATS unresolved; possibly acquired by Schwarz Group 2023; no US AE on major boards
 Domino Data Lab,repvue,86.37,2026-06-30,Y,top500 RepVue scan: open AE role
-Dental Intelligence,repvue,86.36,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-"Jane Technologies, Inc.",repvue,86.35,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Stibo,repvue,86.34,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Dental Intelligence,repvue,86.36,2026-07-12,N,ATS unresolved; no AE found on major boards
+"Jane Technologies, Inc.",repvue,86.35,2026-07-12,N,ATS unresolved; no US AE found on major boards
+Stibo,repvue,86.34,2026-07-12,N,"ATS unresolved; Danish MDM company, no US remote AE found"
 Buildkite,repvue,86.34,2026-06-30,Y,top500 RepVue scan: open AE role
-HST Pathways,repvue,86.34,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-GuidePoint Security,repvue,86.33,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Action1,repvue,86.32,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Daikin,repvue,86.32,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Employment Hero,repvue,86.31,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-YCharts,repvue,86.31,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Upflow,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-FieldPulse,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Continu,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-REVGEN,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ComplyAdvantage,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-FloQast,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-The Boston Beer Company,repvue,86.29,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Thought Machine,repvue,86.29,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Dremio,repvue,86.29,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Loopio,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Deposco,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-NBCUniversal,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-The Trade Desk,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Enphase Energy,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+HST Pathways,repvue,86.34,2026-07-12,N,ATS unresolved; no AE found on major boards
+GuidePoint Security,repvue,86.33,2026-07-12,N,"security consulting/MSSP, not a B2B SaaS product company (permanent)"
+Action1,repvue,86.32,2026-07-12,N,"ATS unresolved (GH action1corp 404, Ashby 404); no AE found on major boards"
+Daikin,repvue,86.32,2026-07-12,N,"HVAC/industrial manufacturer, not B2B SaaS (permanent)"
+Employment Hero,repvue,86.31,2026-07-12,N,"ATS unresolved; Australian HR SaaS, no US AE found on major boards"
+YCharts,repvue,86.31,2026-07-12,N,ATS unresolved; no AE found on major boards
+Upflow,repvue,86.30,2026-07-12,N,only Associate Account Executive for US (title disqualifies per ICP bar)
+FieldPulse,repvue,86.30,2026-07-12,N,ATS unresolved; no AE found on major boards
+Continu,repvue,86.30,2026-07-12,N,Lever board no longer accessible (404); no current qualifying role verified
+REVGEN,repvue,86.30,2026-07-12,N,"outsourced sales agency, not a B2B SaaS product company (permanent)"
+ComplyAdvantage,repvue,86.30,2026-07-12,N,no AE roles on ComplyAdvantage Greenhouse board (GH complyadvantage)
+FloQast,repvue,86.30,2026-07-12,N,only Australia AE on Lever board; no US AE
+The Boston Beer Company,repvue,86.29,2026-07-12,N,"consumer beverage company, not B2B SaaS (permanent)"
+Thought Machine,repvue,86.29,2026-07-12,N,"ATS unresolved; UK-based banking infrastructure SaaS, no US AE found"
+Dremio,repvue,86.29,2026-07-12,N,no US-remote AE on Greenhouse; only NYC and LATAM roles
+Loopio,repvue,86.27,2026-07-12,N,no AE roles on Ashby board; only engineering/finance/CS roles
+Deposco,repvue,86.27,2026-07-12,N,only in-office Senior AE in Alpharetta GA; no US-remote role
+NBCUniversal,repvue,86.27,2026-07-12,N,"media/entertainment company, not B2B SaaS (permanent)"
+The Trade Desk,repvue,86.27,2026-07-12,N,no US AE on Greenhouse; only Australia AE
+Enphase Energy,repvue,86.27,2026-07-12,N,"solar energy hardware company, not B2B SaaS (permanent)"
 Seso Inc.,repvue,86.27,2026-06-30,Y,top500 RepVue scan: open AE role
-Alloy,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Supio,repvue,86.25,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Allego,repvue,86.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Box,repvue,86.23,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ePayPolicy,repvue,86.22,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Takeda Pharmaceuticals,repvue,86.22,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Alloy,repvue,86.27,2026-07-12,N,ATS unresolved; no AE found on major boards
+Supio,repvue,86.25,2026-07-12,N,ATS unresolved (GH supio 404); Dec 2024 Enterprise AE posting found but likely expired; role required CA/IL/TX/NY/FL presence
+Allego,repvue,86.24,2026-07-12,N,ATS unresolved (GH/Ashby/Lever allego all 404); no AE found on major boards
+Box,repvue,86.23,2026-07-12,N,no US-remote MM/Ent AE on Greenhouse (boxinc); only Germany SMB AE
+ePayPolicy,repvue,86.22,2026-07-12,N,ATS unresolved; no AE found on major boards
+Takeda Pharmaceuticals,repvue,86.22,2026-07-12,N,"pharmaceutical company, not B2B SaaS (permanent)"
 Taulia,repvue,86.21,2026-07-01,Y,top1000 RepVue scan: open AE role
 Mölnlycke Health Care,repvue,86.20,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Double,repvue,86.19,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
