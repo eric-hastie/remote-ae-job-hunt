@@ -103,41 +103,41 @@ Sierra,claude,,2026-07-12,N,only Director-level sales; no IC AE
 Sigma Computing,claude,,2026-06-30,Y,has open qualifying role
 Smartsheet,claude,,2026-07-12,Y,"MM Commercial AE (Central), truly US-remote, base $75-95K; Greenhouse job 8054647"
 SmartSuite,claude,,2026-07-12,N,ATS unresolved; no ATS board found on major platforms
-Starburst,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Starburst,claude,,2026-07-13,N,Senior Enterprise AE only (10+ yrs req); no MM/Commercial AE
 Sumo Logic,claude,,2026-07-02,Y,has open qualifying role
-Supermetrics,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Supermetrics,claude,,2026-07-13,N,"no US-remote AE (Junior Helsinki, Senior ANZ only)"
 Syniti,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Synthflow AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Synthflow AI,claude,,2026-07-13,N,no AE roles on Ashby board
 Sysdig,claude,,2026-07-04,N,posting dead; no qualifying replacement on board
 Temporal,claude,95,2026-07-04,N,posting dead; remaining US AE roles are senior-only (Strategic Senior AE)
-The Access Group,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+The Access Group,claude,,2026-07-13,N,ATS unresolved (Greenhouse 404); UK ERP company
 Thoropass,claude,,2026-07-02,Y,has open qualifying role
 ThoughtSpot,claude,79,2026-07-04,N,Workday req JR2099 gone
-Tines,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Tines,claude,,2026-07-13,N,no AE roles on board
 Trunk Tools,claude,,2026-07-02,Y,has open qualifying role
 Vanta,claude,88,2026-07-02,N,dropped 2026-07-02: core AEs Dublin-only; US-remote is SLED/gov specialty only
 Vantage,claude,,2026-07-02,Y,has open qualifying role
 Webflow,claude,,2026-06-30,Y,has open qualifying role
-Workato,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Workiva,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Wrike,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Workato,claude,,2026-07-13,N,no AE roles on board
+Workiva,claude,,2026-07-13,Y,"AE Corporate Commercial Accounts, US-remote, new logo acquisition; OTE $172K-$276K"
+Wrike,claude,,2026-07-13,N,no AE roles (Account Development Mgr only in Prague/Nicosia)
 Writer,claude,,2026-06-30,Y,has open qualifying role
-Zscaler,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Zscaler,claude,,2026-07-13,Y,"Commercial AE, Remote-US territory, MM/Commercial B2B SaaS; job 5174354007"
 Amplitude,claude,,2026-06-30,Y,Strategic AE (Ent) remote-NE US; product analytics
 Postman,claude,,2026-07-02,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
-Mixpanel,claude,,2026-06-30,N,only London hybrid AE; no US-remote
-CockroachDB,claude,,2026-06-30,N,only Singapore AE; no US-remote
-Pendo,claude,,2026-06-30,N,SMB Raleigh + Ent EMEA/APAC only; no US-remote MM
-Brex,claude,,2026-06-30,N,MM AE office-only (NY/SLC/Seattle/SF); no remote
-Melio,claude,,2026-06-30,N,AEs NYC only; no remote
-PostHog,claude,,2026-06-30,N,no IC AE (TAM/CSM only)
+Mixpanel,claude,,2026-07-13,N,London hybrid AE only; no US-remote
+CockroachDB,claude,,2026-07-13,N,Singapore AE only; no US-remote
+Pendo,claude,,2026-07-13,N,SMB Raleigh in-office + EMEA/APAC Ent only; no US-remote MM
+Brex,claude,,2026-07-13,N,MM AE hybrid 3 days/week (NY/SLC/Seattle/SF/Vancouver); no remote
+Melio,claude,,2026-07-13,N,NYC hybrid AEs only; no remote
+PostHog,claude,,2026-07-13,Y,"Technical AE, Remote US|EU, MM/Ent, quota-carrying new biz; OTE unspecified"
 6sense,claude,,2026-06-30,Y,Enterprise AE remote-US; 5+ yrs; base $117-158K; ABM
-Salesloft,claude,,2026-06-30,N,"only Commercial Account Manager, no AE"
-Gorgias,claude,,2026-06-30,N,no IC AE on board
-Gusto,claude,,2026-06-30,N,"PEO AE office-only (Denver/SF/NY/etc), no remote"
-Culture Amp,claude,,2026-06-30,N,no IC AE on board
-Attentive,claude,,2026-06-30,N,MM AE I but remote unconfirmed (lists hubs NYC/SF); base $80-90K
-Checkr,claude,,2026-06-30,N,Strategic AE hybrid 3+ days office; not remote
+Salesloft,claude,,2026-07-13,N,no AE roles; only Commercial Account Manager (US remote)
+Gorgias,claude,,2026-07-13,N,no AE roles on Ashby board
+Gusto,claude,,2026-07-13,N,no AE roles on Greenhouse board
+Culture Amp,claude,,2026-07-13,N,no AE roles on Greenhouse board
+Attentive,claude,,2026-07-13,N,AE I MM US (base $80-90K; remote status unconfirmed by JD)
+Checkr,claude,,2026-07-13,N,Commercial AE Denver/SF hybrid office; not remote
 Rebar,repvue,102.17,2026-07-07,N,no qualifying AE / onsite NYC only (Ashby board)
 Siro,repvue,101.46,2026-07-07,N,no qualifying AE / hybrid NYC 3+ days/week
 Getguru.com,repvue,101.06,2026-07-07,N,Lead AE posting expired; no current AE on Rippling board
@@ -899,34 +899,34 @@ Box,repvue,86.23,2026-07-12,N,no US-remote MM/Ent AE on Greenhouse (boxinc); onl
 ePayPolicy,repvue,86.22,2026-07-12,N,ATS unresolved; no AE found on major boards
 Takeda Pharmaceuticals,repvue,86.22,2026-07-12,N,"pharmaceutical company, not B2B SaaS (permanent)"
 Taulia,repvue,86.21,2026-07-01,Y,top1000 RepVue scan: open AE role
-Mölnlycke Health Care,repvue,86.20,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Double,repvue,86.19,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Pinwheel,repvue,86.19,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-IT Solutions,repvue,86.19,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Birdie,repvue,86.17,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Login VSI,repvue,86.17,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Nextpoint,repvue,86.16,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Bigeye,repvue,86.15,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Finlay James,repvue,86.15,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Coram AI,repvue,86.14,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Zuddl,repvue,86.13,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Mineral,repvue,86.13,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Nitra,repvue,86.12,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+Mölnlycke Health Care,repvue,86.20,2026-07-13,N,not B2B SaaS; medical devices company
+Double,repvue,86.19,2026-07-13,N,no AE roles (SDRs/CSMs only on Ashby board)
+Pinwheel,repvue,86.19,2026-07-13,N,ATS unresolved (Ashby 404)
+IT Solutions,repvue,86.19,2026-07-13,N,not B2B SaaS; IT managed services company
+Birdie,repvue,86.17,2026-07-13,N,UK senior care SaaS; no US-remote AE roles
+Login VSI,repvue,86.17,2026-07-13,N,ATS unresolved (Ashby 404)
+Nextpoint,repvue,86.16,2026-07-13,N,ATS unresolved (Greenhouse 404)
+Bigeye,repvue,86.15,2026-07-13,N,ATS unresolved (Ashby 404)
+Finlay James,repvue,86.15,2026-07-13,N,not B2B SaaS; staffing/executive search firm
+Coram AI,repvue,86.14,2026-07-13,N,ATS unresolved (Ashby 404)
+Zuddl,repvue,86.13,2026-07-13,N,ATS unresolved (Ashby 404)
+Mineral,repvue,86.13,2026-07-13,N,"ATS unresolved (Greenhouse 404, Ashby 404)"
+Nitra,repvue,86.12,2026-07-01,N,not checked this run (ATS unresolved from prior scan)
 Ten Thousand Coffees,repvue,86.12,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Venminder,repvue,86.12,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Booksy,repvue,86.12,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-FullCircl,repvue,86.11,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Bullhorn,repvue,86.09,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Microsoft,repvue,86.09,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Quantum Workplace,repvue,86.09,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Vizit,repvue,86.09,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Intersection Co.,repvue,86.09,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Health & Safety Institute,repvue,86.07,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-JobNimbus,repvue,86.07,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Session AI,repvue,86.05,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Certa.ai,repvue,86.05,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Attio,repvue,86.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Corning,repvue,86.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+Venminder,repvue,86.12,2026-07-13,N,ATS unresolved (no board found via Greenhouse/Lever/search)
+Booksy,repvue,86.12,2026-07-13,N,ATS unresolved (Greenhouse 404); SMB-focused beauty scheduling
+FullCircl,repvue,86.11,2026-07-13,N,ATS unresolved (Ashby 404)
+Bullhorn,repvue,86.09,2026-07-13,N,"ATS unresolved (Greenhouse 404, Ashby 404)"
+Microsoft,repvue,86.09,2026-07-01,N,not checked this run (ATS unresolved from prior scan; mega-corp own ATS)
+Quantum Workplace,repvue,86.09,2026-07-13,N,"ATS unresolved (Greenhouse 404, Ashby 404)"
+Vizit,repvue,86.09,2026-07-01,N,not checked this run (ATS unresolved from prior scan)
+Intersection Co.,repvue,86.09,2026-07-13,N,not B2B SaaS; OOH advertising company
+Health & Safety Institute,repvue,86.07,2026-07-01,N,not checked this run (ATS unresolved from prior scan)
+JobNimbus,repvue,86.07,2026-07-13,N,empty Greenhouse board; no open roles
+Session AI,repvue,86.05,2026-07-13,N,ATS unresolved (Ashby 404)
+Certa.ai,repvue,86.05,2026-07-13,Y,"AE Remote North America, Ent, TPRM/vendor risk SaaS; 5+ yrs req; OTE unspecified"
+Attio,repvue,86.04,2026-07-13,N,London hybrid AE only; no US-remote
+Corning,repvue,86.04,2026-07-13,N,not B2B SaaS; manufacturing/materials science company
 Orbital,repvue,86.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Oversight Systems,repvue,86.01,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Auvik Networks,repvue,86.00,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
