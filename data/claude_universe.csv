@@ -2410,7 +2410,7 @@ Finite State,repvue,,2026-07-06,N,EMEA-only AE role (not US-remote)
 Liftoff Mobile,repvue,,2026-07-06,N,ATS unresolved (ad tech; Lever 404; not found on major boards)
 Blueboard,repvue,,2026-07-06,N,defunct (acquired by Quantum Workplace 2024; shut down)
 BookNook,repvue,,2026-07-06,N,EdTech K-12; OTE too low ($90K base+commission); not standard B2B SaaS
-Visier,repvue,,2026-07-06,Y,Account Executive Ent US-remote (base $140K-$150K + bonus/commission; people analytics SaaS)
+Visier,repvue,,2026-07-13,N,posting 4687378006 dead; no qualifying replacement found 2026-07-13
 Eaton,repvue,,2026-07-06,N,not B2B SaaS (electrical equipment manufacturer)
 "Xyleme, Inc",repvue,,2026-07-06,N,ATS unresolved (niche EdTech SaaS; not found on major boards)
 TransUnion,repvue,,2026-07-06,N,not B2B SaaS (credit bureau/data company)
@@ -2627,7 +2627,7 @@ Finix,ats-search,,2026-07-07,Y,Enterprise AE; Remote US; OTE $200K-$300K; paymen
 SentiLink,ats-search,,2026-07-07,Y,MM AE (FinTech); Remote US; OTE $200K-$250K; identity verification SaaS
 Teramind,ats-search,,2026-07-07,Y,MM AE + Enterprise AE; Remote US; no listed OTE; cybersecurity/employee monitoring SaaS
 Mimica,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; process automation / task mining SaaS
-Coupa,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; spend management SaaS
+Coupa,ats-search,,2026-07-13,N,posting fb0606e0 dead; only replacement is Germany-based (not US-remote); 2026-07-13
 Restaurant365,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; restaurant management SaaS
 Rithum,ats-search,,2026-07-07,Y,MM Hunter AE; Remote Eastern/Central US; no listed OTE; eCommerce / retail media SaaS
 Akuity,ats-search,,2026-07-07,N,no US AE role; EMEA positions only
@@ -2788,3 +2788,12 @@ Smile Digital Health,ats-search,,2026-07-12,N,FHIR-based healthcare data platfor
 Newform,ats-search,,2026-07-13,N,"Founding AE at NYC creative-intelligence ad-tech services co; in-office 3/5 days, not remote; not pure B2B SaaS"
 Curvion Blue,ats-search,,2026-07-13,N,Revenue execution / sales services firm (not B2B SaaS product); AE role is for their own services team
 BlackBox Strategies,ats-search,,2026-07-13,N,"GTM consulting/services agency; AE role is window-treatment/consumer sales, not B2B SaaS"
+Norm AI,funding-news,,2026-07-13,N,legal AI SaaS; $120M Series C July 2026; no AE roles on Ashby board (engineers/associates only)
+Taktile,funding-news,,2026-07-13,N,AI decisioning platform for fintech/banks; $110M Series C; AE role found but Berlin/London hybrid only - not US-remote
+Agave,funding-news,,2026-07-13,N,construction finance AI SaaS; $15M Series A July 2026; AE role requires 2+ yrs only (below bar); in-person primary
+Auger,funding-news,,2026-07-13,N,supply chain AI OS; $50M Series B July 2026; AE roles in-office Dallas/Bellevue only - not US-remote
+DeepInfra,funding-news,,2026-07-13,N,AI inference infrastructure; $107M Series B July 2026; not enterprise SaaS sold via AEs
+Oxylabs,funding-news,,2026-07-13,N,web scraping SaaS (Lithuanian); $130M July 2026; no US AE roles (Account Managers Poland/Lithuania only)
+Databento,funding-news,,2026-07-13,N,financial market data platform; $97M Series B July 2026; no AE roles (Quantitative Sales Associates only)
+Lovable,funding-news,,2026-07-13,N,AI app builder (Swedish); $300M July 2026; AE roles city-specific hybrid (Boston/SF) - not US-remote
+Jump,funding-news,,2026-07-13,N,AI assistant for financial advisors; $80M Series B; no AE roles on Ashby board (jump-app); PLG model
