@@ -9,7 +9,10 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 ## Files
 
 - **`data/latest.csv`** — canonical PUBLISHED list = companies that *currently* have a qualifying open
-  role. Columns: `Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL`.
+  role. Columns: `Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL,Date Added`.
+  **`Date Added` rules:** every NEW row gets today's UTC date (`YYYY-MM-DD`); never change an existing
+  row's date (a Job-1 URL fix keeps the original date); a company dropped and later re-added gets the
+  re-add date. build.py sorts the site newest-first by this column.
 - **`data/claude_universe.csv`** — the MEMORY: *every company ever evaluated*, win or not. Columns:
   `Company,Source,RepVue Score,Last Checked,Currently Open,Notes`. This is the dedup set so we never
   re-discover a company we've already considered. **It must grow every run** (see Job 2, step 4).

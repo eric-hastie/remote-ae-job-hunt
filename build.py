@@ -29,8 +29,10 @@ def load():
         "company": clean(x["Company"]), "funding": clean(x["Funding ($M)"]), "ote": clean(x["OTE"]),
         "segment": clean(x["Segment"]), "hq": clean(x["HQ"]), "remote": clean(x["Remote"]),
         "repvue": clean(x["RepVue"]), "industry": clean(x["Industry"]), "url": clean(x["Job Posting URL"]),
+        "added": clean(x.get("Date Added", "")),
     } for x in r]
-    rows.sort(key=lambda x: tier(x["segment"]))  # stable within tier
+    rows.sort(key=lambda x: tier(x["segment"]))            # stable within date
+    rows.sort(key=lambda x: x["added"], reverse=True)      # newest first
     return rows
 
 TEMPLATE = r'''<!DOCTYPE html>
@@ -148,6 +150,7 @@ footer .wrap{max-width:760px}
   <div class="tablewrap">
     <table>
       <thead><tr>
+        <th data-k="added">Added <span class="arw"></span></th>
         <th data-k="company">Company <span class="arw"></span></th>
         <th data-k="funding">Funding ($M) <span class="arw"></span></th>
         <th data-k="ote">OTE <span class="arw"></span></th>
@@ -174,6 +177,15 @@ function isMM(r){return r.segment.includes('MM')}
 function segLabel(r){const cls=isMM(r)?'b-mm':'b-ent';return '<span class="badge '+cls+'">'+r.segment+'</span>';}
 function fundDisp(r){return r.funding? (isNaN(r.funding)? r.funding : '$'+r.funding+'M') : '<span class="muted">-</span>'}
 function num(v){const n=parseFloat(String(v).replace(/[^0-9.]/g,''));return isNaN(n)?-1:n}
+const MONTHS=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const BUILD_DATE='__BUILDDATE__';
+function fmtAdded(d){
+  if(!d) return '<span class="muted">-</span>';
+  const [y,m,dd]=d.split('-');
+  const label=MONTHS[+m-1]+' '+(+dd);
+  const days=(new Date(BUILD_DATE)-new Date(d))/86400000;
+  return days<=7 ? '<b style="color:var(--accent2)">'+label+'</b>' : '<span class="muted">'+label+'</span>';
+}
 function render(){
   const term=q.value.trim().toLowerCase();
   let list=DATA.filter(r=>{
@@ -191,6 +203,7 @@ function render(){
   }
   tbody.innerHTML=list.map(r=>`
     <tr>
+      <td class="ote" style="white-space:nowrap">${fmtAdded(r.added)}</td>
       <td><div class="co">${r.company}</div><div class="ind">${r.industry||''}</div></td>
       <td>${fundDisp(r)}</td>
       <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>
@@ -375,6 +388,7 @@ def main():
            .replace("__DATA__", json.dumps(rows))
            .replace("__TOTAL__", str(total))
            .replace("__MM__", str(mm))
+           .replace("__BUILDDATE__", today.isoformat())
            .replace("__DATEHUMAN__", human))
     with open(os.path.join(ROOT, "index.html"), "w") as f:
         f.write(out)
