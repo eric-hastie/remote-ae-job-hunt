@@ -30,6 +30,7 @@ def load():
         "segment": clean(x["Segment"]), "hq": clean(x["HQ"]), "remote": clean(x["Remote"]),
         "repvue": clean(x["RepVue"]), "industry": clean(x["Industry"]), "url": clean(x["Job Posting URL"]),
         "added": clean(x.get("Date Added", "")),
+        "posted": clean(x.get("Posted", "")),
     } for x in r]
     rows.sort(key=lambda x: tier(x["segment"]))            # stable within date
     rows.sort(key=lambda x: x["added"], reverse=True)      # newest first
@@ -84,7 +85,7 @@ h2{font-size:22px;margin:0 0 14px;letter-spacing:-.01em}
 .seg button.on{background:var(--accent);color:#0b0d12}
 .count{color:var(--muted);font-size:13px;white-space:nowrap}
 .tablewrap{overflow-x:auto;margin:18px 0 60px;border:1px solid var(--line);border-radius:12px}
-table{width:100%;border-collapse:collapse;font-size:14px;min-width:820px}
+table{width:100%;border-collapse:collapse;font-size:14px;min-width:900px}
 thead th{position:sticky;top:0;background:var(--panel2);text-align:left;padding:13px 14px;
   font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);
   border-bottom:1px solid var(--line);cursor:pointer;user-select:none;white-space:nowrap}
@@ -151,6 +152,7 @@ footer .wrap{max-width:760px}
     <table>
       <thead><tr>
         <th data-k="added">Added <span class="arw"></span></th>
+        <th data-k="posted">Posted <span class="arw"></span></th>
         <th data-k="company">Company <span class="arw"></span></th>
         <th data-k="funding">Funding ($M) <span class="arw"></span></th>
         <th data-k="ote">OTE <span class="arw"></span></th>
@@ -204,6 +206,7 @@ function render(){
   tbody.innerHTML=list.map(r=>`
     <tr>
       <td class="ote" style="white-space:nowrap">${fmtAdded(r.added)}</td>
+      <td class="ote" style="white-space:nowrap">${fmtAdded(r.posted)}</td>
       <td><div class="co">${r.company}</div><div class="ind">${r.industry||''}</div></td>
       <td>${fundDisp(r)}</td>
       <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>

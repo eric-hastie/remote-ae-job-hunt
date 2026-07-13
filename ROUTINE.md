@@ -13,6 +13,10 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
   **`Date Added` rules:** every NEW row gets today's UTC date (`YYYY-MM-DD`); never change an existing
   row's date (a Job-1 URL fix keeps the original date); a company dropped and later re-added gets the
   re-add date. build.py sorts the site newest-first by this column.
+  **`Posted` rules:** the posting's own publish date (`YYYY-MM-DD`), taken from the SAME API response
+  used to verify it — Greenhouse `first_published` (needs `?content=true`), Ashby `publishedAt`,
+  Lever `createdAt` (epoch ms → UTC date). Blank if the ATS doesn't expose it (Workday/custom sites)
+  — never guess. Unlike Date Added, a Job-1 URL fix DOES update `Posted` (it's a different posting).
 - **`data/claude_universe.csv`** — the MEMORY: *every company ever evaluated*, win or not. Columns:
   `Company,Source,RepVue Score,Last Checked,Currently Open,Notes`. This is the dedup set so we never
   re-discover a company we've already considered. **It must grow every run** (see Job 2, step 4).
