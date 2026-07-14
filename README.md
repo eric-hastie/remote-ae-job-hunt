@@ -21,11 +21,10 @@ Scraped job boards bury a handful of great fits under hundreds of mismatched lis
 
 ## The numbers
 
-- **55** verified, qualified roles
-- **27** mid-market-friendly (the qualifying lane)
-- **5** industry verticals
-- **100%** of postings verified live against company ATS
-- **120+** companies evaluated; everything off-profile filtered out
+- **222** verified, qualified roles (as of July 13, 2026 - the pipeline refreshes weekly, so the live site runs ahead of this page)
+- **104** mid-market-friendly (the qualifying lane)
+- **222** companies represented - one qualified role per company
+- **100%** of postings verified live against company ATS; everything off-profile filtered out
 
 ## Where this goes next
 
