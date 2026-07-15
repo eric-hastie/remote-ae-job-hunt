@@ -3028,3 +3028,53 @@ Exo Freight,ats-search,,2026-07-15,N,"Could not confirm via ATS JSON API — Ash
 Sonatype,ats-search,,2026-07-15,N,"Confirmed Sonatype's live Lever board (jobs.lever.co/sonatype) — only 6 open postings total (CSM, Campaign Manager, 2 Ch"
 DeleteMe,ats-search,,2026-07-15,N,"Only IC AE role live is ""Public Sector Account Executive, SLED"" — OTE stated as $130K-$145K, below $150K floor, and segm"
 Futurex,ats-search,,2026-07-15,N,"Original lead posting (job ID B88B4258D9) is no longer live on Futurex's Workable board; only live AE-type posting is ""S"
+Nitrogen,repvue,,2026-07-15,N,Workable board (nitrogenwealth) active but only Product Mgr & Eng roles; no AE open currently
+LogicMonitor,repvue,,2026-07-15,N,"Greenhouse board has Catchpoint AE roles (regional TX cities, not US-remote); no MM/Ent remote AE"
+Altrata,repvue,,2026-07-15,N,ATS unresolved - no board found on Greenhouse/Ashby/Lever after multiple attempts
+AbsenceSoft,repvue,,2026-07-15,N,MM AE confirmed on Greenhouse but hybrid Denver 3d/week; not remote
+Sayari Labs,repvue,,2026-07-15,N,Greenhouse board (sayari) has only EMEA AE roles (London/Tokyo); no US-remote AE
+Ottimate,repvue,,2026-07-15,N,ATS unresolved - no board found on Greenhouse/Ashby; site uses custom ATS
+Verisk,repvue,,2026-07-15,N,Not B2B SaaS - large enterprise insurance/energy data analytics company
+AppNeta,repvue,,2026-07-15,N,Acquired - absorbed into Broadcom/ThousandEyes; no longer standalone
+HSBC,repvue,,2026-07-15,N,Not B2B SaaS - global bank
+Altria Group,repvue,,2026-07-15,N,Not B2B SaaS - tobacco/consumer goods company
+HP Inc.,repvue,,2026-07-15,N,Not B2B SaaS - hardware company (printers/PCs)
+Obligo,repvue,,2026-07-15,N,ATS unresolved - small rental deposit startup; no board found
+BlastPoint,repvue,,2026-07-15,N,ATS unresolved - small customer intelligence startup; no board found
+Mynd,repvue,,2026-07-15,N,Acquired by Roofstock; no longer standalone
+FiberLight,repvue,,2026-07-15,N,Not B2B SaaS - fiber network/telecom provider
+MyCISO,repvue,,2026-07-15,N,ATS unresolved - very small cybersecurity startup; no public board
+Pulsar,repvue,,2026-07-15,N,ATS unresolved - no board found on standard ATS platforms
+Tulip,repvue,,2026-07-15,N,Greenhouse board: only AE roles are Somerville MA hybrid (3d/wk) or Japan-remote; not US-remote
+Vidyard,repvue,,2026-07-15,N,Greenhouse board: MM AE open but Canada-remote only; no US-remote AE
+ConRes,repvue,,2026-07-15,N,Not B2B SaaS - IT solutions reseller
+SPS Commerce,repvue,,2026-07-15,N,Uses Workday; AE base $62-93K - OTE below $150K bar
+Procare Solutions,repvue,,2026-07-15,N,Greenhouse board: MM + Ent AE open but hybrid Denver 3d/week; not remote
+Acquirent,repvue,,2026-07-15,N,Not B2B SaaS - sales outsourcing/BPO firm
+Erudit,repvue,,2026-07-15,N,ATS unresolved - small HR analytics startup; no board found
+Rehab Medical,repvue,,2026-07-15,N,Not B2B SaaS - medical equipment company
+Mitchell1,repvue,,2026-07-15,N,"ATS unresolved - automotive repair shop software; likely SMB-focused, no board found"
+Red Points,repvue,,2026-07-15,N,"ATS unresolved - IP/brand protection SaaS; uses custom jobs page (redpoints.com/jobs), no standard ATS"
+Draup,repvue,,2026-07-15,N,ATS unresolved - talent/sales intelligence SaaS; no board on standard ATS platforms
+Optimizely,repvue,,2026-07-15,N,Jobvite board: Ent AE role active but Nashua NH location; not US-remote
+SAP Concur,repvue,,2026-07-15,N,Not qualifying - large SAP subsidiary; no IC AE role found on standard ATS; enterprise T&E not typical startup AE target
+Ferguson Enterprises,repvue,,2026-07-15,N,Not B2B SaaS - plumbing/industrial products distributor
+JMP,repvue,,2026-07-15,N,Not B2B SaaS - SAS subsidiary; stats/analytics software for researchers
+Ekos,repvue,,2026-07-15,N,No open positions (brewery/distillery mgmt SaaS; careers page currently empty)
+Dealpath,repvue,,2026-07-15,N,Greenhouse: Ent AE open but NYC hybrid 4d/week; not remote
+Smith & Associates,repvue,,2026-07-15,N,Not B2B SaaS - electronics components distributor
+Incredible Health,repvue,,2026-07-15,N,Rippling board currently only lists CSM + Marketing roles; Enterprise AE posting found on search but dead on board
+Freight Club,repvue,,2026-07-15,N,ATS unresolved - LTL shipping platform; no board found on standard ATS
+Equifax,repvue,,2026-07-15,N,Not B2B SaaS - credit reporting bureau/large financial data company
+Thnks,repvue,,2026-07-15,N,Workable board (thnks) currently empty - no open roles
+Wintrust Mortgage,repvue,,2026-07-15,N,Not B2B SaaS - mortgage lender
+Arovy,repvue,,2026-07-15,N,ATS unresolved - procurement SaaS startup; not found on web searches
+Hanwha Vision,repvue,,2026-07-15,N,Not B2B SaaS - security camera/video surveillance hardware
+Zebra Technologies,repvue,,2026-07-15,N,Not B2B SaaS - hardware (mobile computing/barcode scanning)
+PlanSource,repvue,,2026-07-15,N,"ATS unresolved - benefits admin SaaS; uses custom careers.plansource.com, no standard board"
+NextGen Healthcare,repvue,,2026-07-15,N,Workday ATS; AE comp ~$70-95K total - well below $150K OTE bar
+Logi Analytics,repvue,,2026-07-15,N,Acquired - now part of Insightful/Workpuls; no longer standalone
+CallRail,repvue,,2026-07-15,N,Greenhouse board: no IC AE role; only Partner AE + Inside Sales (hybrid Atlanta); not remote
+Bay Alarm,repvue,,2026-07-15,N,Not B2B SaaS - physical security alarm services company
+FreeWill,repvue,,2026-07-15,N,Greenhouse (freewill): AE roles are SMB/Grassroots segment at $135K OTE - below bar; nonprofit vertical
+Gremlin,repvue,,2026-07-15,N,Greenhouse board: no AE role currently (was ID 8160793002 but not in board; only DS/SA/Eng open)
