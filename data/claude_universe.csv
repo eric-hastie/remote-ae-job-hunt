@@ -3003,3 +3003,28 @@ Anaconda,ats-search,,2026-07-15,Y,"Live Rippling posting for IC Mid-Market Accou
 Copado,ats-search,,2026-07-15,Y,"Lead hint (General Commercial AE) is Denver, CO on-site w/ relocation required, disqualifying — but same board has a liv"
 Community Brands (Momentive),ats-search,,2026-07-15,N,"Identity confirmed via search: this is Momentive Software (formerly Community Brands, nonprofit/association SaaS) — not "
 Magnitude Software (insightsoftware),ats-search,,2026-07-15,N,"ATS confirmed as Workday tenant magnitudesoftware.wd1.myworkdayjobs.com (insightsoftware careers page links there), but "
+DebtBook,ats-search,,2026-07-15,N,"Live Mid-Market AE posting (Greenhouse, replaces stale lead URL) requires in-office 5x/week in Charlotte NC, not remote-"
+Rutter,ats-search,,2026-07-15,N,"Ashby board API (api.ashbyhq.com/posting-api/job-board/rutter) currently lists only one open role, Solutions Architect ("
+Newfront,ats-search,,2026-07-15,N,Ashby board API for newfront returns empty jobs array (zero live postings) — the AE-Financial Institutions posting is de
+Canvas Medical,ats-search,,2026-07-15,Y,"Live IC Account Executive posting on Lever (canvasmedical) selling EMR platform to healthcare orgs; SF/Remote, 3+ yrs qu"
+HealthHero,ats-search,,2026-07-15,N,Workable board API (apply.workable.com/api/v1/widget/accounts/healthhero) currently lists only 9 jobs (clinical/technica
+OpenObserve,ats-search,,2026-07-15,Y,"Live IC Account Executive (SMB/Commercial) posting on confirmed Ashby board, US-remote, B2B SaaS observability platform,"
+Read AI,ats-search,,2026-07-15,N,"Lead hint URL (Mid-Market AE, 6c60d638...) is dead/not in live Ashby board; only live AE posting is ""Growth Account Exec"
+unitQ,ats-search,,2026-07-15,N,"Only AE posting on unitQ's Lever board is located ""New York, NY"" (Full Time office role), not remote-US; also stale (cre"
+DevRev,ats-search,,2026-07-15,N,"Lead URL (job 5648777004) actually resolves to ""Account Executive: Field Sales - Delhi NCR"" (India Remote), not a US Mid"
+Granola,ats-search,,2026-07-15,N,"Ashby posting confirmed (Account Executive, Mid Market, OTE $200-260K) but explicitly OnSite/isRemote:false at San Franc"
+Kana.ai,ats-search,,2026-07-15,Y,"Live Greenhouse posting ""Founding Account Executive"" (US-remote variant, id 5254098008) confirmed via API; IC full-cycle"
+Remote People,ats-search,,2026-07-15,N,Lead job ID 4805016101 is dead (redirects to general board); live Greenhouse API shows only GTM AE - LATAM and GTM AE - 
+AvidXchange,ats-search,,2026-07-15,N,Original ID (4793658007) is dead/not in the live Greenhouse board; only live AE posting (5171727007) requires just 3 yrs
+Mia Labs,ats-search,,2026-07-15,N,"Ashby JSON API for mia-labs board (verified correct company, auto dealership SaaS) currently lists only 2 postings — Sof"
+Qloo,ats-search,,2026-07-15,N,"Lever board (jobs.lever.co/qloo) confirmed as Qloo's real ATS, but live API returns only one posting (ML Engineer); no A"
+Agilysys,ats-search,,2026-07-15,N,"All AE postings on Agilysys's live Greenhouse board are Enterprise-only (no MM), and the lead posting (Sales & Catering,"
+Kargo,ats-search,,2026-07-15,N,"Real MM AE posting confirmed live (Greenhouse, freight-tech Kargo, not ad-tech Kargo) but requires only ""2+ years experi"
+Fleetworthy (Bestpass),ats-search,,2026-07-15,Y,"Live Greenhouse posting for IC Mid-Market Account Executive, US Remote, targeting fleets of 100-750 vehicles, 3+ yrs sol"
+Portcast,ats-search,,2026-07-15,N,"role titled ""Sales Manager"" not AE — IC/people-manager ambiguity; held"
+Loadsmart,ats-search,,2026-07-15,N,"Lever board confirmed (jobs.lever.co/loadsmart) but only sales-adjacent postings are: AE (Brasília/Remote, Independent C"
+cargo.one,ats-search,,2026-07-15,N,"Ashby board (job-board/cargo-one) currently has only 1 live posting (Content Ops QA Analyst, EMEA); the NOAM AE posting "
+Exo Freight,ats-search,,2026-07-15,N,"Could not confirm via ATS JSON API — Ashby board token guesses (Exofreight, exofreight, ExoFreight, exo-freight) all ret"
+Sonatype,ats-search,,2026-07-15,N,"Confirmed Sonatype's live Lever board (jobs.lever.co/sonatype) — only 6 open postings total (CSM, Campaign Manager, 2 Ch"
+DeleteMe,ats-search,,2026-07-15,N,"Only IC AE role live is ""Public Sector Account Executive, SLED"" — OTE stated as $130K-$145K, below $150K floor, and segm"
+Futurex,ats-search,,2026-07-15,N,"Original lead posting (job ID B88B4258D9) is no longer live on Futurex's Workable board; only live AE-type posting is ""S"
