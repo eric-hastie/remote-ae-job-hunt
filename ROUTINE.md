@@ -195,6 +195,16 @@ SAME ATS-verify pipeline on the merged candidate list.
 
 **Fallback:** WebFetch the company's `/careers` or `/jobs` page and read it. Unverifiable → not listed.
 
+**Posting-api blind spot (Ashby & similar) — DON'T record "no AE" on the API alone:** some companies
+publish AE/sales roles on their own careers page and via direct posting URLs
+(`jobs.ashbyhq.com/{slug}/{uuid}` resolves live) but EXCLUDE them from the public posting-api board
+feed. So an ATS board that returns real roles but **ZERO sales/AE/GTM roles** is a RED FLAG for any
+plausible sales-led B2B SaaS (RepVue-scored, clear GTM motion) — before recording "no AE", do ONE
+fallback: WebSearch `{company} account executive site:jobs.ashbyhq.com/{slug}` (or `{company} careers
+account executive`, or fetch `/careers`). If a live IC-AE posting resolves, verify it and record the
+direct posting URL. (Found via **Linear**: RepVue 97, AE roles live on linear.app/careers but absent
+from the Ashby posting-api feed — a false "no AE" for weeks.)
+
 **Remote vs in-office (read carefully — this trips people up):** judge remote by THIS posting's own
 designation, not by generic company-culture text. A posting explicitly labeled "Remote, United States"
 **counts as remote** even if the body has boilerplate like "we value in-person collaboration / our hubs
