@@ -2972,3 +2972,34 @@ PathPilot,wellfound,,2026-07-15,N,"No IC Account Executive posting found on any 
 Infrawatch,wellfound,,2026-07-15,N,"No ATS job board found (Greenhouse/Ashby/Lever all 404); Wellfound listing is explicitly London-based Founding AE, not U"
 Trayo AI,wellfound,,2026-07-15,N,"Founding AE role is San Mateo, CA (Hybrid), not remote, and applications go via direct email (careers@trayo.ai) — no ATS"
 Seeds,wellfound,,2026-07-15,N,"Could not locate a live company ATS board (Greenhouse/Ashby/Lever/Workable) under ""seeds"" or ""useseeds"" slugs after 5 fe"
+AI Squared,ats-search,,2026-07-15,N,"Live IC Mid-Market AE posting confirmed on Greenhouse (remote, NYC/Chicago preferred, no in-office cadence stated, SaaS/"
+Rollstack,ats-search,,2026-07-15,N,"MM AE but Greenhouse API 404 (snippet-only, not API-confirmed); held"
+TrackTik (Trackforce),ats-search,,2026-07-15,N,MM AE on Lever but US-remote not confirmed from JD (Montreal co); held
+Trellis,ats-search,,2026-07-15,N,AE on Lever but posting dated 2025-05-13 (stale); held
+Connectly,ats-search,,2026-07-15,N,"Ashby board confirmed (jobs.ashbyhq.com/connectly) but only AE postings are Remote/LATAM (Brazil, Mexico) — no US-remote"
+Ambi Robotics,ats-search,,2026-07-15,N,"Only open AE role is Enterprise AE (fully remote, US) but explicitly ""not an entry-level or mid-market role,"" requires 1"
+PayNearMe,ats-search,,2026-07-15,N,SmartRecruiters API (api.smartrecruiters.com/v1/companies/PayNearMe/postings) returns zero live postings; the AE (Mid-Ma
+Freshworks,ats-search,,2026-07-15,N,"Only live AE posting is Boston Mid-Market AE, but JD explicitly states hybrid 3x/week (Tues-Thurs) office cadence, disqu"
+Payscale,ats-search,,2026-07-15,N,SmartRecruiters API (slug Payscale/payscale) returns totalFound:0 — no open postings; Greenhouse/Lever slug guesses 404'
+MyTime,ats-search,,2026-07-15,N,"SmartRecruiters board confirmed (get.mytime.com, LA-based scheduling/POS co.) but only sales role live is VP of Sales — "
+Wix (Base44),ats-search,,2026-07-15,N,"SmartRecruiters slug Wix2 confirmed; both ""Senior/Enterprise Account Executive - Base44"" (Remote, OR) postings found are"
+Sectigo,ats-search,,2026-07-15,Y,"SmartRecruiters board confirms live IC Enterprise Sales AE, SLED postings (Chicago/Midwest & Midwest/Great Lakes variant"
+TCP Software,ats-search,,2026-07-15,Y,"Lead-hint posting (C00931DA8E, Mid-Market AE) is dead/not in live Workable API; substituted live qualifying posting foun"
+Titan Cloud (Titan Cloud Software),ats-search,,2026-07-15,N,Workable board titan-cloud returns empty jobs:[] and the given job ID has no retrievable content — posting not live in t
+Leadfeeder,ats-search,,2026-07-15,N,"Workable board (apply.workable.com/api/v1/widget/accounts/leadfeeder) shows only 3 open roles (Data Eng, 2x PM, Germany "
+Mortgage Automator,ats-search,,2026-07-15,N,"Posting is IC ""Sales Account Executive"" (MM segment) but the US location is Phoenix, AZ specifically (telecommuting:fals"
+RTM Business Group,ats-search,,2026-07-15,N,"Confirmed live IC AE posting on Workable (100% remote, CA/FL/TX/PA/GA/OH/IN/SC/MA) but RTM is a B2B conference/events co"
+Fiscal.ai,ats-search,,2026-07-15,N,"Posting confirmed live on Fiscal.ai's real Workable board (IC AE, B2B SaaS, 5+ yrs, OTE $250-300K+ fits bar) but locatio"
+Mission Inbox,ats-search,,2026-07-15,N,"Only AE posting is ""Enterprise Account Executive (Founding Hire)"" — OTE $80K ($32K base + $48K variable, per Workable AP"
+Hostaway,ats-search,,2026-07-15,Y,"IC Account Executive, 100% remote North America (EST/CST timezone requirement, not office cadence), mid-market focus, B2"
+Hygraph,ats-search,,2026-07-15,N,"Recruitee board (hygraph.recruitee.com, confirmed real ATS) currently lists only a Senior Full Stack Engineer role; the "
+SidelineSwap,ats-search,,2026-07-15,N,"Confirmed SidelineSwap on Recruitee; the ""Account Executive"" postings (Calgary, Dallas, Pittsburgh, New England incl. le"
+Spectrm,ats-search,,2026-07-15,N,No Recruitee board found (404); real ATS is join.com/companies/spectrm which explicitly states no open positions current
+Delightree,ats-search,,2026-07-15,N,"Posting is IC AE, MM SaaS, 200K OTE, 4+ yrs — but JD explicitly states ""Based in Denver, CO"" / ""Hybrid work environment "
+JustFOIA,ats-search,,2026-07-15,N,"Rippling board (ats.rippling.com/justfoia) shows no open roles; original posting URL now dead (""no open roles, come back"
+Transcend,ats-search,,2026-07-15,N,"Real Transcend (transcend.io, privacy/data-governance SaaS) uses Greenhouse (transcendinc), not Rippling; the given Ripp"
+Agility PR Solutions,ats-search,,2026-07-15,N,The specific job ID URL resolves only to Agility PR's full Rippling job board (dead link per rules); current live AE ope
+Anaconda,ats-search,,2026-07-15,Y,"Live Rippling posting for IC Mid-Market Account Executive, remote-acceptable (East territory), 3+ yrs B2B SaaS closing e"
+Copado,ats-search,,2026-07-15,Y,"Lead hint (General Commercial AE) is Denver, CO on-site w/ relocation required, disqualifying — but same board has a liv"
+Community Brands (Momentive),ats-search,,2026-07-15,N,"Identity confirmed via search: this is Momentive Software (formerly Community Brands, nonprofit/association SaaS) — not "
+Magnitude Software (insightsoftware),ats-search,,2026-07-15,N,"ATS confirmed as Workday tenant magnitudesoftware.wd1.myworkdayjobs.com (insightsoftware careers page links there), but "
