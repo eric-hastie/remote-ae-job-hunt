@@ -20,8 +20,9 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 - **`data/claude_universe.csv`** — the MEMORY: *every company ever evaluated*, win or not. Columns:
   `Company,Source,RepVue Score,Last Checked,Currently Open,Notes`. This is the dedup set so we never
   re-discover a company we've already considered. **It must grow every run** (see Job 2, step 4).
-- **`data/scan_queue.csv`** — the DISCOVERY QUEUE: RepVue companies with score ≥ 80, best-score-first,
-  minus everything already in `claude_universe.csv` at build time (2026-07-02: 1,003 companies).
+- **`data/scan_queue.csv`** — the DISCOVERY QUEUE: RepVue companies with score ≥ 78, best-score-first,
+  minus everything already in `claude_universe.csv` at build time (rebuilt 2026-07-15 at ≥78: 745
+  companies; the original ≥80 queue was exhausted). Refilled locally from `repvue_universe.csv`.
   Columns: `Company,Slug` (Slug = starting guess for the ATS board token). The queue file itself is
   never edited by the routine — progress is tracked by recording checked companies into
   `claude_universe.csv`, so "next up" = first N queue rows not yet in the universe.
@@ -84,10 +85,10 @@ Then act on the script's output:
 
 Get `H=$(date -u +%H)` (runs fire at 03/08/13/18/23) and `D=$(date -u +%u)` (1 = Monday):
 
-1. **Monday 18:00 UTC run** (`D==1 && H==18`) → **Job F — weekly funding-news sweep**.
+1. **Monday 18:00 UTC run** (`D==1 && H==18`) → **Job F — weekly fresh-startup sweep**.
 2. Else, if `data/scan_queue.csv` still has companies not in `claude_universe.csv` → **Job 2 — queue scan**.
-3. Else (queue dry): `H` in {13, 23} → **Job 3 — ATS-native search**; `H` in {03, 08, 18} →
-   **Job 4 — re-check rotation**.
+3. Else (queue dry): `H` in {13, 18, 23} → **Job 3 — ATS-native search** (3 discovery slots/day, the
+   primary net-new engine once the queue is dry); `H` in {03, 08} → **Job 4 — re-check rotation**.
 
 One job per run (plus Job 1). Do not combine or improvise beyond the selected job's budget.
 
@@ -111,25 +112,41 @@ One job per run (plus Job 1). Do not combine or improvise beyond the selected jo
 
 Drop anything unverified — no "just in case." No fabrication; leave Funding/RepVue blank if unknown.
 
-## Job 3 — ATS-native search (net-new startups, queue-dry runs at 13:00 & 23:00 UTC)
+## Job 3 — ATS-native search (net-new startups; queue-dry runs at 13:00, 18:00 & 23:00 UTC)
 
-Find postings directly on the ATS platforms — the posting first, the company second. This catches
-startups too new or obscure for RepVue.
+Find postings directly on the ATS platforms — the posting first, the company second. This is the
+primary net-new engine once the queue is dry; it catches startups too new or obscure for RepVue.
+**Search ALL EIGHT hosted-board domains, not just three** — the extra platforms are where smaller,
+newer companies live.
 
-1. Run ~8–10 WebSearch queries, rotating phrasing across runs, all scoped to hosted-board domains:
-   `site:jobs.ashbyhq.com "account executive" mid-market remote`, same for
-   `site:job-boards.greenhouse.io` and `site:jobs.lever.co`; vary with "commercial account executive",
-   "AE" + "remote (US)", segment words ("mid market", "growth"), and without the segment word.
+1. Run ~10–12 WebSearch queries this run, all scoped to hosted-board domains, **rotating so
+   consecutive runs never repeat the same query** (stale queries re-find the same names). Seed this
+   run's position in the matrix from the clock — e.g. `R=$(( (10#$(date -u +%j) * 5 + 10#$(date -u +%H)) ))` —
+   and step through the domain × phrasing × qualifier matrix so every run advances; the full cycle
+   repeats only after the matrix is exhausted.
+   - **domains** (cycle across runs): `site:jobs.ashbyhq.com`, `site:job-boards.greenhouse.io`,
+     `site:jobs.lever.co`, `site:jobs.smartrecruiters.com`, `site:apply.workable.com`,
+     `site:*.recruitee.com`, `site:ats.rippling.com`, `site:*.myworkdayjobs.com`
+   - **phrasing**: `"account executive"` / `"commercial account executive"` /
+     `"mid-market account executive"` / `"AE" "remote"`
+   - **qualifier**: rotate `mid-market` / `growth` / `remote (US)` / (none).
 2. From the hits, collect candidate companies **not already in `claude_universe.csv`** (paren-aware
    base-name match). Search hits are LEADS, not verification — a hit may be a dead posting.
 3. Verify each candidate on its board's JSON API per the ATS reference + URL-capture rules (the search
    hit tells you the board slug — confirm the posting ID is in the API response, then judge the bar:
    IC AE, US-remote from JD text, segment, OTE, B2B SaaS, company identity).
+   - **Recency signal (better than waiting for a funding headline):** read each posting's publish date
+     from the SAME API response (Greenhouse `first_published`, Ashby `publishedAt`, Lever `createdAt`)
+     and prioritize roles posted in the last ~30 days — a brand-new AE posting at an unknown small
+     company is the strongest "scaling sales right now" signal (record it as `Posted`).
+   - **GTM-cluster signal:** a never-before-seen board carrying a CLUSTER of fresh GTM roles (an AE
+     *plus* a sales-manager / RevOps / first-GTM-hire posting) is a net-new sales org standing up —
+     treat as high-priority net-new.
 4. Record EVERY candidate evaluated into `claude_universe.csv` (`Source = ats-search`, Y/N + reason,
    `Last Checked` = today); winners → `latest.csv`. Budget: stop at 50 companies evaluated or when
    the query set is exhausted, whichever comes first.
 
-## Job 4 — Re-check rotation (queue-dry runs at 03:00, 08:00, 18:00 UTC)
+## Job 4 — Re-check rotation (queue-dry runs at 03:00 & 08:00 UTC)
 
 Re-check the universe for newly-opened roles: take the 50 `Currently Open = N` rows with the oldest
 `Last Checked` (highest RepVue Score first as tiebreak), skipping rows whose Notes mark a permanent
@@ -137,20 +154,31 @@ disqualification (acquired / defunct / not B2B SaaS / different company), and ru
 same check-and-record loop as Job 2 (update `Last Checked` + Notes; flips to Y go into `latest.csv`).
 Roles churn — a company that had nothing last month may have an opening today.
 
-## Job F — Weekly funding-news sweep (Monday 18:00 UTC run, replaces the other jobs that run)
+## Job F — Weekly fresh-startup sweep (Monday 18:00 UTC run, replaces the other jobs that run)
 
-Newly funded B2B SaaS companies hire AEs within weeks and are exactly the ones RepVue hasn't scored.
+Reach companies too new for RepVue AND before/without a funding headline. Funding news is just ONE of
+three lead feeders here — the posting is the real signal, so pull leads from all three, then run the
+SAME ATS-verify pipeline on the merged candidate list.
 
-1. WebSearch for B2B SaaS funding announcements from the LAST 7 DAYS: "Series A/B/C" + "B2B SaaS"
-   raise/funding round announcements, TechCrunch/Axios/BusinessWire funding roundups, "announced
-   Series B" news queries. Prefer Series B/C (Series A is usually too early for a $150K+ OTE MM AE,
-   but include any Series A explicitly scaling a sales team).
-2. Build the candidate list; skip companies already in `claude_universe.csv`.
-3. ATS-check each candidate per the reference + capture rules (find the board via ONE search if the
-   company site doesn't link it; cap ~5 fetches + 1 search per company, same as Job 2).
-4. Record EVERY candidate evaluated into `claude_universe.csv` (`Source = funding-news`, Y/N + reason,
-   `Last Checked` = today); winners → `latest.csv`. Budget: up to 50 companies evaluated; most weeks
-   the qualifying raise count will be far smaller — that's fine, do not pad the list.
+**Feeders — gather leads from all three (leads only; verification happens in step 4):**
+1. **Funding news — last 7 days.** WebSearch "Series A/B/C" + "B2B SaaS" raise/round announcements,
+   TechCrunch/Axios/BusinessWire funding roundups. Prefer Series B/C (Series A is usually too early for
+   a $150K+ OTE MM AE, but include any Series A explicitly scaling a sales team).
+2. **YC companies hiring AEs.** WebSearch the public YC directory / "Work at a Startup" for B2B SaaS
+   companies with open AE / GTM roles (e.g. `site:ycombinator.com/companies "account executive"`, recent
+   batches + "account executive remote"). YC-backed = net-new by definition.
+3. **Wellfound (AngelList).** WebSearch `site:wellfound.com "account executive" remote` and variants for
+   startup AE postings. Leads ONLY — Wellfound listings go stale, so never record a Wellfound URL.
+
+**Verify + record:**
+4. Merge the three lead lists; drop anything already in `claude_universe.csv` (paren-aware base-name
+   match). ATS-check each remaining candidate on its own board's JSON API per the ATS reference +
+   URL-capture rules (find the board via ONE search if the company site doesn't link it; cap ~5 fetches
+   + 1 search per company). Apply the **recency + GTM-cluster signals** from Job 3.
+5. Record EVERY candidate evaluated into `claude_universe.csv` (`Source =` the feeder it came from —
+   `funding-news` / `yc` / `wellfound`; Y/N + reason; `Last Checked` = today); winners → `latest.csv`.
+   Budget: up to 50 companies evaluated across all feeders; most weeks the qualifying count is small —
+   that's fine, do not pad the list.
 
 ## ATS reference (check these JSON endpoints first; `{slug}` = board token, try company name lowercased)
 
