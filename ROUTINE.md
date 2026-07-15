@@ -212,7 +212,7 @@ universe covered the obvious names. Discovery is now the RepVue score-≥80 queu
 
 ## Finish
 
-`python3 build.py` (regenerates `index.html` + `history.html` — NEVER hand-edit those) → copy
+`python3 build.py` (regenerates `index.html` + `history.html` + `discards.html` — NEVER hand-edit those; `discards.html` lists every `Currently Open = N` universe row with its Notes as the discard reason) → copy
 `latest.csv` to `data/$(date -u +%F).csv` → `git add -A` → commit
 `Refresh <UTC date+hour>: +<added> -<dropped> ~<links fixed> | checked <n> (queue <remaining>)`
 → `git push origin main` (if rejected: `git pull --rebase` then push; **never force-push**) → print a

@@ -11,6 +11,7 @@ import csv, json, os, datetime, glob, re
 ROOT = os.path.dirname(os.path.abspath(__file__))
 REPO = "eric-hastie/remote-ae-job-hunt"
 CSV_PATH = os.path.join(ROOT, "data", "latest.csv")
+UNIV_PATH = os.path.join(ROOT, "data", "claude_universe.csv")
 
 def tier(seg):
     # pure mid-market first, then MM/Ent hybrids, then pure enterprise
@@ -114,7 +115,7 @@ footer .wrap{max-width:760px}
   <h1>Remote AE Market Map</h1>
   <p class="sub">A hand-verified dataset of remote US <b>Account Executive</b> openings at B2B SaaS companies - built with an AI-assisted research pipeline that screens against a defined ICP and verifies every posting is live.</p>
   <p class="byline">Compiled by <b>Eric Hastie</b> · Data verified __DATEHUMAN__ · <span class="muted">a portfolio project</span></p>
-  <p class="byline" style="margin-top:6px"><b>Current roles</b> &nbsp;·&nbsp; <a href="history.html">History &amp; Trends →</a></p>
+  <p class="byline" style="margin-top:6px"><b>Current roles</b> &nbsp;·&nbsp; <a href="history.html">History &amp; Trends</a> &nbsp;·&nbsp; <a href="discards.html">Discards →</a></p>
   <div class="stats">
     <div class="stat"><div class="n">__TOTAL__</div><div class="l">verified, qualified roles</div></div>
     <div class="stat"><div class="n">__MM__</div><div class="l">mid-market-friendly</div></div>
@@ -313,7 +314,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:26px 0 60px;colo
   <p class="eyebrow">B2B SaaS · Sales · Market Research</p>
   <h1>History &amp; Trends</h1>
   <p class="sub">How the remote-AE market is moving over time. This dataset is re-verified and re-scanned automatically every week; each run is snapshotted so the changes are tracked, not overwritten.</p>
-  <p class="byline"><a href="./">← Current roles</a> &nbsp;·&nbsp; <span class="muted">updated __DATEHUMAN__</span></p>
+  <p class="byline"><a href="./">← Current roles</a> &nbsp;·&nbsp; <a href="discards.html">Discards</a> &nbsp;·&nbsp; <span class="muted">updated __DATEHUMAN__</span></p>
   <div class="stats">
     <div class="stat"><div class="n">__WEEKS__</div><div class="l">weekly snapshots</div></div>
     <div class="stat"><div class="n">__CURRENT__</div><div class="l">roles right now</div></div>
@@ -380,6 +381,150 @@ drawChart(); drawLog();
 </body>
 </html>'''
 
+def load_discards():
+    """Every claude_universe.csv company with no qualifying open role (Currently Open = N),
+    plus the Y/total counts for the header stats."""
+    with open(UNIV_PATH, newline="") as f:
+        r = list(csv.DictReader(f))
+    total = len(r)
+    y = sum(1 for x in r if (x.get("Currently Open", "") or "").strip().upper() == "Y")
+    disc = [{
+        "company": clean(x.get("Company", "") or ""),
+        "source": clean(x.get("Source", "") or ""),
+        "checked": clean(x.get("Last Checked", "") or ""),
+        "reason": clean(x.get("Notes", "") or ""),
+    } for x in r if (x.get("Currently Open", "") or "").strip().upper() == "N"]
+    disc.sort(key=lambda d: d["company"].lower())
+    disc.sort(key=lambda d: d["checked"], reverse=True)   # most recently evaluated first
+    return disc, total, y
+
+DISCARDS_TEMPLATE = r'''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Discards - Remote AE Market Map</title>
+<meta name="description" content="Companies evaluated but not published, each with the reason it was discarded.">
+<style>
+:root{--bg:#0f1115;--panel:#171a21;--panel2:#1d212a;--line:#2a2f3a;--txt:#e7eaf0;--muted:#9aa3b2;--accent:#6c8cff;--accent2:#41d3a3;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header{padding:56px 0 24px;border-bottom:1px solid var(--line)}
+.eyebrow{color:var(--accent2);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-size:12px;margin:0 0 12px}
+h1{font-size:34px;margin:0 0 12px;font-weight:740;letter-spacing:-.02em}
+.sub{color:var(--muted);font-size:17px;max-width:700px;margin:0}
+.byline{margin-top:18px;color:var(--muted);font-size:14px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:28px 0 0}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px}
+.stat .n{font-size:26px;font-weight:720;letter-spacing:-.02em}.stat .l{color:var(--muted);font-size:12.5px;margin-top:3px}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:20px 0 14px;margin-top:28px;border-bottom:1px solid var(--line);display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+#q{flex:1;min-width:220px;background:var(--panel2);border:1px solid var(--line);color:var(--txt);padding:11px 14px;border-radius:10px;font-size:14px;outline:none}
+#q:focus{border-color:var(--accent)}
+.seg{display:flex;gap:6px;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:4px;flex-wrap:wrap}
+.seg button{background:transparent;border:0;color:var(--muted);padding:7px 12px;border-radius:7px;cursor:pointer;font-size:12.5px;font-weight:600}
+.seg button.on{background:var(--accent);color:#0b0d12}
+.count{color:var(--muted);font-size:13px;white-space:nowrap}
+.tablewrap{overflow-x:auto;margin:16px 0 60px;border:1px solid var(--line);border-radius:12px}
+table{width:100%;border-collapse:collapse;font-size:14px;min-width:820px}
+thead th{position:sticky;top:0;background:var(--panel2);text-align:left;padding:12px 14px;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);cursor:pointer;user-select:none;white-space:nowrap}
+thead th:hover{color:var(--txt)}thead th .arw{opacity:.5;font-size:10px}
+tbody td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr:last-child td{border-bottom:0}tbody tr:hover{background:var(--panel)}
+.co{font-weight:650;font-size:14.5px}
+.src{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;background:var(--panel2);border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.reason{color:#cdd3de;font-size:13.5px;max-width:640px}
+.muted{color:var(--muted)}
+footer{border-top:1px solid var(--line);padding:26px 0 60px;color:var(--muted);font-size:13px}
+footer .wrap{max-width:820px}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <p class="eyebrow">B2B SaaS · Sales · Market Research</p>
+  <h1>Discards</h1>
+  <p class="sub">Every company the pipeline evaluated but did <b>not</b> publish - each with the reason it was set aside. This is the audit trail behind the verified list: proof the filter is doing real work, not just collecting names.</p>
+  <p class="byline"><a href="./">&larr; Current roles</a> &nbsp;·&nbsp; <a href="history.html">History &amp; Trends</a> &nbsp;·&nbsp; <span class="muted">updated __DATEHUMAN__</span></p>
+  <div class="stats">
+    <div class="stat"><div class="n">__EVALUATED__</div><div class="l">companies evaluated</div></div>
+    <div class="stat"><div class="n">__DISCARD_COUNT__</div><div class="l">discarded (not a fit)</div></div>
+    <div class="stat"><div class="n">__PUBLISHED__</div><div class="l">published as live roles</div></div>
+  </div>
+</div></header>
+<div class="wrap">
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search company or reason (try 'stale', '2024', 'not remote', 'no AE')…" autocomplete="off">
+    <div class="seg" id="seg">
+      <button data-src="all" class="on">All</button>
+      <button data-src="repvue">RepVue</button>
+      <button data-src="ats-search">ATS search</button>
+      <button data-src="funding-news">Funding</button>
+      <button data-src="yc">YC</button>
+      <button data-src="wellfound">Wellfound</button>
+    </div>
+    <span class="count" id="count"></span>
+  </div>
+  <div class="tablewrap">
+    <table>
+      <thead><tr>
+        <th data-k="checked">Last Checked <span class="arw"></span></th>
+        <th data-k="company">Company <span class="arw"></span></th>
+        <th data-k="source">Source <span class="arw"></span></th>
+        <th data-k="reason">Discard Reason <span class="arw"></span></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+</div>
+<footer><div class="wrap">
+  This is the full <code>claude_universe.csv</code> memory filtered to companies with no qualifying open role. Reasons are recorded at evaluation time. A discard isn't permanent - the re-check rotation revisits these companies over time, so one with no opening today may qualify later. Built by Eric Hastie.
+</div></footer>
+<script>
+const DATA = __DISCARDS_JSON__;
+const tbody=document.getElementById('rows');
+const q=document.getElementById('q');
+const count=document.getElementById('count');
+let src='all', sortK='checked', sortDir=-1;
+const MONTHS=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function fmtDate(d){ if(!d) return '<span class="muted">-</span>'; const p=String(d).split('-'); if(p.length!==3) return '<span class="muted">'+d+'</span>'; return '<span class="muted">'+MONTHS[+p[1]-1]+' '+(+p[2])+' ’'+p[0].slice(2)+'</span>'; }
+function esc(s){return String(s==null?'':s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
+function matchSrc(r){ if(src==='all')return true; return String(r.source||'').toLowerCase().indexOf(src)===0; }
+function render(){
+  const term=q.value.trim().toLowerCase();
+  let list=DATA.filter(r=>{
+    if(!matchSrc(r))return false;
+    if(!term)return true;
+    return (r.company+' '+r.source+' '+r.reason).toLowerCase().includes(term);
+  });
+  if(sortK){ list=list.slice().sort((a,b)=>String(a[sortK]).localeCompare(String(b[sortK]))*sortDir); }
+  tbody.innerHTML=list.map(r=>`
+    <tr>
+      <td style="white-space:nowrap">${fmtDate(r.checked)}</td>
+      <td><div class="co">${esc(r.company)}</div></td>
+      <td><span class="src">${esc(r.source||'-')}</span></td>
+      <td><div class="reason">${esc(r.reason)||'<span class=muted>-</span>'}</div></td>
+    </tr>`).join('');
+  count.textContent=list.length.toLocaleString()+' of '+DATA.length.toLocaleString()+' discards';
+}
+document.querySelectorAll('#seg button').forEach(b=>b.onclick=()=>{
+  src=b.dataset.src;
+  document.querySelectorAll('#seg button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');render();
+});
+document.querySelectorAll('thead th[data-k]').forEach(th=>th.onclick=()=>{
+  const k=th.dataset.k;
+  if(sortK===k){sortDir*=-1}else{sortK=k;sortDir=1}
+  document.querySelectorAll('thead th .arw').forEach(a=>a.textContent='');
+  th.querySelector('.arw').textContent=sortDir>0?'▲':'▼';
+  render();
+});
+q.oninput=render;
+render();
+</script>
+</body>
+</html>'''
+
 def main():
     today = datetime.date.today()
     human = today.strftime("%B %-d, %Y") if os.name != "nt" else today.strftime("%B %d, %Y")
@@ -412,6 +557,17 @@ def main():
         with open(os.path.join(ROOT, "history.html"), "w") as f:
             f.write(hist)
         print(f"built history.html: {len(snaps)} snapshots, net {net:+d} since {snaps[0]['date']}")
+
+    discards, uni_total, uni_y = load_discards()
+    disc_html = (DISCARDS_TEMPLATE
+                 .replace("__DISCARDS_JSON__", json.dumps(discards))
+                 .replace("__EVALUATED__", f"{uni_total:,}")
+                 .replace("__DISCARD_COUNT__", f"{len(discards):,}")
+                 .replace("__PUBLISHED__", f"{uni_y:,}")
+                 .replace("__DATEHUMAN__", human))
+    with open(os.path.join(ROOT, "discards.html"), "w") as f:
+        f.write(disc_html)
+    print(f"built discards.html: {len(discards):,} discards of {uni_total:,} evaluated")
 
 if __name__ == "__main__":
     main()
