@@ -2927,3 +2927,48 @@ Mimecast,ats-search,,2026-07-15,Y,"Live IC Mid-Market AE, US-remote (Illinois - 
 Pluralsight,ats-search,,2026-07-15,N,"Only AE lead found (Enterprise AE, Workday board) requires 10+ years experience (senior-only, disqualifies) and is marke"
 Tealium,ats-search,,2026-07-15,N,"Workday board confirmed real (tealium.wd1.myworkdayjobs.com) and lists a ""Sr. Account Executive - Mid Market (Remote)"" r"
 Fullsteam,ats-search,,2026-07-15,N,Workday API blocked; posting unverified; held
+Bespoke Labs,funding-news,,2026-07-15,N,Ashby board (jobs.ashbyhq.com/bespokelabs) confirmed but has no Account Executive posting; only sales-adjacent roles are
+LinqAlpha,funding-news,,2026-07-15,N,No live IC-AE posting confirmed in an ATS JSON API: the Breezy AE posting (linqalpha.breezy.hr/p/9ab9cfffcf62) now 302-r
+EquiLibre Technologies,funding-news,,2026-07-15,N,No AE/sales roles posted; company careers page (equilibre.ai/hiring) lists only Prague-based research/ML engineering rol
+Qdrant,funding-news,,2026-07-15,N,Ashby board (jobs.ashbyhq.com/qdrant.tech) has no Account Executive posting currently live; only a stale join.com listin
+Patlytics,funding-news,,2026-07-15,N,"Ashby board confirmed (jobs.ashbyhq.com/patlytics); only AE posting is EMEA Account Executive (GTM Lead), not US-remote;"
+DepthFirst,funding-news,,2026-07-15,N,"Only AE posting on Ashby board is San Francisco-based (isRemote:false), not US-remote; no qualifying remote IC AE postin"
+Chai Discovery,funding-news,,2026-07-15,N,No Account Executive posting on the company's real ATS board (Ashby: jobs.ashbyhq.com/chaidiscovery); only Business Deve
+Ollama,funding-news,,2026-07-15,N,"Only AE posting (founding AE) is on-site Palo Alto per Ashby API (isRemote:false, workplaceType:OnSite) — fails US-remot"
+Bidbus,funding-news,,2026-07-15,N,No qualifying ATS board found; Greenhouse/Ashby slugs 404. Public listings (Indeed/ZipRecruiter/LinkedIn) show only BDC/
+EdVisorly,funding-news,,2026-07-15,N,Ashby board (jobs.ashbyhq.com/edvisorly) confirmed live but has no IC Account Executive posting — only Director of Partn
+Earlytrade,funding-news,,2026-07-15,N,No live ATS board found (Ashby/Greenhouse 404); Antler jobs board explicitly shows zero open postings for Earlytrade
+Klinic,funding-news,,2026-07-15,N,"No ATS job board found (Greenhouse/Ashby/Lever slug 404); klinic.com/careers confirms no open roles currently, none in C"
+KredosAi,funding-news,,2026-07-15,N,No live job openings found; company's own job board lists none and no Greenhouse/Ashby board exists for slug kredosai.
+Lyzr,funding-news,,2026-07-15,N,No standard ATS board found (Greenhouse/Ashby 404); career page (careers.lyzr.ai/jobs) lists no AE/Sales roles among vis
+TJM Labs,funding-news,,2026-07-15,N,"Workable board (tjm-labs-1) has no IC AE posting; only contract ""Account Representative"" roles based overseas (Philippin"
+Chapter,funding-news,,2026-07-15,N,"Confirmed correct ATS (Ashby, slug ""chapter"") but board API returns zero open jobs — no AE posting to evaluate."
+Pearl Health,funding-news,,2026-07-15,N,Ashby board confirmed (jobs.ashbyhq.com/pearlhealth) but no Account Executive posting exists — current openings are Staf
+Opencall,yc,,2026-07-15,N,"Ashby posting (verified via API) is titled ""Senior Account Executive,"" located San Francisco, CA or New York, NY — no re"
+Truewind,yc,,2026-07-15,N,"Real IC-AE role (remote, $160-240K OTE, 3+ yrs B2B SaaS, MM-ish ACV) but hosted on truewind.ai's own site with apply-by-"
+Pump.co,yc,,2026-07-15,N,"Only AE posting in Greenhouse (pumpcareers board) is ""Account Executive (Onsite SF)"" in San Francisco, CA — not remote; "
+"Conduit (Conduit AI, YC W24 - AI agents for hospitality/conversational AI)",yc,,2026-07-15,N,"Both AE openings (Account Executive, Enterprise AE) are SF-based in-office roles (team in office ~7 days/week per postin"
+Cerrion,yc,,2026-07-15,N,"No standalone ATS board found (Greenhouse/Ashby slug 404s); posting only exists on YC/Work at a Startup, which is not a "
+"Alex (alex.com, AI recruiter/interviewer, YC W24)",yc,,2026-07-15,N,No AE posting found; only open role is Full-Stack Software Engineer (SF) on YC jobs board and alex.com/careers; no Green
+Corgi Insurance,yc,,2026-07-15,N,"Live Ashby board (jobs.ashbyhq.com/corgi, 12 postings) has no Account Executive req currently open — only a BDR role in "
+Reacher,yc,,2026-07-15,Y,"Live Ashby posting ""Founding Account Executive (US)"" is remote (location=Remote, no specific in-office day cadence state"
+Coval,yc,,2026-07-15,N,"Founding AE role explicitly requires in-person work in SoMa, San Francisco (""We work in-person in SoMa, San Francisco"") "
+Handoff,yc,,2026-07-15,N,"All 3 live AE postings (AE; AE MM/Ent; AE SMB) on Lever board are on-site Austin, TX or hybrid Buenos Aires — no US-remo"
+InEvent,yc,,2026-07-15,N,"AE role targets SMB segment (not MM/Ent), requires only ~2 yrs experience, and OTE unstated on posting (external sources"
+Flagright,yc,,2026-07-15,N,Live Ashby board (jobs.ashbyhq.com/flagright.com) has 8 postings; no US-remote IC AE role currently open — only Mid-Mark
+CollectWise,yc,,2026-07-15,N,"Founding AE $300-375K remote-US but only on YC listing, no ATS-API URL; held"
+Jiga,yc,,2026-07-15,N,Only posting found is Account Executive - Remote/US on Work at a Startup (YC); OTE $110K-$180K is below the $150-340K ba
+Laylo,yc,,2026-07-15,N,No standard ATS JSON board found (Greenhouse/Ashby/Lever all 404) — Laylo posts via Notion + YC's Work at a Startup plat
+Rentable,wellfound,,2026-07-15,N,"No live ATS posting found; Rentable/ApartmentIQ careers page (apartmentiq.io/careers) shows no open roles, and Greenhous"
+HiHello,wellfound,,2026-07-15,N,Lever board (jobs.lever.co/hihello) has only one live posting (Demand Generation Manager); no Account Executive role cur
+Juxtapose Studio,wellfound,,2026-07-15,N,"Creative/brand-partnerships agency (not B2B SaaS); role requires 8-10 yrs account-management experience (senior-only, fa"
+MonkSpaces AI (thehousemonk / MonkSpaces.Ai),wellfound,,2026-07-15,N,"No company ATS board found (Greenhouse/Ashby slugs 404, site has no careers page); only a Wellfound listing exists, whic"
+Logiwa,wellfound,,2026-07-15,N,Greenhouse board (slug logiwacareers) and the specific job URL from search both 404 — no live posting confirmed in ATS A
+Plus8soft,wellfound,,2026-07-15,N,"Wellfound listing for ""Senior Account Executive"" not found on company's actual career board (plus8soft.com/careers, ATS="
+SleekFlow,wellfound,,2026-07-15,N,No dedicated ATS board found (Greenhouse/Ashby 404 for slug sleekflow); company careers page routes solely to LinkedIn; 
+Cellar,wellfound,,2026-07-15,N,"No company ATS board found (Greenhouse/Ashby 404); only Wellfound aggregator listing exists, and reported OTE ($80-125K)"
+Manufex,wellfound,,2026-07-15,N,"No ATS board found (Greenhouse/Ashby 404); Wellfound listing shows $50-60K base + equity for ""Founding AE"" — well under "
+PathPilot,wellfound,,2026-07-15,N,"No IC Account Executive posting found on any ATS; PathPilot (AI career-dev, likely Wellfound listing's company) careers "
+Infrawatch,wellfound,,2026-07-15,N,"No ATS job board found (Greenhouse/Ashby/Lever all 404); Wellfound listing is explicitly London-based Founding AE, not U"
+Trayo AI,wellfound,,2026-07-15,N,"Founding AE role is San Mateo, CA (Hybrid), not remote, and applications go via direct email (careers@trayo.ai) — no ATS"
+Seeds,wellfound,,2026-07-15,N,"Could not locate a live company ATS board (Greenhouse/Ashby/Lever/Workable) under ""seeds"" or ""useseeds"" slugs after 5 fe"
