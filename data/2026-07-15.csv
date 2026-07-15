@@ -1,4 +1,5 @@
 Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL,Date Added,Posted
+Capsule,,$240-320K,Ent,"Los Angeles, CA",Y,,Enterprise AI video editing SaaS,https://jobs.ashbyhq.com/capsule/fd829c78-5bbc-43dd-b6fd-82a5e8804f0f,2026-07-15,2025-04-04
 Hone,16,,Ent,San Francisco,Y,,Leadership development SaaS,https://job-boards.greenhouse.io/hone/jobs/4110121009,2026-07-15,
 Array,,,Ent,New York,Y,,Embedded fintech / credit API platform,https://job-boards.greenhouse.io/array/jobs/4805410004,2026-07-15,2023-02-21
 Vector Solutions,,,MM,Tampa FL,Y,,eLearning / safety compliance SaaS,https://recruiting.paylocity.com/recruiting/jobs/Details/4251137/Vector-Solutions/Mid-Market-Account-Executive-Commercial,2026-07-15,
@@ -10,7 +11,7 @@ Smartsheet,,,MM,Bellevue WA,Y,,Work management SaaS,https://job-boards.greenhous
 LaunchDarkly,,,MM,Oakland CA,Y,,Feature flags / DevOps SaaS,https://job-boards.greenhouse.io/launchdarkly/jobs/7790749003,2026-07-12,2026-07-07
 Jama Software,,,MM,Portland OR,Y,,Requirements management SaaS,https://job-boards.greenhouse.io/jamasoftware/jobs/7931333,2026-07-12,2026-05-27
 Grafana Labs,,,Ent,Remote-first,Y,,Observability / monitoring SaaS,https://job-boards.greenhouse.io/grafanalabs/jobs/6101665004,2026-07-12,2026-06-25
-Fleetio,,,MM,Birmingham AL,Y,,Fleet management SaaS,https://job-boards.greenhouse.io/fleetio/jobs/4824851007,2026-07-12,2025-08-11
+Fleetio,,,MM,Birmingham AL,Y,,Fleet management SaaS,https://job-boards.greenhouse.io/fleetio/jobs/5187750007,2026-07-12,2026-07-15
 SOCi,,,Ent,San Diego CA,Y,,AI marketing / MarTech SaaS,https://job-boards.greenhouse.io/soci/jobs/5383812004,2026-07-12,2025-10-09
 Neo4j,,$200-240K,Ent,San Mateo CA,Y,,Graph database SaaS,https://job-boards.greenhouse.io/neo4j/jobs/4695343006,2026-07-12,2026-07-07
 Mabl,,,Ent,Boston MA,Y,,Test automation SaaS,https://job-boards.greenhouse.io/mabl/jobs/4058012009,2026-07-12,2025-11-12
@@ -44,7 +45,6 @@ Gray Swan AI,,$314-384K,Ent,Pittsburgh PA,Y,,AI security SaaS,https://jobs.ashby
 Edia,,,Ent,,Y,,K-12 edtech / AI platform,https://jobs.ashbyhq.com/edia/e25f3465-ec2e-4502-af42-b84adb7264e9,2026-07-09,2025-12-01
 Cloudforce,,$200K+,Ent,National Harbor MD,Y,,AI platform for higher-ed / regulated industries,https://jobs.lever.co/go-cloudforce/2e145d01-f423-4049-b135-ed796270e577,2026-07-09,2026-05-14
 Trackforce,,,MM,Montréal QC,Y,,Security workforce management SaaS,https://jobs.lever.co/tracktik/19d81252-e313-447d-97a3-aefc142d4814,2026-07-08,2026-05-05
-Omni,,$175-250K,MM,San Francisco,Y,95.32,Analytics / BI SaaS,https://jobs.ashbyhq.com/omni/21551f45-7485-48a1-8eb5-92994a6c8747,2026-07-08,2026-02-18
 OfficeSpace Software,,,MM,,Y,,workplace management SaaS,https://job-boards.greenhouse.io/officespacesoftware/jobs/5166663008,2026-07-08,2026-03-31
 LTK,,,MM/Ent,Dallas TX,Y,92.73,Creator/influencer marketing platform,https://job-boards.greenhouse.io/shopltk/jobs/7797682003,2026-07-08,2026-07-07
 Connecteam,,,MM,Tel Aviv,Y,93.56,Workforce management SaaS,https://connecteam.com/careers/5590674004?gh_jid=5590674004,2026-07-08,
@@ -138,7 +138,6 @@ Tekmetric,,,MM,"Austin, TX",Y,89.02,Software,https://job-boards.greenhouse.io/te
 Stripe,,$239K–$358K,MM/Ent,"San Francisco, CA",Y,87.83,Internet / Fintech SaaS (Payments Infrastruct,https://stripe.com/jobs/search?gh_jid=7298935,2026-06-30,
 Snapdocs,,$250K ($125K base + $125K variable),MM,"San Francisco, CA",Y,87.69,Software (B2B SaaS - mortgage/real estate clo,https://jobs.ashbyhq.com/snapdocs/428f417c-d769-4154-bc24-47f2c727505f,2026-06-30,2026-06-05
 Singular,,,MM/Ent,"San Francisco, CA",Y,87.05,Software (mobile marketing analytics),https://jobs.ashbyhq.com/singular/2eef2b4a-8db5-4340-a600-050119b35c98,2026-06-30,2026-05-18
-Scribe,,$220K (50/50 split),MM,"San Francisco, CA",Y,91.16,Software / B2B SaaS,https://jobs.ashbyhq.com/scribe/369a6e96-26df-4c46-b877-0505aabd5dfc,2026-06-30,2026-06-23
 QA Wolf,,$200K–$280K,MM,"San Francisco, CA",Y,94.63,Software,https://jobs.ashbyhq.com/qawolf/0de41761-2f0d-4c6d-8977-e81adf516cd9,2026-06-30,2026-04-21
 Postman,,$180-230K,MM,San Francisco,Y,,API development platform,https://job-boards.greenhouse.io/postman/jobs/7722321003,2026-06-30,2026-05-01
 Popl,,Base $180K–$240K + commission (OTE not stated),MM/Ent,"Los Angeles, CA",Y,94.93,Software,https://jobs.ashbyhq.com/popl/a3995bd3-9c3a-4f27-a099-a5b8730bd944,2026-06-30,2026-04-22

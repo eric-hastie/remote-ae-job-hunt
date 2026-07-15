@@ -200,7 +200,7 @@ Oak Street Health,repvue,95.54,2026-07-08,N,primary care clinics (CVS Health); n
 JobTread,repvue,95.51,2026-07-08,N,no AE role; all roles Dallas TX; no US-remote; re-checked 2026-07-08
 RT Specialty,repvue,95.47,2026-07-08,N,insurance wholesale broker; not B2B SaaS; re-checked 2026-07-08
 Clazar,repvue,95.40,2026-07-08,N,ATS unresolved (tried Ashby/Lever multiple slugs); re-checked 2026-07-08
-Omni,repvue,95.32,2026-07-08,Y,open qualifying role: AE (L1-L2) MM/SMB US-remote $175K-$250K OTE; Ashby board
+Omni,repvue,95.32,2026-07-15,N,dropped 2026-07-15: posting 21551f45 dead; no AE postings remain on Omni Ashby board
 Force Management,repvue,95.26,2026-07-08,N,sales training firm; not B2B SaaS product; re-checked 2026-07-08
 AIHR,repvue,95.25,2026-07-08,N,Netherlands-based HR learning platform; not US-remote AE; re-checked 2026-07-08
 Rockerbox,repvue,95.23,2026-07-08,N,acquired by DoubleVerify March 2025; re-checked 2026-07-08
@@ -363,7 +363,7 @@ Field Materials,repvue,91.26,2026-07-09,N,re-check: ATS unresolved (not B2B SaaS
 Rebuy Engine,repvue,91.24,2026-07-09,N,re-check: ATS unresolved
 BrandBastion,repvue,91.18,2026-07-09,N,re-check: ATS unresolved
 Trucker Tools,repvue,91.18,2026-07-09,N,re-check: ATS unresolved
-Scribe,repvue,91.16,2026-07-02,Y,top-260 RepVue scan: open AE role
+Scribe,repvue,91.16,2026-07-15,N,dropped 2026-07-15: posting 369a6e96 dead; no AE postings remain on Scribe Ashby board
 Descope,repvue,91.16,2026-07-09,N,"re-check: Greenhouse board found, no AE roles (eng/CS only)"
 Jellyfish Co,repvue,91.15,2026-06-30,Y,top-260 RepVue scan: open AE role
 Prompt Health,repvue,91.12,2026-07-09,N,re-check: ATS unresolved
@@ -3207,3 +3207,53 @@ Intellistack,ats-search,,2026-07-15,Y,"IC AE, Mid-Market at no-code forms/doc au
 Process Street,ats-search,,2026-07-15,N,"Live Greenhouse posting confirmed (right company) but explicitly a ""foundational sales role for early-career professiona"
 Serval,ats-search,,2026-07-15,N,"Posting is ""Sales Manager, Mid-Market"" — a people-manager/player-coach role that hires/coaches/leads the AE team (not an"
 Airtable,ats-search,,2026-07-15,Y,"Live Greenhouse posting ""Account Executive, SLED"" is IC, MM-focused segment, explicit Remote-US, 4-7 yrs SaaS closing, O"
+Capsule,repvue,,2026-07-15,Y,Enterprise AE Strategic Accounts; US-remote; OTE $240-320K; Ashby board; AI video editing SaaS
+Saluda Medical,repvue,,2026-07-15,N,not B2B SaaS (biomedical device company)
+Straumann Group,repvue,,2026-07-15,N,not B2B SaaS (dental implants hardware)
+Airia,repvue,,2026-07-15,N,ATS unresolved (Ashby airia 404; no board found)
+Verizon,repvue,,2026-07-15,N,not B2B SaaS (large telecom)
+Dow Jones,repvue,,2026-07-15,N,not B2B SaaS (news/media company)
+Human Bees,repvue,,2026-07-15,N,not B2B SaaS (field workforce staffing)
+Fluke,repvue,,2026-07-15,N,not B2B SaaS (hardware test equipment)
+Formic,repvue,,2026-07-15,N,not B2B SaaS (robotics-as-a-service / manufacturing automation)
+TrueLayer,repvue,,2026-07-15,N,ATS unresolved; primarily UK/EU payments API market
+Seesaw Learning,repvue,,2026-07-15,N,ATS unresolved; K-12 EdTech SaaS (Greenhouse seesaw-learning 404)
+CodeRabbit,repvue,,2026-07-15,N,no AE roles; Ashby board has only engineering and pre-sales roles
+WeWork,repvue,,2026-07-15,N,not B2B SaaS (coworking / real estate)
+Dolead,repvue,,2026-07-15,N,ATS unresolved (lead gen platform; likely France-based)
+SecurityPal,repvue,,2026-07-15,N,ATS unresolved (cybersecurity SaaS; tried Ashby/Lever/search)
+Videate,repvue,,2026-07-15,N,ATS unresolved (video SaaS; no ATS board found)
+Yubico,repvue,,2026-07-15,N,not B2B SaaS (hardware security keys; Lever 404)
+Sysco,repvue,,2026-07-15,N,not B2B SaaS (food distribution company)
+Tipalti,repvue,,2026-07-15,N,ATS unresolved (AP automation SaaS; Lever tipalti 404; Greenhouse tipalti 404)
+Sazerac Company,repvue,,2026-07-15,N,not B2B SaaS (spirits/beverages)
+Aviso AI,repvue,,2026-07-15,N,ATS unresolved (revenue intelligence SaaS; no board found)
+Planet DDS,repvue,,2026-07-15,N,ATS unresolved (dental SaaS; Lever planetdds 404)
+ITILITE,repvue,,2026-07-15,N,ATS unresolved (travel expense SaaS; India-based; no standard board found)
+Service Express,repvue,,2026-07-15,N,not B2B SaaS (data center IT equipment services)
+Laserfiche,repvue,,2026-07-15,N,ATS unresolved (ECM/content mgmt SaaS; tried Greenhouse/Lever/search)
+talent.io,repvue,,2026-07-15,N,ATS unresolved (tech recruiting platform; Lever talentio 404)
+NBC Sports Next,repvue,,2026-07-15,N,not B2B SaaS (sports/media platform)
+Backstory,repvue,,2026-07-15,N,ATS unresolved (no board found)
+Scoro,repvue,,2026-07-15,N,ATS unresolved (project mgmt SaaS; Lever scoro 404)
+Zywave,repvue,,2026-07-15,N,ATS unresolved (insurance tech SaaS; AE roles confirmed per Glassdoor but ATS board not found)
+Mitiga,repvue,,2026-07-15,N,ATS unresolved (cloud forensics/cybersecurity SaaS; no board found)
+Olympus,repvue,,2026-07-15,N,not B2B SaaS (medical/surgical imaging hardware)
+Stratascale,repvue,,2026-07-15,N,ATS unresolved (IT managed services; not pure B2B SaaS)
+Carbon,repvue,,2026-07-15,N,not B2B SaaS (3D printing hardware + software)
+Trinity Solar,repvue,,2026-07-15,N,not B2B SaaS (residential solar company)
+Custom Ink,repvue,,2026-07-15,N,not B2B SaaS (custom merchandise / print-on-demand)
+PlexTrac,repvue,,2026-07-15,N,ATS unresolved (cybersecurity pentest SaaS; Enterprise AE confirmed $200-260K OTE but ATS URL not found)
+Packback,repvue,,2026-07-15,N,ATS unresolved (higher ed EdTech SaaS; Greenhouse packback 404)
+Anaplan,repvue,,2026-07-15,N,no qualifying AE (Greenhouse board shows non-US positions only; post-Thoma Bravo acquisition)
+BluSky Restoration Contractors,repvue,,2026-07-15,N,not B2B SaaS (restoration/construction contractor)
+Lyra Health,repvue,,2026-07-15,N,ATS unresolved (mental health benefits SaaS; Greenhouse LyraHealth 404; Lever lyrahealth 404)
+C Spire,repvue,,2026-07-15,N,not B2B SaaS (regional telecom / wireless carrier)
+Fiix Software,repvue,,2026-07-15,N,ATS unresolved (CMMS SaaS acquired by IFS; no standalone board found)
+PR Newswire,repvue,,2026-07-15,N,not B2B SaaS (press release distribution service)
+Octus,repvue,,2026-07-15,N,no qualifying AE (Greenhouse board: Account Manager roles only in London/NY; no US-remote IC AE)
+Wise,repvue,,2026-07-15,N,not B2B SaaS (consumer/business money transfer; B2C primary)
+Latchel,repvue,,2026-07-15,N,ATS unresolved (property mgmt SaaS; Greenhouse/Ashby 404)
+Intel,repvue,,2026-07-15,N,not B2B SaaS (semiconductor / chip hardware)
+Sherwin-Williams,repvue,,2026-07-15,N,not B2B SaaS (paint/coatings company)
+GLENTEL,repvue,,2026-07-15,N,not B2B SaaS (wireless retail / telecom)
