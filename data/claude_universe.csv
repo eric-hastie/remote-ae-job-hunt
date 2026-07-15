@@ -3194,3 +3194,16 @@ ShiftCare,repvue,,2026-07-15,N,OTE too low ($100k OTE); territory-specific (Cali
 LendingClub,repvue,,2026-07-15,N,not B2B SaaS (fintech bank/lending platform)
 Worldwide Business Research,repvue,,2026-07-15,N,not B2B SaaS (B2B events/media company)
 CONMED Corporation,repvue,,2026-07-15,N,not B2B SaaS (medical devices/surgical tools)
+Skipify,ats-search,,2026-07-15,N,"Confirmed real ATS is Rippling (ats.rippling.com/skipify-jobs/jobs), not Greenhouse/Ashby/SmartRecruiters/Workable; live"
+Revefi,ats-search,,2026-07-15,N,"Only AE posting on Lever board is ""Enterprise Account Executive - US"" (Ent segment, not MM), created Jan 9 2025 — over 1"
+AppZen,ats-search,,2026-07-15,N,Confirmed AppZen's Lever board (jobs.lever.co/appzen); the only US Enterprise AE postings are stale (Atlanta req created
+Holistiplan,ats-search,,2026-07-15,N,"No ATS board found (Greenhouse/Ashby/Lever all 404); direct AE posting URL from search is dead (404), careers page shows"
+Vonage,ats-search,,2026-07-15,N,"Both lead job IDs (7607660002, 8388456002) redirect to the generic Vonage Greenhouse board (dead links), and the live Gr"
+Filestack,ats-search,,2026-07-15,N,"Workable API for slug ""filestack"" returns 404 and the /filestack/ board renders empty; the specific job link (CBDC73577D"
+GrowthBook,ats-search,,2026-07-15,N,"Founding AE $200-320K MM/Ent but only YC-listing URL, no ATS-API; held"
+Peec AI,ats-search,,2026-07-15,N,"No Account Executive posting exists on Peec AI's Ashby board; only Head of Sales EMEA (director-level, Berlin on-site) a"
+HighLevel,ats-search,,2026-07-15,N,"Lever board (jobs.lever.co/gohighlevel) verified as correct company; only 6 postings total (Accounting, Affiliate Manage"
+Intellistack,ats-search,,2026-07-15,Y,"IC AE, Mid-Market at no-code forms/doc automation SaaS; Ashby posting flags isRemote:true, no specific in-office day-cou"
+Process Street,ats-search,,2026-07-15,N,"Live Greenhouse posting confirmed (right company) but explicitly a ""foundational sales role for early-career professiona"
+Serval,ats-search,,2026-07-15,N,"Posting is ""Sales Manager, Mid-Market"" — a people-manager/player-coach role that hires/coaches/leads the AE team (not an"
+Airtable,ats-search,,2026-07-15,Y,"Live Greenhouse posting ""Account Executive, SLED"" is IC, MM-focused segment, explicit Remote-US, 4-7 yrs SaaS closing, O"
