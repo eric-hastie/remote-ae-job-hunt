@@ -148,7 +148,7 @@ newer companies live.
 
 ## Job 4 — Re-check rotation (queue-dry runs at 03:00 & 08:00 UTC)
 
-Re-check the universe for newly-opened roles: take the 50 `Currently Open = N` rows with the oldest
+Re-check the universe for newly-opened roles: take the 100 `Currently Open = N` rows with the oldest
 `Last Checked` (highest RepVue Score first as tiebreak), skipping rows whose Notes mark a permanent
 disqualification (acquired / defunct / not B2B SaaS / different company), and run them through the
 same check-and-record loop as Job 2 (update `Last Checked` + Notes; flips to Y go into `latest.csv`).
