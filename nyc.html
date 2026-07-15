@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NYC AE Market Map - Verified Account Executive Roles</title>
+<meta name="description" content="A hand-verified dataset of remote US Account Executive roles at B2B SaaS companies, built with an AI-assisted research pipeline.">
+<style>
+:root{
+  --bg:#0f1115; --panel:#171a21; --panel2:#1d212a; --line:#2a2f3a;
+  --txt:#e7eaf0; --muted:#9aa3b2; --accent:#6c8cff; --accent2:#41d3a3;
+  --mm:#1f6f54; --mmtxt:#7ff0c8; --ent:#3a3f4b; --enttxt:#c3c9d4;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header{padding:64px 0 28px;border-bottom:1px solid var(--line)}
+.eyebrow{color:var(--accent2);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-size:12px;margin:0 0 14px}
+h1{font-size:40px;line-height:1.12;margin:0 0 14px;font-weight:740;letter-spacing:-.02em}
+.sub{color:var(--muted);font-size:18px;max-width:680px;margin:0}
+.byline{margin-top:22px;color:var(--muted);font-size:14px}
+.byline b{color:var(--txt)}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:34px 0 8px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px}
+.stat .n{font-size:28px;font-weight:720;letter-spacing:-.02em}
+.stat .l{color:var(--muted);font-size:13px;margin-top:4px}
+section.about{padding:40px 0 8px}
+h2{font-size:22px;margin:0 0 14px;letter-spacing:-.01em}
+.about p{color:#cdd3de;max-width:760px}
+.method{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:20px}
+@media(max-width:760px){.method{grid-template-columns:1fr}.stats{grid-template-columns:repeat(2,1fr)}h1{font-size:30px}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+.card h3{margin:0 0 6px;font-size:15px;color:var(--accent2)}
+.card p{margin:0;color:var(--muted);font-size:14px}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);
+  padding:22px 0 14px;margin-top:36px;border-bottom:1px solid var(--line);
+  display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+#q{flex:1;min-width:220px;background:var(--panel2);border:1px solid var(--line);color:var(--txt);
+  padding:11px 14px;border-radius:10px;font-size:14px;outline:none}
+#q:focus{border-color:var(--accent)}
+.seg{display:flex;gap:6px;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:4px}
+.seg button{background:transparent;border:0;color:var(--muted);padding:7px 14px;border-radius:7px;cursor:pointer;font-size:13px;font-weight:600}
+.seg button.on{background:var(--accent);color:#0b0d12}
+.count{color:var(--muted);font-size:13px;white-space:nowrap}
+.tablewrap{overflow-x:auto;margin:18px 0 60px;border:1px solid var(--line);border-radius:12px}
+table{width:100%;border-collapse:collapse;font-size:14px;min-width:900px}
+thead th{position:sticky;top:0;background:var(--panel2);text-align:left;padding:13px 14px;
+  font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);
+  border-bottom:1px solid var(--line);cursor:pointer;user-select:none;white-space:nowrap}
+thead th:hover{color:var(--txt)}
+thead th .arw{opacity:.5;font-size:10px}
+tbody td{padding:13px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:hover{background:var(--panel)}
+.co{font-weight:650;font-size:15px}
+.ind{color:var(--muted);font-size:12.5px;margin-top:2px}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.b-mm{background:var(--mm);color:var(--mmtxt)}
+.b-ent{background:var(--ent);color:var(--enttxt)}
+.st{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.st-ok{background:#1d3a2e;color:#7ff0c8}.st-check{background:#4a3a1a;color:#ffd591}
+.ote{font-variant-numeric:tabular-nums}
+.apply{font-weight:600;white-space:nowrap}
+.muted{color:var(--muted)}
+footer{border-top:1px solid var(--line);padding:30px 0 70px;color:var(--muted);font-size:13px}
+footer .wrap{max-width:760px}
+.note{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent2);
+  border-radius:8px;padding:14px 16px;margin:16px 0;color:#cdd3de;font-size:13.5px}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <p class="eyebrow">B2B SaaS · Sales · Market Research</p>
+  <h1>NYC AE Market Map</h1>
+  <p class="sub">Hand-verified <b>Account Executive</b> openings at B2B SaaS companies based in <b>New York City</b> - same ICP and verification pipeline, filtered to NYC-based roles.</p>
+  <p class="byline">Compiled by <b>Eric Hastie</b> · Data verified July 15, 2026 · <span class="muted">a portfolio project</span></p>
+  <p class="byline" style="margin-top:6px"><a href="index.html">Remote</a> &nbsp;·&nbsp; <b>NYC</b> &nbsp;·&nbsp; <a href="sf.html">SF</a> &nbsp;·&nbsp; <a href="denver.html">Denver</a> &nbsp;·&nbsp; <a href="history.html">History &amp; Trends</a> &nbsp;·&nbsp; <a href="discards.html">Discards</a></p>
+  <div class="stats">
+    <div class="stat"><div class="n">0</div><div class="l">verified, qualified roles</div></div>
+    <div class="stat"><div class="n">0</div><div class="l">mid-market-friendly</div></div>
+    <div class="stat"><div class="n">5</div><div class="l">industry verticals</div></div>
+    <div class="stat"><div class="n">100%</div><div class="l">postings verified live</div></div>
+  </div>
+</div></header>
+<section class="about"><div class="wrap">
+  <h2>About this project</h2>
+  <p>While job-searching, I got tired of scraped job boards that bury a handful of good fits under hundreds of mismatched listings. So I built a research workflow that does the opposite: it defines a precise ideal-candidate profile, then <b>verifies and filters first</b> - only surfacing roles that actually clear the bar. It re-runs weekly, so the data stays current and the history doubles as a view into how the remote-AE market is moving.</p>
+  <div class="method">
+    <div class="card"><h3>1 · Defined the ICP</h3><p>Individual-contributor AE, Mid-Market / Enterprise B2B SaaS, US-remote, ~$150-340K OTE, ~4+ yrs closing. The bar is explicit, so nothing off-profile gets through.</p></div>
+    <div class="card"><h3>2 · Fanned out by vertical</h3><p>Parallel research across five lanes - dev tools &amp; infra, fintech &amp; data, vertical SaaS, AI-native, and security - so the results are diverse, not the same five household names.</p></div>
+    <div class="card"><h3>3 · Verified every posting</h3><p>Each role was confirmed live, remote, and IC-level against the company's own ATS (Greenhouse / Ashby). Anything unverifiable was dropped - <b>zero fabricated or stale listings</b>.</p></div>
+    <div class="card"><h3>4 · De-duped &amp; segmented</h3><p>Screened against a 64-company master list to keep only net-new finds, then tagged by segment so mid-market roles (the qualifying lane) sort to the top.</p></div>
+  </div>
+  <h2 style="margin-top:34px">Where this goes next</h2>
+  <p>Beyond my own search, this is a working prototype for <b>territory intelligence</b>. Job postings are one of the cleanest buying signals in B2B sales: a company opening a RevOps role, standing up a new region, or scaling its CS or implementation team telegraphs budget, active initiatives, and pain points well before any intent-data vendor flags them. In a sales seat I'll point this same pipeline at my book of business, scanning target accounts' careers pages to surface timing signals and catch org and leadership changes.</p>
+  <p>And because every run is snapshotted, the signal compounds over time. An account's week-over-week hiring history tells a story that sharpens <b>account planning</b>: sustained hiring points to expansion and the right moment to upsell, a sudden freeze can flag churn risk, and a new leader or function hints at where the next initiative is headed. The same engine that keeps this dataset current becomes a running intelligence feed on the accounts that matter most.</p>
+  <p>That idea is now a working tool: I built it into <a href="https://eric-hastie.github.io/territory-radar/" target="_blank" rel="noopener"><b>Territory Radar</b></a> - a live dashboard that scores a sales territory on exactly these signals and tracks each account's momentum week over week.</p>
+
+  <div class="note">Filter and search the full dataset below. Every <b>Apply</b> link points to the live job posting that was verified during research. Mid-market roles are flagged in green.</div>
+</div></section>
+<div class="wrap">
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search company, industry, or location…" autocomplete="off">
+    <div class="seg" id="seg">
+      <button data-seg="all" class="on">All</button>
+      <button data-seg="mm">Mid-market</button>
+      <button data-seg="ent">Enterprise</button>
+    </div>
+    <div class="seg" id="statusseg">
+      <button data-st="all" class="on">All</button>
+      <button data-st="verified">Verified</button>
+      <button data-st="needs">Needs check</button>
+    </div>
+    <span class="count" id="count"></span>
+  </div>
+  <div class="tablewrap">
+    <table>
+      <thead><tr>
+        <th data-k="added">Added <span class="arw"></span></th>
+        <th data-k="posted">Posted <span class="arw"></span></th>
+        <th data-k="company">Company <span class="arw"></span></th>
+        <th data-k="funding">Funding ($M) <span class="arw"></span></th>
+        <th data-k="ote">OTE <span class="arw"></span></th>
+        <th data-k="segment">Segment <span class="arw"></span></th>
+        <th data-k="hq">HQ <span class="arw"></span></th>
+        <th data-k="repvue">RepVue <span class="arw"></span></th>
+        <th data-k="status">Status <span class="arw"></span></th>
+        <th>Posting</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+</div>
+<footer><div class="wrap">
+  <p><b>Methodology note.</b> This is a snapshot verified July 15, 2026; job postings turn over quickly, so confirm a role is still open before applying. Funding and RepVue figures are from public sources and may be approximate (blank where not reliably verifiable rather than guessed). All companies shown are net-new relative to a separately maintained master list.</p>
+  <p>Built by Eric Hastie as a demonstration of GTM research, data curation, and AI-assisted workflow design. Refreshed automatically each week.</p>
+</div></footer>
+<script>
+const DATA = [];
+const tbody=document.getElementById('rows');
+const q=document.getElementById('q');
+const count=document.getElementById('count');
+let seg='all', statusF='all', sortK=null, sortDir=1;
+function isMM(r){return r.segment.includes('MM')}
+function segLabel(r){const cls=isMM(r)?'b-mm':'b-ent';return '<span class="badge '+cls+'">'+r.segment+'</span>';}
+function statusBadge(r){return r.status==='Needs check' ? '<span class="st st-check">Needs check</span>' : '<span class="st st-ok">Verified</span>';}
+function fundDisp(r){return r.funding? (isNaN(r.funding)? r.funding : '$'+r.funding+'M') : '<span class="muted">-</span>'}
+function num(v){const n=parseFloat(String(v).replace(/[^0-9.]/g,''));return isNaN(n)?-1:n}
+const MONTHS=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const BUILD_DATE='2026-07-15';
+function fmtAdded(d){
+  if(!d) return '<span class="muted">-</span>';
+  const [y,m,dd]=d.split('-');
+  const label=MONTHS[+m-1]+' '+(+dd);
+  const days=(new Date(BUILD_DATE)-new Date(d))/86400000;
+  return days<=7 ? '<b style="color:var(--accent2)">'+label+'</b>' : '<span class="muted">'+label+'</span>';
+}
+function render(){
+  const term=q.value.trim().toLowerCase();
+  let list=DATA.filter(r=>{
+    if(seg==='mm' && !isMM(r))return false;
+    if(seg==='ent' && isMM(r))return false;
+    if(statusF==='verified' && r.status==='Needs check')return false;
+    if(statusF==='needs' && r.status!=='Needs check')return false;
+    if(!term)return true;
+    return (r.company+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
+  });
+  if(sortK){
+    list=list.slice().sort((a,b)=>{
+      let av=a[sortK], bv=b[sortK];
+      if(sortK==='funding'||sortK==='repvue'){av=num(av);bv=num(bv);return (av-bv)*sortDir}
+      return String(av).localeCompare(String(bv))*sortDir;
+    });
+  }
+  tbody.innerHTML=list.map(r=>`
+    <tr>
+      <td class="ote" style="white-space:nowrap">${fmtAdded(r.added)}</td>
+      <td class="ote" style="white-space:nowrap">${fmtAdded(r.posted)}</td>
+      <td><div class="co">${r.company}</div><div class="ind">${r.industry||''}</div></td>
+      <td>${fundDisp(r)}</td>
+      <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>
+      <td>${segLabel(r)}</td>
+      <td class="muted">${r.hq||''}</td>
+      <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>-</span>'}</td>
+      <td>${statusBadge(r)}</td>
+      <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
+    </tr>`).join('');
+  count.textContent=list.length+' of '+DATA.length+' roles';
+}
+document.querySelectorAll('#seg button').forEach(b=>b.onclick=()=>{
+  seg=b.dataset.seg;
+  document.querySelectorAll('#seg button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');render();
+});
+document.querySelectorAll('#statusseg button').forEach(b=>b.onclick=()=>{
+  statusF=b.dataset.st;
+  document.querySelectorAll('#statusseg button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');render();
+});
+document.querySelectorAll('thead th[data-k]').forEach(th=>th.onclick=()=>{
+  const k=th.dataset.k;
+  if(sortK===k){sortDir*=-1}else{sortK=k;sortDir=1}
+  document.querySelectorAll('thead th .arw').forEach(a=>a.textContent='');
+  th.querySelector('.arw').textContent=sortDir>0?'▲':'▼';
+  render();
+});
+q.oninput=render;
+render();
+</script>
+</body>
+</html>

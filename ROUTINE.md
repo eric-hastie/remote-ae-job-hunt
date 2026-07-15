@@ -9,7 +9,11 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 ## Files
 
 - **`data/latest.csv`** — canonical PUBLISHED list = companies that *currently* have a qualifying open
-  role. Columns: `Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL,Date Added`.
+  role. Columns: `Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL,Date Added,Posted,Location,Status`.
+  **`Location`** = `Remote` / `NYC` / `SF` / `Denver` — build.py filters this into four pages (index=Remote,
+  nyc.html, sf.html, denver.html). **`Status`** = `Verified` (posting confirmed live in an ATS API / clean
+  fetch) or `Needs check` (real but only corroborated via search/mirror — surfaced for manual review, not
+  discarded).
   **`Date Added` rules:** every NEW row gets today's UTC date (`YYYY-MM-DD`); never change an existing
   row's date (a Job-1 URL fix keeps the original date); a company dropped and later re-added gets the
   re-add date. build.py sorts the site newest-first by this column.
@@ -40,9 +44,12 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 ## The bar (ICP — a role qualifies only if it clears ALL)
 
 IC **Account Executive** (NOT SDR/BDR, NOT "Associate AE", NOT Director/VP/RVP) · segment **MM** or
-**MM/Ent** preferred (pure **Ent** allowed but tagged so it sorts last) · **US-remote** (not
-hybrid/office/non-US) · **OTE ~$150K–$340K** (blank if not reliably known — never guess) · **B2B SaaS** ·
-**~4+ yrs** closing (reject 8+ senior-only and junior/BDR).
+**MM/Ent** preferred (pure **Ent** allowed but tagged so it sorts last) · **US-remote OR based in
+NYC / SF / Denver** — set `Location` = `Remote` / `NYC` / `SF` / `Denver` accordingly; other cities and
+non-US are excluded (a role in two of these = one row per applicable location) · **OTE ~$150K–$340K**
+(blank if not reliably known — never guess) · **B2B SaaS** · **~4+ yrs** closing (reject 8+ senior-only
+and junior/BDR). Set `Status` = `Verified` normally; `Needs check` if the posting is real but only
+search/mirror-corroborated (never fully dropped — it's surfaced for manual review).
 
 ---
 

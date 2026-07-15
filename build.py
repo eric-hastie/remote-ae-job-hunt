@@ -32,17 +32,39 @@ def load():
         "repvue": clean(x["RepVue"]), "industry": clean(x["Industry"]), "url": clean(x["Job Posting URL"]),
         "added": clean(x.get("Date Added", "")),
         "posted": clean(x.get("Posted", "")),
+        "location": clean(x.get("Location", "") or "Remote"),
+        "status": clean(x.get("Status", "") or "Verified"),
     } for x in r]
     rows.sort(key=lambda x: tier(x["segment"]))            # stable within date
     rows.sort(key=lambda x: x["added"], reverse=True)      # newest first
     return rows
+
+# location pages generated from the shared dataset (filter by Location)
+LOCATIONS = [
+    ("index.html",  "remote", "Remote", "Remote AE Market Map",
+     "A hand-verified dataset of remote US <b>Account Executive</b> openings at B2B SaaS companies - built with an AI-assisted research pipeline that screens against a defined ICP and verifies every posting is live."),
+    ("nyc.html",    "nyc",    "NYC",    "NYC AE Market Map",
+     "Hand-verified <b>Account Executive</b> openings at B2B SaaS companies based in <b>New York City</b> - same ICP and verification pipeline, filtered to NYC-based roles."),
+    ("sf.html",     "sf",     "SF",     "SF AE Market Map",
+     "Hand-verified <b>Account Executive</b> openings at B2B SaaS companies based in <b>San Francisco / the Bay Area</b> - same ICP and verification pipeline, filtered to SF-based roles."),
+    ("denver.html", "denver", "Denver", "Denver AE Market Map",
+     "Hand-verified <b>Account Executive</b> openings at B2B SaaS companies based in <b>Denver</b> - same ICP and verification pipeline, filtered to Denver-based roles."),
+]
+
+def nav_html(active):
+    items = [("index.html","Remote","remote"),("nyc.html","NYC","nyc"),("sf.html","SF","sf"),
+             ("denver.html","Denver","denver"),("history.html","History &amp; Trends",None),("discards.html","Discards",None)]
+    out = []
+    for href, label, key in items:
+        out.append(f"<b>{label}</b>" if key == active and key else f'<a href="{href}">{label}</a>')
+    return " &nbsp;·&nbsp; ".join(out)
 
 TEMPLATE = r'''<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Remote AE Market Map - Verified Account Executive Roles</title>
+<title>__PAGE_H1__ - Verified Account Executive Roles</title>
 <meta name="description" content="A hand-verified dataset of remote US Account Executive roles at B2B SaaS companies, built with an AI-assisted research pipeline.">
 <style>
 :root{
@@ -100,6 +122,8 @@ tbody tr:hover{background:var(--panel)}
 .badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
 .b-mm{background:var(--mm);color:var(--mmtxt)}
 .b-ent{background:var(--ent);color:var(--enttxt)}
+.st{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.st-ok{background:#1d3a2e;color:#7ff0c8}.st-check{background:#4a3a1a;color:#ffd591}
 .ote{font-variant-numeric:tabular-nums}
 .apply{font-weight:600;white-space:nowrap}
 .muted{color:var(--muted)}
@@ -112,10 +136,10 @@ footer .wrap{max-width:760px}
 <body>
 <header><div class="wrap">
   <p class="eyebrow">B2B SaaS · Sales · Market Research</p>
-  <h1>Remote AE Market Map</h1>
-  <p class="sub">A hand-verified dataset of remote US <b>Account Executive</b> openings at B2B SaaS companies - built with an AI-assisted research pipeline that screens against a defined ICP and verifies every posting is live.</p>
+  <h1>__PAGE_H1__</h1>
+  <p class="sub">__SUBLEAD__</p>
   <p class="byline">Compiled by <b>Eric Hastie</b> · Data verified __DATEHUMAN__ · <span class="muted">a portfolio project</span></p>
-  <p class="byline" style="margin-top:6px"><b>Current roles</b> &nbsp;·&nbsp; <a href="history.html">History &amp; Trends</a> &nbsp;·&nbsp; <a href="discards.html">Discards →</a></p>
+  <p class="byline" style="margin-top:6px">__NAV__</p>
   <div class="stats">
     <div class="stat"><div class="n">__TOTAL__</div><div class="l">verified, qualified roles</div></div>
     <div class="stat"><div class="n">__MM__</div><div class="l">mid-market-friendly</div></div>
@@ -147,6 +171,11 @@ footer .wrap{max-width:760px}
       <button data-seg="mm">Mid-market</button>
       <button data-seg="ent">Enterprise</button>
     </div>
+    <div class="seg" id="statusseg">
+      <button data-st="all" class="on">All</button>
+      <button data-st="verified">Verified</button>
+      <button data-st="needs">Needs check</button>
+    </div>
     <span class="count" id="count"></span>
   </div>
   <div class="tablewrap">
@@ -160,6 +189,7 @@ footer .wrap{max-width:760px}
         <th data-k="segment">Segment <span class="arw"></span></th>
         <th data-k="hq">HQ <span class="arw"></span></th>
         <th data-k="repvue">RepVue <span class="arw"></span></th>
+        <th data-k="status">Status <span class="arw"></span></th>
         <th>Posting</th>
       </tr></thead>
       <tbody id="rows"></tbody>
@@ -175,9 +205,10 @@ const DATA = __DATA__;
 const tbody=document.getElementById('rows');
 const q=document.getElementById('q');
 const count=document.getElementById('count');
-let seg='all', sortK=null, sortDir=1;
+let seg='all', statusF='all', sortK=null, sortDir=1;
 function isMM(r){return r.segment.includes('MM')}
 function segLabel(r){const cls=isMM(r)?'b-mm':'b-ent';return '<span class="badge '+cls+'">'+r.segment+'</span>';}
+function statusBadge(r){return r.status==='Needs check' ? '<span class="st st-check">Needs check</span>' : '<span class="st st-ok">Verified</span>';}
 function fundDisp(r){return r.funding? (isNaN(r.funding)? r.funding : '$'+r.funding+'M') : '<span class="muted">-</span>'}
 function num(v){const n=parseFloat(String(v).replace(/[^0-9.]/g,''));return isNaN(n)?-1:n}
 const MONTHS=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
@@ -194,6 +225,8 @@ function render(){
   let list=DATA.filter(r=>{
     if(seg==='mm' && !isMM(r))return false;
     if(seg==='ent' && isMM(r))return false;
+    if(statusF==='verified' && r.status==='Needs check')return false;
+    if(statusF==='needs' && r.status!=='Needs check')return false;
     if(!term)return true;
     return (r.company+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
   });
@@ -214,6 +247,7 @@ function render(){
       <td>${segLabel(r)}</td>
       <td class="muted">${r.hq||''}</td>
       <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>-</span>'}</td>
+      <td>${statusBadge(r)}</td>
       <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
     </tr>`).join('');
   count.textContent=list.length+' of '+DATA.length+' roles';
@@ -221,6 +255,11 @@ function render(){
 document.querySelectorAll('#seg button').forEach(b=>b.onclick=()=>{
   seg=b.dataset.seg;
   document.querySelectorAll('#seg button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');render();
+});
+document.querySelectorAll('#statusseg button').forEach(b=>b.onclick=()=>{
+  statusF=b.dataset.st;
+  document.querySelectorAll('#statusseg button').forEach(x=>x.classList.remove('on'));
   b.classList.add('on');render();
 });
 document.querySelectorAll('thead th[data-k]').forEach(th=>th.onclick=()=>{
@@ -530,17 +569,22 @@ def main():
     human = today.strftime("%B %-d, %Y") if os.name != "nt" else today.strftime("%B %d, %Y")
 
     rows = load()
-    total = len(rows)
-    mm = sum(1 for x in rows if "MM" in x["segment"])
-    out = (TEMPLATE
-           .replace("__DATA__", json.dumps(rows))
-           .replace("__TOTAL__", str(total))
-           .replace("__MM__", str(mm))
-           .replace("__BUILDDATE__", today.isoformat())
-           .replace("__DATEHUMAN__", human))
-    with open(os.path.join(ROOT, "index.html"), "w") as f:
-        f.write(out)
-    print(f"built index.html: {total} roles ({mm} MM-friendly), verified {human}")
+    for fname, key, label, h1, sublead in LOCATIONS:
+        loc_rows = [r for r in rows if (r["location"] or "Remote").strip().lower() == key]
+        total = len(loc_rows)
+        mm = sum(1 for x in loc_rows if "MM" in x["segment"])
+        out = (TEMPLATE
+               .replace("__DATA__", json.dumps(loc_rows))
+               .replace("__PAGE_H1__", h1)
+               .replace("__SUBLEAD__", sublead)
+               .replace("__NAV__", nav_html(key))
+               .replace("__TOTAL__", str(total))
+               .replace("__MM__", str(mm))
+               .replace("__BUILDDATE__", today.isoformat())
+               .replace("__DATEHUMAN__", human))
+        with open(os.path.join(ROOT, fname), "w") as f:
+            f.write(out)
+        print(f"built {fname}: {total} roles ({mm} MM-friendly)")
 
     snaps = snapshots()
     if snaps:
