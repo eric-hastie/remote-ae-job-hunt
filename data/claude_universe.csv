@@ -2847,3 +2847,83 @@ Motorola Solutions,repvue,,2026-07-15,N,not primarily B2B SaaS (hardware/public 
 MFour Mobile Research,repvue,,2026-07-15,N,not B2B SaaS (market research panels)
 LogicGate,repvue,,2026-07-15,N,no AE open; Greenhouse board shows only SDR/ops/CS roles
 SaaS Academy,repvue,,2026-07-15,N,not B2B SaaS product (sales training/coaching company)
+Matia,ats-search,,2026-07-15,N,"No Account Executive posting on Matia's live Ashby board; only SDR, Revenue Ops Lead, Customer Success, and engineering "
+Growth Troops,ats-search,,2026-07-15,N,"Ashby board slug ""growthtroops"" confirmed via search (jobs.ashbyhq.com/growthtroops, multiple AE postings incl. Senior A"
+Hire Hangar,ats-search,,2026-07-15,N,Ashby board (hirehangar) confirmed but current live postings are all low-pay ($500-4K/mo) international remote roles (Co
+Kalibri Labs,ats-search,,2026-07-15,N,Ashby board (api.ashbyhq.com/posting-api/job-board/kalibri-labs) returns empty jobs array; the Senior AE posting found v
+Avela,ats-search,,2026-07-15,N,"Only live AE role (Edtech Account Executive) is SMB-segment and hub-based (SF/Boston), not remote; lead job ID 523001200"
+Wingspan,ats-search,,2026-07-15,N,Enterprise AE posting (job 7708454003) is not present in the live Greenhouse board API (404) and doesn't appear in the c
+Overstory,ats-search,,2026-07-15,N,No Account Executive role in Overstory's live Greenhouse board; job 4778118101 is a dead link (redirects to full board);
+Upbound,ats-search,,2026-07-15,N,"Strategic AE posting (5729937004) is dead/closed - not in live Greenhouse board listing (only 8 jobs live, all Director "
+Hapara,ats-search,,2026-07-15,N,Dead posting - Greenhouse board API (boards-api.greenhouse.io/v1/boards/hapara/jobs) returns 0 jobs and job ID 456174400
+Truffle Security,ats-search,,2026-07-15,N,"Dead posting — job 4666050005 (SMB AE) no longer in Greenhouse board; current live roles are Dev Rel Lead, Sr SWE, Solut"
+ePlus Technology (ePlus inc.),ats-search,,2026-07-15,N,Original lead (Req#1203/job 4205229009) doesn't exist on the board (dead/mistaken ID); live AE reqs found are IT hardwar
+NextRoll,ats-search,,2026-07-15,N,"Lead job ID 8237928002 not on board; only posting present is a generic ""Future Opportunity"" talent-pipeline listing (AE/"
+Deliverect,ats-search,,2026-07-15,N,"Lever board (jobs.lever.co/deliverect, confirmed via API) has no live US-remote AE posting; the Mid Market AE listing fo"
+Octopus Deploy,ats-search,,2026-07-15,N,"Could not locate company's ATS JSON API within budget (Lever slugs octopus/octopusdeploy 404, Ashby slugs octopusdeploy/"
+Vendavo,ats-search,,2026-07-15,N,No Account Executive posting exists on Vendavo's Lever board; only Program Manager and Senior Product Manager roles are 
+Cacheflow,ats-search,,2026-07-15,N,AE found but posting dated 2024-04-24 (stale); held
+DataStax,ats-search,,2026-07-15,N,"SmartRecruiters slug ""DataStax"" returns 0 postings and careers.smartrecruiters.com/DataStax now redirects to the generic"
+PhillyTech.Co,ats-search,,2026-07-15,N,"listing appears to be a staffing/recruiting firm, not a product co; held"
+MedTrainer,ats-search,,2026-07-15,N,"Verified ATS is Greenhouse (slug medtrainerinc, not SmartRecruiters as guessed); current live postings are BDR, Medical "
+Wiser Solutions,ats-search,,2026-07-15,N,"Only live posting is ""Account Executive (SaaS) - Bilingual English/Spanish"", entry-level (2-3+ yrs), OTE $110-125K — bel"
+IFS (Ultimo),ats-search,,2026-07-15,Y,"Live IC Strategic AE (Expansion) role on Ultimo/IFS install base, Manufacturing vertical, Remote (US); base $125-150K + "
+2nd Watch,ats-search,,2026-07-15,N,"SmartRecruiters board API for slug 2ndWatch returns totalFound:0 (no active postings); the ""Enterprise Account Executive"
+Nexthink,ats-search,,2026-07-15,Y,"Live IC Enterprise AE (West region), remote-eligible, B2B SaaS, 7+ yrs enterprise sales, OTE $300-360K stated"
+JumpCrew,ats-search,,2026-07-15,N,SmartRecruiters API for JumpCrew returns 0 postings (totalFound:0) and the specific job URL 400s — dead/delisted posting
+Opexpert,ats-search,,2026-07-15,N,"SmartRecruiters board only has stale 2018-04-19 postings (Boston, MA on-site) — dead/demo data, no live remote AE postin"
+Insidea,ats-search,,2026-07-15,N,No AE posting exists on their SmartRecruiters board (slug Insidea1 confirmed) — only HubSpot Specialist and Customer Suc
+Appcast,ats-search,,2026-07-15,N,"Only posting on SmartRecruiters board is ""Senior Account Executive"" but is Remote:No (Somerville, MA on-site), seniority"
+Rethink,ats-search,,2026-07-15,N,"Only AE posting on the SmartRecruiters board is on-site in Austin, TX (not remote) and dated 2020-06-01 — stale/dead, no"
+Moxiworks,ats-search,,2026-07-15,N,"Only requires ""2+ years of SaaS/inside sales experience"" (below ~4+ yrs closing bar) and posting dated April 2022 (stale"
+Xplor,ats-search,,2026-07-15,N,"All 63 ""Account Executive"" postings are the same 100%-commission door-to-door merchant-services/payment-processing field"
+Spiff,ats-search,,2026-07-15,N,"Spiff acquired by Salesforce; its own Workable board (apply.workable.com/api/v1/widget/accounts/spiff) returns ""jobs"":[]"
+Handpoint,ats-search,,2026-07-15,N,"Workable board (apply.workable.com/handpoint) jobs array is empty — AE posting is dead, no live listing in ATS API despi"
+BuildingLink,ats-search,,2026-07-15,N,"Workable board confirmed (correct company, no collision) but jobs array is empty — no live postings at all, let alone an"
+Huzzle,ats-search,,2026-07-15,N,"Huzzle is a recruitment/talent-marketplace platform (not an operating B2B SaaS company); the ""AE"" posting is a generic c"
+Opal,ats-search,,2026-07-15,N,Workable board API (opal-labs) returns empty jobs array and the specific job ID from search is 404 — no live posting con
+Clearstory,ats-search,,2026-07-15,N,"Live Workable posting confirmed (Mid-Market AE, Specialty Contractor) but restricted to ""Western Region"" (not full US-re"
+ZeroFox,ats-search,,2026-07-15,N,Workable board confirmed (real ZeroFox) but no Commercial/Chicago AE posting exists; only Senior AE - FedCiv and Senior 
+Inspectorio,ats-search,,2026-07-15,N,Could not verify posting in any ATS JSON API (Workable/Greenhouse/Lever all 404); role also appears to be Senior AE requ
+Virtuoso,ats-search,,2026-07-15,N,Enterprise AE - SaaS DevOps/Fully Remote posting exists at apply.workable.com/virtuoso/j/E26A568F44/ but is NOT present 
+MLabs,ats-search,,2026-07-15,N,"Enterprise AE (cross-border payments/banking infra, remote US) confirmed live on Workable, but OTE stated as $100K-$150K"
+Zyte,ats-search,,2026-07-15,N,Dead posting: Enterprise AE listing (apply.workable.com/zyte/j/EDE354D134) not present in live Workable board API for zy
+Parq,ats-search,,2026-07-15,N,"Founding Enterprise AE requires ""in-person collaboration at Austin, TX office with flexibility for remote work 3 days a "
+Runware,ats-search,,2026-07-15,N,No Account Executive posting exists on Runware's Workable board (slug confirmed live; only eng/hardware/data roles liste
+LocalStack,ats-search,,2026-07-15,N,"No AE posting live on LocalStack's Workable board; only Legal Counsel, Support Engineer, and Technical Account Manager r"
+EngFlow,ats-search,,2026-07-15,N,Workable board API (apply.workable.com/api/v1/widget/accounts/engflow) returns empty jobs array — no live posting confir
+Aikido Security,ats-search,,2026-07-15,N,"Enterprise Account Executive US posting not present in live Recruitee API (only 10 offers listed: Channel Biz Mgr, Marke"
+Momentum Data,ats-search,,2026-07-15,N,Only AE posting in Recruitee feed (Global Account Executive) is dated 2021-11-22 and its posting URL redirects to Recrui
+Incentivio,ats-search,,2026-07-15,N,"Recruitee board (incentivio) API returns empty offers array; both AE posting URLs found via search (Chicago Remote, Mid "
+Confirmo,ats-search,,2026-07-15,N,crypto/payments; borderline B2B SaaS; held
+PriceBeam,ats-search,,2026-07-15,N,Recruitee board is dead — careers.pricebeam.com/o/us-sales-account-executive 301s to recruitee.com/careers_not_hosted an
+Black Diamond Networks,ats-search,,2026-07-15,N,"Role is ""Associate Account Executive,"" fully on-site M-F in Austin (not remote), staffing agency not B2B SaaS, comp $45K"
+ApprovalMax,ats-search,,2026-07-15,N,"Only open AE role is Account Executive (EMEA), Cape Town, hybrid — not US-remote; real ATS is TeamTailor (approvalmax.te"
+Certus,ats-search,,2026-07-15,N,"Live IC AE posting confirmed on Recruitee but OTE is only ~$74-79K (base $50-55K + ~$2K/mo commission), far below the $1"
+Eleken,ats-search,,2026-07-15,N,No AE posting on live Recruitee board; only Partnership Manager and UI/UX Designer roles open
+Crowdsec,ats-search,,2026-07-15,N,"Only posting is Sales AE - Cybersecurity, but requires location within +/-6hrs CEST (based Montrouge, France) - not US-r"
+Amalia,ats-search,,2026-07-15,N,Recruitee board dead (redirects to recruitee.com/careers_not_hosted) and amalia.io/careers 404s; no live ATS posting fou
+Dealroom,ats-search,,2026-07-15,N,"Board (dealroomco.recruitee.com) has no AE role; only ""Business Development Manager - North America"" is live, a BDM/BD t"
+Flinn.ai,ats-search,,2026-07-15,N,"Enterprise AE posting is hybrid, based in Vienna/Berlin/NYC hub offices — not US-remote (real ATS is Ashby, not Recruite"
+BibliU,ats-search,,2026-07-15,N,"Recruitee slug returned empty offers array; real ATS is BambooHR (bibliu.bamboohr.com/careers), which 403'd — no JSON AP"
+VertiGIS,ats-search,,2026-07-15,N,"Recruitee API (vertigis.recruitee.com) lists no AE posting at all (only Sales Manager, GIS Consultant, Developer, HR, QA"
+Routeware,ats-search,,2026-07-15,Y,"Live IC Strategic Account Executive, remote US, targeting municipal/enterprise waste-hauling accounts; 5+ yrs B2B SaaS r"
+"Signwarehouse, Inc.",ats-search,,2026-07-15,N,Not B2B SaaS - sells physical signmaking/vehicle-wrap supplies and equipment; AE role sells hardware/consumables to sign
+Focal Systems,ats-search,,2026-07-15,N,Posting dead - Rippling board (ats.rippling.com/focal-systems-external-job-board) shows no open roles; specific job URL 
+TheGuarantors,ats-search,,2026-07-15,Y,"Senior AE (Remote), MM/Ent multifamily fintech, 4+ yrs B2B, OTE $180-235K - qualifies"
+Bloom Growth,ats-search,,2026-07-15,N,No live IC Account Executive posting on Bloom Growth's Rippling board — only current opening is Software Product Owner; 
+Enertiv,ats-search,,2026-07-15,N,"AE posting not present in live Rippling board (only CSM + Sr Product Designer listed); job ID from search is dead, and c"
+GoTab,ats-search,,2026-07-15,N,"Lead posting (Founding Mid-Market AE) is dead — not present on current board; only live AE req is ""Account Executive - F"
+Klir,ats-search,,2026-07-15,Y,"Live IC Strategic/Enterprise AE, remote US, 5+ yrs $1M+ quota SaaS closing — qualifies (Ent segment); the Mid-Market AE "
+SchoolAI,ats-search,,2026-07-15,N,"Rippling ATS board (ats.rippling.com/schoolai/jobs) shows no open roles; the only AE listing found (Mid-Market AE, $140k"
+Summit Commercial Solutions,ats-search,,2026-07-15,N,"Canadian insurance brokerage (Kelowna, BC); AE posting is Canada-only (requires Level 2/RIBO license), not US-remote, no"
+Workstreet,ats-search,,2026-07-15,N,"Role targets Early Stage segment (0-50 FTE companies) with only 2-5 yrs closing experience required — SMB segment, not M"
+LegalOn Technologies,ats-search,,2026-07-15,N,"No qualifying posting live: current rippling board only shows Bilingual AE (Tokyo, not US), SDR (SF remote), legal contr"
+RiskExec,ats-search,,2026-07-15,N,Enterprise AE posting no longer live — Rippling board (ats.rippling.com/riskexec/jobs) currently shows only Software Eng
+Shipium,ats-search,,2026-07-15,N,"Rippling board (ats.rippling.com/shipium/jobs) currently lists only one open role, ""Senior Solutions Engineer"" — no live"
+Pendulum,ats-search,,2026-07-15,Y,"Enterprise AE, Remote US/Canada, OTE $300K uncapped, Fortune 500 focus, 6+ yrs B2B SaaS closing — qualifies (Ent segment"
+Zendesk,ats-search,,2026-07-15,N,"ATS confirmed (Workday, zendesk.wd1.myworkdayjobs.com) and matching postings exist (Commercial AE (Hunter) R33459, Austi"
+Mimecast,ats-search,,2026-07-15,Y,"Live IC Mid-Market AE, US-remote (Illinois - Remote), OTE $144-216K, B2B cybersecurity SaaS - no in-office cadence state"
+Pluralsight,ats-search,,2026-07-15,N,"Only AE lead found (Enterprise AE, Workday board) requires 10+ years experience (senior-only, disqualifies) and is marke"
+Tealium,ats-search,,2026-07-15,N,"Workday board confirmed real (tealium.wd1.myworkdayjobs.com) and lists a ""Sr. Account Executive - Mid Market (Remote)"" r"
+Fullsteam,ats-search,,2026-07-15,N,Workday API blocked; posting unverified; held
