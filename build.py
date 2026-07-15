@@ -124,6 +124,8 @@ tbody tr:hover{background:var(--panel)}
 .b-ent{background:var(--ent);color:var(--enttxt)}
 .st{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
 .st-ok{background:#1d3a2e;color:#7ff0c8}.st-check{background:#4a3a1a;color:#ffd591}
+.dq{cursor:pointer;color:var(--muted);font-size:12px;margin-left:12px;user-select:none;white-space:nowrap}
+.dq:hover{color:#ff7a7a;text-decoration:underline}
 .ote{font-variant-numeric:tabular-nums}
 .apply{font-weight:600;white-space:nowrap}
 .muted{color:var(--muted)}
@@ -176,6 +178,10 @@ footer .wrap{max-width:760px}
       <button data-st="verified">Verified</button>
       <button data-st="needs">Needs check</button>
     </div>
+    <div class="seg" id="dqseg">
+      <button data-dq="active" class="on">Active</button>
+      <button data-dq="dqd">DQ'd</button>
+    </div>
     <span class="count" id="count"></span>
   </div>
   <div class="tablewrap">
@@ -205,7 +211,9 @@ const DATA = __DATA__;
 const tbody=document.getElementById('rows');
 const q=document.getElementById('q');
 const count=document.getElementById('count');
-let seg='all', statusF='all', sortK=null, sortDir=1;
+let seg='all', statusF='all', dqMode='active', sortK=null, sortDir=1;
+const DQ=new Set(JSON.parse(localStorage.getItem('ae_dq')||'[]'));
+function saveDQ(){localStorage.setItem('ae_dq',JSON.stringify([...DQ]));}
 function isMM(r){return r.segment.includes('MM')}
 function segLabel(r){const cls=isMM(r)?'b-mm':'b-ent';return '<span class="badge '+cls+'">'+r.segment+'</span>';}
 function statusBadge(r){return r.status==='Needs check' ? '<span class="st st-check">Needs check</span>' : '<span class="st st-ok">Verified</span>';}
@@ -227,6 +235,8 @@ function render(){
     if(seg==='ent' && isMM(r))return false;
     if(statusF==='verified' && r.status==='Needs check')return false;
     if(statusF==='needs' && r.status!=='Needs check')return false;
+    if(dqMode==='active' && DQ.has(r.url))return false;
+    if(dqMode==='dqd' && !DQ.has(r.url))return false;
     if(!term)return true;
     return (r.company+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
   });
@@ -248,9 +258,9 @@ function render(){
       <td class="muted">${r.hq||''}</td>
       <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>-</span>'}</td>
       <td>${statusBadge(r)}</td>
-      <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
+      <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a><span class="dq" data-url="${r.url}">${DQ.has(r.url)?'restore':'DQ ✕'}</span></td>
     </tr>`).join('');
-  count.textContent=list.length+' of '+DATA.length+' roles';
+  count.textContent=list.length+' of '+DATA.length+' roles'+(DQ.size?(' · '+DQ.size+' DQ’d'):'');
 }
 document.querySelectorAll('#seg button').forEach(b=>b.onclick=()=>{
   seg=b.dataset.seg;
@@ -261,6 +271,17 @@ document.querySelectorAll('#statusseg button').forEach(b=>b.onclick=()=>{
   statusF=b.dataset.st;
   document.querySelectorAll('#statusseg button').forEach(x=>x.classList.remove('on'));
   b.classList.add('on');render();
+});
+document.querySelectorAll('#dqseg button').forEach(b=>b.onclick=()=>{
+  dqMode=b.dataset.dq;
+  document.querySelectorAll('#dqseg button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');render();
+});
+tbody.addEventListener('click',e=>{
+  const el=e.target.closest('.dq'); if(!el)return;
+  const u=el.dataset.url;
+  if(DQ.has(u))DQ.delete(u); else DQ.add(u);
+  saveDQ(); render();
 });
 document.querySelectorAll('thead th[data-k]').forEach(th=>th.onclick=()=>{
   const k=th.dataset.k;
