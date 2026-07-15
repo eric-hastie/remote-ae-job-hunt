@@ -109,7 +109,7 @@ Supermetrics,claude,,2026-07-13,N,"no US-remote AE (Junior Helsinki, Senior ANZ 
 Syniti,claude,,2026-07-13,N,job4 recheck: Client AE posting filled; no qualifying role
 Synthflow AI,claude,,2026-07-13,N,no AE roles on Ashby board
 Sysdig,claude,,2026-07-04,N,posting dead; no qualifying replacement on board
-Temporal,claude,95,2026-07-15,N,Ashby board (temporal) shows only Director of Sales/New Logo (management) and Business Development Representative (junior/BDR) in Sales; no 
+Temporal,claude,95,2026-07-15,N,"AE roles do exist (missed by posting-api feed as suspected) but none qualify: all live AE postings are tied to specific cities (Chicago, Austin, Dalla"
 The Access Group,claude,,2026-07-13,N,ATS unresolved (Greenhouse 404); UK ERP company
 Thoropass,claude,,2026-07-02,Y,has open qualifying role
 ThoughtSpot,claude,79,2026-07-04,N,Workday req JR2099 gone
@@ -140,39 +140,39 @@ Attentive,claude,,2026-07-13,N,AE I MM US (base $80-90K; remote status unconfirm
 Checkr,claude,,2026-07-13,N,Commercial AE Denver/SF hybrid office; not remote
 Rebar,repvue,102.17,2026-07-15,N,"Only AE posting (Ashby) is IC-level and B2B SaaS (construction takeoff/estimating), but explicitly isRemote:false, location NYC Flatiron — f"
 Siro,repvue,101.46,2026-07-15,N,"Only AE opening is Enterprise AE in New York (hybrid, office presence required) requiring ~10+ yrs enterprise B2B SaaS experience — fails bo"
-Getguru.com,repvue,101.06,2026-07-15,N,No AE posting live; Rippling board (job.getguru.com / getguru-careers) currently shows only Lead Analyst RevOps and Sr Customer Solutions En
-ProsperOps,repvue,101.03,2026-07-15,N,ProsperOps has no board on Greenhouse/Ashby/Lever/SmartRecruiters/Workable/Recruitee (all 404/empty); careers.prosperops.com now redirects t
+Getguru.com,repvue,101.06,2026-07-15,N,"No live AE posting found on any channel: Ashby board (jobs.ashbyhq.com/getgurucom) is empty, and Guru's actual current ATS (Rippling, ats.rippling.com"
+ProsperOps,repvue,101.03,2026-07-15,N,No live qualifying posting found: ProsperOps' career site (careers.prosperops.com) is not on Ashby at all — it 302-redirects to a Workday board (flexe
 Associated,repvue,100.69,2026-07-07,N,ATS unresolved (company identity unclear)
 Champify,repvue,100.63,2026-07-15,N,"No qualifying IC-AE posting confirmed; Champify's careers page redirects to app.dover.com/jobs/champify (Dover ATS, JS-rendered, not one of "
 ASAP inc,repvue,100.12,2026-07-15,N,"Workable board (slug asap-inc, confirmed as ASAP, Inc) is live but has zero open postings; Greenhouse/Ashby/Lever/SmartRecruiters slug varia"
-Rilla,repvue,100.09,2026-07-15,N,"Ashby board (slug ""rilla"") shows only 7 open roles, all New York City on-site/unspecified — no Account Executive titles at all (Director of "
-Auth0,repvue,100.00,2026-07-15,N,"Only Auth0-branded AE posting on Okta's Greenhouse board (id 7439531) is based in Tokyo, Japan, not US-remote; no other qualifying US Auth0 "
+Rilla,repvue,100.09,2026-07-15,N,"Live IC posting confirmed via direct URL (posting-api feed omits it, showing ""Director of Enterprise Sales"" instead) — but JD requires NYC in-person w"
+Auth0,repvue,100.00,2026-07-15,N,Auth0 has no Ashby board at all (jobs.ashbyhq.com/auth0 is empty/non-existent) — postings live on okta.com/company/careers instead. Search surfaced se
 Giga,repvue,99.89,2026-07-15,N,"No qualifying IC AE opening. Original slug ""giga"" returns empty/404 on all ATS platforms. Nearest matches: Giga Energy (gigaenergy, Greenhou"
 Mangomint,repvue,99.30,2026-07-15,N,"No IC Account Executive posting; current Ashby board (jobs.ashbyhq.com/Mangomint) only lists GTM Lead, DevOps Engineer, and a Business Devel"
 Raymond West,repvue,98.97,2026-07-07,N,not B2B SaaS (material handling equipment company)
-January,repvue,98.85,2026-07-15,N,"Ashby board (january) live-checked; 8 open roles (eng, data, product, recruiting, ops, security) — no Account Executive posting at all, IC o"
+January,repvue,98.85,2026-07-15,N,"No AE/sales posting found via search or careers page (jobs.ashbyhq.com/january, january.com/careers) — only Eng, Data Science, PM, Strategy & Ops, VP "
 Solidgate,repvue,98.77,2026-07-15,N,"Only sales role posted is Enterprise Sales Executive (French market), based in Paris (isRemote: false) — not US-remote, no qualifying IC AE "
-Wistia,repvue,98.71,2026-07-15,N,"Ashby board (jobs.ashbyhq.com/wistia) has only one open role, Senior Account Manager (expansion/post-sales, not new-business AE); no IC Acco"
+Wistia,repvue,98.71,2026-07-15,N,"Only live posting at Wistia currently is ""Senior Account Manager"" (post-sales, expansion/CS role, not an IC new-logo AE) — confirmed via Ashby posting"
 Ivo,repvue,98.60,2026-07-15,N,"Both current AE postings (Enterprise OTE $340-360K, Mid-Market OTE $250-270K) are SF-based with explicit in-office requirements (""in-person "
 Cursor,repvue,98.32,2026-06-30,Y,top-260 RepVue scan: open AE role
 Whatnot,repvue,98.16,2026-07-15,N,"Ashby board (job-board slug differs from URL; had to scrape embedded JSON) shows only two AE-titled postings: ""Account Executive"" (San Franc"
 LettrLabs,repvue,98.05,2026-06-30,Y,top-260 RepVue scan: open AE role
-Jetty,repvue,97.97,2026-07-15,N,"No AE opening found: Greenhouse/Lever/SmartRecruiters/Workable/Recruitee slug checks for ""Jetty"" all returned 404 or empty job lists, and je"
+Jetty,repvue,97.97,2026-07-15,N,"No live IC AE posting found anywhere. jobs.ashbyhq.com/Jetty resolves to an empty board (no listings); api.ashbyhq.com posting-api 404s for both ""Jett"
 Campfire,repvue,97.90,2026-07-15,N,"Only 2 AE postings (SF, NY) on Ashby board; both explicitly state ""entire team goes into the office 5 days per week"" — disqualifies on in-of"
 Opus Technology,repvue,97.64,2026-07-07,N,ATS unresolved (company identity unclear)
-Thread HCM,repvue,97.61,2026-07-15,N,"No qualifying AE opening currently live. Thread HCM's own careers board (isolved ATS, not Greenhouse/Ashby/Lever/SmartRecruiters/Workable/Re"
+Thread HCM,repvue,97.61,2026-07-15,N,No live AE posting found. Thread HCM doesn't actually use Ashby (jobs.ashbyhq.com/threadhcm is empty/no listings) — real careers site runs on isolvedh
 Rootly,repvue,97.57,2026-07-15,N,"No live qualifying posting confirmed in ATS JSON API. Greenhouse (rootly, rootlyhq), Ashby, Lever all 404'd; SmartRecruiters returned a vali"
-Everstage,repvue,97.44,2026-07-15,N,"No AE posting exists at all on live careers board (Freshteam-hosted); current openings are SEO/AEO Lead, Sr. Technical Architect, BDR-Outbou"
+Everstage,repvue,97.44,2026-07-15,N,"Everstage's actual ATS is Freshteam (everstage.freshteam.com/jobs), not Ashby — no jobs.ashbyhq.com/everstage board exists. Full careers listing check"
 BreachRx,repvue,97.39,2026-07-15,N,No live postings found anywhere (SmartRecruiters board empty at 0 postings; Greenhouse/Ashby/Lever/Workable/Recruitee slug variants all 404;
 Prolifiq.ai,repvue,97.36,2026-07-15,N,"SmartRecruiters ATS (company slug ""prolifiqai"", confirmed same company via RepVue/careers page) returns totalFound:0 — zero open postings of"
 The N2 Company,repvue,97.31,2026-07-07,N,not B2B SaaS (local media/advertising)
-Maestra.io,repvue,97.27,2026-07-15,N,"No ATS JSON board found (Greenhouse/Ashby/Lever 404, SmartRecruiters returns 0 postings) and maestra.io site has no careers page; a ""Second "
-Unframe AI,repvue,97.24,2026-07-15,N,"No AE posting exists on Unframe's live Greenhouse board (job-boards.eu.greenhouse.io/unframe, 18 open roles as of 2026-07-15); closest sales"
+Maestra.io,repvue,97.27,2026-07-15,N,"Strong signal a qualifying IC AE role likely exists (LinkedIn posting titled ""Second Founding Account Executive – Upper Mid Market"" at Maestra, job ID"
+Unframe AI,repvue,97.24,2026-07-15,N,"Live ""Strategic Account Executive"" reqs found (10 US/EU location variants) — but hosted on Greenhouse, not Ashby (Ashby board slug doesn't even apply)"
 SourceWhale,repvue,97.15,2026-07-15,N,"Only posting on Greenhouse board is ""Account Executive - US"" (job 4530790004), first_published 2022-05-24, last updated 2024-07-24 — a stale"
 Triple Whale,repvue,97.09,2026-07-15,N,"Expansion AE (upsell), 3+ yrs, not net-new closing; held as lead"
 Comply Pro,repvue,96.94,2026-07-07,N,ATS unresolved (Lever 403; Comply LLC is different company)
-Anagram,repvue,96.91,2026-07-15,N,"No AE opening on Ashby board (anagram); listings are Founding/Backend/ZK engineering, research, and marketing roles only (crypto/DeFi focus)"
-Wiza,repvue,96.90,2026-07-15,N,No live postings in Wiza's ATS APIs (Greenhouse/Ashby 404; SmartRecruiters and Workable boards exist but return zero open jobs); no AE openi
+Anagram,repvue,96.91,2026-07-15,N,"Current live Ashby board (jobs.ashbyhq.com/goanagram) shows only Customer Support Rep, Executive Assistant, Entrepreneur in Residence, Head of Marketi"
+Wiza,repvue,96.90,2026-07-15,N,"No live AE posting found anywhere — Ashby board jobs.ashbyhq.com/wiza shows no listings, wiza.co has no careers page/link, and all web searches for ""W"
 Eve Legal,repvue,96.88,2026-06-30,Y,top-260 RepVue scan: open AE role
 Energy CX,repvue,96.81,2026-07-15,N,"Two live AE postings on Greenhouse (energycx slug), neither qualifies: Chicago AE is hybrid (WFH Fridays only) and stale (posted 2025-09-09,"
 News Corp.,repvue,96.69,2026-07-07,N,not B2B SaaS (large media conglomerate)
@@ -181,43 +181,43 @@ Omnea,repvue,96.59,2026-07-15,N,"No IC Account Executive posting on Ashby board;
 Blue J,repvue,96.56,2026-07-15,N,"Blue J's careers site runs on Gem (JS-rendered, not one of the standard ATS JSON APIs — Greenhouse/Ashby/Lever/SmartRecruiters/Workable/Recr"
 Triumvirate Environmental,repvue,96.55,2026-07-07,N,not B2B SaaS (environmental consulting/services)
 Vendelux,repvue,96.50,2026-07-15,N,"Only AE-titled opening is Enterprise Account Executive (NYC, Hybrid 3-4 days onsite, 7+ yrs required) — fails both the remote-US and 4-8yr b"
-CompanyCam,repvue,96.33,2026-07-15,N,"No IC Account Executive posting on Greenhouse board; only open sales-adjacent role is ""Account Manager, SMB"" (not AE) plus non-sales roles ("
+CompanyCam,repvue,96.33,2026-07-15,N,"No live IC AE posting found anywhere: Ashby posting-api feed has zero sales roles; the only AE posting found (Account Executive, Outbound, mid-market/"
 AI Clearing,repvue,96.29,2026-07-15,N,"SmartRecruiters board (correct company - construction AI, confirmed via company profile) shows 0 total postings; Greenhouse/Ashby/Lever slug"
 Asurint,repvue,96.11,2026-07-07,N,ATS unresolved (background screening)
-Accord,repvue,96.11,2026-07-15,N,"Ashby board (jobs.ashbyhq.com/accord) shows only 4 open roles (Customer Success Associate, Sr Enterprise CSM, Head of Growth, Field Marketin"
+Accord,repvue,96.11,2026-07-15,N,"No live IC AE posting found. Cross-checked Ashby posting-api feed (Head of Growth, Sr. Enterprise CSM, Field Marketing Manager, Customer Success Assoc"
 TA Instruments,repvue,96.09,2026-07-07,N,not B2B SaaS (scientific instruments manufacturer)
 SewerAI,repvue,96.08,2026-07-15,N,Standard ATS slugs (Greenhouse/Ashby/Lever/Workable/Recruitee) all 404; SmartRecruiters returned 0 postings. Actual ATS is Rippling (ats.rip
 Amplemarket,repvue,95.97,2026-07-02,Y,top-260 RepVue scan: open AE role
-CloudTalk,repvue,95.90,2026-07-15,N,Workable board (apply.workable.com/cloudtalk) shows no Account Executive role at all — only Account Manager/Senior Account Manager (Barcelon
-Actively AI,repvue,95.88,2026-07-15,N,"Two Enterprise AE postings live (NYC + SF, Greenhouse board slug 'activelyai', not 'actively-ai') but both are location-based (SF/NYC) with "
+CloudTalk,repvue,95.90,2026-07-15,N,"Two live IC AE postings found on Workable (NOT Ashby, despite slug given) that a posting-api-only check would miss — but neither is US-remote: (1) ""Ac"
+Actively AI,repvue,95.88,2026-07-15,N,"Actively AI isn't even on Ashby — it runs Greenhouse (board ""activelyai""). Found one Remote-tagged AE posting, ""Strategic Account Executive - Revenue "
 RemoFirst,repvue,95.84,2026-07-15,N,"Lever board (only live ATS) shows just 2 AE postings, both stale (Jan 2025, ~18mo old) and region-specific: Account Executive (Brazil) and A"
 Nooks,repvue,95.75,2026-07-02,Y,top-260 RepVue scan: open AE role
 Interseller,repvue,95.75,2026-07-15,N,Greenhouse board (boards-api.greenhouse.io/v1/boards/interseller/jobs) and SmartRecruiters (api.smartrecruiters.com/v1/companies/interseller
-Juro,repvue,95.68,2026-07-15,N,"Ashby board (jobs.ashbyhq.com/juro) confirmed live; only Legal Counsel (UK), Legal Engineer (Boston), and Finance Lead (London) posted — no "
+Juro,repvue,95.68,2026-07-15,N,"Only AE posting found (jobs.ashbyhq.com/juro/88528694-...) is UK-only (""must have long-term working rights in the UK"") and was removed Feb 15 2025 — s"
 2B Talent Solutions,repvue,95.67,2026-07-08,N,staffing/talent firm; not B2B SaaS product; re-checked 2026-07-08
 Xygeni,repvue,95.67,2026-07-15,N,No ATS board found under xygeni slug (Greenhouse/Ashby/Lever/Workable/Recruitee all 404; SmartRecruiters resolved but returned zero postings
 Oak Street Health,repvue,95.54,2026-07-08,N,primary care clinics (CVS Health); not B2B SaaS; re-checked 2026-07-08
-JobTread,repvue,95.51,2026-07-15,N,"Only AE posting found is explicitly on-site/Dallas-DFW (""not a remote position, must relocate"") and reads as prospecting/SDR-style, not a cl"
+JobTread,repvue,95.51,2026-07-15,N,"Live IC AE posting found (jobtread.com/careers/account-executive) but explicitly on-site: ""This is not a remote position... must currently live in the"
 RT Specialty,repvue,95.47,2026-07-08,N,insurance wholesale broker; not B2B SaaS; re-checked 2026-07-08
 Clazar,repvue,95.40,2026-07-15,N,"LinkedIn/Glassdoor/Hasjob show an AE posting (SMB/MM/Ent) exists, but Clazar's board isn't on Greenhouse/Ashby/Lever/SmartRecruiters/Workabl"
-Omni,repvue,95.32,2026-07-15,N,dropped 2026-07-15: posting 21551f45 dead; no AE postings remain on Omni Ashby board
+Omni,repvue,95.32,2026-07-15,N,"Live IC Account Executive (L1-L2) posting confirmed via search-indexed content (not by WebFetch, which failed to render the JS-heavy Ashby SPA page) —"
 Force Management,repvue,95.26,2026-07-08,N,sales training firm; not B2B SaaS product; re-checked 2026-07-08
 AIHR,repvue,95.25,2026-07-15,N,"Recruitee API (aihr.recruitee.com) currently lists only 1 live posting, an on-site/hybrid NL software engineer role; the Account Executive /"
 Rockerbox,repvue,95.23,2026-07-15,N,"Rockerbox was acquired by DoubleVerify (rockerbox.com/careers redirects to doubleverify.com/careers); standalone ATS slug ""rockerbox"" no lon"
 Maxwell,repvue,95.17,2026-07-02,Y,top-260 RepVue scan: open AE role
-QuotaPath,repvue,95.16,2026-07-15,N,No qualifying AE opening now; QuotaPath moved off Greenhouse/Ashby/Lever/SmartRecruiters/Workable/Recruitee (all 404/empty) to Rippling ATS 
+QuotaPath,repvue,95.16,2026-07-15,N,No live AE posting: QuotaPath doesn't actually use Ashby (jobs.ashbyhq.com/quotapath board is empty); real ATS is Rippling (ats.rippling.com/quotapath
 Jack Henry,repvue,95.08,2026-07-08,N,banking tech (credit unions); 60% travel; OTE unknown; not typical B2B SaaS AE; re-checked 2026-07-08
-Ionic,repvue,95.08,2026-07-08,N,no IC AE on Lever board (SDR only); re-checked 2026-07-08
+Ionic,repvue,95.08,2026-07-15,N,"No live Ionic-specific AE posting found by any method: posting-api 404s, jobs.ashbyhq.com/Ionic board renders empty, Glassdoor shows ""No Jobs at Ionic"
 Scytale,repvue,95.04,2026-07-15,N,"Only AE opening is ""Founding AE"" in New York — hybrid office role (NYC/Tel Aviv/Cape Town/Johannesburg/Prague offices, ""flexible hybrid work"
-Okteto,repvue,95.03,2026-07-15,N,No ATS presence found (Greenhouse/Ashby/Lever slug 'okteto' all 404) and YC jobs page states no jobs currently posted; no AE opening confirm
+Okteto,repvue,95.03,2026-07-15,N,No live AE posting confirmed. Two Ashby UUIDs surfaced by search (jobs.ashbyhq.com/okteto/b3baf399... and .../670d3f43...) both render as bare generic
 Popl,repvue,94.93,2026-07-02,Y,top-260 RepVue scan: open AE role
 Americor,repvue,94.89,2026-07-08,N,consumer debt relief firm; not B2B SaaS; re-checked 2026-07-08
 ProfitWell,repvue,94.80,2026-07-15,N,No live ATS posting found; ProfitWell (acquired by Paddle 2022) has no separate careers board and SmartRecruiters slug returned 0 postings —
 Landytech,repvue,94.79,2026-07-15,N,"No US-remote AE opening; Workable board shows only London-based Sales Executive/Senior Sales Executive (stale, Sep 2024 & Feb 2025) plus Ind"
 Temporal Technologies,repvue,94.71,2026-07-04,N,posting dead; remaining US AE roles are senior-only (Strategic Senior AE)
-ROLLER Software,repvue,94.67,2026-07-15,N,"Greenhouse board (slug ""roller"", not ""roller-software"") shows AE openings but Mid-Market AE-AMER and Enterprise AE-AMER both require hybrid/"
+ROLLER Software,repvue,94.67,2026-07-15,N,"ROLLER's actual ATS is Greenhouse (job-boards.greenhouse.io/roller), not Ashby - the given ""roller-software"" Ashby slug doesn't apply. All 3 live AMER"
 QA Wolf,repvue,94.63,2026-07-02,Y,top-260 RepVue scan: open AE role
-MutinyHQ,repvue,94.63,2026-07-15,N,"Only AE opening is in-person NYC 5 days/week (not remote-US); other roles are SDR-adjacent GTM/Sales Manager/exec, not fitting IC-AE remote "
+MutinyHQ,repvue,94.63,2026-07-15,N,"Live IC AE posting confirmed (feed-omitted, found via direct Ashby URL + BuiltIn NYC), but explicitly ""fully in-person role based out of our NYC offic"
 NuVasive,repvue,94.58,2026-07-08,N,medical device company; not B2B SaaS; re-checked 2026-07-08
 SafeSend,repvue,94.56,2026-07-15,N,No qualifying opening: SafeSend has no presence on any ATS JSON API (Greenhouse/Ashby/Lever/SmartRecruiters/Workable/Recruitee slug variants
 Freshpaint,repvue,94.55,2026-06-30,Y,top-260 RepVue scan: open AE role
@@ -226,7 +226,7 @@ Socket,repvue,94.54,2026-07-15,N,"Ashby board (job-board/socket) lists Commercia
 Adaptive Security,repvue,94.51,2026-07-08,Y,open qualifying role: Senior AE (Remote US) MM/Ent cybersecurity SaaS (social engineering simulation)
 HighByte,repvue,94.48,2026-07-15,N,No live IC-AE posting confirmed via ATS; SmartRecruiters board (api.smartrecruiters.com/v1/companies/HighByte/postings) returns totalFound:0
 IMPLAN,repvue,94.47,2026-07-15,N,"No IC ""Account Executive"" posting exists; ATS JSON checks (Greenhouse/Lever/Ashby/Workable/Recruitee slug ""implan"") all 404'd, SmartRecruite"
-Topline Pro,repvue,94.45,2026-07-15,N,"No AE opening: current Topline Pro Ashby board (jobs.ashbyhq.com/topline-pro) has only BDR, Onboarding Specialist, 2x Senior PM, Sales Enabl"
+Topline Pro,repvue,94.45,2026-07-15,N,Checked Ashby board + toplinepro.com/careers + BuiltIn/YC listings (bypassing posting-api limits): current sales-side openings are Business Developmen
 TitanX,repvue,94.42,2026-07-08,N,ATS unresolved; company identity unclear; re-checked 2026-07-08
 Guidewire Software,repvue,94.40,2026-07-08,N,ATS unresolved (Workday); insurance platform SaaS; re-checked 2026-07-08
 LPT Realty,repvue,94.38,2026-07-15,N,"No IC Account Executive posting; ATS boards (SmartRecruiters, Workable) both return zero openings, current listed roles are Agent Support Sp"
@@ -244,11 +244,11 @@ Acceldata,repvue,93.96,2026-07-08,Y,open qualifying role: Enterprise AE (US-remo
 Sales Talent Agency,repvue,93.96,2026-07-08,N,sales staffing agency; not B2B SaaS product; re-checked 2026-07-08
 Wiser Elite,repvue,93.94,2026-07-08,N,sales professional community; not a SaaS product company; re-checked 2026-07-08
 Cirium,repvue,93.91,2026-07-08,N,ATS unresolved (Workday/RELX); aviation analytics; re-checked 2026-07-08
-commonsku,repvue,93.91,2026-07-15,N,"No AE opening exists; live ATS board (Teamtailor, not Greenhouse/Ashby/Lever/etc.) shows only Brand Coordinator, Software Engineer II, Sr En"
+commonsku,repvue,93.91,2026-07-15,N,"No live AE posting exists; commonsku's actual ATS is Teamtailor (not Ashby) and its current board (checked directly) has only 5 openings, none sales-r"
 KLS Martin Group,repvue,93.86,2026-07-08,N,medical/surgical instruments; not B2B SaaS; re-checked 2026-07-08
-Raptor Maps,repvue,93.85,2026-07-15,N,"No AE opening found; ATS check inconclusive (Greenhouse/Ashby/Lever/Workable/Recruitee slug 404, SmartRecruiters returned 0 postings) and ca"
+Raptor Maps,repvue,93.85,2026-07-15,N,"No live IC AE posting found; multiple current sources (Himalayas, BuiltIn, YC jobs) all show zero open Raptor Maps postings as of check date. Only pri"
 MEDDICC,repvue,93.84,2026-07-15,N,"MEDDICC's actual ATS is Rippling (ats.rippling.com/meddicc), not Greenhouse/Ashby/Lever/SmartRecruiters/Workable/Recruitee. Checked the live"
-SpotHero,repvue,93.73,2026-07-15,N,Greenhouse board (boards-api.greenhouse.io/v1/boards/spothero) has no Account Executive posting; only a Boston-based Growth Manager/Account 
+SpotHero,repvue,93.73,2026-07-15,N,"Could not confirm a live IC AE posting: SpotHero's own /careers page (fetched fresh) lists 10 current openings, none titled ""Account Executive"" — only"
 AMAROK,repvue,93.70,2026-07-08,N,not B2B SaaS (physical perimeter security hardware)
 Salesfinity,repvue,93.69,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever; likely small startup)
 Karbon,repvue,93.66,2026-07-02,Y,top-260 RepVue scan: open AE role
@@ -263,14 +263,14 @@ Revenoid,repvue,93.49,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
 Vicarius,repvue,93.48,2026-07-08,N,ATS unresolved (JS-rendered careers page)
 Acumatica,repvue,93.48,2026-07-08,N,ATS unresolved (GH 503; no standard ATS match)
 SoFi,repvue,93.43,2026-07-08,N,ATS unresolved (primarily consumer; B2B Galileo not on standard boards)
-Skio,repvue,93.37,2026-07-08,N,no AE role open (Lever: only partner mgr/eng/design)
+Skio,repvue,93.37,2026-07-15,N,"An AE listing existed on YC/Work-at-a-Startup/Pallet, but both direct posting URLs (ycombinator.com/companies/skio/jobs/MlBTWta-account-executive and "
 Shopmonkey,repvue,93.36,2026-07-08,N,SMB hybrid SF only; not remote MM/Ent
-Zinc,repvue,93.32,2026-07-08,N,ATS unresolved (Zinc Work Pinpoint board; no AE role found)
+Zinc,repvue,93.32,2026-07-15,N,"No live Ashby posting exists at jobs.ashbyhq.com/zinc (posting-api 404, board page renders with zero listings). Zinc's actual careers site (zincwork.p"
 Gilead Sciences,repvue,93.31,2026-07-08,N,not B2B SaaS (pharma/biotech)
 Betts,repvue,93.28,2026-07-08,N,staffing/recruiting agency; not product B2B SaaS
 Orb,repvue,93.26,2026-07-09,N,AE roles now hybrid / not US-remote (all postings HQ-SF or NYC office)
 Virtru,repvue,93.25,2026-07-08,N,government/public sector AEs only; security clearance required
-Strider Technologies,repvue,93.24,2026-07-08,N,no AE role open (GH: only engineering/intelligence roles)
+Strider Technologies,repvue,93.24,2026-07-15,N,"Live AE postings exist (Commercial/Enterprise AE in South Jordan UT explicitly ""No home office possible""/In-Office; Public Sector AE in Tysons Corner "
 Censys,repvue,93.23,2026-07-08,N,AE Japan only; no US role
 InsideSales,repvue,93.21,2026-07-08,N,acquired by Aurea Software 2021; no longer independent
 eMoney Advisor,repvue,93.16,2026-07-08,N,senior-only (10+ years required)
@@ -278,7 +278,7 @@ Tremendous,repvue,93.16,2026-07-02,Y,top-260 RepVue scan: open AE role
 Cycode,repvue,93.04,2026-07-08,N,acquired by Check Point Software 2024
 Pipedrive,repvue,93.04,2026-07-08,N,no US roles (only EU office locations on Lever)
 Brellium,repvue,92.99,2026-07-08,N,hybrid NYC only; not fully remote
-Roofr,repvue,92.97,2026-07-08,N,no qualifying AE role (bilingual SDR roles only)
+Roofr,repvue,92.97,2026-07-15,N,"Roofr actually uses Greenhouse, not Ashby (jobs.ashbyhq.com/roofr shows an empty board); Greenhouse board (job-boards.greenhouse.io/roofr) and roofr.c"
 Victory Home Remodeling,repvue,92.92,2026-07-08,N,not B2B SaaS (home remodeling contractor)
 Texas Instruments,repvue,92.92,2026-07-08,N,not B2B SaaS (semiconductor manufacturer)
 OpenAI,repvue,92.89,2026-07-08,N,"only ""Account Director"" roles (Director title; not IC AE per spec)"
@@ -286,12 +286,12 @@ Pento,repvue,92.88,2026-07-08,N,UK-focused payroll SaaS; no US AE role
 DX,repvue,92.87,2026-07-08,N,acquired by Atlassian; no longer standalone
 Rainforest QA,repvue,92.84,2026-07-08,N,ATS unresolved (not on GH; appears pivoted/acquired)
 National General,repvue,92.83,2026-07-08,N,not B2B SaaS (insurance carrier)
-Owner.com,repvue,92.82,2026-07-08,N,no AE role open (Ashby board: only eng/PM roles)
+Owner.com,repvue,92.82,2026-07-15,N,"Live IC AE posting exists (Outbound Account Executive, confirmed via direct Ashby URL, omitted from posting-api feed) but it's SMB segment with OTE ~$"
 Beck Technology,repvue,92.77,2026-07-08,N,ATS unresolved (not on standard ATS boards)
 Hiver,repvue,92.73,2026-07-08,N,no open positions (Pinpoint board empty)
 Lightyear,repvue,92.73,2026-07-08,N,experience bar too low (2+ years required; below ~4+ yr min)
 LTK,repvue,92.73,2026-07-08,Y,AE Scale New Business Sales; US-remote; MM to Ent brands
-Luzmo,repvue,92.71,2026-07-08,N,no AE role open (Recruitee board checked)
+Luzmo,repvue,92.71,2026-07-15,N,"Live AE posting found (Account Executive - NY) but it requires 3 days/week in Brooklyn office (hybrid, not remote) and only 2-4 yrs closing exp — fail"
 Rocketlane,repvue,92.69,2026-07-08,N,senior-only (6-14 years required)
 Cambridge Spark,repvue,92.69,2026-07-08,N,UK-focused education company; not US B2B SaaS
 Roboflow,repvue,92.66,2026-07-08,N,hybrid NYC only; not remote
@@ -302,12 +302,12 @@ Arch,repvue,92.54,2026-07-08,N,in-person SF only (Founding AE; not remote)
 Qwiet AI,repvue,92.52,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
 SafeBase,repvue,92.50,2026-07-08,N,no open AE role (GH posting 4446158005 dead)
 simpleclub,repvue,92.48,2026-07-08,N,not US B2B SaaS (German consumer edtech)
-Mosaic.tech,repvue,92.42,2026-07-08,N,no AE role open (Ashby: GTM Associates and EMEA Head only)
+Mosaic.tech,repvue,92.42,2026-07-15,N,"No live IC ""Account Executive"" posting exists. Ashby board (jobs.ashbyhq.com/mosaic — correct slug for the FP&A company ""Mosaic.tech"", not ""mosaictech"
 Byte,repvue,92.39,2026-07-08,N,ATS unresolved (Greenhouse/Ashby/Lever all 404)
 Edgescan,repvue,92.34,2026-07-08,N,ATS unresolved (Ashby/Lever all 404)
 Platform9,repvue,92.30,2026-07-08,N,ATS unresolved (Greenhouse/Lever/Ashby all 404)
-Skedda,repvue,92.30,2026-07-08,N,no qualifying AE (Greenhouse: Demand Gen Mgr + Dir RevOps only)
-PatientPoint,repvue,92.28,2026-07-08,N,no qualifying AE (Greenhouse: Director and city-specific roles only)
+Skedda,repvue,92.30,2026-07-15,N,No live AE posting: Skedda's ATS is actually Greenhouse (not Ashby - jobs.ashbyhq.com/skedda is empty); current Greenhouse board has only BDR/RevOps/D
+PatientPoint,repvue,92.28,2026-07-15,N,"No live qualifying IC-AE posting found: jobs.ashbyhq.com/PatientPoint board shows no postings (PatientPoint's actual ATS is careers.patientpoint.com, "
 OnLogic,repvue,92.27,2026-07-08,N,"hardware/industrial computers, not B2B SaaS"
 Jobscan,repvue,92.25,2026-07-08,N,ATS unresolved (Greenhouse 404)
 Stellar Health,repvue,92.24,2026-07-08,N,ATS unresolved (Ashby 404)
@@ -318,19 +318,19 @@ Contra,repvue,92.12,2026-07-08,N,"no qualifying remote AE (Ashby: Account Manage
 UserVoice,repvue,92.11,2026-07-08,N,ATS unresolved (Ashby/Greenhouse all 404)
 Chorus,repvue,92.11,2026-07-08,N,acquired by ZoomInfo 2021; no standalone board
 Growthspace,repvue,92.08,2026-07-08,N,ATS unresolved (Ashby/Greenhouse all 404)
-Coder,repvue,92.02,2026-07-15,N,"No AE posting exists; live Ashby board (coder) shows only Technical Enablement Manager, Forward Deployed Engineering Manager, and engineerin"
+Coder,repvue,92.02,2026-07-15,N,"Live IC full-cycle sales role titled ""Enterprise Account Manager"" (prospects, demos, closes deals for large eng orgs) — functions as an IC AE but is m"
 Metaview,repvue,92.02,2026-07-08,N,no qualifying remote AE (Ashby: all AE roles hybrid in-office 3+ days)
 Advisory Board,repvue,92.01,2026-07-08,N,"advisory/research firm, not B2B SaaS"
 InsideView (owned by Demandbase),repvue,91.99,2026-07-08,N,merged into Demandbase 2021
-Pie Insurance,repvue,91.97,2026-07-08,N,no qualifying AE (Greenhouse: claims/finance roles only)
-Omnisend,repvue,91.94,2026-07-08,N,"no qualifying AE (Lever: no US AE roles, Partner Dev Mgr only)"
+Pie Insurance,repvue,91.97,2026-07-15,N,No live AE posting found anywhere: Ashby board (jobs.ashbyhq.com/pieinsurance) resolves but is empty/no listings; Pie Insurance actually runs its ATS 
+Omnisend,repvue,91.94,2026-07-15,N,No live IC AE posting found: Omnisend isn't on Ashby at all (jobs.ashbyhq.com/omnisend returns empty; no Omnisend AE postings appear anywhere on jobs.
 Myriad360,repvue,91.94,2026-07-08,N,"IT solutions reseller, not SaaS"
-Vitally.io,repvue,91.86,2026-07-08,N,no qualifying AE (Ashby: Lead Product Designer only)
+Vitally.io,repvue,91.86,2026-07-15,N,"Live ""Account Executive / SMB"" posting confirmed on vitally.io/careers (Remote, US & Canada), requires 4+ yrs quota-carrying closing exp selling into "
 WhatConverts,repvue,91.84,2026-07-08,N,AE role visible on careers (fully remote B2B SaaS AE) but Gem board JS-only; URL uncapturable per spec
 Xnurta,repvue,91.75,2026-07-08,N,AE role in Bellevue WA only (not remote)
 Check Point SASE,repvue,91.74,2026-07-08,N,ATS unresolved
 Casetext,repvue,91.69,2026-07-08,N,acquired by Thomson Reuters 2023
-Boostlingo,repvue,91.69,2026-07-08,N,no qualifying AE (Greenhouse: Language Access Account Manager and Product Owner only)
+Boostlingo,repvue,91.69,2026-07-15,N,Boostlingo does not even use Ashby (uses Greenhouse: job-boards.greenhouse.io/boostlingo); current live board shows only Accounts Receivable Manager/S
 Lightico,repvue,91.68,2026-07-08,N,ATS unresolved (Ashby 404)
 Braintrust.dev,repvue,91.68,2026-06-30,Y,top-260 RepVue scan: open AE role
 Skydio,repvue,91.66,2026-07-08,N,"drone hardware, not B2B SaaS"
@@ -346,15 +346,15 @@ Phillips 66,repvue,91.52,2026-07-08,N,"oil and gas company, not B2B SaaS"
 Big Think Capital,repvue,91.51,2026-07-08,N,"business lending, not B2B SaaS"
 EliseAI,repvue,91.45,2026-07-08,N,"no qualifying remote AE (Ashby: SDR and RevOps only, all on-site)"
 Owl Labs,repvue,91.43,2026-07-08,N,no open positions (Greenhouse owllabs3rd: zero active listings)
-Feathr,repvue,91.41,2026-07-08,N,no qualifying AE (Ashby: engineering roles only)
+Feathr,repvue,91.41,2026-07-15,N,No live IC Account Executive posting found; Ashby board (jobs.ashbyhq.com/feathr) and Google-indexed crawl of it show only Team Manager of Customer Su
 Go Sales,repvue,91.41,2026-07-08,N,ATS unresolved
 Kiavi,repvue,91.40,2026-07-08,N,"no qualifying AE (Broker AE at ~$88K OTE, not B2B SaaS AE)"
 Convoy,repvue,91.37,2026-07-08,N,freight marketplace shut down October 2023; defunct
 Capitol Canary,repvue,91.36,2026-07-08,N,acquired by Quorum
-Oscilar,repvue,91.34,2026-07-07,N,posting dead (Ashby ID 3746e53b gone; no AE on board 2026-07-07)
+Oscilar,repvue,91.34,2026-07-15,N,"Live IC Enterprise AE role(s) exist on Oscilar's Ashby board, US-remote, remote-first culture, 6 yrs closing exp, IC not manager. Confirmed via multip"
 Savvas,repvue,91.34,2026-07-08,N,ATS unresolved; education content publisher
 Squeeze Media,repvue,91.31,2026-07-08,N,ATS unresolved
-Wrapbook,repvue,91.31,2026-07-08,N,"no qualifying AE (Ashby: no AE roles, BDR/CSM/Support only)"
+Wrapbook,repvue,91.31,2026-07-15,N,"No live standalone IC-AE posting confirmed at a direct URL; only VP of Sales (mgmt, disqualifies) and BDR (junior, disqualifies) found live on Ashby. "
 Booster Enterprises,repvue,91.30,2026-07-08,N,"fuel delivery service, not B2B SaaS"
 Orama Solutions,repvue,91.30,2026-07-08,N,ATS unresolved (Ashby 404)
 Saepio Information Security,repvue,91.29,2026-07-09,N,re-check: ATS unresolved
@@ -363,21 +363,21 @@ Field Materials,repvue,91.26,2026-07-09,N,re-check: ATS unresolved (not B2B SaaS
 Rebuy Engine,repvue,91.24,2026-07-09,N,re-check: ATS unresolved
 BrandBastion,repvue,91.18,2026-07-09,N,re-check: ATS unresolved
 Trucker Tools,repvue,91.18,2026-07-09,N,re-check: ATS unresolved
-Scribe,repvue,91.16,2026-07-15,N,dropped 2026-07-15: posting 369a6e96 dead; no AE postings remain on Scribe Ashby board
-Descope,repvue,91.16,2026-07-09,N,"re-check: Greenhouse board found, no AE roles (eng/CS only)"
+Scribe,repvue,91.16,2026-07-15,N,"Live IC ""Account Executive, Mid Market"" posting confirmed indexed at direct Ashby UUID URL (closes inbound new-business deals, MM segment) — this and "
+Descope,repvue,91.16,2026-07-15,N,"No live AE posting found anywhere: Descope isn't actually on Ashby (jobs.ashbyhq.com/descope and its posting-api both 404); real ATS is Breezy HR, and"
 Jellyfish Co,repvue,91.15,2026-06-30,Y,top-260 RepVue scan: open AE role
 Prompt Health,repvue,91.12,2026-07-09,N,re-check: ATS unresolved
 Access Systems,repvue,91.12,2026-07-09,N,re-check: ATS unresolved
 Packsize,repvue,91.12,2026-07-09,N,re-check: not B2B SaaS (packaging hardware)
 Influ2,repvue,91.11,2026-07-10,N,posting dead (Lever ID 404); no qualifying US replacement on board
 Dow,repvue,91.09,2026-07-09,N,re-check: not B2B SaaS (chemical company)
-Sitemate,repvue,91.07,2026-07-09,N,"re-check: Ashby board found, no US-remote AE (London/Sydney AM only)"
+Sitemate,repvue,91.07,2026-07-15,N,"Live Ashby postings for Sitemate are Account Manager, SMB (London), Commercial Account Manager (Sydney), Graduate/Entry GTM role, and SDR (Austin, TX)"
 Giatec,repvue,91.05,2026-07-09,N,re-check: ATS unresolved
-Armory,repvue,91.04,2026-07-09,N,"re-check: Ashby board found, no AE roles (NYC in-office tech only)"
+Armory,repvue,91.04,2026-07-15,N,No AE/sales IC posting found via search or direct Ashby board fetch. Armory's Ashby board (jobs.ashbyhq.com/Armory) currently lists only Full-Stack Ge
 Alkira,repvue,91.03,2026-07-09,N,re-check: ATS unresolved
 Cognition,repvue,90.99,2026-07-09,N,"re-check: Ashby board found, only Account Director titles (not IC AE)"
 BUCHI Laboratory Equipment,repvue,90.97,2026-07-09,N,re-check: not B2B SaaS (lab equipment)
-Swiftly,repvue,90.97,2026-07-09,N,"re-check: Lever board found (transit platform), no AE roles"
+Swiftly,repvue,90.97,2026-07-15,N,No Ashby board exists for 'Swiftly' at all — jobs.ashbyhq.com/swiftly loads as an empty board (no listings) and site:jobs.ashbyhq.com searches return 
 "Applied Medical Technology, Inc. (AMT)",repvue,90.96,2026-07-09,N,re-check: not B2B SaaS (medical devices)
 Savant Labs,repvue,90.96,2026-07-09,N,re-check: ATS unresolved
 M-Files,repvue,90.95,2026-07-09,N,re-check: ATS unresolved
@@ -389,9 +389,9 @@ Ideals,repvue,90.85,2026-07-09,N,"re-check: Lever board 404, Ashby AEs geo-speci
 Inky,repvue,90.80,2026-07-09,N,re-check: ATS unresolved
 Cisco Meraki,repvue,90.79,2026-07-09,N,re-check: not standalone (Cisco division)
 RudderStack,repvue,90.78,2026-07-09,N,re-check: ATS unresolved
-Tailscale,repvue,90.74,2026-07-09,N,"re-check: Greenhouse board found, only hybrid-Denver Customer AE (OTE $100-125K)"
+Tailscale,repvue,90.74,2026-07-15,N,"All live Tailscale AE postings (Mid-Market AE, New Business AE, Customer AE) are Hybrid Denver CO or Vancouver BC with explicit \""2-3 days per week\"" "
 Consensus,repvue,90.71,2026-07-09,N,"re-check: Lever board 404, likely moved ATS"
-RevenueCat,repvue,90.69,2026-07-09,N,"re-check: Ashby board found, MM AE no longer listed"
+RevenueCat,repvue,90.69,2026-07-15,Y,"BLIND-SPOT: Confirmed live IC Mid-Market AE posting (direct Ashby URL resolves to specific job, corroborated by third-party mirror with full JD text) "
 Reddit,repvue,90.68,2026-07-09,N,re-check: not B2B SaaS (consumer social)
 Proliant,repvue,90.66,2026-07-09,N,re-check: ATS unresolved
 Cyberhaven,repvue,90.66,2026-07-09,N,"re-check: Ashby board found, Enterprise AE 8+ yrs required (senior-only)"
@@ -404,10 +404,10 @@ Loop Returns,repvue,90.61,2026-07-09,Y,Enterprise AE US-remote; OTE ~$241K; Leve
 ZenQMS,repvue,90.59,2026-07-09,N,re-check: ATS unresolved
 Brainshark,repvue,90.57,2026-07-09,N,re-check: acquired by Bigtincan 2021 (defunct standalone)
 Ketch,repvue,90.57,2026-07-09,Y,Enterprise AE Remote-USA; OTE $300-350K; Lever board
-Pulley,repvue,90.56,2026-07-09,N,"re-check: Greenhouse/Ashby boards found, no AE roles"
+Pulley,repvue,90.56,2026-07-15,N,No live AE posting found: pulley.com/careers routes to Greenhouse board (job-boards.greenhouse.io/pulley) which explicitly states 'There are no curren
 Verusen,repvue,90.51,2026-07-09,N,"re-check: Greenhouse board found, only Associate AE (not IC AE)"
 Cycle Labs,repvue,90.50,2026-07-09,N,re-check: ATS unresolved
-AirGarage,repvue,90.46,2026-07-02,N,dropped 2026-07-02: no sales roles at all
+AirGarage,repvue,90.46,2026-07-15,N,"AE posting (jobs.ashbyhq.com/airgarage/93514b7f-...) now returns ""job not found""; live Ashby board currently shows only Senior Legal Counsel, City Ops"
 Tive Inc,repvue,90.44,2026-06-30,Y,top500 RepVue scan: open AE role
 Azuga Inc,repvue,90.43,2026-07-09,N,re-check: acquired by Bridgestone 2021 (defunct standalone)
 Cyera,repvue,90.39,2026-07-09,N,"re-check: Comeet board found, Enterprise AE posting closed"
@@ -417,26 +417,26 @@ Sprig,repvue,90.37,2026-07-15,N,"Only sales opening is Enterprise AE, but requir
 Endpoint Protector,repvue,90.35,2026-07-09,N,ATS unresolved (checked 2026-07-09)
 Flash,repvue,90.33,2026-07-09,N,ATS unresolved (checked 2026-07-09)
 Leadium,repvue,90.33,2026-07-09,N,not B2B SaaS (lead gen outsourcing/BPO)
-Steno,repvue,90.31,2026-07-09,N,ATS unresolved (checked 2026-07-09; no AE found on Lever or Ashby)
+Steno,repvue,90.31,2026-07-15,N,"Live IC AE reqs exist (Dallas/Houston/Naperville/NY/Atlanta/Edison, etc.) but Steno's actual ATS is Rippling, not Ashby (jobs.ashbyhq.com/steno resolv"
 Fairway Independent Mortgage Corp,repvue,90.31,2026-07-09,N,not B2B SaaS (mortgage lender)
 Verinext,repvue,90.31,2026-07-09,N,not B2B SaaS (IT reseller/solutions provider)
 Returnly,repvue,90.30,2026-07-09,N,acquired by Affirm 2021; no longer standalone
 FireHydrant,repvue,90.30,2026-07-09,N,no open roles (checked 2026-07-09; Rippling ATS shows no positions)
 TestMu AI,repvue,90.23,2026-07-09,N,ATS unresolved (checked 2026-07-09)
-Dscout,repvue,90.21,2026-07-09,N,no AE role (checked 2026-07-09; Greenhouse shows only CS Lead)
+Dscout,repvue,90.21,2026-07-15,N,"No live IC AE posting found anywhere; Dscout's actual ATS is Greenhouse (job-boards.greenhouse.io/dscout, not Ashby), current board shows only CS Dire"
 Hoxhunt,repvue,90.20,2026-07-09,N,MM AE is hybrid Minneapolis; not US-remote (checked 2026-07-09)
 quantilope,repvue,90.18,2026-07-09,N,ATS unresolved (checked 2026-07-09)
 HCSS,repvue,90.14,2026-07-09,N,ATS unresolved (checked 2026-07-09)
 LinearB,repvue,90.14,2026-07-09,N,Ent AE roles city-specific (Boston/NYC); not US-remote (checked 2026-07-09)
 Veterans United Home Loans,repvue,90.13,2026-07-09,N,not B2B SaaS (mortgage lender)
-Warmly,repvue,90.12,2026-07-09,N,ATS unresolved (checked 2026-07-09; no AE on standard boards)
+Warmly,repvue,90.12,2026-07-15,N,No live AE posting found via targeted search or direct board/careers fetch; only prior listing found (Maven board) is explicitly closed/expired (poste
 Garner Health,repvue,90.11,2026-07-02,Y,top500 RepVue scan: open AE role
 Toro TMS,repvue,90.10,2026-07-09,N,ATS unresolved (checked 2026-07-09)
 Basware,repvue,90.08,2026-07-09,N,ATS unresolved (checked 2026-07-09; Greenhouse 404)
-Jasper,repvue,90.00,2026-07-09,N,no AE role (checked 2026-07-09; only Director/VP on Ashby board)
+Jasper,repvue,90.00,2026-07-15,N,"Mid-Market Account Executive (IC), fully remote continental US, $200K OTE, 3-5 yrs B2B SaaS sales — confirmed via search-engine cache of the direct As"
 Google,repvue,89.94,2026-07-09,N,not B2B SaaS (tech conglomerate)
 Anduin Transactions,repvue,89.93,2026-07-09,N,ATS unresolved (checked 2026-07-09; Ashby 404)
-Mews,repvue,89.93,2026-07-09,N,Greenhouse posting dead 2026-07-09 (redirected to board); no qualifying AE
+Mews,repvue,89.93,2026-07-15,N,"Live IC 'Mid-Market Senior Account Executive' role, US-remote (remote-first, work-from-anywhere, no in-office cadence stated), 5+ yrs B2B SaaS, MM seg"
 General Assembly,repvue,89.92,2026-07-09,N,not B2B SaaS (tech education/bootcamps)
 Unum Group,repvue,89.91,2026-07-09,N,not B2B SaaS (group insurance carrier)
 Xe.com,repvue,89.89,2026-07-09,N,not B2B SaaS (consumer currency exchange)
@@ -456,24 +456,24 @@ Hach,repvue,89.72,2026-07-09,N,not B2B SaaS (water quality lab instruments)
 Procter & Gamble,repvue,89.69,2026-07-09,N,not B2B SaaS (consumer packaged goods)
 Bennie,repvue,89.65,2026-07-09,N,ATS unresolved (checked 2026-07-09)
 OnRamp,repvue,89.58,2026-07-09,N,ATS unresolved (checked 2026-07-09)
-Buyers Edge Platform,repvue,89.57,2026-07-09,N,no AE role (checked 2026-07-09; only BDR/manager roles on Greenhouse)
-Torq,repvue,89.57,2026-07-09,N,no AE title (checked 2026-07-09; only Regional Sales Manager roles on Greenhouse)
+Buyers Edge Platform,repvue,89.57,2026-07-15,N,"No live AE posting: co uses Greenhouse (not Ashby, board slug given was stale/wrong), current job board (job-boards.greenhouse.io/buyersedgeplatformre"
+Torq,repvue,89.57,2026-07-15,N,"No live posting titled ""Account Executive"" exists; Torq's Greenhouse board (job-boards.greenhouse.io/torq) lists only Regional Sales Manager and Major"
 Horizon3.ai,repvue,89.56,2026-07-02,Y,top500 RepVue scan: open AE role
 OneSignal,repvue,89.56,2026-07-09,N,ATS unresolved (checked 2026-07-09; Greenhouse board slug unknown; MM AE evidence but can't verify via API)
 Reply.io,repvue,89.55,2026-07-09,N,ATS unresolved (checked 2026-07-09; not on standard ATS boards)
 NEC Corporation of America,repvue,89.53,2026-07-09,N,not B2B SaaS (IT hardware/services/integrator)
-Mudflap,repvue,89.53,2026-07-09,N,no AE role (checked 2026-07-09; no AE on Ashby board)
+Mudflap,repvue,89.53,2026-07-15,Y,"BLIND-SPOT: Confirmed live IC ""Account Executive - Fuel Card"" posting (US remote, $155K-$200K OTE, enterprise/commercial segment, 3+ yrs closing exp i"
 NeuraFlash,repvue,89.52,2026-07-02,Y,top500 RepVue scan: open AE role
 Intercontinental Exchange (ICE),repvue,89.51,2026-07-09,N,not B2B SaaS (financial exchange infrastructure)
 Enjoy Technology Inc,repvue,89.50,2026-07-09,N,bankrupt/defunct 2022
-Postscript.io,repvue,89.49,2026-07-09,N,re-check 2026-07-09: GH board exists; no AE roles open
+Postscript.io,repvue,89.49,2026-07-15,N,"No live AE posting: live ATS is Greenhouse (not the Ashby slug given), current 5-role board has zero AE listings (only BDR/CSM/eng); the two AE-titled"
 Axos Bank,repvue,89.49,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (commercial banking)
 Medius,repvue,89.48,2026-07-04,N,posting HTTP-dead
 Sprinto,repvue,89.48,2026-07-02,Y,top500 RepVue scan: open AE role
 AMD,repvue,89.47,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (semiconductor hardware)
 Prisma SD-WAN,repvue,89.47,2026-07-09,N,re-check 2026-07-09: not standalone company (PANW business unit)
 CobbleStone Software,repvue,89.46,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
-Stedi,repvue,89.46,2026-07-09,N,re-check 2026-07-09: Ashby board exists; no AE roles open
+Stedi,repvue,89.46,2026-07-15,Y,"BLIND-SPOT: Confirmed live IC ""Account Executive"" posting at Stedi (distinct from the enterprise-only ""Strategic Account Executive,"" which was pulled "
 CompStak,repvue,89.44,2026-07-09,N,re-check 2026-07-09: Lever board; AE roles are hybrid NYC (3-4 days in office)
 Air Liquide,repvue,89.43,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (industrial gas company)
 Alliant Insurance Services,repvue,89.43,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (insurance brokerage)
@@ -486,7 +486,7 @@ Spok,repvue,89.37,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard 
 Insurity,repvue,89.34,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
 ClockShark,repvue,89.34,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
 TripleTen,repvue,89.33,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (B2C coding bootcamp)
-CertifID,repvue,89.32,2026-07-09,N,re-check 2026-07-09: Ashby board exists; no AE roles open
+CertifID,repvue,89.32,2026-07-15,N,"No live AE posting confirmed anywhere: CertifID's actual careers site runs on Lever (jobs.lever.co/certifid), not Ashby, and currently lists only Engi"
 Playground,repvue,89.31,2026-07-09,N,re-check 2026-07-09: Ashby board; AE roles are fully in-office (NYC/Denver)
 Goldman Sachs Group,repvue,89.31,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (investment banking/financial services)
 Kings III Emergency Communications,repvue,89.30,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
@@ -495,9 +495,9 @@ LifeLoop,repvue,89.25,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no stand
 "Vizient, Inc",repvue,89.25,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
 Parker Hannifin,repvue,89.25,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (industrial manufacturing)
 Promoboxx,repvue,89.24,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
-Aftership,repvue,89.24,2026-07-09,N,re-check 2026-07-09: GH board exists; no AE roles open
-RevolutionParts,repvue,89.24,2026-07-09,N,re-check 2026-07-09: Lever board exists; no AE roles (has CX Advocate only)
-Persefoni,repvue,89.24,2026-07-09,N,re-check 2026-07-09: GH board (persefoniaiinc); no AE roles open
+Aftership,repvue,89.24,2026-07-15,N,No live AE posting exists anywhere: AfterShip actually runs on Greenhouse (not Ashby); direct fetch of the live Greenhouse board shows 21 open roles w
+RevolutionParts,repvue,89.24,2026-07-15,N,"No live IC Account Executive posting found on any channel. RevolutionParts actually uses Lever (jobs.lever.co/RevolutionParts) for its ATS, not Ashby "
+Persefoni,repvue,89.24,2026-07-15,N,"Persefoni's actual ATS is Greenhouse (job-boards.greenhouse.io/persefoniaiinc), not Ashby; live board fetched directly shows 6 open roles (CS/eng/QA/g"
 Brivity,repvue,89.23,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
 FICO,repvue,89.23,2026-07-09,N,re-check 2026-07-09: ATS unresolved (large public company; no standard board found)
 Sedna,repvue,89.23,2026-07-09,N,re-check 2026-07-09: Ashby board exists; has Key Account Manager but no AE title
