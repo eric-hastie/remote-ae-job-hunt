@@ -3078,3 +3078,35 @@ CallRail,repvue,,2026-07-15,N,Greenhouse board: no IC AE role; only Partner AE +
 Bay Alarm,repvue,,2026-07-15,N,Not B2B SaaS - physical security alarm services company
 FreeWill,repvue,,2026-07-15,N,Greenhouse (freewill): AE roles are SMB/Grassroots segment at $135K OTE - below bar; nonprofit vertical
 Gremlin,repvue,,2026-07-15,N,Greenhouse board: no AE role currently (was ID 8160793002 but not in board; only DS/SA/Eng open)
+ApartmentIQ,ats-search,,2026-07-15,N,"IC AE (Ent) but posting dated 2025-09-12 (stale), no OTE; held"
+Everfield,ats-search,,2026-07-15,N,"Confirmed Ashby board (everfield); the AE-EdTech SaaS posting is real but located Spain-Madrid/Hybrid, not US-remote; no"
+EQL Tech,ats-search,,2026-07-15,N,"""EQL Tech"" is actually a sales/GTM recruiting agency posting jobs for many unrelated clients on one shared Workable boar"
+Ultimate Knowledge Institute (UKi),ats-search,,2026-07-15,N,"SLED cybersecurity-training, lower-priority per ICP; held"
+VoicedIQ,ats-search,,2026-07-15,N,"Only one live Workable posting exists (shortcode 40B8C51A4D) and it's titled generically ""Remote Job Positions,"" not Acc"
+GovPilot,ats-search,,2026-07-15,N,Rippling slug 'sdl' does not match GovPilot - identity unconfirmed; held
+GovOS,ats-search,,2026-07-15,N,"Confirmed real ATS is Greenhouse (job-boards.greenhouse.io/govos, slug ""govos""), but WebFetch was blocked/404'd on both "
+BRINC,ats-search,,2026-07-15,N,"Confirmed BRINC's Ashby board (jobs.ashbyhq.com/brinc) is live and correct company, but no Account Executive posting of "
+Zensurance,ats-search,,2026-07-15,N,Lever board (jobs.lever.co/zensurance) confirmed but has no Account Executive postings—only Broker/Claims Advisor/New Bu
+Counterpart,ats-search,,2026-07-15,N,"Only open ""Account Executive"" req is an insurance-underwriting AE (quotes/processes management & professional liability "
+Embroker,ats-search,,2026-07-15,N,"No live posting: Embroker's Greenhouse board (job-boards.greenhouse.io/embroker, confirmed real board) shows 0 open jobs"
+Stand Insurance,ats-search,,2026-07-15,N,Ashby board (jobs.ashbyhq.com/standinsurance) confirmed and live but contains no Account Executive / sales posting at al
+Smart InsurTech AG,ats-search,,2026-07-15,N,"Role and remote scope are Germany-based (100% remote within Germany, home-base office in Berlin/Hamburg/Lübeck/Munich/et"
+Talage,ats-search,,2026-07-15,N,"No IC Account Executive posting found; Talage careers page (custom form, no ATS board found under talage slug) shows onl"
+Teikametrics,ats-search,,2026-07-15,N,Senior AE but posting dated 2025-03-14 (16mo stale); held
+Firework,ats-search,,2026-07-15,N,"Only two AE postings on Lever: one is Remote-based-in-Mexico (not US) targeting early-career/SDR-to-AE (<4yrs, entirely "
+PerimeterX,ats-search,,2026-07-15,N,"PerimeterX merged into HUMAN Security (2022); perimeterx.com/careers redirects to humansecurity.com and Lever API slug """
+Jungle Scout,ats-search,,2026-07-15,N,"Greenhouse board (junglescout) confirmed live but has no Account Executive posting — only Accounts Payable Specialist, D"
+Nash,ats-search,,2026-07-15,N,"Ashby board (api.ashbyhq.com/posting-api/job-board/Nash) currently lists only 6 jobs (Product Marketing Lead, Forward De"
+Pipe17,ats-search,,2026-07-15,Y,"Live Greenhouse posting ""Enterprise Account Executive - Ecommerce"", IC role, Remote (no office-cadence language), sells "
+FreedomPay,ats-search,,2026-07-15,N,Lever board (jobs.lever.co/freedompay) confirmed via API has no AE posting; the hinted Mid Market AE/Strategic AE-Food S
+Canary Technologies,ats-search,,2026-07-15,N,Lever board (canarytechnologies) confirmed but has no live US-remote AE posting; only AE role is Benelux/EMEA (Dutch-spe
+ChowNow,ats-search,,2026-07-15,N,"Lever board (chownow) has no live IC Account Executive posting; the hinted Territory AE job ID is expired/gone, and curr"
+Xpansiv,ats-search,,2026-07-15,N,"Lead posting (Senior Associate, Sales / BD-AE, id 3b75dddf-...) no longer appears in live Lever board api.lever.co/v0/po"
+PowerFlex,ats-search,,2026-07-15,N,"Lead posting returns HTTP 410 Gone (dead); cached listing shows pay $115K-$192K, below $150-340K OTE bar"
+Patch,ats-search,,2026-07-15,N,"Only two AE postings on Patch's Ashby board (patch.io), both pure Enterprise Account Executive roles requiring 5-10+ yrs"
+EnergyHub,ats-search,,2026-07-15,N,"Greenhouse board (energyhub) confirmed via JSON API but has no Account Executive posting at all (only Commercial Lead, P"
+ClimateAI,ats-search,,2026-07-15,N,Greenhouse board (climateai) confirmed live but only lists a Senior MLOps Engineer role; the referenced Enterprise AE po
+Parsec Automation,ats-search,,2026-07-15,Y,"IC Enterprise AE, remote-South-US w/ 40-50% regional travel (no fixed office-day cadence), OTE $240-300K, B2B SaaS (Trak"
+InfinitForm,ats-search,,2026-07-15,N,"Ashby posting confirms real match (aerospace/mfg AI design software, $12.7M seed May 2025) but Account Executive role is"
+Maneva,ats-search,,2026-07-15,N,"Only AE posting is ""Strategic Enterprise Account Executive"" requiring 10+ yrs enterprise sales / 5+ yrs strategic accoun"
+LinkSquares,ats-search,,2026-07-15,N,"Live Greenhouse posting (ID 4681639005, not the 4681642005 in the lead hint which 404s) is a Mid-Market AE role but list"
