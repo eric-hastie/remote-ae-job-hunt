@@ -1,13 +1,13 @@
 Company,Source,RepVue Score,Last Checked,Currently Open,Notes
 8am (f/k/a AffiniPay),claude,,2026-07-02,N,dropped 2026-07-02: only Associate AE (BDR-level) on board
-Abnormal Security,claude,,2026-07-02,Y,has open qualifying role
+Abnormal Security,claude,,2026-07-15,N,posting 7662284003 dead; current openings territory-specific Enterprise AE only
 Accrue,claude,,2026-06-30,Y,has open qualifying role
 Acquia,claude,,2026-07-12,Y,"Enterprise AE, US-remote (Greenhouse office: Remote-United States), job 7976489; base $120K-$135K + variable"
 Affinity.co,claude,,2026-07-12,N,Greenhouse board now empty; previously had MM and Strategic AE roles; no current qualifying role
 Apollo GraphQL,claude,76,2026-06-30,Y,has open qualifying role
 Apollo.io,claude,85,2026-07-02,Y,has open qualifying role
 Arcade,claude,,2026-07-12,N,"ATS unresolved; sales gamification SaaS, no AE found on major boards"
-Arctic Wolf,claude,,2026-06-30,Y,has open qualifying role
+Arctic Wolf,claude,,2026-07-15,N,board URL only (no specific posting); current AE all territory-specific Enterprise
 Arize AI,claude,87,2026-06-30,Y,has open qualifying role
 Articulate,claude,,2026-07-12,N,Lever board shows only Product Marketing Manager; no current AE role
 Ashby,claude,,2026-07-12,N,no listed AE role
@@ -3144,3 +3144,53 @@ Symmetric Health Solutions,wellfound-sectors,,2026-07-15,N,No dedicated ATS boar
 DotNotCom,wellfound-sectors,,2026-07-15,N,"Name collision: real DotNotCom Corp (dotnotcom.com) is a novelty/consumer-goods company (flavored water, etc.), not the "
 Matik,wellfound-sectors,,2026-07-15,N,"Matik's Greenhouse board (boards-api.greenhouse.io/v1/boards/matik/jobs) currently lists only one open role, Sr. Demand "
 ShelfCycle,wellfound-sectors,,2026-07-15,N,No ATS board found (Greenhouse/Ashby slug 404); Sovereign's Capital portco job board shows zero open roles at ShelfCycle
+Front,repvue,,2026-07-15,N,no US-remote AE; EMEA-only role on Ashby (Dublin)
+DaBella,repvue,,2026-07-15,N,not B2B SaaS (home remodeling contractor)
+Gembah,repvue,,2026-07-15,N,not B2B SaaS (product development services/marketplace)
+Cardinal Financial Company,repvue,,2026-07-15,N,not B2B SaaS (mortgage lender)
+Medline,repvue,,2026-07-15,N,not B2B SaaS (medical supply distributor)
+Aesculap,repvue,,2026-07-15,N,not B2B SaaS (surgical instruments/medical devices, B. Braun)
+Lilt,repvue,,2026-07-15,N,ATS unresolved (Ashby 404; Enterprise AE found via search requires T&L industry exp)
+White Cap Construction Supply,repvue,,2026-07-15,N,not B2B SaaS (construction supply distributor)
+Board International,repvue,,2026-07-15,N,ATS unresolved (not found on standard ATS boards; European EPM software)
+Ascent Cloud,repvue,,2026-07-15,N,not typical B2B SaaS (Google Workspace channel partner tools; very small)
+EvenUp,repvue,,2026-07-15,N,territory-specific AE only; not nationwide US-remote (require in-person 1-3 days/week)
+Virtuagym,repvue,,2026-07-15,N,no US AE (Dutch company, Junior AE only in Netherlands)
+Shippo,repvue,,2026-07-15,N,no AE role currently (only SAM and non-sales roles on Lever)
+Planhat,repvue,,2026-07-15,N,no US-remote AE (all on-site: Amsterdam, London, Toronto, Atlanta, Indianapolis)
+Ecolab,repvue,,2026-07-15,N,not B2B SaaS (industrial chemicals/water treatment services)
+Evaluate,repvue,,2026-07-15,N,ATS unresolved (procurement intelligence SaaS, not found on standard ATS boards)
+phData,repvue,,2026-07-15,N,not B2B SaaS (data engineering services/consulting firm)
+AIQ.com,repvue,,2026-07-15,N,ATS unresolved (cannabis retail analytics SaaS; not found on standard ATS boards)
+FRONTSTEPS,repvue,,2026-07-15,N,ATS unresolved (HOA management SaaS; not found on standard ATS boards)
+AngioDynamics,repvue,,2026-07-15,N,not B2B SaaS (medical devices, vascular access)
+Klara,repvue,,2026-07-15,N,no current openings (Greenhouse board empty)
+PowerDMS,repvue,,2026-07-15,N,ATS unresolved (policy/compliance management SaaS; not found on standard ATS)
+Criteo,repvue,,2026-07-15,N,not traditional B2B SaaS (adtech platform, primarily e-commerce targeting)
+Comcast,repvue,,2026-07-15,N,not B2B SaaS (telecom/cable provider)
+Contractbook,repvue,,2026-07-15,N,ATS unresolved (contract lifecycle management; primarily EU-focused, not found on US ATS)
+iMocha,repvue,,2026-07-15,N,no US AE (skills assessment platform, India-based; AE role in Pune only)
+Hone,repvue,,2026-07-15,Y,Account Executive, US-remote, leadership dev SaaS, Ent, 6 yrs required
+LASSO,repvue,,2026-07-15,N,ATS unresolved (event staffing management SaaS; not found on standard ATS boards)
+Samsung Electronics,repvue,,2026-07-15,N,not B2B SaaS (consumer electronics conglomerate)
+Crown Castle,repvue,,2026-07-15,N,not B2B SaaS (cell tower infrastructure REIT)
+Suse,repvue,,2026-07-15,N,ATS unresolved (enterprise Linux; not typical SaaS; not found on standard ATS)
+BSI,repvue,,2026-07-15,N,not B2B SaaS (standards testing/certification body)
+Vector Solutions,repvue,,2026-07-15,Y,Mid-Market AE, US-remote, eLearning/safety compliance SaaS, 5 yrs required
+LiveSwitch,repvue,,2026-07-15,N,ATS unresolved (video communication platform; not found on standard ATS boards)
+Shutterstock,repvue,,2026-07-15,N,not B2B SaaS (content licensing/stock media)
+Unily,repvue,,2026-07-15,N,ATS unresolved (employee experience platform; not found on standard ATS boards)
+D.R. Horton,repvue,,2026-07-15,N,not B2B SaaS (homebuilder)
+Gladly,repvue,,2026-07-15,N,no current AE openings (Greenhouse board empty/sagansystems)
+Crunchtime,repvue,,2026-07-15,Y,has open qualifying role (already in latest.csv as Crunchtime (Zenput))
+Relyance AI,repvue,,2026-07-15,N,territory-specific Enterprise AE (Atlanta, Salt Lake City); general role requires 8+ yrs senior-only
+Colt Technology Services,repvue,,2026-07-15,N,not B2B SaaS (network/cloud connectivity provider)
+Rydoo,repvue,,2026-07-15,N,no US AE (Enterprise AE UK only on Workable; no US role found)
+LexisNexis Risk Solutions,repvue,,2026-07-15,N,not typical B2B SaaS (data analytics/risk management)
+FreightWaves,repvue,,2026-07-15,N,not B2B SaaS (primarily supply chain media/data; SONAR platform niche)
+Array,repvue,,2026-07-15,Y,Account Executive, US-remote, embedded fintech SaaS, Ent; posted Feb 2023 (older posting)
+10x Genomics,repvue,,2026-07-15,N,not B2B SaaS (genomics instruments/hardware)
+ShiftCare,repvue,,2026-07-15,N,OTE too low ($100k OTE); territory-specific (California); outbound AE only
+LendingClub,repvue,,2026-07-15,N,not B2B SaaS (fintech bank/lending platform)
+Worldwide Business Research,repvue,,2026-07-15,N,not B2B SaaS (B2B events/media company)
+CONMED Corporation,repvue,,2026-07-15,N,not B2B SaaS (medical devices/surgical tools)
