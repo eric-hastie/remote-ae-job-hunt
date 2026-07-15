@@ -3110,3 +3110,37 @@ Parsec Automation,ats-search,,2026-07-15,Y,"IC Enterprise AE, remote-South-US w/
 InfinitForm,ats-search,,2026-07-15,N,"Ashby posting confirms real match (aerospace/mfg AI design software, $12.7M seed May 2025) but Account Executive role is"
 Maneva,ats-search,,2026-07-15,N,"Only AE posting is ""Strategic Enterprise Account Executive"" requiring 10+ yrs enterprise sales / 5+ yrs strategic accoun"
 LinkSquares,ats-search,,2026-07-15,N,"Live Greenhouse posting (ID 4681639005, not the 4681642005 in the lead hint which 404s) is a Mid-Market AE role but list"
+Jedify,funding-30d,,2026-07-15,N,Only AE posting is NYC Hybrid with explicit 3 days/week in-office requirement (not US-remote); also no company ATS JSON 
+"Factory AI (Factory, Inc.)",funding-30d,,2026-07-15,N,"Only AE posting is Enterprise AE (Ashby board 'factory') requiring on-site presence in NY/SF/London, not remote, 7+ yrs/"
+Reserv,funding-30d,,2026-07-15,N,"Rippling-hosted board (ats.rippling.com/reserv) lists Claims Adjuster/Manager and Account Manager roles only; the ""Carri"
+Bunch,funding-30d,,2026-07-15,N,Ashby board (jobs.ashbyhq.com/bunch) confirmed as the real company (AI-native fund ops platform) but has no Account Exec
+Cloaked,funding-30d,,2026-07-15,N,"Verified Cloaked's real ATS (Ashby, jobs.ashbyhq.com/cloaked) — 7 open roles (finance, marketing, support, recruiting, e"
+Franq,funding-30d,,2026-07-15,N,No ATS board found under franq slug (Greenhouse/Ashby 404); Brazil-based fintech (Florianopolis HQ) enabling independent
+xCures,funding-30d,,2026-07-15,N,No live ATS JSON posting confirmed — no Greenhouse/Ashby/Lever board at xcures slug (all 404); direct careers-page AE UR
+Doctronic,funding-30d,,2026-07-15,N,Ashby board (jobs.ashbyhq.com/doctronic) confirmed as real company board via ID/JD match; 8 live postings are clinical/p
+InsurTech Indigo (getindigo.com),funding-30d,,2026-07-15,N,"Greenhouse board (indigo) has only a generic ""Future Opportunities"" catch-all posting (first published 2023); no titled "
+Onyx,yc-batches,,2026-07-15,N,"Founding AE posting confirmed on Ashby (onyx.app, YC/Khosla-backed) is IC, MM/Ent, 5+ yrs, but isRemote:false and locati"
+JustAI,yc-batches,,2026-07-15,N,"Founding AE role is based in San Francisco, CA (on-site), not remote-US; also no independent ATS board found (only YC/Wo"
+BIK,yc-batches,,2026-07-15,N,No independent ATS board found (Greenhouse/Lever/Ashby all 404 for bik/bikai slugs); only listing is on YC/Work at a Sta
+Ergo,yc-batches,,2026-07-15,N,Founding AE role confirmed but is San Francisco on-site (not remote) with $100-180K comp (below bar); no independent ATS
+Roger (YC S24 - AI SDR / rogersalesai),yc-batches,,2026-07-15,N,"On-site Austin, TX (not remote-US) per YC/LinkedIn posting text; OTE $100-130K is below $150K floor; no company ATS boar"
+Crustdata,yc-batches,,2026-07-15,N,No company-owned ATS board found (Greenhouse/Ashby/Lever/SmartRecruiters/Workable/Recruitee all 404); Crustdata's own ca
+Poka Labs,yc-batches,,2026-07-15,N,No AE posting exists; careers page redirects to YC/Work-at-a-Startup listing (only Founding Deployment Strategist + Full
+Sameday,yc-batches,,2026-07-15,N,"Posting is explicitly in-office in Pleasant Grove, UT (not remote), and comp ($70-120K) is far below the $150-340K OTE b"
+Archbee,yc-batches,,2026-07-15,N,No ATS (Greenhouse/Ashby/Lever/SmartRecruiters/Workable/Recruitee) found; posting lives on self-hosted docs.archbee.com 
+"Agency (Agency Cybersecurity, YC W22)",yc-batches,,2026-07-15,N,"No live IC Account Executive posting on Agency's actual ATS (Rippling, ats.rippling.com/agencycyber) — current board has"
+Stable,yc-batches,,2026-07-15,N,"Stable's live Ashby board (jobs.ashbyhq.com/stable) has no Account Executive posting — only Head of Growth, Customer Sup"
+"Closure (closure-intel.com, YC W25)",yc-batches,,2026-07-15,N,"No company-owned ATS board found (Greenhouse/Ashby/Lever slugs all 404, closure-intel.com/careers 404); only surfaced vi"
+Scout,yc-batches,,2026-07-15,N,"Confirmed correct company (Scout, YC W25, AI-powered K-12 SIS, scoutforschools.com) but no ATS found and no live IC-AE p"
+Artisan,yc-batches,,2026-07-15,N,"Ashby board (jobs.ashbyhq.com/artisan) confirmed as the right Artisan (AI SDR/Ava company, YC W24); only AE posting live"
+Recall.ai,yc-batches,,2026-07-15,N,"All AE postings (Velocity AE, Mid Market AE, Strategic AE) are explicitly titled ""[In Person, SF]"" and confirmed in-pers"
+Paragon AI,yc-batches,,2026-07-15,N,No standalone ATS board found (Greenhouse/Ashby slug guesses 404); AE posting exists only on YC/workatastartup (disallow
+Jampp,wellfound-sectors,,2026-07-15,N,AdTech AE but posting dated 2023-06-06 (3yr stale catch-all); held
+BTSE Group,wellfound-sectors,,2026-07-15,N,"No US-remote AE posting on BTSE's live Lever board; only AE listing found (via search) is based in Malaysia, not US-remo"
+Heal.me,wellfound-sectors,,2026-07-15,N,"OTE $100-140K (below $150-340K floor), only 2+ yrs required (junior), and segment is SMB solo practitioners not MM/Ent; "
+Luxor Technologies,wellfound-sectors,,2026-07-15,N,Ashby board (jobs.ashbyhq.com/luxor) for Luxor Technology Corporation (Seattle-based bitcoin mining/blockchain infra) sh
+Rasa,wellfound-sectors,,2026-07-15,Y,"Ashby board confirms ""Account Executive - USA"" - 100% remote Continental USA, no office cadence, 5+ yrs technical B2B Sa"
+Symmetric Health Solutions,wellfound-sectors,,2026-07-15,N,No dedicated ATS board found (company posts only via Wellfound + email); current live careers page lists 8 open roles (I
+DotNotCom,wellfound-sectors,,2026-07-15,N,"Name collision: real DotNotCom Corp (dotnotcom.com) is a novelty/consumer-goods company (flavored water, etc.), not the "
+Matik,wellfound-sectors,,2026-07-15,N,"Matik's Greenhouse board (boards-api.greenhouse.io/v1/boards/matik/jobs) currently lists only one open role, Sr. Demand "
+ShelfCycle,wellfound-sectors,,2026-07-15,N,No ATS board found (Greenhouse/Ashby slug 404); Sovereign's Capital portco job board shows zero open roles at ShelfCycle
