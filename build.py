@@ -190,13 +190,13 @@ footer .wrap{max-width:760px}
         <th data-k="added">Added <span class="arw"></span></th>
         <th data-k="posted">Posted <span class="arw"></span></th>
         <th data-k="company">Company <span class="arw"></span></th>
-        <th data-k="funding">Funding ($M) <span class="arw"></span></th>
         <th data-k="ote">OTE <span class="arw"></span></th>
         <th data-k="segment">Segment <span class="arw"></span></th>
-        <th data-k="hq">HQ <span class="arw"></span></th>
-        <th data-k="repvue">RepVue <span class="arw"></span></th>
-        <th data-k="status">Status <span class="arw"></span></th>
         <th>Posting</th>
+        <th>DQ</th>
+        <th data-k="status">Status <span class="arw"></span></th>
+        <th data-k="repvue">RepVue <span class="arw"></span></th>
+        <th data-k="hq">HQ <span class="arw"></span></th>
       </tr></thead>
       <tbody id="rows"></tbody>
     </table>
@@ -252,13 +252,13 @@ function render(){
       <td class="ote" style="white-space:nowrap">${fmtAdded(r.added)}</td>
       <td class="ote" style="white-space:nowrap">${fmtAdded(r.posted)}</td>
       <td><div class="co">${r.company}</div><div class="ind">${r.industry||''}</div></td>
-      <td>${fundDisp(r)}</td>
       <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>
       <td>${segLabel(r)}</td>
-      <td class="muted">${r.hq||''}</td>
-      <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>-</span>'}</td>
+      <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
+      <td><span class="dq" data-url="${r.url}">${DQ.has(r.url)?'restore':'DQ ✕'}</span></td>
       <td>${statusBadge(r)}</td>
-      <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a><span class="dq" data-url="${r.url}">${DQ.has(r.url)?'restore':'DQ ✕'}</span></td>
+      <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>-</span>'}</td>
+      <td class="muted">${r.hq||''}</td>
     </tr>`).join('');
   count.textContent=list.length+' of '+DATA.length+' roles'+(DQ.size?(' · '+DQ.size+' DQ’d'):'');
 }
