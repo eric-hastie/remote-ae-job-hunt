@@ -45,8 +45,10 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 
 IC **Account Executive** (NOT SDR/BDR, NOT "Associate AE", NOT Director/VP/RVP) · segment **MM** or
 **MM/Ent** preferred (pure **Ent** allowed but tagged so it sorts last) · **US-remote OR based in
-NYC / SF / Denver** — set `Location` = `Remote` / `NYC` / `SF` / `Denver` accordingly; other cities and
-non-US are excluded (a role in two of these = one row per applicable location) · **OTE ~$150K–$340K**
+NYC / SF / Denver / Boston / Pittsburgh / Austin** — set `Location` = `Remote` / `NYC` / `SF` / `Denver` /
+`Boston` / `Pittsburgh` / `Austin` accordingly (build.py renders one page per location); other cities and
+non-US are excluded (a role in two = one row per applicable location). Boston/Pittsburgh/Austin are
+priority physical-AI hubs · **OTE ~$150K–$340K**
 (blank if not reliably known — never guess) · **B2B SaaS** · **~4+ yrs** closing (reject 8+ senior-only
 and junior/BDR). Set `Status` = `Verified` normally; `Needs check` if the posting is real but only
 search/mirror-corroborated (never fully dropped — it's surfaced for manual review).

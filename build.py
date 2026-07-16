@@ -49,11 +49,18 @@ LOCATIONS = [
      "Hand-verified <b>Account Executive</b> openings at B2B SaaS companies based in <b>San Francisco / the Bay Area</b> - same ICP and verification pipeline, filtered to SF-based roles."),
     ("denver.html", "denver", "Denver", "Denver AE Market Map",
      "Hand-verified <b>Account Executive</b> openings at B2B SaaS companies based in <b>Denver</b> - same ICP and verification pipeline, filtered to Denver-based roles."),
+    ("boston.html", "boston", "Boston", "Boston AE Market Map",
+     "Hand-verified <b>Account Executive</b> openings based in <b>Boston</b> - a major <b>physical-AI / robotics</b> hub (Boston Dynamics, Amazon Robotics, Symbotic, Locus) plus B2B SaaS."),
+    ("pittsburgh.html", "pittsburgh", "Pittsburgh", "Pittsburgh AE Market Map",
+     "Hand-verified <b>Account Executive</b> openings based in <b>Pittsburgh</b> - an <b>autonomy / robotics</b> hub (Aurora, Gecko Robotics, Astrobotic) plus B2B SaaS."),
+    ("austin.html", "austin", "Austin", "Austin AE Market Map",
+     "Hand-verified <b>Account Executive</b> openings based in <b>Austin</b> - a fast-growing <b>physical-AI</b> + B2B SaaS hub (Apptronik, Diligent Robotics, and a deep SaaS scene)."),
 ]
 
 def nav_html(active):
     items = [("index.html","Remote","remote"),("nyc.html","NYC","nyc"),("sf.html","SF","sf"),
-             ("denver.html","Denver","denver"),("history.html","History &amp; Trends",None),("discards.html","Discards",None)]
+             ("denver.html","Denver","denver"),("boston.html","Boston","boston"),("pittsburgh.html","Pittsburgh","pittsburgh"),
+             ("austin.html","Austin","austin"),("history.html","History &amp; Trends",None),("discards.html","Discards",None)]
     out = []
     for href, label, key in items:
         out.append(f"<b>{label}</b>" if key == active and key else f'<a href="{href}">{label}</a>')
