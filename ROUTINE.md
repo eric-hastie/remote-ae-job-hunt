@@ -51,13 +51,17 @@ non-US are excluded (a role in two of these = one row per applicable location) �
 and junior/BDR). Set `Status` = `Verified` normally; `Needs check` if the posting is real but only
 search/mirror-corroborated (never fully dropped — it's surfaced for manual review).
 
-**ROBOTICS EXCEPTION (deliberate pivot target — Eric wants into robotics / AI-robotics):** for
-robotics / AI-robotics / automation companies, LOWER the bar — **OTE floor ~$100K** (not $150K; accept
-lower comp to break in; still blank if unstated), accept **robotics hardware / robots-as-a-service /
-AI-robotics software** (do NOT require pure SaaS), and **~3+ yrs** closing. Tag `Industry` starting
-with `Robotics - ` (e.g. `Robotics - warehouse automation`) so these are filterable. Robotics is a
-priority vertical for the Job 3 rotation — rotate robotics search terms in (warehouse/AMR, industrial,
-humanoid/embodied-AI, autonomy/AV, surgical, agricultural, RaaS, defense robotics).
+**PHYSICAL-AI EXCEPTION (deliberate pivot target — Eric wants into Physical AI):** Physical AI = AI that
+perceives/acts in the physical world — **robotics, autonomous vehicles, drones/UAV, perception & sensors
+(lidar/radar/vision), embodied AI / world models, simulation & synthetic data for physical systems,
+industrial / Industry-4.0 automation, machine vision, spatial computing / AR-VR, edge AI for physical
+devices, smart-infrastructure autonomy**. For these companies, LOWER the bar — **OTE floor ~$100K** (not
+$150K; accept lower comp to break in; blank if unstated), accept **hardware / RaaS / AI software** (do
+NOT require pure SaaS), and **~3+ yrs** closing. Tag `Industry` starting with `Physical AI - ` (e.g.
+`Physical AI - autonomous vehicles`) so these are filterable. Physical AI is a priority vertical for the
+Job 3 rotation — rotate its niches in (robotics/AMR, AV/self-driving, drones/UAV, perception/lidar,
+embodied-AI/world-models, simulation/synthetic-data, industrial-AI, spatial computing, edge-AI,
+smart-infra, surgical/agricultural/defense robotics).
 
 ---
 
