@@ -211,6 +211,11 @@ fallback: WebSearch `{company} account executive site:jobs.ashbyhq.com/{slug}` (
 account executive`, or fetch `/careers`). If a live IC-AE posting resolves, verify it and record the
 direct posting URL. (Found via **Linear**: RepVue 97, AE roles live on linear.app/careers but absent
 from the Ashby posting-api feed — a false "no AE" for weeks.)
+**The bigger cause is usually WRONG ATS, not feed-omission:** a company often runs a DIFFERENT ATS than
+the slug guess (Greenhouse / Lever / Workable / Workday / its own site), so an Ashby-only check finds
+nothing. ALWAYS fetch the company's `/careers` page — it links the real ATS. (Confirmed 2026-07-15: the
+company Greenhouse, Alloy, FOSSA, Businessolver run on Greenhouse; Saviynt on Lever; Action1 on
+Workable; Workday on its own — all had live qualifying AE roles a plain Ashby-slug check missed.)
 
 **Remote vs in-office (read carefully — this trips people up):** judge remote by THIS posting's own
 designation, not by generic company-culture text. A posting explicitly labeled "Remote, United States"
