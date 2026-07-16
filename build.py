@@ -182,6 +182,10 @@ footer .wrap{max-width:760px}
       <button data-dq="active" class="on">Active</button>
       <button data-dq="dqd">DQ'd</button>
     </div>
+    <div class="seg" id="indseg">
+      <button data-ind="all" class="on">All industries</button>
+      <button data-ind="robotics">🤖 Robotics</button>
+    </div>
     <span class="count" id="count"></span>
   </div>
   <div class="tablewrap">
@@ -211,7 +215,7 @@ const DATA = __DATA__;
 const tbody=document.getElementById('rows');
 const q=document.getElementById('q');
 const count=document.getElementById('count');
-let seg='all', statusF='all', dqMode='active', sortK=null, sortDir=1;
+let seg='all', statusF='all', dqMode='active', indF='all', sortK=null, sortDir=1;
 const DQ=new Set(JSON.parse(localStorage.getItem('ae_dq')||'[]'));
 function saveDQ(){localStorage.setItem('ae_dq',JSON.stringify([...DQ]));}
 function isMM(r){return r.segment.includes('MM')}
@@ -237,6 +241,7 @@ function render(){
     if(statusF==='needs' && r.status!=='Needs check')return false;
     if(dqMode==='active' && DQ.has(r.url))return false;
     if(dqMode==='dqd' && !DQ.has(r.url))return false;
+    if(indF==='robotics' && !/robot/i.test(r.industry||''))return false;
     if(!term)return true;
     return (r.company+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
   });
@@ -275,6 +280,11 @@ document.querySelectorAll('#statusseg button').forEach(b=>b.onclick=()=>{
 document.querySelectorAll('#dqseg button').forEach(b=>b.onclick=()=>{
   dqMode=b.dataset.dq;
   document.querySelectorAll('#dqseg button').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');render();
+});
+document.querySelectorAll('#indseg button').forEach(b=>b.onclick=()=>{
+  indF=b.dataset.ind;
+  document.querySelectorAll('#indseg button').forEach(x=>x.classList.remove('on'));
   b.classList.add('on');render();
 });
 tbody.addEventListener('click',e=>{

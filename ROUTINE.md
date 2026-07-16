@@ -51,6 +51,14 @@ non-US are excluded (a role in two of these = one row per applicable location) �
 and junior/BDR). Set `Status` = `Verified` normally; `Needs check` if the posting is real but only
 search/mirror-corroborated (never fully dropped — it's surfaced for manual review).
 
+**ROBOTICS EXCEPTION (deliberate pivot target — Eric wants into robotics / AI-robotics):** for
+robotics / AI-robotics / automation companies, LOWER the bar — **OTE floor ~$100K** (not $150K; accept
+lower comp to break in; still blank if unstated), accept **robotics hardware / robots-as-a-service /
+AI-robotics software** (do NOT require pure SaaS), and **~3+ yrs** closing. Tag `Industry` starting
+with `Robotics - ` (e.g. `Robotics - warehouse automation`) so these are filterable. Robotics is a
+priority vertical for the Job 3 rotation — rotate robotics search terms in (warehouse/AMR, industrial,
+humanoid/embodied-AI, autonomy/AV, surgical, agricultural, RaaS, defense robotics).
+
 ---
 
 ## Job 1 — Re-verify every row in `latest.csv`
