@@ -770,7 +770,7 @@ BI Worldwide,repvue,87.07,2026-07-11,N,not B2B SaaS (events/recognition)
 SMART Technologies,repvue,87.07,2026-07-11,N,not B2B SaaS (hardware)
 Ease,repvue,87.05,2026-07-11,N,ATS unresolved
 Alvys,repvue,87.05,2026-07-15,N,No live Ashby board exists for Alvys (jobs.ashbyhq.com/alvys is empty) — Alvys actually uses Greenhouse. Its Greenhouse board currently lists only 2 o
-Businessolver,repvue,87.05,2026-07-15,Y,"BLIND-SPOT: Live IC role ""Senior Sales Consultant - National (Remote)"" = de-facto Account Executive: hunts/closes new enterprise business, full sales "
+Businessolver,repvue,87.05,2026-07-16,N,No IC AE title on board; Senior Sales Consultant ≠ AE
 Singular,repvue,87.05,2026-07-02,Y,top500 RepVue scan: open AE role
 strongDM,repvue,87.05,2026-07-11,N,no active AE role
 Maven Clinic,repvue,87.03,2026-07-15,N,No live IC AE posting: ATS is actually Greenhouse (not Ashby as premised); confirmed via Greenhouse's live jobs API (36 current openings) that all AE-
@@ -3348,3 +3348,53 @@ SiteMinder,repvue,,2026-07-16,N,no qualifying location; only Dallas TX AE found;
 Lusha Systems Inc,repvue,,2026-07-16,N,no AE found on Ashby (leadiq confirmed) or Greenhouse; B2B contact data SaaS
 Pfizer Inc,repvue,,2026-07-16,N,not B2B SaaS; pharmaceutical manufacturer
 Nuspire,repvue,,2026-07-16,N,ATS unresolved; managed security/MSSP
+HG Insights,repvue,,2026-07-16,Y,"AE - New Business, MM, Remote US; GH 7772288003"
+NexHealth,repvue,,2026-07-16,Y,"Enterprise AE, Ent, Remote US, OTE $200-250K; GH 5597810004"
+PeerSpot,repvue,,2026-07-16,N,ATS unresolved after search+fetches
+LRN,repvue,,2026-07-16,N,no IC AE title; Enterprise Sales Executive on Workable
+Dashlane,repvue,,2026-07-16,N,no AE roles on GH board; Director of Sales only
+Spectrum Reach,repvue,,2026-07-16,N,not B2B SaaS; Charter ad sales division
+MarginEdge,repvue,,2026-07-16,N,ATS unresolved; SMB restaurant vertical (<$6K ACV)
+AlgoSec,repvue,,2026-07-16,N,no IC AE; RSM/RSD titles only on custom site
+Solventum,repvue,,2026-07-16,N,3M healthcare spinoff; not B2B SaaS
+Mailgun by Sinch,repvue,,2026-07-16,N,part of Sinch; no standalone IC AE found
+Ascend Fundraising Solutions,repvue,,2026-07-16,N,no IC AE found; nonprofit SaaS vertical
+Diligent,repvue,,2026-07-16,N,NYC hybrid 50% in-office; OTE below bar ($114-143K)
+Foundation Medicine,repvue,,2026-07-16,N,medical genomics; not B2B SaaS
+Studytube,repvue,,2026-07-16,N,Netherlands eLearning; not US
+LeanData,repvue,,2026-07-16,N,UK-only AE on Ashby; no US role
+LiquidPlanner,repvue,,2026-07-16,N,careers page 404; likely acquired/defunct
+CyberCoders,repvue,,2026-07-16,N,recruiting/staffing firm; not B2B SaaS
+Inari Medical,repvue,,2026-07-16,N,medical devices; not B2B SaaS
+Citigroup,repvue,,2026-07-16,N,bank; not B2B SaaS
+Weka,repvue,,2026-07-16,N,RSM/director titles only; no IC AE on careers page
+Recurly,repvue,,2026-07-16,N,London AE only; no US remote AE
+Bluesnap,repvue,,2026-07-16,N,ATS unresolved after 3 fetches + 1 search
+Seamless.ai,repvue,,2026-07-16,N,ATS unresolved after 5 fetches + 1 search
+Tegus,repvue,,2026-07-16,N,acquired by AlphaSense 2024; Account Manager only
+Closinglock,repvue,,2026-07-16,N,no open roles on Ashby board
+CyberCube,repvue,,2026-07-16,N,ATS unresolved; US AE roles not found
+Get Bridge,repvue,,2026-07-16,N,Workday board found; no IC AE visible; Channel Partner Manager only
+Jive Software,repvue,,2026-07-16,N,acquired by LogMeIn 2017; defunct as standalone
+MSC Industrial Supply,repvue,,2026-07-16,N,industrial distributor; not B2B SaaS
+ACI Worldwide,repvue,,2026-07-16,N,large public payments company; ATS unresolved
+ActiveCampaign,repvue,,2026-07-16,N,Chicago hybrid only; AE base $64-78K well below bar
+Grab,repvue,,2026-07-16,N,Southeast Asia tech; not US-focused B2B SaaS
+Jefferson Frank,repvue,,2026-07-16,N,IT staffing; not B2B SaaS
+Binary Defense,repvue,,2026-07-16,N,ATS unresolved after 3 fetches + 1 search
+Charter Communications,repvue,,2026-07-16,N,telecom; not B2B SaaS
+Multiverse,repvue,,2026-07-16,N,UK-only AEs; no US remote AE
+Rivery.io,repvue,,2026-07-16,N,acquired by Boomi; defunct as standalone
+Kainos,repvue,,2026-07-16,N,UK/Irish IT services; not US-focused
+Zoom Video Communications,repvue,,2026-07-16,N,custom ATS unresolved (careers.zoom.us)
+LogRhythm,repvue,,2026-07-16,N,merged with Exabeam; Commercial AE OTE well below bar
+EverCommerce,repvue,,2026-07-16,N,SMB software portfolio; not MM/Ent B2B SaaS
+Flashpoint,repvue,,2026-07-16,N,ATS unresolved after 3 checks + 1 search
+Cranial Technologies,repvue,,2026-07-16,N,cranial band medical devices; not B2B SaaS
+The SpyGlass Group LLC,repvue,,2026-07-16,N,management consulting; not B2B SaaS
+Citrix,repvue,,2026-07-16,N,merged with TIBCO (Cloud Software Group); defunct as standalone
+Southern Glazers Wine and Spirits,repvue,,2026-07-16,N,wine/spirits distributor; not B2B SaaS
+Cymax Group Technologies,repvue,,2026-07-16,N,furniture e-commerce marketplace; not B2B SaaS
+GetScale,repvue,,2026-07-16,N,ATS unresolved; slug mismatch in queue
+AtriumHQ,repvue,,2026-07-16,N,acquired by Fullcast; defunct as standalone
+Paylocity,repvue,,2026-07-16,N,custom ATS portal (paylocity.com); unresolvable via standard APIs
