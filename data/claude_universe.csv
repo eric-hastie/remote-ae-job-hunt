@@ -65,7 +65,7 @@ Kong,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed rol
 Lattice,claude,,2026-07-02,Y,has open qualifying role
 LaunchDarkly,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Leapsome,claude,,2026-07-02,N,dropped 2026-07-02: High-Velocity AE is hybrid-NYC 2d/wk + SMB segment; board Remote label misleading
-Limble,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Limble CMMS,claude,,2026-07-17,N,evaluated (prior master exclusion list); Ashby board live (slug: limble); no AE roles present
 Linear,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Lockthreat,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Lytx,claude,69,2026-07-02,Y,has open qualifying role
@@ -1437,7 +1437,7 @@ Planet,repvue,83.65,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Kinaxis,repvue,83.65,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Total Synergy,repvue,83.65,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Edmunds,repvue,83.64,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-Contentstack,repvue,83.61,2026-07-02,Y,RepVue scan: open AE role
+Contentstack,repvue,83.61,2026-07-16,N,AE posting dead; no replacement found
 7shifts,repvue,83.61,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Convergint Technologies,repvue,83.61,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 LodgeLink,repvue,83.60,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -2721,7 +2721,7 @@ Outreach,ats-search,,2026-07-10,Y,Commercial AE; US-remote; MM; sales engagement
 WorkWave,ats-search,,2026-07-10,Y,Enterprise AE; US-remote; OTE $190-250K; field service SaaS
 Bluesight,ats-search,,2026-07-10,Y,Senior AE; US-remote; OTE $200-220K+; healthcare SaaS
 BriteCore,ats-search,,2026-07-10,Y,Enterprise AE; US-remote; P&C insurance SaaS
-Roebling,ats-search,,2026-07-10,N,ATS unresolved (Ashby board 404)
+Roebling,ats-search,,2026-07-16,N,Board gone (Ashby 404); posting dead
 9fin,ats-search,,2026-07-10,N,no AE roles on board; UK-focused
 GaggleAMP,ats-search,,2026-07-10,Y,MM AE; US-remote; OTE $160K+; employee advocacy SaaS
 SPOTIO,ats-search,,2026-07-10,N,hybrid (Tues/Wed office in Addison TX); not remote
@@ -3300,7 +3300,7 @@ Adventfs,repvue,,2026-07-16,N,ATS unresolved; unclear industry
 Brivo,repvue,,2026-07-16,N,ATS unresolved; access control SaaS
 DAT Freight & Analytics,repvue,,2026-07-16,N,ATS unresolved; freight data/analytics SaaS
 Netchex,repvue,,2026-07-16,N,ATS unresolved; HR/payroll SaaS (uses Hireology; no AE found)
-Instabase,repvue,,2026-07-16,Y,Enterprise AE NYC territory; document AI/automation SaaS; Greenhouse jobs/8361991002
+Instabase,repvue,,2026-07-16,N,AE posting dead (GH job/8361991002); no replacement found
 Black Knight,repvue,,2026-07-16,N,acquired by ICE (Intercontinental Exchange) 2023; no longer standalone
 Keysight Technologies,repvue,,2026-07-16,N,not B2B SaaS; electronic test & measurement hardware
 Facet Wealth,repvue,,2026-07-16,N,not B2B SaaS; B2C consumer financial planning platform
@@ -3453,7 +3453,7 @@ Robust.AI,robotics,,2026-07-16,Y,"robotics AE (San Carlos, CA (Bay Area, remote 
 Encord,robotics,,2026-07-16,Y,"robotics AE (San Francisco, CA (North Beach office, 3-5 days/week))"
 Covariant,robotics,,2026-07-16,Y,"robotics AE (New York, NY (hybrid, in-office 2-3x/week))"
 Ouster,robotics,,2026-07-16,Y,robotics AE (Remote (US))
-Cyngn,robotics,,2026-07-16,Y,robotics AE (United States (priority: Bay Area / Chicago / Atlanta))
+Cyngn,robotics,,2026-07-16,N,Lever posting dead; no replacement found
 Chef Robotics,robotics,,2026-07-16,Y,"robotics AE (San Francisco, CA (Remote option))"
 Glacier,physical-ai,,2026-07-16,Y,physical-AI AE
 HiveMQ,physical-ai,,2026-07-16,Y,physical-AI AE
@@ -3461,3 +3461,51 @@ VNTANA,physical-ai,,2026-07-16,Y,physical-AI AE
 Spot AI,physical-ai,,2026-07-16,Y,physical-AI AE
 Scale AI,physical-ai,,2026-07-16,Y,physical-AI AE
 Buzz Solutions,physical-ai,,2026-07-16,Y,physical-AI AE
+Lumio,repvue,,2026-07-17,N,not B2B SaaS (residential solar; B2C direct sales)
+Sandhills Global,repvue,,2026-07-17,N,not B2B SaaS (media/marketplace for heavy equipment)
+Milwaukee Tool,repvue,,2026-07-17,N,not B2B SaaS (power tools manufacturer)
+Aerotek,repvue,,2026-07-17,N,not B2B SaaS (staffing/recruiting firm)
+Dell Technologies,repvue,,2026-07-17,N,not ICP (large enterprise hardware/services; not startup-scale AE)
+Pinterest,repvue,,2026-07-17,N,not B2B SaaS (B2C social media platform)
+Emerson,repvue,,2026-07-17,N,not B2B SaaS (industrial manufacturing conglomerate)
+Encore,repvue,,2026-07-17,N,not B2B SaaS (event/AV production services)
+Convatec,repvue,,2026-07-17,N,not B2B SaaS (medical devices manufacturer)
+World Kinect,repvue,,2026-07-17,N,not B2B SaaS (aviation/marine fuel distributor)
+Window Nation,repvue,,2026-07-17,N,not B2B SaaS (B2C home improvement/windows)
+Aircall,repvue,,2026-07-17,N,no US-remote AE; NYC hybrid only; SMB tier VoIP SaaS
+DeepL,repvue,,2026-07-17,N,Ashby board live; no AE roles posted (translation AI SaaS)
+StackHawk,repvue,,2026-07-17,N,Lever board returns empty array; no AE roles (API security testing SaaS)
+Engine,repvue,,2026-07-17,N,Denver/Chicago in-office only; OTE $100-120K below $150K bar; travel SaaS
+Paragon,repvue,,2026-07-17,Y,open qualifying AE role: Remote US; $150-300K OTE; MM/Ent; embedded workflow automation SaaS
+Capchase,repvue,,2026-07-17,Y,open qualifying AE role: Remote US; OTE unstated; MM/Ent; embedded financing/fintech SaaS
+With Intelligence,repvue,,2026-07-17,N,ATS unresolved (not found on Greenhouse/Lever/Ashby); financial media intelligence
+Morphisec,repvue,,2026-07-17,N,ATS unresolved (uses Comeet platform); moving target defense cybersecurity
+Swimlane,repvue,,2026-07-17,N,no AE roles on Rippling board (only Solutions Engineer - Saudi Arabia); security automation
+Comet,repvue,,2026-07-17,N,Greenhouse board: no AE roles (DevRel/Engineering/Marketing only); ML experiment tracking SaaS
+RapidRatings,repvue,,2026-07-17,N,ATS unresolved (not found on Greenhouse/Lever/Ashby); financial risk data analytics
+Squire,repvue,,2026-07-17,N,Austin TX in-office only; OTE ~$110K below $150K bar; B2C barbershop vertical SaaS
+Exterro,repvue,,2026-07-17,N,ATS unresolved (ADP Workforce Now); legal governance/compliance software
+DataGuard,repvue,,2026-07-17,N,all AE roles Germany/UK only; no US positions; privacy/compliance SaaS
+Naylor Association Solutions,repvue,,2026-07-17,N,not B2B SaaS (association media/engagement); AE OTE ~$99K below bar
+Veryfi,repvue,,2026-07-17,N,ATS unresolved; no AE role found (OCR/receipt data extraction SaaS)
+Side Inc,repvue,,2026-07-17,N,not B2B SaaS (real estate brokerage technology platform)
+PrimeRevenue,repvue,,2026-07-17,N,AE OTE ~$140K below $150K bar; uses own portal; supply chain finance SaaS
+Center,repvue,,2026-07-17,N,AE salary ~$137K below $150K bar (Glassdoor); corporate card/expense management SaaS
+RealPage,repvue,,2026-07-17,N,ATS unresolved (uses own join.realpage.com portal); property management SaaS
+Contently,repvue,,2026-07-17,N,no current AE openings per careers page; content marketing SaaS
+Altus Group,repvue,,2026-07-17,N,ATS unresolved (Workday); AE salary ~$132K NYC (below $150K bar); commercial real estate SaaS
+Intelligo,repvue,,2026-07-17,N,Greenhouse boards-api 404 (BOARD_GONE); background check/due diligence AI
+IDBS,repvue,,2026-07-17,N,uses Danaher parent portal (non-standard ATS); life science data management software
+FortifyData,repvue,,2026-07-17,N,ATS unresolved (careers on own website only); cybersecurity risk management
+Case Status,repvue,,2026-07-17,N,Greenhouse board returns 0 jobs; legal case management SaaS
+NEOGOV,repvue,,2026-07-17,N,not ICP (public sector HR SaaS; government-only client base)
+2X,repvue,,2026-07-17,N,not B2B SaaS product (outsourced B2B marketing agency)
+iCIMS,repvue,,2026-07-17,N,ATS unresolved (JS-heavy own platform; no AE listing accessible); talent acquisition SaaS
+Gradle Inc,repvue,,2026-07-17,N,Greenhouse board: no AE roles open (Head of People/Pre-Sales/SRE/PM only); build automation SaaS
+Kluster,repvue,,2026-07-17,N,ATS unresolved (Ashby 404; not found on Lever/Greenhouse); revenue forecasting SaaS
+Studies Weekly,repvue,,2026-07-17,N,not ICP (EdTech curriculum company; AE OTE $85-95K below bar)
+Modernizing Medicine,repvue,,2026-07-17,N,ATS unresolved (Workday); healthcare EHR SaaS; AE base ~$130-180K (unverified OTE)
+AspenTech,repvue,,2026-07-17,N,Greenhouse boards-api 404; industrial/process optimization software
+smartShift,repvue,,2026-07-17,N,not B2B SaaS product (SAP modernization consulting firm)
+EverQuote,repvue,,2026-07-17,N,Greenhouse board: only BDR role (no IC AE); insurance marketplace
+Capgemini Engineering,repvue,,2026-07-17,N,not B2B SaaS (engineering/IT consulting; covered under Capgemini entry)
