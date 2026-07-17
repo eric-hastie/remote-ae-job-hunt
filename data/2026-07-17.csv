@@ -24,7 +24,11 @@ FeedbackFruits,,$180-220K,MM/Ent,Amsterdam,Y,,EdTech / student engagement SaaS,h
 CoderPad,,$200-225K,MM/Ent,San Francisco,Y,87.32,Technical assessment / developer hiring SaaS,https://jobs.lever.co/coderpad/7ffb00f1-8219-48bb-915a-daa96ecae87c,2026-07-11,2026-05-18,Remote,Verified
 Prove,,,Ent,"New York, NY",Y,,Identity Verification SaaS,https://job-boards.greenhouse.io/prove/jobs/6104167004,2026-07-11,2026-07-02,Remote,Verified
 PayZen,,$150-195K,Ent,"San Francisco, CA",Y,,Healthcare Payment SaaS,https://jobs.ashbyhq.com/payzen-inc/dd718dc0-5f53-4036-8296-430de408dbfe,2026-07-11,2026-04-09,Remote,Verified
+<<<<<<< HEAD
 Muck Rack,,$175K+,Ent,"New York, NY",Y,,PR / media intelligence SaaS,https://job-boards.greenhouse.io/muckrack/jobs/8595088002,2026-07-11,2026-06-16,Remote,Verified
+=======
+Muck Rack,,$175K+,Ent,"New York, NY",Y,,PR / media intelligence SaaS,https://job-boards.greenhouse.io/muckrack/jobs/8592440002,2026-07-11,2026-06-15,Remote,Verified
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
 Granica,,,Ent,"Mountain View, CA",Y,,AI Data Infrastructure SaaS,https://jobs.ashbyhq.com/granica/3769e2b2-b7e3-4efe-9511-c05f9bbce9ef,2026-07-11,2026-03-05,Remote,Verified
 ActivTrak,,,Ent,"Austin, TX",Y,,Workforce Analytics SaaS,https://apply.workable.com/activtrak/j/0AB614ED4C,2026-07-11,,Remote,Verified
 Outreach,,,MM,"Seattle, WA",Y,,Sales engagement / GTM SaaS,https://jobs.lever.co/outreach/a60fb104-ce93-4ba0-8763-ffb075b3eed1,2026-07-10,2026-06-29,Remote,Verified
@@ -102,6 +106,10 @@ Procore Technologies,,$174K–$240K,MM,"Carpinteria, CA",Y,83.20,Software,https:
 Portnox,,,MM/MM-Ent,"Austin, TX (R&D Israel)",Y,83.17,Information Technology and Services,https://portnox.pinpointhq.com/jobs/209552,2026-07-02,,Remote,Verified
 Figma,,,MM,"San Francisco, CA",Y,83.82,Software,https://job-boards.greenhouse.io/figma/jobs/5422236004,2026-07-02,2025-01-22,Remote,Verified
 Datarails,,,MM,New York,Y,83,FP&A software,https://job-boards.greenhouse.io/datarails/jobs/4302569009,2026-07-02,2026-07-02,Remote,Verified
+<<<<<<< HEAD
+=======
+Contentstack,,~$210K-$260K (base $105K-$130K + variabl,MM,"San Francisco, CA",Y,83.61,Software / Headless CMS SaaS,https://job-boards.greenhouse.io/Contentstack/jobs/7763656003,2026-07-02,2026-06-15,Remote,Verified
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
 Verse.ai,,$290K–$350K,Ent,"San Francisco, CA",Y,83.34,Energy Intelligence Software (B2B SaaS),https://job-boards.greenhouse.io/verse/jobs/5158103008,2026-07-02,2026-03-18,Remote,Verified
 Superside,,~$235K (RepVue median),Ent,"San Francisco, CA",Y,83.87,Professional / Business Services,https://careers.superside.com/jobs/enterprise-account-executive,2026-07-02,,Remote,Verified
 Obsidian Security,,,Ent,"Newport Beach, CA",Y,83.16,Software,https://job-boards.greenhouse.io/obsidiansecurity/jobs/4822499008,2026-07-02,2025-08-27,Remote,Verified
@@ -300,6 +308,10 @@ Salesforce,,,MM,"San Francisco, CA","No (also lists SF, Denver, Chicago, Washing
 Merge,,"$180,000 - $221,000 OTE",MM,"San Francisco, CA","No (dual-listed NYC/SF, no remote option sta",,B2B SaaS — unified API / integration platform for developers,https://jobs.ashbyhq.com/merge/633161e8-8f54-4eea-9d04-af504d7717d3,2026-07-15,2025-12-02,NYC,Verified
 Merge,,"$270,000 - $300,000 OTE",Ent,"San Francisco, CA","No (dual-listed NYC/SF, no remote option sta",,B2B SaaS — unified API / integration platform for developers,https://jobs.ashbyhq.com/merge/004efee5-a044-48ef-8aaa-51a24df9f7c7,2026-07-15,2026-02-12,NYC,Verified
 Motive,,"$230,000 - $300,000",Ent,"San Francisco, CA",US-Remote,,B2B SaaS - fleet/physical operations management,https://job-boards.greenhouse.io/gomotive/jobs/7812320002,2026-07-15,,Remote,Verified
+<<<<<<< HEAD
+=======
+Motive,,"$230,000 - $300,000",Ent,"San Francisco, CA",US-Remote (must reside DC/DE/MD/NJ/NY/PA/VA),,B2B SaaS - fleet/physical operations management,https://job-boards.greenhouse.io/gomotive/jobs/7812270002,2026-07-15,,Remote,Verified
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
 Motive,,"$230,000 - $300,000",Ent,"San Francisco, CA",US-Remote (territory AL/AR/KY/LA/MS/TN),,B2B SaaS - fleet/physical operations management,https://job-boards.greenhouse.io/gomotive/jobs/7812327002,2026-07-15,,Remote,Verified
 Motive,,"$230,000 - $300,000",Ent,"San Francisco, CA",US-Remote,,B2B SaaS - fleet/physical operations management,https://job-boards.greenhouse.io/gomotive/jobs/7812301002,2026-07-15,,Remote,Verified
 Motive,,"$230,000 - $300,000",Ent,"San Francisco, CA",US-Remote (must reside AZ/NV/ID),,B2B SaaS - fleet/physical operations management,https://job-boards.greenhouse.io/gomotive/jobs/7812339002,2026-07-15,,Remote,Verified
@@ -347,6 +359,10 @@ Workday,,,MM,"Pleasanton, CA","Remote (US), Flex Work: ~50% time/quarter in",,HC
 Alloy,,"$300,000-$350,000",Ent,"New York, NY",Remote (US); NYC-local staff hybrid Tue-Thu ,,Identity / fraud SaaS (fintech),https://www.alloy.com/about/jobs/detail?gh_jid=7656028002,2026-07-15,2024-09-25,Remote,Verified
 Glia,,,Ent,"New York, NY","Yes - ""Hiring Remotely"" / ""In-Office or Remo",,AI customer service SaaS,https://jobs.ashbyhq.com/glia/e4b0720a-a292-4666-af7e-4b4e1225be1a,2026-07-15,,Remote,Needs check
 Saviynt,,,Ent,,Territory-based field sales (NY Metro/NJ) — ,,Identity governance SaaS,https://jobs.lever.co/saviynt/66a68936-3a41-4dd9-9bd8-481fe9b848da,2026-07-15,,Remote,Needs check
+<<<<<<< HEAD
+=======
+Instabase,,,Ent,"San Francisco, CA",Remote - New York (NYC territory; remote-based in NY metro),,Document AI / automation SaaS,https://job-boards.greenhouse.io/instabase/jobs/8361991002,2026-07-16,2026-01-06,NYC,Verified
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
 Cloudflare,public,$234K-$321K,MM,"San Francisco, CA",NYC or Boston metro (hybrid; NYC/NE territory),,Network security / CDN / Zero Trust SaaS,https://boards.greenhouse.io/cloudflare/jobs/7872031?gh_jid=7872031,2026-07-16,2026-04-30,NYC,Verified
 Cloudflare,public,$244K-$336K,MM,"San Francisco, CA",SF Bay Area (hybrid),,Network security / CDN / Zero Trust SaaS,https://boards.greenhouse.io/cloudflare/jobs/7867139?gh_jid=7867139,2026-07-16,2026-05-01,SF,Verified
 HG Insights,,,MM,"Santa Barbara, CA",Y,,Tech intelligence SaaS (B2B sales & marketing),https://job-boards.greenhouse.io/hginsights/jobs/7772288003,2026-07-16,2026-06-17,Remote,Verified
@@ -356,12 +372,21 @@ BlueCat,,"$260,000-$300,000",Ent,"Toronto, ON",Y,,Network intelligence / DNS Saa
 Extend,,"$250,000",Ent,"San Francisco, CA",No (SF Bay Area; 3 days/week in office),,Warranty/protection SaaS,https://job-boards.greenhouse.io/extend/jobs/5708089004,2026-07-16,2025-11-13,SF,Verified
 FORT Robotics,,,Ent,"Philadelphia, PA","Remote-US (regional residency required, ~30-",,Physical AI - safety & control systems (serves robotics/AMR/automation,https://job-boards.greenhouse.io/fortrobotics/jobs/4694374005,2026-07-16,,Remote,Verified
 FORT Robotics,,,Ent,"Philadelphia, PA","Remote-US (30-40% regional travel, periodic ",,Physical AI - safety & control systems (serves robotics/AMR/automation,https://job-boards.greenhouse.io/fortrobotics/jobs/4698357005,2026-07-16,,Remote,Verified
+<<<<<<< HEAD
 Fictiv,,"$180,000-$240,000",MM,"San Francisco / Oakland, CA",Remote-US,,Physical AI - on-demand manufacturing platform serving robotics/hardwa,https://job-boards.greenhouse.io/fictiv/jobs/8587973002,2026-07-16,2026-06-11,Remote,Verified
+=======
+Fictiv,,"$180,000-$240,000",MM,"San Francisco / Oakland, CA",Remote-US,,Physical AI - on-demand manufacturing platform serving robotics/hardwa,https://job-boards.greenhouse.io/fictiv/jobs/8156440002,2026-07-16,,Remote,Needs check
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
 Robust.AI,,,MM,"San Carlos, CA",SF,,Physical AI - AI-powered collaborative mobile robots (AMRs) for wareho,https://jobs.lever.co/robust-ai/79e3b27b-3782-4fa9-ac25-e2acc2d17bec,2026-07-16,,Remote,Needs check
 Encord,,"$200,000-$275,000",Ent,"San Francisco, CA",SF,,"Physical AI - software - data infrastructure for training robotics, au",https://jobs.ashbyhq.com/encord/8a88f55e-ae21-4a3f-b2ba-a72fa196007a,2026-07-16,,SF,Needs check
 Covariant,,"$360,000-$400,000",Ent,"Berkeley/San Francisco, CA",Hybrid (NYC office 2-3x/week) - not full Rem,,"Physical AI - foundation models / embodied AI (""Covariant Brain"") for",https://job-boards.greenhouse.io/covariance/jobs/5823506004,2026-07-16,,NYC,Verified
 Ouster,,,MM/Ent,"San Francisco, CA",Remote-US,,Physical AI - lidar / perception sensors,https://ouster.applytojob.com/apply/w26vMYF2Tb/Account-Executive-Security,2026-07-16,,Remote,Verified
 Ouster,,,MM/Ent,"San Francisco, CA","SF (hybrid, office-based)",,Physical AI - lidar / perception sensors,https://ouster.applytojob.com/apply/7dmMtkdXW1/Account-Executive-Industrial-Solutions,2026-07-16,,SF,Verified
+<<<<<<< HEAD
+=======
+Cyngn,,,MM,"Menlo Park, CA",Remote-US (unconfirmed),,Physical AI - industrial autonomous vehicles (Enterprise Autonomy Suit,https://jobs.lever.co/cyngn/7e35081e-9725-40c0-accc-89e3975eba2e,2026-07-16,,Remote,Needs check
+Chef Robotics,,$230K+,Ent,"San Francisco, CA",SF-based with remote option,,Physical AI - food/commercial kitchen automation (agtech-adjacent indu,https://jobs.lever.co/ChefRobotics/26711837-e0da-4035-ab70-9571d2cea988,2026-07-16,,Remote,Verified
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
 Chef Robotics,,$230K+,Ent,"San Francisco, CA",Remote (US),,Physical AI - RaaS food-manufacturing automation (robotic food assembl,https://jobs.lever.co/ChefRobotics/1126b88a-318a-4bb5-b2e5-7cb9e7c2ad3c,2026-07-16,,Remote,Verified
 FORT Robotics,,,Ent,"Philadelphia, PA",Remote-US,,"Physical AI - safety/control systems for robots, defense/OEM/automatio",https://job-boards.greenhouse.io/fortrobotics/jobs/4706606005,2026-07-16,,Remote,Verified
 DroneDeploy,,,MM/Ent,"San Francisco, CA",Remote-US,,"Physical AI - aerial autonomy / reality capture (drones, 360/fixed cam",https://jobs.lever.co/dronedeploy/35e22786-0923-4b33-b578-5171058cc0f3,2026-07-16,2026-01-14,Remote,Verified
@@ -381,11 +406,20 @@ VNTANA,,,MM,"Los Angeles, CA",Fully remote (US),,Physical AI - spatial computing
 Spot AI,,"up to $330,000",Ent,"Mountain View / Burlingame, CA",Remote-US,,Physical AI - machine vision (AI coworkers for physical operations),https://jobs.spot.ai/jobs/542272-enterprise-account-executive-remote-west-coast-sf,2026-07-16,,Remote,Verified
 Spot AI,,"$180,000 - $250,000",Ent,"Mountain View / Burlingame, CA",Remote-US,,Physical AI - machine vision (AI coworkers for physical operations),https://jobs.spot.ai/jobs/595429-enterprise-account-executive-remote-east-coast,2026-07-16,,Remote,Verified
 Coram AI,,"$140,000 - $210,000",MM,"San Francisco, CA",Onsite/Hybrid,,Physical AI - machine vision (video security/autonomous physical monit,https://jobs.ashbyhq.com/coram-ai/38bce15a-8b88-47ee-991a-0a992f4ead51,2026-07-16,,NYC,Needs check
+<<<<<<< HEAD
 Scale AI,,,Ent,"San Francisco, CA","Onsite/Hybrid (NYC or SF)",,Physical AI - autonomous vehicles & robotics data/training,https://job-boards.greenhouse.io/scaleai/jobs/4689917005,2026-07-16,2026-04-28,NYC,Verified
+=======
+Scale AI,,"Base ~$140,000-$175,000",Ent,"San Francisco, CA",Onsite/Hybrid (SF or NYC),,Physical AI - autonomous vehicles & robotics data/training,https://job-boards.greenhouse.io/scaleai/jobs/4594769005,2026-07-16,,NYC,Needs check
+DroneDeploy,,"Base $62,250-$92,500 + variable + equity; company-wide AE median ~$205K per RepVue",MM,"San Francisco, CA",Remote-US,,Physical AI - drone/aerial data for construction & infrastructure,https://jobs.lever.co/dronedeploy/6d0695e5-94dc-4b63-be4a-5f91ac8e67df,2026-07-16,,Remote,Needs check
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
 Encord,,,MM,"London, UK (expanding NYC presence)",NYC,,Physical AI - computer vision/multimodal data platform for robotics & ,https://jobs.lever.co/CordTechnologies/85ac4f5e-4c7e-488b-910a-b77764cf1c69,2026-07-16,,NYC,Needs check
 CivilGrid,,"$300,000 - $350,000",Ent,"San Francisco, CA",Remote-US,,Physical AI - geospatial AI / infrastructure monitoring (underground u,https://jobs.ashbyhq.com/civilgrid/a7af8803-c3ff-4722-8f70-631a5d9cb525,2026-07-16,2026-05-22,Remote,Verified
 Buzz Solutions,,,MM/Ent,New York/Remote,Remote-US,,Physical AI - autonomous inspection (AI/computer vision for power line,https://job-boards.greenhouse.io/buzzsolutions/jobs/5198584008,2026-07-16,2026-04-23,Remote,Verified
 Buzz Solutions,,,MM/Ent,New York/Remote,Remote-US,,Physical AI - autonomous inspection (AI/computer vision for power line,https://job-boards.greenhouse.io/buzzsolutions/jobs/5195558008,2026-07-16,2026-04-23,Remote,Verified
+<<<<<<< HEAD
+=======
+Roebling,,"~$180,000 - $300,000",Ent,"New York, NY",Remote-US,,Physical AI - industrial infrastructure / Industry-4.0 automation (AI-,https://jobs.ashbyhq.com/roebling/68c0b660-6c9a-474e-83fe-45a23f8d028d,2026-07-16,,NYC,Needs check
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
 Ouster,,,Ent,"San Francisco, CA",Remote-US,,Physical AI - lidar sensing / machine vision,https://ouster.applytojob.com/apply/w26vMYF2Tb/Account-Executive,2026-07-16,,Remote,Verified
 Tutor Intelligence,,$150K-$200K,MM,"Watertown, MA (Boston metro)","In-office, Watertown MA",,Physical AI - Robotics / Industrial Automation (robotic palletizing),https://jobs.lever.co/tutorintelligence/0e325304-1d44-4354-b1ef-7619ace3a9aa,2026-07-16,,Boston,Verified
 Postman,,"$180,000-$230,000 + equity",MM,"San Francisco, CA","Hybrid, Boston-based",,B2B SaaS - API platform,https://job-boards.greenhouse.io/postman/jobs/7722310003,2026-07-16,,Boston,Verified
@@ -407,5 +441,8 @@ CodeRabbit,,,Ent,San Francisco,Austin-based,,B2B SaaS - AI code review / dev too
 OneCrew,,,SMB/MM,Austin,"In-office, Austin (3 days min)",,B2B SaaS - vertical software for paving/concrete contractors,https://jobs.ashbyhq.com/onecrew/83b5eaf7-ffdd-497e-943a-b10c5c532d2b,2026-07-16,2026-03-10,Austin,Verified
 1Password,,,MM,Toronto,Austin-based,,B2B SaaS - cybersecurity / identity & access management,https://jobs.ashbyhq.com/1Password/4d30b4e9-c586-458c-a982-70a6ca3289a1,2026-07-16,2026-07-09,Austin,Verified
 Strategy,,,Ent,"Tysons, VA",Austin or Houston based,,B2B SaaS - enterprise analytics / BI software,https://jobs.smartrecruiters.com/MicroStrategy1/744000125933819-senior-account-executive,2026-07-16,,Austin,Verified
+<<<<<<< HEAD
 Paragon,,$150-300K,MM/Ent,"San Francisco, CA",Y,,B2B SaaS - embedded workflow automation / native integrations platform,https://jobs.ashbyhq.com/paragon/a2a3f73c-9672-435f-aa7f-0f9c3aa0275a,2026-07-17,2026-07-13,Remote,Verified
 Capchase,,,MM/Ent,"New York, NY",Y,,B2B SaaS - embedded financing / revenue-based financing for SaaS vendors,https://jobs.ashbyhq.com/capchase/ae44ac89-fa89-4ae7-9606-27f0455245df,2026-07-17,2025-08-01,Remote,Verified
+=======
+>>>>>>> 6441115 (Remove Pittsburgh page (thin AE market, no roles))
