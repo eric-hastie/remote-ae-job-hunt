@@ -1343,7 +1343,7 @@ Faire,repvue,83.99,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 UnifyApps,repvue,83.99,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 KCF Technologies,repvue,83.98,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Silverfort,repvue,83.98,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-Dynatrace,repvue,83.98,2026-07-02,Y,RepVue scan: open AE role
+Dynatrace,repvue,83.98,2026-07-17,N,Posting 1358790800 HTTP_DEAD; no US-remote AE replacement found on careers site
 SmartRecruiters,repvue,83.97,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Clarity AI,repvue,83.97,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Riverside.fm,repvue,83.97,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -3509,55 +3509,55 @@ AspenTech,repvue,,2026-07-17,N,Greenhouse boards-api 404; industrial/process opt
 smartShift,repvue,,2026-07-17,N,not B2B SaaS product (SAP modernization consulting firm)
 EverQuote,repvue,,2026-07-17,N,Greenhouse board: only BDR role (no IC AE); insurance marketplace
 Capgemini Engineering,repvue,,2026-07-17,N,not B2B SaaS (engineering/IT consulting; covered under Capgemini entry)
-Tulip Interfaces,repvue,,2026-07-17,N,same company as "Tulip" (line 3048; 2026-07-15); GH board: AE roles Somerville MA hybrid 3d/wk or Japan-remote; not US-remote; manufacturing SaaS
-Interact Software,repvue,,2026-07-17,N,"ATS is Pinpoint HQ (careers.interactsoftware.com); NYC Sr. AE and Enterprise AE exist but cannot be URL-captured via supported ATS JSON API per spec; intranet/employee experience SaaS"
+Tulip Interfaces,repvue,,2026-07-17,N,"same company as ""Tulip"" (line 3048; 2026-07-15); GH board: AE roles Somerville MA hybrid 3d/wk or Japan-remote; not US-remote; manufacturing SaaS"
+Interact Software,repvue,,2026-07-17,N,ATS is Pinpoint HQ (careers.interactsoftware.com); NYC Sr. AE and Enterprise AE exist but cannot be URL-captured via supported ATS JSON API per spec; intranet/employee experience SaaS
 Beacon Hill,repvue,,2026-07-17,N,staffing and recruiting agency; not a B2B SaaS product company
-The Mom Project,repvue,,2026-07-17,N,"no internal AE openings; AE listings on their talent marketplace belong to client companies; only Billing & Payroll Manager listed as internal role"
-Movable Ink,repvue,,2026-07-17,N,"US AE roles either NYC in-office or OTE $135K (below $150K floor); Senior AE in London UK; email personalization SaaS"
+The Mom Project,repvue,,2026-07-17,N,no internal AE openings; AE listings on their talent marketplace belong to client companies; only Billing & Payroll Manager listed as internal role
+Movable Ink,repvue,,2026-07-17,N,US AE roles either NYC in-office or OTE $135K (below $150K floor); Senior AE in London UK; email personalization SaaS
 FinQuery,repvue,,2026-07-17,N,"Lever board (finquery) active; only SDR, CSM, DB Eng, Finance Mgr open; no AE posting; lease/accounting SaaS"
-GoTu,repvue,,2026-07-17,N,"uses Rippling ATS (ats.rippling.com/gotu-careers); only Corporate Controller listed; no AE posting; dental staffing marketplace"
-Catapult,repvue,,2026-07-17,N,"GH board (catapultsports): 33 jobs; zero AE titles; sports performance analytics SaaS"
-Thought Industries,repvue,,2026-07-17,N,"SmartRecruiters board (ThoughtIndustriesInc): only BDR active (job 744000131706425); Enterprise AE posting gone; LMS SaaS"
+GoTu,repvue,,2026-07-17,N,uses Rippling ATS (ats.rippling.com/gotu-careers); only Corporate Controller listed; no AE posting; dental staffing marketplace
+Catapult,repvue,,2026-07-17,N,GH board (catapultsports): 33 jobs; zero AE titles; sports performance analytics SaaS
+Thought Industries,repvue,,2026-07-17,N,SmartRecruiters board (ThoughtIndustriesInc): only BDR active (job 744000131706425); Enterprise AE posting gone; LMS SaaS
 HR Acuity,repvue,,2026-07-17,N,SmartRecruiters board (HRAcuity) returns 0 postings (empty board); HR investigation/case management SaaS
 Flare,repvue,,2026-07-17,N,acquired by MYOB; Greenhouse board inactive/404; HR SaaS now under MYOB brand
 Oracle Marketing Cloud,repvue,,2026-07-17,N,Oracle subsidiary; enterprise IT conglomerate; not a B2B SaaS startup fitting ICP
-Follett,repvue,,2026-07-17,N,"GH board (follettsoftware): Inside Sales AE roles OTE ~$98-135K (below $150K floor); K-12/EdTech software"
-Teads,repvue,,2026-07-17,N,"GH board (teads): only AE is SME NYC hybrid; OTE ~$100-140K (below $150K floor); AdTech/programmatic SaaS (acquired by Outbrain)"
+Follett,repvue,,2026-07-17,N,GH board (follettsoftware): Inside Sales AE roles OTE ~$98-135K (below $150K floor); K-12/EdTech software
+Teads,repvue,,2026-07-17,N,GH board (teads): only AE is SME NYC hybrid; OTE ~$100-140K (below $150K floor); AdTech/programmatic SaaS (acquired by Outbrain)
 Politico,repvue,,2026-07-17,N,media/news company; not a B2B SaaS product company
-Intelex,repvue,,2026-07-17,N,"uses Eightfold via Fortive parent (fortive.eightfold.ai); ATS unresolved per spec (Eightfold not in supported list); AE-Healthcare role exists but URL not capturable; EHS SaaS owned by Fortive"
+Intelex,repvue,,2026-07-17,N,uses Eightfold via Fortive parent (fortive.eightfold.ai); ATS unresolved per spec (Eightfold not in supported list); AE-Healthcare role exists but URL not capturable; EHS SaaS owned by Fortive
 Merrill Edge,repvue,,2026-07-17,N,consumer retail investing platform (Bank of America subsidiary); not a B2B SaaS product company
-AppDirect,repvue,,2026-07-17,N,"GH board exists but populated with Devs.ai/PartnerStack third-party jobs (shared/confused ATS board); AppDirect own ATS unresolved; cloud marketplace SaaS"
+AppDirect,repvue,,2026-07-17,N,GH board exists but populated with Devs.ai/PartnerStack third-party jobs (shared/confused ATS board); AppDirect own ATS unresolved; cloud marketplace SaaS
 Fujitsu,repvue,,2026-07-17,N,multinational enterprise IT conglomerate; not a B2B SaaS startup fitting ICP
 Everest Group,repvue,,2026-07-17,N,IT research and advisory firm; not a B2B SaaS product company
-Preqin,repvue,,2026-07-17,N,"acquired by BlackRock 2025; AE roles now posted under BlackRock at Associate/VP level; not accessible via ATS API; alternative data SaaS absorbed into BlackRock"
+Preqin,repvue,,2026-07-17,N,acquired by BlackRock 2025; AE roles now posted under BlackRock at Associate/VP level; not accessible via ATS API; alternative data SaaS absorbed into BlackRock
 iSolved HCM,repvue,,2026-07-17,N,uses own iSolvedHire ATS platform; ATS unresolved per spec; HCM/payroll SaaS
 twentyAI,repvue,,2026-07-17,N,posts jobs on own website (twentyai.com/job/); ATS unresolved; very early-stage AI SaaS
 Thales,repvue,,2026-07-17,N,"defense/aerospace/industrial conglomerate (parent of ForgeRock, Ping Identity, Imperva acquisitions); not a B2B SaaS startup fitting ICP"
-Awardco,repvue,,2026-07-17,N,"GH board (Awardco): 11 jobs open; zero AE titles; employee recognition/rewards SaaS"
-Transmit Security,repvue,,2026-07-17,Y,"GH board (TransmitSecurity): Strategic AE (job 7903588002) US Remote; OTE $200K-$350K; Enterprise (CIAM/fraud prevention); added to latest.csv 2026-07-17"
+Awardco,repvue,,2026-07-17,N,GH board (Awardco): 11 jobs open; zero AE titles; employee recognition/rewards SaaS
+Transmit Security,repvue,,2026-07-17,Y,GH board (TransmitSecurity): Strategic AE (job 7903588002) US Remote; OTE $200K-$350K; Enterprise (CIAM/fraud prevention); added to latest.csv 2026-07-17
 Beanfield,repvue,,2026-07-17,N,Enterprise AE role exists but Toronto Canada only; not US-remote; fiber internet ISP for commercial buildings; not typical B2B SaaS
-Youreka,repvue,,2026-07-17,N,"no AE openings; Ashby/Lever 404; BuiltIn shows no jobs available; Salesforce-native field service SaaS"
+Youreka,repvue,,2026-07-17,N,no AE openings; Ashby/Lever 404; BuiltIn shows no jobs available; Salesforce-native field service SaaS
 Codefresh,repvue,,2026-07-17,N,acquired by Octopus Deploy; no standalone ATS or AE posting; CI/CD SaaS now under Octopus Deploy brand
 Merrill Lynch,repvue,,2026-07-17,N,consumer/institutional financial services (Bank of America subsidiary); not a B2B SaaS product company
-Salsify,repvue,,2026-07-17,N,"GH board (Salsify): only Global Strategic AE in London UK; zero US AE roles open; product content management SaaS"
-Droplet,repvue,,2026-07-17,N,"GH board (droplet): only 1 job open (non-AE role); no Account Executive posting; early-stage SaaS"
-Labelbox,repvue,,2026-07-17,N,"GH board (labelbox): 14 jobs open; zero AE titles; AI training data platform"
+Salsify,repvue,,2026-07-17,N,GH board (Salsify): only Global Strategic AE in London UK; zero US AE roles open; product content management SaaS
+Droplet,repvue,,2026-07-17,N,GH board (droplet): only 1 job open (non-AE role); no Account Executive posting; early-stage SaaS
+Labelbox,repvue,,2026-07-17,N,GH board (labelbox): 14 jobs open; zero AE titles; AI training data platform
 Tecton,repvue,,2026-07-17,N,acquired by Databricks (late 2025); tecton.ai redirects to Databricks careers; feature store/ML SaaS now under Databricks
-Call Box,repvue,,2026-07-17,N,"ATS unresolved (GH/Ashby/Lever all 404); uses own ATS at join.callboxinc.com; call tracking/analytics SaaS for auto dealerships"
-Eagle Eye Networks,repvue,,2026-07-17,N,same company as ""Eagle Eye"" (line 722; 2026-06-30); no qualifying AE role; video surveillance SaaS
-Greenlight,repvue,,2026-07-17,N,"GH board (GreenlightGuru): only UK-based AE; zero US AE roles; medical device quality management SaaS"
-Wayflyer,repvue,,2026-07-17,N,"Ashby board (wayflyer): only AE is Charlotte NC hybrid 3-4 days/week; disqualified by explicit in-office cadence; e-commerce revenue financing SaaS"
+Call Box,repvue,,2026-07-17,N,ATS unresolved (GH/Ashby/Lever all 404); uses own ATS at join.callboxinc.com; call tracking/analytics SaaS for auto dealerships
+Eagle Eye Networks,repvue,,2026-07-17,N,"same company as """"Eagle Eye"""" (line 722; 2026-06-30); no qualifying AE role; video surveillance SaaS"
+Greenlight,repvue,,2026-07-17,N,GH board (GreenlightGuru): only UK-based AE; zero US AE roles; medical device quality management SaaS
+Wayflyer,repvue,,2026-07-17,N,Ashby board (wayflyer): only AE is Charlotte NC hybrid 3-4 days/week; disqualified by explicit in-office cadence; e-commerce revenue financing SaaS
 JazzHR,repvue,,2026-07-17,N,"acquired by Employ Inc.; JazzHR brand has no direct job listings; Employ's own AE posting is ""Associate AE"" (entry-level, below 4+ yr ICP bar); recruiting software SaaS"
 Quorum Analytics,repvue,,2026-07-17,N,"ATS unresolved (GH slug ""quorum"" 404; board dynamically loaded); Ashby posting-api shows only BDR/AM (posting-api blind spot); most recent AE (Public Sector, Jan 2026) dead in API; government affairs SaaS"
-Axonify,repvue,,2026-07-17,N,"migrated from Lever to Gem ATS (jobs.gem.com/axonify); Lever board dead (Document not found); no verifiable live AE posting via supported ATS API; frontline enablement/training SaaS"
-Accushield,repvue,,2026-07-17,N,"email-only hiring (jobs@accushield.com); no AE listed; only PM and Customer Support open; senior living visitor management SaaS"
-CREXi,repvue,,2026-07-17,N,"GH board (CREXi): 4 AE roles (Intelligence/Pro) all in Los Angeles or Miami only; not US-remote; OTE unverified; commercial real estate transaction marketplace"
-New Relic,repvue,,2026-07-17,Y,"GH board (NewRelic): AE Expansion (West) (job 5258556008); US Remote; OTE $200K-$237K; Enterprise; added to latest.csv 2026-07-17"
+Axonify,repvue,,2026-07-17,N,migrated from Lever to Gem ATS (jobs.gem.com/axonify); Lever board dead (Document not found); no verifiable live AE posting via supported ATS API; frontline enablement/training SaaS
+Accushield,repvue,,2026-07-17,N,email-only hiring (jobs@accushield.com); no AE listed; only PM and Customer Support open; senior living visitor management SaaS
+CREXi,repvue,,2026-07-17,N,GH board (CREXi): 4 AE roles (Intelligence/Pro) all in Los Angeles or Miami only; not US-remote; OTE unverified; commercial real estate transaction marketplace
+New Relic,repvue,,2026-07-17,Y,GH board (NewRelic): AE Expansion (West) (job 5258556008); US Remote; OTE $200K-$237K; Enterprise; added to latest.csv 2026-07-17
 DATIS HR Cloud,repvue,,2026-07-17,N,"Workable board (continuumcloud) JS-rendered/API 404; OTE opaque (roles geo-restricted: NY state, California, Nashville); behavioral health HCM/EHR SaaS (ContinuumCloud parent brand)"
-Workable,repvue,,2026-07-17,N,"self-hosted Workable board (apply.workable.com/careers/): API 404; Enterprise AE (New Business) location/OTE unverified; Senior AE confirmed Boston in-office; recruiting/ATS platform SaaS"
+Workable,repvue,,2026-07-17,N,self-hosted Workable board (apply.workable.com/careers/): API 404; Enterprise AE (New Business) location/OTE unverified; Senior AE confirmed Boston in-office; recruiting/ATS platform SaaS
 Netscout,repvue,,2026-07-17,N,office-based roles; comp below $150K floor; network performance monitoring/cybersecurity
-Lexia Learning,repvue,,2026-07-17,N,"uses Workday via Cambium Learning Group parent (ATS unresolved per spec); K-12 EdTech only; OTE ~$120-160K (below floor); average deal size ~$15K; literacy software"
-TechnologyAdvice,repvue,,2026-07-17,N,"GH board (Technologyadvice): only Account Director (Australia); zero US AE roles; B2B tech media/demand-gen company"
+Lexia Learning,repvue,,2026-07-17,N,uses Workday via Cambium Learning Group parent (ATS unresolved per spec); K-12 EdTech only; OTE ~$120-160K (below floor); average deal size ~$15K; literacy software
+TechnologyAdvice,repvue,,2026-07-17,N,GH board (Technologyadvice): only Account Director (Australia); zero US AE roles; B2B tech media/demand-gen company
 Gradle Inc.,repvue,,2026-07-17,N,Greenhouse board (job-boards.greenhouse.io/gradle) exists but no AE role; developer build automation tool
 Visible Alpha,repvue,,2026-07-17,N,ATS unresolved; financial data analytics SaaS for institutional investors
 Prezi,repvue,,2026-07-17,N,no AE currently open; presentation software SaaS
@@ -3708,3 +3708,53 @@ Cook Medical,repvue,,2026-07-17,N,medical device manufacturer; not B2B SaaS
 DHL Express,repvue,,2026-07-17,N,logistics/shipping; not B2B SaaS
 Finalsite,repvue,,2026-07-17,N,school website/CMS SaaS; no AE found on main ATS platforms
 Unibuddy,repvue,,2026-07-17,N,UK EdTech (student engagement SaaS); ATS unresolved (Ashby 404)
+"LEAF Commercial Capital, Inc.",repvue,,2026-07-17,N,"commercial finance company, not B2B SaaS"
+apexanalytix,repvue,,2026-07-17,N,ATS unresolved; no AE found on Greenhouse/Lever/Ashby
+hackajob,repvue,,2026-07-17,N,"UK tech recruiting marketplace, not US B2B SaaS"
+Biofourmis,repvue,,2026-07-17,N,"ATS unresolved; digital health/RPM, no AE posting found"
+OPSWAT,repvue,,2026-07-17,N,"security appliance/hardware, 7+ yrs req, Western US geo only, not pure B2B SaaS"
+RLDatix,repvue,,2026-07-17,N,ATS unresolved; Lever/Greenhouse/Ashby 404
+Boomi,repvue,,2026-07-17,N,ATS unresolved; no AE found on Greenhouse/Lever search
+Birdeye,repvue,,2026-07-17,N,no AE on Workable board (empty jobs)
+Guardant Health,repvue,,2026-07-17,N,"oncology diagnostics company, not B2B SaaS"
+Coupa Software,repvue,,2026-07-17,N,no US-remote IC AE on Lever; only Account Director expansion/international roles
+CareerStep,repvue,,2026-07-17,N,"online healthcare training, not B2B SaaS"
+TUNE,repvue,,2026-07-17,N,acquired by Partnerize 2021
+FTSE Russell,repvue,,2026-07-17,N,"financial index provider, not B2B SaaS"
+Upgrad,repvue,,2026-07-17,N,"India-focused edtech, not US B2B SaaS"
+Logicbroker,repvue,,2026-07-17,N,ATS unresolved; only BDR on own site; AE seen only on LinkedIn aggregator
+Oracle Netsuite,repvue,,2026-07-17,N,"Oracle/Taleo ATS, not accessible via standard APIs; Greenhouse slug 404"
+Social Solutions,repvue,,2026-07-17,N,ATS unresolved; now Bonterra; Greenhouse/Lever search returned no AE
+Island,repvue,,2026-07-17,N,pipeline/future-role post only on island.io; no current open AE posting
+Snowplow,repvue,,2026-07-17,N,no AE on Lever board; has Senior Sales Engineer only
+AppViewX,repvue,,2026-07-17,N,ATS unresolved; no AE found on Greenhouse/Lever/Ashby
+Constellation Software,repvue,,2026-07-17,N,"holding company / software conglomerate, not a SaaS AE target"
+Toptal,repvue,,2026-07-17,N,"staffing/freelance marketplace, not B2B SaaS"
+Calendly,repvue,,2026-07-17,N,no AE on Greenhouse/Lever/Ashby boards
+Heartland Business Systems,repvue,,2026-07-17,N,"IT services/MSP, not B2B SaaS"
+Staffmark,repvue,,2026-07-17,N,"staffing company, not B2B SaaS"
+WorkEasy Software,repvue,,2026-07-17,N,ATS unresolved; no AE posting found
+Matterport,repvue,,2026-07-17,N,AE role only in Japan/Tokyo on Lever; no US-remote AE
+Research Solutions,repvue,,2026-07-17,N,ATS unresolved; no AE posting found
+Malt,repvue,,2026-07-17,N,"French freelance marketplace, non-US market"
+TRG Screen,repvue,,2026-07-17,N,"UK financial data subscription mgmt, not US market focused"
+Collibra,repvue,,2026-07-17,N,no AE on Greenhouse board; Lever 404
+Zilliant,repvue,,2026-07-17,N,"ATS unresolved; Ashby 404, Greenhouse no AE"
+ABBYY,repvue,,2026-07-17,N,no AE on Greenhouse; only backend/dev/marketing roles
+Case IQ,repvue,,2026-07-17,N,ATS unresolved; Ashby slug iSight 404
+Cardlytics,repvue,,2026-07-17,N,ATS unresolved; Lever/Greenhouse 404
+Traceable.ai,repvue,,2026-07-17,N,acquired by Akamai 2024; Greenhouse board traceableinc 404
+EdgeTier,repvue,,2026-07-17,N,Irish company; no AE on Ashby board; direct AE URLs show full board (dead)
+Anteriad,repvue,,2026-07-17,N,no AE on Greenhouse board; only Director/VP level sales and engineering
+Bridgepointe Technologies,repvue,,2026-07-17,N,"IT procurement broker, not B2B SaaS"
+Finally,repvue,,2026-07-17,N,ATS unresolved; no AE found
+"Kerecis, LLC",repvue,,2026-07-17,N,"fish-skin wound healing products, not B2B SaaS"
+NWN,repvue,,2026-07-17,N,"IT services/MSP, not B2B SaaS"
+Aurora Solar,repvue,,2026-07-17,N,AE role only in Germany/Europe; no US-remote AE on Ashby
+"HireVue, Inc.",repvue,,2026-07-17,N,"ATS unresolved; Greenhouse HireVueInc 404, Ashby hirevue 404"
+Brinqa,repvue,,2026-07-17,N,no AE on Greenhouse; only Senior Sales Engineers
+Fresenius Medical Care,repvue,,2026-07-17,N,"healthcare/dialysis company, not B2B SaaS"
+Lux Research,repvue,,2026-07-17,N,"research advisory firm, not B2B SaaS"
+Ziff Davis,repvue,,2026-07-17,N,"digital media company, not B2B SaaS"
+Civitas Learning,repvue,,2026-07-17,Y,"IC AE, Remote-US, ~$200K OTE, higher-ed SaaS; Greenhouse job 5084090007"
+Quartile,repvue,,2026-07-17,N,ATS unresolved; Sidecar slug 404 on all ATSes tried
