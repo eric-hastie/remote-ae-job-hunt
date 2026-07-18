@@ -3908,3 +3908,53 @@ Yellowfin BI,repvue,,2026-07-18,N,BI analytics platform; no qualifying AE found 
 Livestorm,repvue,,2026-07-18,N,EU-based Enterprise AE (Paris remote); not US remote
 Abrigo,repvue,,2026-07-18,N,community banking risk SaaS; no qualifying AE found on ATS boards
 ETRADE by Morgan Stanley,repvue,,2026-07-18,N,financial brokerage; not B2B SaaS
+Monetate,repvue,,2026-07-18,N,ATS unresolved; personalization/recommendation SaaS; no board found on GH/Ashby/Lever
+Vultr,repvue,,2026-07-18,N,"AE posting on Ashby but content unconfirmed; cloud IaaS, borderline B2B SaaS"
+Network for Good,repvue,,2026-07-18,N,ATS unresolved; nonprofit fundraising SaaS
+Blue Bite,repvue,,2026-07-18,N,ATS unresolved; IoT mobile marketing platform
+Applause,repvue,,2026-07-18,N,ATS unresolved; software testing SaaS/services
+Technology Associates,repvue,,2026-07-18,N,ATS unresolved; unclear company profile
+Vertafore,repvue,,2026-07-18,Y,Strategic AE (MGA Strategic) Remote US; insurance SaaS; hirebridge ATS
+Mitel,repvue,,2026-07-18,N,ATS unresolved; UCaaS (acquired by Atos)
+Amboss,repvue,,2026-07-18,N,Ashby board found but no AE roles; medical knowledge SaaS for clinicians
+Dayshape,repvue,,2026-07-18,N,ATS unresolved; PSA/resource management SaaS (UK-based)
+Trulioo,repvue,,2026-07-18,Y,Enterprise AE Remote US OTE $250-300K; identity verification SaaS; Ashby
+eBacon,repvue,,2026-07-18,N,ATS unresolved; construction payroll/compliance SaaS
+ClearOne Advantage,repvue,,2026-07-18,N,not B2B SaaS; debt relief services
+United Rentals,repvue,,2026-07-18,N,not B2B SaaS; equipment rental company
+Stack Overflow,repvue,,2026-07-18,Y,Strategic AE Remote US Ent; developer Q&A / enterprise knowledge SaaS; Greenhouse
+Cox Media,repvue,,2026-07-18,N,not B2B SaaS; traditional media/digital advertising company
+Restaurant Technologies,repvue,,2026-07-18,N,ATS unresolved; foodservice automation/fryer oil management SaaS/IoT
+DuploCloud,repvue,,2026-07-18,Y,AE Remote US OTE $230-260K SMB/MM; cloud DevSecOps automation SaaS; Rippling ATS
+Cox Automotive,repvue,,2026-07-18,N,AE OTE ~$130K (base $59-88K + $70K commission); below $150K threshold; automotive dealer SaaS
+Clarifai,repvue,,2026-07-18,N,ATS unresolved; AI vision/multimodal ML SaaS
+Nanonets,repvue,,2026-07-18,N,AE hybrid Palo Alto 2x/week in-office required; document AI SaaS
+Uber,repvue,,2026-07-18,N,not B2B SaaS; rideshare/delivery/logistics platform
+BoomCloud,repvue,,2026-07-18,N,ATS unresolved; dental membership management SaaS (small)
+Digital.ai,repvue,,2026-07-18,N,ATS unresolved; DevOps intelligence/value stream SaaS
+Alight,repvue,,2026-07-18,N,ATS unresolved (Workday likely); HR benefits administration SaaS
+Airgas,repvue,,2026-07-18,N,not B2B SaaS; industrial gas distribution (Air Liquide subsidiary)
+Univar Solutions,repvue,,2026-07-18,N,not B2B SaaS; chemical distribution company
+Auctane,repvue,,2026-07-18,N,no qualifying AE on Greenhouse board; Atlanta AE found but wrong location; ecommerce shipping SaaS
+Omnissa,repvue,,2026-07-18,Y,Strategic AE NYC+SF OTE $280-400K Ent 5-10yr; workspace/endpoint mgmt SaaS (fmr VMware EUC/Broadcom)
+EveryoneSocial,repvue,,2026-07-18,N,ATS unresolved; employee advocacy/social selling SaaS
+Linq App,repvue,,2026-07-18,N,no AE roles on Ashby board (linqapp); digital business card/networking SaaS
+Snap,repvue,,2026-07-18,N,not B2B SaaS; social media platform (consumer + B2B advertising)
+Blend,repvue,,2026-07-18,N,no live AE on Greenhouse board; Lever URL 403; lending/banking workflow SaaS
+Vaco,repvue,,2026-07-18,N,not B2B SaaS; staffing/talent solutions firm
+SPINS,repvue,,2026-07-18,N,ATS unresolved; retail/CPG analytics data SaaS
+Planday,repvue,,2026-07-18,N,"ATS unresolved; workforce scheduling SaaS (Danish, part of Xero)"
+JWX,repvue,,2026-07-18,N,ATS unresolved; JW Player video hosting/streaming SaaS
+LoyaltyLion,repvue,,2026-07-18,N,ATS unresolved; ecommerce loyalty SaaS (UK-based)
+Ingram Micro,repvue,,2026-07-18,N,not B2B SaaS; IT distribution/reseller
+Springbuk,repvue,,2026-07-18,N,ATS unresolved; health benefits analytics SaaS
+Gloat,repvue,,2026-07-18,N,ATS unresolved; AI talent marketplace SaaS
+TD Synnex,repvue,,2026-07-18,N,not B2B SaaS; IT distribution/reseller (TechData)
+Intermedia,repvue,,2026-07-18,N,AE Remote US exists but comp $90-110K (below $150K OTE floor); UCaaS cloud comms SaaS
+Pandora,repvue,,2026-07-18,N,not B2B SaaS; music streaming platform
+Particular Audience,repvue,,2026-07-18,N,ATS unresolved; retail AI personalization SaaS
+BrowserStack,repvue,,2026-07-18,N,ATS unresolved (Workday returns empty); cross-browser software testing SaaS
+Plauti,repvue,,2026-07-18,N,AE posting URL dead (404); Salesforce data quality SaaS
+"RQI Partners, LLC",repvue,,2026-07-18,N,not B2B SaaS; resuscitation quality improvement healthcare organization
+Avochato,repvue,,2026-07-18,N,AE role exists (SF) but SMB segment 25-250 employees and <4yr requirement; SMS messaging SaaS
+Edward Jones,repvue,,2026-07-18,N,not B2B SaaS; financial advisory brokerage
