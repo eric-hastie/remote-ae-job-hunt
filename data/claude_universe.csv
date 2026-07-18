@@ -403,7 +403,7 @@ Kuebix By FreightWise,repvue,90.62,2026-07-09,N,re-check: ATS unresolved
 Loop Returns,repvue,90.61,2026-07-09,Y,Enterprise AE US-remote; OTE ~$241K; Lever loopreturns board
 ZenQMS,repvue,90.59,2026-07-09,N,re-check: ATS unresolved
 Brainshark,repvue,90.57,2026-07-09,N,re-check: acquired by Bigtincan 2021 (defunct standalone)
-Ketch,repvue,90.57,2026-07-09,Y,Enterprise AE Remote-USA; OTE $300-350K; Lever board
+Ketch,repvue,90.57,2026-07-18,Y,Enterprise AE Remote-USA; OTE $300-350K; Lever board; URL updated 2026-07-18
 Pulley,repvue,90.56,2026-07-09,N,"re-check: Greenhouse/Ashby boards found, no AE roles"
 Verusen,repvue,90.51,2026-07-09,N,"re-check: Greenhouse board found, only Associate AE (not IC AE)"
 Cycle Labs,repvue,90.50,2026-07-09,N,re-check: ATS unresolved
@@ -3808,3 +3808,53 @@ BMC Software,repvue,,2026-07-18,N,enterprise IT management SaaS; custom careers 
 Bushel,repvue,,2026-07-18,N,agtech SaaS for grain/agriculture; niche vertical
 Wildix,repvue,,2026-07-18,N,UCaaS; primarily European company; ATS unresolved
 All Covered,repvue,,2026-07-18,N,IT managed services (Konica Minolta); not SaaS
+Formlabs,repvue,,2026-07-18,N,No AE roles; primarily 3D printing hardware; Greenhouse board checked
+J.J. Keller,repvue,,2026-07-18,N,Compliance/EHS training; ATS unresolved
+ETQ,repvue,,2026-07-18,N,Acquired by Octave (rebranded Octave Reliance)
+Incident IQ,repvue,,2026-07-18,N,K-12 SaaS; Greenhouse board live; no AE currently
+Eightfold,repvue,,2026-07-18,N,AI talent intelligence; custom ATS (app.eightfold.ai); no AE found
+NextLot,repvue,,2026-07-18,N,Niche auction platform; not core B2B SaaS target; ATS unresolved
+MountainSeed,repvue,,2026-07-18,N,Niche bank technology; ATS unresolved
+COMPLY,repvue,,2026-07-18,N,Lever board (/comply): no AE; only SDR and consulting roles
+MARKT-PILOT,repvue,,2026-07-18,N,Industrial spare parts pricing SaaS; ATS unresolved
+Sitetracker,repvue,,2026-07-18,N,Field service SaaS; Lever board: no AE (Account Manager + SDR only)
+Amergis,repvue,,2026-07-18,N,Healthcare staffing; not B2B SaaS
+Sunbelt Rentals,repvue,,2026-07-18,N,Equipment rental; not B2B SaaS
+Xeneta,repvue,,2026-07-18,N,Ocean freight intelligence SaaS; no open positions (Workable empty; Pinpoint HQ: no jobs)
+Clevry,repvue,,2026-07-18,N,Nordic/Sweden HR assessment; no US AE roles found
+Tesla,repvue,,2026-07-18,N,Automotive/EV; not B2B SaaS
+Gainsight,repvue,,2026-07-18,N,Customer success SaaS; Ashby board: only EMEA/London AE; no US AE
+ZenGRC,repvue,,2026-07-18,N,GRC SaaS (Reciprocity); acquired by LogicGate; ATS unresolved
+Safe Security,repvue,,2026-07-18,N,Cybersecurity SaaS; Lever (/safe): Enterprise AE exists but requires 8+ yrs; above bar
+EdCast,repvue,,2026-07-18,N,LXP; acquired by Cornerstone OnDemand (2022)
+Jabra,repvue,,2026-07-18,N,Audio hardware (GN Audio); not B2B SaaS
+Cloudbeds,repvue,,2026-07-18,N,Hospitality management SaaS; ATS unresolved (JS-heavy site; not on standard ATS boards)
+Gallagher,repvue,,2026-07-18,N,Arthur J. Gallagher insurance broker; not B2B SaaS
+SearchStax,repvue,,2026-07-18,N,Search-as-a-service SaaS; Ashby posting-api blind spot; direct AE posting URLs dead
+Realtor.com,repvue,,2026-07-18,N,Real estate portal (News Corp); ATS unresolved
+CB Insights,repvue,,2026-07-18,Y,Senior AE NYC Ent; Greenhouse cbinsights/jobs/6379605; posted 2026-01-29
+Dallas Stars,repvue,,2026-07-18,N,NHL hockey team; not B2B SaaS
+120Water,repvue,,2026-07-18,N,Water utility management SaaS; ATS unresolved
+AutoTrader.ca,repvue,,2026-07-18,N,Canadian auto marketplace; not US market
+LG Electronics,repvue,,2026-07-18,N,Consumer electronics manufacturer; not B2B SaaS
+STORD,repvue,,2026-07-18,N,Supply chain SaaS; ATS unresolved (not on Greenhouse/Ashby/Lever)
+Audicus,repvue,,2026-07-18,N,Hearing aid company; not B2B SaaS
+VC3,repvue,,2026-07-18,N,Managed IT services provider; not SaaS product company
+Caspio,repvue,,2026-07-18,N,Low-code database platform; ATS unresolved
+Maropost,repvue,,2026-07-18,N,Marketing automation SaaS; no open positions on Workable
+Fundera,repvue,,2026-07-18,N,SMB lending; acquired by NerdWallet (~2021)
+Chicago Fire FC,repvue,,2026-07-18,N,MLS soccer team; not B2B SaaS
+SAS,repvue,,2026-07-18,N,SAS Institute analytics software; private company; ATS unresolved
+SmartRent,repvue,,2026-07-18,N,Smart home for rental SaaS; Greenhouse: no AE (only Sales Directors)
+Electric,repvue,,2026-07-18,N,IT management SaaS; Ashby board: no AE (only Tech Solutions Eng + SW Eng)
+C.H. Robinson Worldwide,repvue,,2026-07-18,N,Freight broker/logistics; not B2B SaaS
+Rev,repvue,,2026-07-18,N,Transcription/captioning SaaS; acquired by AssemblyAI (2025)
+Fingerprint,repvue,,2026-07-18,Y,Enterprise AE Remote; OTE $250-300K; Greenhouse fingerprint/jobs/5826228004
+Reuters,repvue,,2026-07-18,N,News media (Thomson Reuters); not B2B SaaS
+InterSystems,repvue,,2026-07-18,N,Data management platform; private company; ATS unresolved
+Dustin,repvue,,2026-07-18,N,Nordic IT products reseller; not US-focused B2B SaaS
+Stack Sports,repvue,,2026-07-18,N,Sports tech platform; ATS unresolved; niche vertical
+OrderMyGear,repvue,,2026-07-18,N,Team sports merch SaaS; no open positions on Workable
+MSP360,repvue,,2026-07-18,N,IT backup/management SaaS; ATS unresolved
+Globalization Partners,repvue,,2026-07-18,N,Employer-of-record (G-P); Greenhouse: no AE (only BDR/Digital Sales/Finance)
+Boostly,repvue,,2026-07-18,N,UK hospitality SaaS; not US market
