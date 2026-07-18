@@ -3958,3 +3958,53 @@ Plauti,repvue,,2026-07-18,N,AE posting URL dead (404); Salesforce data quality S
 "RQI Partners, LLC",repvue,,2026-07-18,N,not B2B SaaS; resuscitation quality improvement healthcare organization
 Avochato,repvue,,2026-07-18,N,AE role exists (SF) but SMB segment 25-250 employees and <4yr requirement; SMS messaging SaaS
 Edward Jones,repvue,,2026-07-18,N,not B2B SaaS; financial advisory brokerage
+Rand Worldwide,repvue,,2026-07-18,N,not B2B SaaS (CAD/PLM services company)
+Decisions,repvue,,2026-07-18,N,Greenhouse board found; only Bolivia ops/data roles - no US AE
+Agility Recovery,repvue,,2026-07-18,N,ATS unresolved - no AE found on Greenhouse/Ashby/Lever
+Extreme Networks,repvue,,2026-07-18,N,not pure B2B SaaS (networking hardware+SaaS hybrid; AE roles exist but sell full hardware stack)
+Frends,repvue,,2026-07-18,N,EMEA-focused iPaaS; no US-remote AE (Workopolis shows Canada/EMEA only)
+GoComet,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (India HQ logistics SaaS)
+Causeway Technologies,repvue,,2026-07-18,N,ATS unresolved - UK construction tech; no US-remote AE found
+MURAL,repvue,,2026-07-18,N,AE roles confirmed on Ashby (posting-api blind spot) but URL not capturable per spec rules; needs manual verify
+Denim,repvue,,2026-07-18,N,not standard B2B SaaS (freight factoring fintech for SMB carriers/truckers)
+"Compliancy Group",repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (HIPAA compliance SaaS)
+Vasion,repvue,,2026-07-18,N,Workable board found; only APAC/UK&I AE roles; no US-remote AE
+OSF Digital,repvue,,2026-07-18,N,not B2B SaaS (Salesforce consulting/SI services)
+Housecall Pro,repvue,,2026-07-18,N,ATS unresolved - AE roles exist per aggregators but ATS board not found via API/search
+Karl Storz,repvue,,2026-07-18,N,not B2B SaaS (medical devices/endoscopy hardware)
+Temenos,repvue,,2026-07-18,N,not standard B2B SaaS (enterprise banking platform; Swiss; specialist enterprise only)
+LivaNova,repvue,,2026-07-18,N,not B2B SaaS (medical devices)
+"Shamrock Trading Corporation",repvue,,2026-07-18,N,not B2B SaaS (financial services/transportation)
+Knak,repvue,,2026-07-18,N,Greenhouse board found; no US AE (Canada-only roles)
+ArcBest,repvue,,2026-07-18,N,not B2B SaaS (freight/logistics company)
+Shaw Business,repvue,,2026-07-18,N,not B2B SaaS (telecom)
+Wandz.ai,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (Namogoo renamed; personalization SaaS)
+Spark Hire,repvue,,2026-07-18,N,ATS unresolved - no AE found on Greenhouse/Ashby/Lever
+Logitech,repvue,,2026-07-18,N,not B2B SaaS (consumer/enterprise hardware peripherals)
+GrammaTech,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (code security/SAST; defense-focused)
+Zimmer Biomet,repvue,,2026-07-18,N,not B2B SaaS (orthopedic medical devices)
+"CoStar Group, Inc.",repvue,,2026-07-18,N,Greenhouse board found; no AE roles (only generic/intern slots)
+"AdRoll ABM, a brand of NextRoll",repvue,,2026-07-18,N,Greenhouse board found; no AE roles (only SDR future opening)
+Zycus,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (India HQ procurement SaaS)
+Reputation.com,repvue,,2026-07-18,N,ATS unresolved - no AE found on Greenhouse/Lever/Ashby
+Aruza Marketing,repvue,,2026-07-18,N,not B2B SaaS (pest control/marketing services)
+Mollie,repvue,,2026-07-18,N,not US-remote (EMEA payments company; no US AE)
+Comdata,repvue,,2026-07-18,N,not B2B SaaS (fleet payment processing/fuel cards)
+ServPro,repvue,,2026-07-18,N,not B2B SaaS (restoration services franchise)
+Clinisys,repvue,,2026-07-18,N,only international AE found (not US-remote); healthcare lab informatics
+BENlabs,repvue,,2026-07-18,N,not standard B2B SaaS (AI entertainment marketing/product placement)
+Bosch,repvue,,2026-07-18,N,not B2B SaaS (industrial conglomerate/hardware)
+Bambee,repvue,,2026-07-18,N,ATS unresolved - no AE found; SMB HR services (likely below OTE threshold)
+onPhase,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (AP automation SaaS; slug DocuPhase)
+Clyde,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (extended warranty SaaS)
+Myriad Genetics,repvue,,2026-07-18,N,not B2B SaaS (genetic testing/diagnostics)
+Enhesa,repvue,,2026-07-18,N,Greenhouse board found; Enterprise AE present but not confirmed remote US (Arlington VA primary office); base $90-110K (OTE unspecified)
+"Design Collective by Cintas",repvue,,2026-07-18,N,not B2B SaaS (workwear/uniform design)
+Betterment,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (B2B 401k via Betterment for Work)
+"Safe Haven Security Services, LLC.",repvue,,2026-07-18,N,not B2B SaaS (residential/commercial security services)
+Knowde,repvue,,2026-07-18,N,AE role was posted ($300K OTE Remote US enterprise) but Greenhouse board now empty (role filled/removed 2026-07-18)
+Rapid Finance,repvue,,2026-07-18,N,not B2B SaaS (small business lending/MCA)
+Clearlink,repvue,,2026-07-18,N,not B2B SaaS (digital marketing/comparison site agency)
+Pagefreezer,repvue,,2026-07-18,N,SMB-only AE; Canada HQ (no US-remote MM AE)
+IANS,repvue,,2026-07-18,N,not standard B2B SaaS (cybersecurity research/advisory subscription service)
+"EVO Payments, Inc.",repvue,,2026-07-18,N,not B2B SaaS (payment processing/merchant services)
