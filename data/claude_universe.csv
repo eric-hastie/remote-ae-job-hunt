@@ -3967,14 +3967,14 @@ GoComet,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (India
 Causeway Technologies,repvue,,2026-07-18,N,ATS unresolved - UK construction tech; no US-remote AE found
 MURAL,repvue,,2026-07-18,N,AE roles confirmed on Ashby (posting-api blind spot) but URL not capturable per spec rules; needs manual verify
 Denim,repvue,,2026-07-18,N,not standard B2B SaaS (freight factoring fintech for SMB carriers/truckers)
-"Compliancy Group",repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (HIPAA compliance SaaS)
+Compliancy Group,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (HIPAA compliance SaaS)
 Vasion,repvue,,2026-07-18,N,Workable board found; only APAC/UK&I AE roles; no US-remote AE
 OSF Digital,repvue,,2026-07-18,N,not B2B SaaS (Salesforce consulting/SI services)
 Housecall Pro,repvue,,2026-07-18,N,ATS unresolved - AE roles exist per aggregators but ATS board not found via API/search
 Karl Storz,repvue,,2026-07-18,N,not B2B SaaS (medical devices/endoscopy hardware)
 Temenos,repvue,,2026-07-18,N,not standard B2B SaaS (enterprise banking platform; Swiss; specialist enterprise only)
 LivaNova,repvue,,2026-07-18,N,not B2B SaaS (medical devices)
-"Shamrock Trading Corporation",repvue,,2026-07-18,N,not B2B SaaS (financial services/transportation)
+Shamrock Trading Corporation,repvue,,2026-07-18,N,not B2B SaaS (financial services/transportation)
 Knak,repvue,,2026-07-18,N,Greenhouse board found; no US AE (Canada-only roles)
 ArcBest,repvue,,2026-07-18,N,not B2B SaaS (freight/logistics company)
 Shaw Business,repvue,,2026-07-18,N,not B2B SaaS (telecom)
@@ -3999,7 +3999,7 @@ onPhase,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (AP au
 Clyde,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (extended warranty SaaS)
 Myriad Genetics,repvue,,2026-07-18,N,not B2B SaaS (genetic testing/diagnostics)
 Enhesa,repvue,,2026-07-18,N,Greenhouse board found; Enterprise AE present but not confirmed remote US (Arlington VA primary office); base $90-110K (OTE unspecified)
-"Design Collective by Cintas",repvue,,2026-07-18,N,not B2B SaaS (workwear/uniform design)
+Design Collective by Cintas,repvue,,2026-07-18,N,not B2B SaaS (workwear/uniform design)
 Betterment,repvue,,2026-07-18,N,ATS unresolved - no AE found on major boards (B2B 401k via Betterment for Work)
 "Safe Haven Security Services, LLC.",repvue,,2026-07-18,N,not B2B SaaS (residential/commercial security services)
 Knowde,repvue,,2026-07-18,N,AE role was posted ($300K OTE Remote US enterprise) but Greenhouse board now empty (role filled/removed 2026-07-18)
@@ -4258,3 +4258,53 @@ Apex Systems,repvue,,2026-07-19,N,IT staffing firm; not B2B SaaS
 Panasonic,repvue,,2026-07-19,N,electronics manufacturer; not B2B SaaS
 Omron Automation,repvue,,2026-07-19,N,industrial automation; not B2B SaaS
 DHL,repvue,,2026-07-19,N,logistics/shipping; not B2B SaaS
+Marketstar,repvue,,2026-07-19,N,not B2B SaaS (outsourced sales/marketing company)
+Insperity,repvue,,2026-07-19,N,not B2B SaaS (PEO/HR services)
+Aisera,repvue,,2026-07-19,N,Enterprise AE roles city-specific only (Atlanta/Philly/Chicago); remote roles expired; no qualifying-city AE
+Circle K Pro,repvue,,2026-07-19,N,not B2B SaaS (convenience store chain)
+IEWC,repvue,,2026-07-19,N,not B2B SaaS (industrial wire/cable distributor)
+Quinyx,repvue,,2026-07-19,N,Swedish workforce management SaaS; no US AE found (primarily EU market)
+Pubnub,repvue,,2026-07-19,N,no AE role (confirmed via Greenhouse board)
+Management Events,repvue,,2026-07-19,N,not B2B SaaS (B2B events/matchmaking company)
+Springer Nature,repvue,,2026-07-19,N,not B2B SaaS (academic publisher)
+1E,repvue,,2026-07-19,N,ATS unresolved; endpoint management SaaS acquired by Tanium 2022
+Responsive,repvue,,2026-07-19,N,no AE open (only ADR on careers page); RFP response management SaaS
+"Prism Medical Products, LLC",repvue,,2026-07-19,N,not B2B SaaS (medical products manufacturer)
+Guidewheel,repvue,,2026-07-19,Y,"MM AE, Remote US, OTE $170K-200K; Physical AI - industrial IoT/FactoryOps"
+Akeyless Security,repvue,,2026-07-19,N,US/NY Enterprise AE role expired; no current qualifying AE open
+Springbot,repvue,,2026-07-19,N,ATS unresolved; e-commerce marketing automation; appears inactive/acquired
+Havertys Furniture,repvue,,2026-07-19,N,not B2B SaaS (furniture retailer)
+Funnel Leasing,repvue,,2026-07-19,N,no AE open (property management/leasing software SaaS)
+Blackberry,repvue,,2026-07-19,N,ATS unresolved; large legacy cybersecurity company
+TeamSnap,repvue,,2026-07-19,N,"not MM/Ent B2B SaaS (sports team management, SMB/consumer-adjacent)"
+iXsystems,repvue,,2026-07-19,N,not B2B SaaS (storage hardware/software)
+Conga,repvue,,2026-07-19,Y,"Enterprise AE, Remote US; CLM/document automation SaaS"
+PNC Financial Services Group,repvue,,2026-07-19,N,not B2B SaaS (major bank)
+Vention,repvue,,2026-07-19,N,ATS unresolved (industrial machine building platform)
+RedTeam Software,repvue,,2026-07-19,N,ATS unresolved (construction project management SaaS)
+Harte Hanks,repvue,,2026-07-19,N,not B2B SaaS (direct marketing services)
+Office1,repvue,,2026-07-19,N,not B2B SaaS (IT managed services)
+Aibidia,repvue,,2026-07-19,N,AE role UK/EU only; no US AE (transfer pricing SaaS)
+Momentum Telecom,repvue,,2026-07-19,N,ATS unresolved (UCaaS for businesses)
+Trek Health,repvue,,2026-07-19,N,ATS unresolved (healthcare IT startup)
+Codat,repvue,,2026-07-19,N,no AE role open (financial data API SaaS)
+Sana,repvue,,2026-07-19,N,GTM Manager (AE) roles in Stockholm/London only; no US AE (AI/LMS platform)
+Applied Intuition,repvue,,2026-07-19,N,no AE role open on Ashby board (AV simulation/Physical AI); engineering roles only
+HealthTrackRx,repvue,,2026-07-19,N,not B2B SaaS (lab diagnostics company)
+Hyperproof.io,repvue,,2026-07-19,N,no AE role open (confirmed via Greenhouse board); compliance management SaaS
+Expeditors,repvue,,2026-07-19,N,not B2B SaaS (global freight/logistics company)
+Zenefits,repvue,,2026-07-19,N,acquired by TriNet / no longer standalone AE hiring (now TriNet Zenefits)
+Burtch Works,repvue,,2026-07-19,N,not B2B SaaS (data science staffing/recruiting)
+HealthJoy,repvue,,2026-07-19,N,no IC AE open (only Account Manager); employee benefits navigation SaaS
+UserTesting,repvue,,2026-07-19,N,no US AE; only EU AE role found (Workday ATS); UX research SaaS
+TRAFFIX,repvue,,2026-07-19,N,not B2B SaaS (traffic/work zone safety services)
+EF Education First,repvue,,2026-07-19,N,not B2B SaaS (language education company)
+ARKK,repvue,,2026-07-19,N,ATS unresolved; UK-based regulatory/financial reporting SaaS
+Fiserv,repvue,,2026-07-19,N,not startup profile (large legacy fintech/payment processing)
+TetraScience,repvue,,2026-07-19,N,no IC AE open; only Director-level sales roles (R&D data SaaS for biotech/pharma)
+Lexipol,repvue,,2026-07-19,N,no AE open currently (public safety policy/training management SaaS)
+InvoiceCloud,repvue,,2026-07-19,N,ATS unresolved (utility billing payment SaaS)
+WordPress VIP,repvue,,2026-07-19,Y,"Enterprise AE + Public Sector AE, Remote US; enterprise CMS SaaS (Automattic)"
+SysAid Technologies Ltd,repvue,,2026-07-19,N,comp below ICP floor (Commercial AE ~$71K-$136K comp range); ITSM SaaS
+WorkBoard,repvue,,2026-07-19,N,no IC AE open; only Sales Director roles (OKR/strategy execution SaaS)
+Otis Elevator Co.,repvue,,2026-07-19,N,not B2B SaaS (elevator manufacturer/service company)
