@@ -4377,3 +4377,53 @@ NCS Group,repvue,,2026-07-20,N,IT services / consulting - not B2B SaaS product c
 TriNet,repvue,,2026-07-20,N,Lever board empty (0 postings); Greenhouse 404; large public HR/PEO company - no IC AE found
 Seeq Corporation,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404; Lever 404); industrial analytics SaaS
 Swoogo,repvue,,2026-07-20,Y,Enterprise AE; Ent; Remote US; event marketing SaaS (Greenhouse ID 4642763005)
+Absolute Software,repvue,,2026-07-20,N,Enterprise AE jobs found on Jobvite but individual URLs 404'd (filled/removed)
+Lightspeed HQ,repvue,,2026-07-20,N,"GH board lightspeedhq: only EU/Canada AE roles, no US remote AE"
+Exasol,repvue,,2026-07-20,N,European analytics DB; ATS unresolved
+Purolator,repvue,,2026-07-20,N,"Canadian logistics company, not B2B SaaS"
+Proquest,repvue,,2026-07-20,N,"academic/library data platform, not B2B SaaS AE"
+SeekOut.io,repvue,,2026-07-20,N,"GH board seekout: only 2 non-AE roles (Commercial Counsel, Customer Support)"
+Pax8,repvue,,2026-07-20,N,"Workday ATS; only Strategic Account Manager found, not AE"
+CloudFactory,repvue,,2026-07-20,N,AI data labeling; ATS unresolved (GH 404)
+Verse Medical,repvue,,2026-07-20,N,small healthcare startup; ATS unresolved
+Payzer,repvue,,2026-07-20,N,small niche payments (HVAC); not B2B SaaS MM AE
+Verizon Business,repvue,,2026-07-20,N,"telecom enterprise, not B2B SaaS MM AE"
+Yandex,repvue,,2026-07-20,N,"Russian tech company, not US B2B SaaS"
+Sentinel Technologies,repvue,,2026-07-20,N,"IT services VAR, not B2B SaaS"
+RobCo,repvue,,2026-07-20,N,industrial robotics; Ashby board: no AE roles; all Munich/Austin on-site
+Express Employment Professionals,repvue,,2026-07-20,N,"staffing firm, not B2B SaaS"
+SRS Distribution,repvue,,2026-07-20,N,"building materials distribution, not B2B SaaS"
+The Conference Board,repvue,,2026-07-20,N,"non-profit business research, not B2B SaaS"
+Kantata,repvue,,2026-07-20,N,"professional services software; ATS unresolved (GH/Lever 404, search no results)"
+Euna Solutions,repvue,,2026-07-20,N,government procurement software; ATS unresolved (GH/Lever 404); AE roles exist per search but no direct API URL
+Qlik,repvue,,2026-07-20,N,large BI analytics; ATS not on standard boards; ATS unresolved
+Niche,repvue,,2026-07-20,N,"college search platform, not B2B SaaS AE"
+Moneris,repvue,,2026-07-20,N,"Canadian payment processor, not US B2B SaaS"
+Accredible,repvue,,2026-07-20,N,"small digital credentials, not MM AE scope"
+Brightcove,repvue,,2026-07-20,N,"video platform; only Singapore AE, no US remote AE"
+Qvinci Software,repvue,,2026-07-20,N,"very small franchise financial reporting, not MM AE scope"
+New Western,repvue,,2026-07-20,N,"real estate investment, not B2B SaaS"
+Amdocs,repvue,,2026-07-20,N,"large telco BSS/OSS vendor, not B2B SaaS MM AE"
+Danone,repvue,,2026-07-20,N,"food/dairy company, not B2B SaaS"
+Blackbaud,repvue,,2026-07-20,N,Enterprise AE job R0012567 returned HTTP 410 Gone (expired)
+Reward Gateway,repvue,,2026-07-20,N,"UK company; only MM Account Manager in US, not AE"
+Approve Payments,repvue,,2026-07-20,N,"small Israeli payment startup, not B2B SaaS MM AE"
+Donnelley Financial Solutions (DFIN),repvue,,2026-07-20,N,custom ATS at jobs.dfinsolutions.com; AE roles per salary data but no direct API URL
+GoTo,repvue,,2026-07-20,N,"Commercial AE OTE ~$60-81K, far below $150K bar; SMB focus"
+Litmos,repvue,,2026-07-20,N,SAP subsidiary LMS; SAP SuccessFactors ATS; ATS unresolved
+ServiceChannel,repvue,,2026-07-20,N,facilities management SaaS; Enterprise AE exists per search but ATS unresolved (GH/Lever/Ashby 404)
+Veracode,repvue,,2026-07-20,Y,"Principal Account Executive (South East), Remote US, Enterprise; GH API verified; first_published 2026-06-10"
+Suzy,repvue,,2026-07-20,N,"market research platform; ATS unresolved (GH 404, search no results)"
+Progress Software,repvue,,2026-07-20,N,large middleware/dev tools; ATS unresolved; not on standard boards
+Veritiv,repvue,,2026-07-20,N,"distribution company, not B2B SaaS"
+Sungard Availability Services,repvue,,2026-07-20,N,IT disaster recovery services; not pure SaaS; restructured
+ContractPodAi,repvue,,2026-07-20,N,rebranded to Leah AI; no AE on Ashby/GH/Lever; ATS unresolved
+Broadcast Music Inc (BMI),repvue,,2026-07-20,N,"music licensing organization, not B2B SaaS"
+Service Pro by MSI Data,repvue,,2026-07-20,N,"small field service software for SMB, not MM AE scope"
+MachineMetrics,repvue,,2026-07-20,N,"industrial IoT; ATS unresolved (Ashby 404, GH 404, only Indeed with no AE)"
+Orum.io,repvue,,2026-07-20,N,Ashby board: only engineering roles; GH job 4368330004 404'd
+Board International,repvue,,2026-07-20,N,"enterprise planning software; JazzHR ATS; only UK Enterprise AE, no US remote"
+Workrise,repvue,,2026-07-20,N,energy workforce marketplace for skilled trades; not B2B SaaS
+Aveanna Healthcare,repvue,,2026-07-20,N,"healthcare staffing/services, not B2B SaaS"
+Bevy,repvue,,2026-07-20,N,community platform; ATS unresolved (site 503/503)
+iWave,repvue,,2026-07-20,N,niche prospect research for nonprofits; not MM AE scope
