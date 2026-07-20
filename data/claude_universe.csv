@@ -1403,7 +1403,7 @@ Ciena,repvue,83.79,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Genesys,repvue,83.78,2026-07-04,N,Workday req JR106428 gone
 Sonic.net,repvue,83.78,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Zappi,repvue,83.78,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-Zapier,repvue,83.77,2026-07-02,Y,RepVue scan: open AE role
+Zapier,repvue,83.77,2026-07-20,N,"RepVue scan: open AE role; posting dead, no replacement"
 Skyflow,repvue,83.77,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Splunk,repvue,83.76,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Proof,repvue,83.76,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -3020,7 +3020,7 @@ Mia Labs,ats-search,,2026-07-15,N,"Ashby JSON API for mia-labs board (verified c
 Qloo,ats-search,,2026-07-15,N,"Lever board (jobs.lever.co/qloo) confirmed as Qloo's real ATS, but live API returns only one posting (ML Engineer); no A"
 Agilysys,ats-search,,2026-07-15,N,"All AE postings on Agilysys's live Greenhouse board are Enterprise-only (no MM), and the lead posting (Sales & Catering,"
 Kargo,ats-search,,2026-07-15,N,"Real MM AE posting confirmed live (Greenhouse, freight-tech Kargo, not ad-tech Kargo) but requires only ""2+ years experi"
-Fleetworthy (Bestpass),ats-search,,2026-07-15,Y,"Live Greenhouse posting for IC Mid-Market Account Executive, US Remote, targeting fleets of 100-750 vehicles, 3+ yrs sol"
+Fleetworthy (Bestpass),ats-search,,2026-07-20,N,"Live Greenhouse posting for IC Mid-Market Account Executive, US Remote, targeting fleets of 100-750 vehicles, 3+ yrs sol; posting dead (Bestpass board job 4695281006 gone), no AE replacement found"
 Portcast,ats-search,,2026-07-15,N,"role titled ""Sales Manager"" not AE — IC/people-manager ambiguity; held"
 Loadsmart,ats-search,,2026-07-15,N,"Lever board confirmed (jobs.lever.co/loadsmart) but only sales-adjacent postings are: AE (Brasília/Remote, Independent C"
 cargo.one,ats-search,,2026-07-15,N,"Ashby board (job-board/cargo-one) currently has only 1 live posting (Content Ops QA Analyst, EMEA); the NOAM AE posting "
@@ -4486,3 +4486,52 @@ Escape,yc,,2026-07-20,N,no AE on Ashby escape board; only engineering/Sales Dire
 ModernLoop,yc,,2026-07-20,N,no open positions on modernloop.com 2026-07-20
 Hyperbound,yc,,2026-07-20,Y,Enterprise AE SF in-office; OTE $320-360K; Ashby
 Humanly,yc,,2026-07-20,Y,Enterprise AE Remote; $150K base + comm; Ashby
+ImageTrend,repvue,,2026-07-20,N,ATS unresolved; public safety/healthcare software
+Open Systems,repvue,,2026-07-20,N,ATS unresolved; managed network services
+IMG Academy,repvue,,2026-07-20,N,not B2B SaaS (sports training academy)
+Viventium,repvue,,2026-07-20,N,ATS unresolved; HR/payroll software
+Daniels Health,repvue,,2026-07-20,N,not B2B SaaS (healthcare waste management services)
+AutoLeap,repvue,,2026-07-20,N,ATS unresolved; auto repair shop mgmt software
+Accrisoft Corporation,repvue,,2026-07-20,N,ATS unresolved; small association mgmt software company
+Revance,repvue,,2026-07-20,N,not B2B SaaS (pharma/aesthetics biotech)
+Perforce Puppet,repvue,,2026-07-20,N,ATS unresolved; DevOps/Puppet brand under Perforce
+Forward Financing,repvue,,2026-07-20,N,not B2B SaaS (fintech small-business lending)
+Cradlepoint,repvue,,2026-07-20,N,"ATS unresolved; networking hardware/cloud, Ericsson subsidiary"
+Dutchie,repvue,,2026-07-20,N,no AE role on board (thedutchie Greenhouse); only ops/product/finance roles listed
+Kroll,repvue,,2026-07-20,N,not B2B SaaS (financial advisory/risk consulting)
+Learnexus,repvue,,2026-07-20,N,ATS unresolved; L&D marketplace
+OneTrust,repvue,,2026-07-20,N,Enterprise-only AEs; all roles office-first 3 days/wk; Denver role requires 10+ yrs → too senior
+Drift,repvue,,2026-07-20,N,acquired by Salesloft 2023; no standalone ATS board
+Netwrix,repvue,,2026-07-20,N,ATS unresolved; IT security software
+Coyote Logistics,repvue,,2026-07-20,N,not B2B SaaS (logistics brokerage/freight)
+Sierra Interactive,repvue,,2026-07-20,N,ATS unresolved; real estate CRM software
+Spotify,repvue,,2026-07-20,N,not B2B enterprise software SaaS (B2C music streaming)
+Aware,repvue,,2026-07-20,N,ATS unresolved; workforce analytics
+Authenticx,repvue,,2026-07-20,N,ATS unresolved; healthcare patient conversation analytics
+TLC Worldwide,repvue,,2026-07-20,N,not B2B SaaS (promotional marketing services)
+Taylor Corporation,repvue,,2026-07-20,N,not B2B SaaS (printing/business communications)
+Boats Group,repvue,,2026-07-20,N,ATS unresolved; marine marketplace software
+WordStream,repvue,,2026-07-20,N,not standalone SaaS; acquired by LOCALiQ/USA Today Network 2018
+Oneflow,repvue,,2026-07-20,N,ATS unresolved; contract management software
+Epiq Global,repvue,,2026-07-20,N,not B2B SaaS (legal services/document management)
+Pella Windows and Doors,repvue,,2026-07-20,N,not B2B SaaS (window/door manufacturer)
+Martal Group,repvue,,2026-07-20,N,not B2B SaaS (B2B sales outsourcing agency)
+Elsevier,repvue,,2026-07-20,N,not B2B SaaS (scientific/academic publisher; RELX)
+Observe.ai,repvue,,2026-07-20,N,"Senior Enterprise AE only (7+ yrs, 8+ track record required); enterprise territory-based, not US-remote"
+Ocrolus,repvue,,2026-07-20,N,ATS unresolved; Greenhouse/Lever boards 404; fintech document automation
+Conductor,repvue,,2026-07-20,N,ATS unresolved; content marketing platform
+GHGSat,repvue,,2026-07-20,N,ATS unresolved; greenhouse gas satellite monitoring
+Apisero Inc.,repvue,,2026-07-20,N,not B2B SaaS product (Salesforce consulting/services)
+Eide Bailly,repvue,,2026-07-20,N,not B2B SaaS (accounting/consulting firm)
+Eargo,repvue,,2026-07-20,N,not B2B SaaS (direct-to-consumer hearing aids)
+Constrafor,repvue,,2026-07-20,N,SMB segment only ($175K OTE in NYC); not MM/Ent qualifying segment
+Neustar,repvue,,2026-07-20,N,acquired by TransUnion 2022; integrated into TransUnion
+Sterling,repvue,,2026-07-20,N,acquired by First Advantage; no standalone ATS board
+ESO,repvue,,2026-07-20,N,"no AE role on Greenhouse board (only Account Managers, no new-logo AEs)"
+Matrix42,repvue,,2026-07-20,N,ATS unresolved; IT service management software
+Kolena,repvue,,2026-07-20,N,ATS unresolved; Ashby board not publicly accessible via API; ML model testing
+GigaOm,repvue,,2026-07-20,N,not B2B SaaS (IT research/analyst firm)
+Inside Real Estate,repvue,,2026-07-20,N,ATS unresolved; real estate broker software
+Blue Raven Solar,repvue,,2026-07-20,N,not B2B SaaS (residential solar installation)
+Blue Mantis,repvue,,2026-07-20,N,not B2B SaaS product (IT managed services provider)
+SamCart,repvue,,2026-07-20,N,no AE role; only Sales Manager and Product Manager on board (samcarthiring GH)
