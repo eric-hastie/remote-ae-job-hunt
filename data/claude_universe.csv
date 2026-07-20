@@ -1354,7 +1354,7 @@ Paymerang,repvue,83.95,2026-07-02,N,RepVue scan: no verified role / ATS unresolv
 SevenRooms,repvue,83.94,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 "Treace Medical Concepts, Inc.",repvue,83.94,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Expel,repvue,83.94,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-Tableau (Salesforce),repvue,83.93,2026-07-02,Y,RepVue scan: open AE role
+Tableau (Salesforce),repvue,83.93,2026-07-20,N,dropped 2026-07-20: posting jr298335 dead (Salesforce career site redirects to board); no qualifying US-remote replacement found
 IHS Markit,repvue,83.93,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 FastSpring,repvue,83.91,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Merge by Merative,repvue,83.91,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -4308,3 +4308,72 @@ WordPress VIP,repvue,,2026-07-19,Y,"Enterprise AE + Public Sector AE, Remote US;
 SysAid Technologies Ltd,repvue,,2026-07-19,N,comp below ICP floor (Commercial AE ~$71K-$136K comp range); ITSM SaaS
 WorkBoard,repvue,,2026-07-19,N,no IC AE open; only Sales Director roles (OKR/strategy execution SaaS)
 Otis Elevator Co.,repvue,,2026-07-19,N,not B2B SaaS (elevator manufacturer/service company)
+Allstream,repvue,,2026-07-20,N,"telecom managed services, not B2B SaaS product"
+Brokerlink,repvue,,2026-07-20,N,"insurance brokerage services, not B2B SaaS"
+American Financial Network,repvue,,2026-07-20,N,"mortgage lender, not B2B SaaS"
+Northwestern Mutual,repvue,,2026-07-20,N,"financial advisory / insurance, not B2B SaaS"
+Cutera,repvue,,2026-07-20,N,"medical aesthetics devices / hardware, not B2B SaaS"
+Paragon 28,repvue,,2026-07-20,N,"orthopedic surgical products / hardware, not B2B SaaS"
+Hitachi Energy,repvue,,2026-07-20,N,"energy / power systems industrial conglomerate, not B2B SaaS"
+Equitable Advisors,repvue,,2026-07-20,N,"financial advisory / insurance, not B2B SaaS"
+Travel + Leisure Co.,repvue,,2026-07-20,N,"hospitality / travel services, not B2B SaaS"
+Panduit,repvue,,2026-07-20,N,"physical networking infrastructure hardware, not B2B SaaS"
+Innova Solutions,repvue,,2026-07-20,N,"IT staffing / outsourcing, not B2B SaaS product"
+Informa,repvue,,2026-07-20,N,"B2B events / media publisher, not B2B SaaS"
+Randstad Enterprise,repvue,,2026-07-20,N,"talent / staffing services, not B2B SaaS product"
+Publicis,repvue,,2026-07-20,N,"advertising holding company, not B2B SaaS"
+Business Talent Group,repvue,,2026-07-20,N,"on-demand talent marketplace services, not B2B SaaS"
+Levelset,repvue,,2026-07-20,N,acquired by Procore 2021; now Procore subsidiary - already covered
+Cognizant Technology Solutions,repvue,,2026-07-20,N,"IT consulting / outsourcing services, not B2B SaaS product"
+Spirent Communications,repvue,,2026-07-20,N,"network testing equipment / hardware-services, not primary SaaS"
+Zonar,repvue,,2026-07-20,N,"GPS fleet telematics hardware-heavy, likely OTE below bar"
+Ribbon Health,repvue,,2026-07-20,N,no IC AE role; Lever board exists ('ribbonhealth') but only BDL/Head of People/Growth roles
+Hona,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404; Lever 404; Ashby 404)
+FARO Technologies,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404); hardware-heavy 3D measurement company
+Lumafield,repvue,,2026-07-20,N,no IC AE role; Lever board (9 postings) has engineering/CS roles only
+Sisense,repvue,,2026-07-20,N,no IC AE role; Greenhouse board (5 postings) has Sales Manager only
+Beacon Platform,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404)
+Quantive,repvue,,2026-07-20,N,quantive.com redirects to workboard.com; covered under WorkBoard (N 2026-07-19)
+BetterComp,repvue,,2026-07-20,N,ATS unresolved (Ashby 404; Lever 404)
+DigitalOcean,repvue,,2026-07-20,N,Greenhouse 404; Lever 404; search found no AE on ATS boards
+Dstillery,repvue,,2026-07-20,N,ATS unresolved (Ashby 404; Lever 404); ad-tech audience intelligence
+"QAD, Inc",repvue,,2026-07-20,Y,Senior AE - Champion AI; Ent; remote-eligible OTE $290-320K; manufacturing ERP SaaS (SmartRecruiters)
+Press Ganey,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404); cf. Press Ganey Forsta (N 2026-07-02)
+Lucidworks,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404; Ashby 404; search returned Lucid Software instead)
+Moody's Analytics,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404); large public financial data company likely on Workday
+Ambassador Labs,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404)
+Winmo,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404; Lever 404; Ashby 404)
+EverTrue,repvue,,2026-07-20,N,Greenhouse board empty (0 postings); higher education fundraising CRM
+Future Family,repvue,,2026-07-20,N,ATS unresolved (Lever 404); fertility benefits startup
+PhotoShelter,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404; Lever 404); digital asset management SaaS
+Check Point Software,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404); large public cybersecurity company
+Feenyx,repvue,,2026-07-20,N,ATS unresolved (Ashby 'Filteredai' 404); company identity unclear
+Bluecore,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404); retail email marketing SaaS
+Cognite,repvue,,2026-07-20,N,Greenhouse board has 2 AE roles but both in Switzerland (not US-remote); industrial AI/IoT SaaS
+VMRay,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404; Lever 404); threat analysis cybersecurity SaaS
+Onfido,repvue,,2026-07-20,N,Greenhouse 404; acquired by Entrust 2024 - board likely shut down
+Scandit,repvue,,2026-07-20,N,Greenhouse board (9 postings) has no AE; barcode/data capture SaaS
+Tapcheck,repvue,,2026-07-20,N,Ashby board (5 postings) has no AE; Ashby blind-spot noted (search found 3 AE URLs but JD unverifiable); earned wage access SaaS
+ThreatConnect,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404); cybersecurity threat intelligence SaaS
+Greenlight Guru,repvue,,2026-07-20,N,Greenhouse board has 1 AE but UK-only (not US-remote); medical device quality SaaS
+Solo.io,repvue,,2026-07-20,Y,2 Strategic AE roles (East + West); Ent; Remote US; API gateway / service mesh SaaS (Greenhouse soloioinc)
+H1,repvue,,2026-07-20,N,Lever board (6 postings) has no AE; roles in Copenhagen + NY but no AE title; healthcare data SaaS
+Zenoti,repvue,,2026-07-20,N,Greenhouse board (7 postings) has Account Manager (renewals) only - no new-logo IC AE; beauty/wellness SaaS
+Strata Identity,repvue,,2026-07-20,N,ATS unresolved (Ashby 404; Lever 404); identity orchestration SaaS
+Sana Commerce,repvue,,2026-07-20,N,ATS unresolved (Ashby 404; Greenhouse 404; Lever 404); B2B ecommerce SaaS
+VideoAmp,repvue,,2026-07-20,N,Greenhouse board (3 postings) has no AE - only Senior Counsel/Engineering/HR; TV measurement SaaS
+Kraft Heinz,repvue,,2026-07-20,N,not B2B SaaS (consumer packaged goods food company)
+Kentico,repvue,,2026-07-20,N,ATS unresolved (Lever 404; Greenhouse 404); CMS/DXP SaaS
+Apptentive,repvue,,2026-07-20,N,ATS unresolved (Lever 404); mobile feedback / customer listening SaaS
+EfficientIP,repvue,,2026-07-20,N,ATS unresolved (Ashby 404); DNS/DHCP/IPAM SaaS
+Hanzo,repvue,,2026-07-20,N,ATS unresolved (Lever 404); eDiscovery / legal hold SaaS
+Syncle,repvue,,2026-07-20,N,ATS unresolved (Ashby 404)
+Anomalo,repvue,,2026-07-20,N,Ashby board (1 posting: Data Solutions Architect) has no AE; data quality SaaS
+Techtronic Industries - TTI,repvue,,2026-07-20,N,not B2B SaaS (power tools hardware manufacturer)
+Optimove,repvue,,2026-07-20,N,Greenhouse board (8 postings) has no AE; CRM marketing / customer engagement SaaS
+Welcome to the Jungle,repvue,,2026-07-20,N,French job board / recruitment platform - not B2B SaaS product in ICP
+Tundra Technical Solutions,repvue,,2026-07-20,N,IT staffing agency - not B2B SaaS product company
+NCS Group,repvue,,2026-07-20,N,IT services / consulting - not B2B SaaS product company
+TriNet,repvue,,2026-07-20,N,Lever board empty (0 postings); Greenhouse 404; large public HR/PEO company - no IC AE found
+Seeq Corporation,repvue,,2026-07-20,N,ATS unresolved (Greenhouse 404; Lever 404); industrial analytics SaaS
+Swoogo,repvue,,2026-07-20,Y,Enterprise AE; Ent; Remote US; event marketing SaaS (Greenhouse ID 4642763005)
