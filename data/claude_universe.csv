@@ -256,7 +256,7 @@ Skip fka SkipTheDishes,repvue,93.64,2026-07-08,N,not B2B SaaS (consumer food del
 Element451,repvue,93.59,2026-06-30,Y,top-260 RepVue scan: open AE role
 SiriusXM,repvue,93.58,2026-07-08,N,not B2B SaaS (satellite radio/streaming media)
 Groundcover,repvue,93.57,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
-Connecteam,repvue,93.56,2026-07-08,Y,MM AE US-remote (territory-based); workforce management SaaS
+Connecteam,repvue,93.56,2026-07-20,N,AE posting dead (GH ID 5590684004 gone); only SMB AEs remain; no qualifying MM/Ent AE
 Sublime Security,repvue,93.54,2026-07-08,N,no open roles (Ashby board empty)
 Trullion,repvue,93.54,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
 Revenoid,repvue,93.49,2026-07-08,N,ATS unresolved (not on GH/Ashby/Lever)
@@ -523,7 +523,7 @@ Ermetic,repvue,89.01,2026-07-09,N,re-check 2026-07-09: acquired by Tenable 2023 
 Thousandeyes,repvue,88.95,2026-07-09,N,re-check 2026-07-09: Cisco subsidiary; ATS under Cisco (no independent board)
 Machinio,repvue,88.94,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Orum,repvue,88.94,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Balto,repvue,88.93,2026-07-02,Y,top500 RepVue scan: open AE role
+Balto,repvue,88.93,2026-07-20,N,AE posting expired; no replacement AE on Rippling board 2026-07-20
 Dyson,repvue,88.90,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Groove,repvue,88.89,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Schneider Electric,repvue,88.89,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
@@ -2689,7 +2689,7 @@ Swapcard,ats-search,,2026-07-09,Y,MM AE; Remote US; event management SaaS (Lever
 Edia,ats-search,,2026-07-09,Y,Ent AE East; Remote US; K-12 edtech AI SaaS (Ashby)
 Cloudforce,ats-search,,2026-07-09,Y,Ent AE Remote US (CA territory); higher-ed AI platform; OTE $200K+ (Lever)
 Resilinc,ats-search,,2026-07-09,Y,Ent AE; Remote US; supply chain risk SaaS; OTE $300-320K (Lever)
-SheerID,ats-search,,2026-07-09,Y,Ent AE EST/CST; Remote US; identity verification SaaS (Rippling)
+SheerID,ats-search,,2026-07-20,N,AE posting expired; no open AE on Rippling board 2026-07-20
 Subtotal,ats-search,,2026-07-09,Y,AE MM/Ent; Remote US; retail commerce data SaaS; OTE $160-190K (Ashby)
 Gray Swan AI,ats-search,,2026-07-09,Y,Ent AE; Remote US; AI security SaaS; OTE $314-384K (Ashby)
 Knock,ats-search,,2026-07-09,N,fintech mortgage company; not B2B SaaS
@@ -4477,3 +4477,12 @@ AIG,repvue,,2026-07-20,N,insurance / not SaaS
 Penske Automotive Group,repvue,,2026-07-20,N,auto dealerships / not SaaS
 Loxo,repvue,,2026-07-20,N,ATS unresolved (recruiting AI SaaS; no major ATS found)
 Critical Mention,repvue,,2026-07-20,N,ATS unresolved (media monitoring SaaS; not found on major ATS)
+Narvar,ats-search,,2026-07-20,N,no AE on GH board; job 7674423 dead
+EcoVadis,ats-search,,2026-07-20,N,only Spain-based Customer Growth AE; no US AE role
+TeamOut,yc,,2026-07-20,N,YC page 404; posting expired
+Taplytics,yc,,2026-07-20,N,YC page 404; posting expired
+NectarVet,wellfound,,2026-07-20,N,no ATS board found
+Escape,yc,,2026-07-20,N,no AE on Ashby escape board; only engineering/Sales Director roles
+ModernLoop,yc,,2026-07-20,N,no open positions on modernloop.com 2026-07-20
+Hyperbound,yc,,2026-07-20,Y,Enterprise AE SF in-office; OTE $320-360K; Ashby
+Humanly,yc,,2026-07-20,Y,Enterprise AE Remote; $150K base + comm; Ashby
