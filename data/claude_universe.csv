@@ -521,114 +521,114 @@ FMX,repvue,89.01,2026-06-30,Y,top500 RepVue scan: open AE role
 PerkSpot,repvue,89.01,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
 Ermetic,repvue,89.01,2026-07-09,N,re-check 2026-07-09: acquired by Tenable 2023 (no longer independent)
 Thousandeyes,repvue,88.95,2026-07-09,N,re-check 2026-07-09: Cisco subsidiary; ATS under Cisco (no independent board)
-Machinio,repvue,88.94,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Orum,repvue,88.94,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Machinio,repvue,88.94,2026-07-21,N,no AE / ATS unresolved after multiple attempts
+Orum,repvue,88.94,2026-07-21,N,no AE role on Ashby board (only engineering)
 Balto,repvue,88.93,2026-07-20,N,AE posting expired; no replacement AE on Rippling board 2026-07-20
-Dyson,repvue,88.90,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Groove,repvue,88.89,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Schneider Electric,repvue,88.89,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Dyson,repvue,88.90,2026-07-21,N,not B2B SaaS (consumer hardware)
+Groove,repvue,88.89,2026-07-21,N,acquired by Clari 2023
+Schneider Electric,repvue,88.89,2026-07-21,N,not B2B SaaS (industrial/energy tech)
 Doxel,repvue,88.88,2026-06-30,Y,top500 RepVue scan: open AE role
-Sales Impact Academy,repvue,88.87,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-LiveVox,repvue,88.86,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Jotform,repvue,88.84,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Collective,repvue,88.83,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Airkit,repvue,88.81,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Metrohm USA,repvue,88.78,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Careerist,repvue,88.78,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-PocketHealth,repvue,88.78,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Tabnine,repvue,88.78,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Gatekeeper,repvue,88.78,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-"InfoSight, Inc.",repvue,88.77,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Docyt,repvue,88.76,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-WorkRamp,repvue,88.75,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Warner Bros. Discovery,repvue,88.74,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Woven Teams,repvue,88.74,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Snappy Kraken,repvue,88.71,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Fullcast,repvue,88.71,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Tenna,repvue,88.70,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-PetDesk,repvue,88.70,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Ordergroove,repvue,88.70,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-McAfee,repvue,88.69,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Merck,repvue,88.69,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Valid8 Financial,repvue,88.69,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Take Command Health,repvue,88.69,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-"Tecsys, Inc.",repvue,88.67,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Litmus,repvue,88.66,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-WebEx,repvue,88.64,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-SambaSafety,repvue,88.64,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Apple,repvue,88.64,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Cloudpermit,repvue,88.63,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-VEGA Americas,repvue,88.63,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Sherweb,repvue,88.62,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Panther,repvue,88.61,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Lockton,repvue,88.61,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Sales Impact Academy,repvue,88.87,2026-07-21,N,not US B2B SaaS (UK-based training company)
+LiveVox,repvue,88.86,2026-07-21,N,acquired by NICE Systems 2023
+Jotform,repvue,88.84,2026-07-21,N,"no AE / ATS unresolved; no-code form builder, likely PLG/SMB"
+Collective,repvue,88.83,2026-07-21,N,"AE found on Ashby but SMB only (targeting small business owners, $80K base)"
+Airkit,repvue,88.81,2026-07-21,N,acquired by Salesforce 2022
+Metrohm USA,repvue,88.78,2026-07-21,N,not B2B SaaS (lab instruments)
+Careerist,repvue,88.78,2026-07-21,N,not B2B SaaS (job training platform)
+PocketHealth,repvue,88.78,2026-07-21,N,no AE / ATS unresolved
+Tabnine,repvue,88.78,2026-07-21,N,"no AE / ATS unresolved (tried GH, Ashby)"
+Gatekeeper,repvue,88.78,2026-07-21,N,no AE / ATS unresolved (tried GH)
+"InfoSight, Inc.",repvue,88.77,2026-07-21,N,no AE / ATS unresolved
+Docyt,repvue,88.76,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+WorkRamp,repvue,88.75,2026-07-21,N,no AE / ATS unresolved; careers page 404
+Warner Bros. Discovery,repvue,88.74,2026-07-21,N,not B2B SaaS (media/entertainment)
+Woven Teams,repvue,88.74,2026-07-21,N,no AE / ATS unresolved
+Snappy Kraken,repvue,88.71,2026-07-21,N,no AE / ATS unresolved (tried GH)
+Fullcast,repvue,88.71,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Tenna,repvue,88.70,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+PetDesk,repvue,88.70,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Ordergroove,repvue,88.70,2026-07-21,N,no AE on GH board (only SDR role listed)
+McAfee,repvue,88.69,2026-07-21,N,not qualifying — consumer-focused (enterprise became Trellix)
+Merck,repvue,88.69,2026-07-21,N,not B2B SaaS (pharmaceutical)
+Valid8 Financial,repvue,88.69,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Take Command Health,repvue,88.69,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+"Tecsys, Inc.",repvue,88.67,2026-07-21,N,no AE / ATS unresolved (tried GH)
+Litmus,repvue,88.66,2026-07-21,N,"no AE — Ashby board empty, GH 404"
+WebEx,repvue,88.64,2026-07-21,N,"Cisco brand, not an independent company"
+SambaSafety,repvue,88.64,2026-07-21,N,"no AE / ATS unresolved (tried GH, Ashby, Lever)"
+Apple,repvue,88.64,2026-07-21,N,not B2B SaaS (consumer tech/hardware)
+Cloudpermit,repvue,88.63,2026-07-21,N,no AE / ATS unresolved
+VEGA Americas,repvue,88.63,2026-07-21,N,not B2B SaaS (process automation instruments)
+Sherweb,repvue,88.62,2026-07-21,N,not B2B SaaS (IT managed services/Microsoft CSP)
+Panther,repvue,88.61,2026-07-21,N,no AE / ATS unresolved
+Lockton,repvue,88.61,2026-07-21,N,not B2B SaaS (insurance broker)
 Megaport,repvue,88.60,2026-06-30,Y,top500 RepVue scan: open AE role
-Paperless Parts,repvue,88.60,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-eXp Realty,repvue,88.60,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Agilent Technologies,repvue,88.60,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Century Consulting Services,repvue,88.60,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Intuitive,repvue,88.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-SalesAi,repvue,88.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-airfocus,repvue,88.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Scotiabank,repvue,88.59,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-SiteZeus,repvue,88.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Paperless Parts,repvue,88.60,2026-07-21,N,no AE / ATS unresolved (tried Lever)
+eXp Realty,repvue,88.60,2026-07-21,N,not B2B SaaS (real estate brokerage)
+Agilent Technologies,repvue,88.60,2026-07-21,N,not B2B SaaS (scientific instruments)
+Century Consulting Services,repvue,88.60,2026-07-21,N,not B2B SaaS (IT services/consulting)
+Intuitive,repvue,88.59,2026-07-21,N,"no AE / ATS unresolved (tried GH ""intuitivesurgical"")"
+SalesAi,repvue,88.59,2026-07-21,N,no AE / ATS unresolved
+airfocus,repvue,88.59,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Scotiabank,repvue,88.59,2026-07-21,N,not B2B SaaS (banking)
+SiteZeus,repvue,88.57,2026-07-21,N,no AE / ATS unresolved
 GitHub,repvue,88.57,2026-07-04,N,posting HTTP-dead
-Aquera,repvue,88.57,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-GRAPHISOFT,repvue,88.54,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Macabacus,repvue,88.54,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Nava Benefits,repvue,88.53,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Lexion,repvue,88.53,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ISI Enterprises,repvue,88.51,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Mailshake,repvue,88.49,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Kibo,repvue,88.48,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Boston Scientific,repvue,88.48,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Wiz,repvue,88.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Marqii,repvue,88.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Finch,repvue,88.44,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Chewy,repvue,88.44,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Ryan Homes,repvue,88.43,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-HSO,repvue,88.42,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Trifacta,repvue,88.42,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Buildium,repvue,88.41,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Anvilogic,repvue,88.40,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Noesis,repvue,88.40,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Cato Networks,repvue,88.38,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ZOLL Data Systems,repvue,88.37,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Aquera,repvue,88.57,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+GRAPHISOFT,repvue,88.54,2026-07-21,N,"not qualifying — EU-HQ BIM/CAD software, no US remote MM AE"
+Macabacus,repvue,88.54,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Nava Benefits,repvue,88.53,2026-07-21,N,no AE / ATS unresolved (tried Ashby x2)
+Lexion,repvue,88.53,2026-07-21,N,acquired by DocuSign May 2024
+ISI Enterprises,repvue,88.51,2026-07-21,N,not B2B SaaS (IT services/MSP)
+Mailshake,repvue,88.49,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Kibo,repvue,88.48,2026-07-21,N,"no AE / ATS unresolved (tried GH, Ashby)"
+Boston Scientific,repvue,88.48,2026-07-21,N,not B2B SaaS (medical devices hardware)
+Wiz,repvue,88.46,2026-07-21,N,"no MM commercial AE — GH ""wizinc"" has only federal/gov AE roles"
+Marqii,repvue,88.46,2026-07-21,N,"no AE / ATS unresolved (tried Ashby, GH)"
+Finch,repvue,88.44,2026-07-21,N,no AE on Ashby board (only 3 engineering/design roles)
+Chewy,repvue,88.44,2026-07-21,N,not B2B SaaS (consumer e-commerce)
+Ryan Homes,repvue,88.43,2026-07-21,N,not B2B SaaS (residential construction)
+HSO,repvue,88.42,2026-07-21,N,not B2B SaaS (Microsoft Dynamics consulting/professional services)
+Trifacta,repvue,88.42,2026-07-21,N,acquired by Alteryx 2022; Alteryx acquired by Clearlake Capital 2024
+Buildium,repvue,88.41,2026-07-21,N,acquired by RealPage 2021
+Anvilogic,repvue,88.40,2026-07-21,N,"no AE — Workable board ""anvilogic-inc"" empty (0 jobs)"
+Noesis,repvue,88.40,2026-07-21,N,not B2B SaaS (IT consulting)
+Cato Networks,repvue,88.38,2026-07-21,N,"no AE on GH board ""catonetworks"" (only engineering/AI roles)"
+ZOLL Data Systems,repvue,88.37,2026-07-21,N,"no AE / ATS unresolved; healthcare EMS hardware+software, not pure SaaS"
 Aligned,repvue,88.37,2026-07-02,Y,top500 RepVue scan: open AE role
-Radar Labs,repvue,88.37,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Appspace,repvue,88.35,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Dooly,repvue,88.35,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Premium Merchant Funding,repvue,88.34,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Reachdesk,repvue,88.32,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Origin,repvue,88.32,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Panorays,repvue,88.32,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Casebook PBC,repvue,88.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Coca-Cola,repvue,88.29,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Nsight Health,repvue,88.28,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Workvivo,repvue,88.28,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Gong.io,repvue,88.28,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Radar Labs,repvue,88.37,2026-07-21,N,no AE / ATS unresolved
+Appspace,repvue,88.35,2026-07-21,N,"no US AE — GH board ""appspace"" has only UAE Enterprise AE"
+Dooly,repvue,88.35,2026-07-21,N,defunct — company website returns 404
+Premium Merchant Funding,repvue,88.34,2026-07-21,N,not B2B SaaS (MCA/merchant cash advance lending)
+Reachdesk,repvue,88.32,2026-07-21,N,no IC AE — GH board has only Commercial Account Manager roles
+Origin,repvue,88.32,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Panorays,repvue,88.32,2026-07-21,N,"no AE / ATS unresolved (tried GH, Ashby)"
+Casebook PBC,repvue,88.30,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Coca-Cola,repvue,88.29,2026-07-21,N,not B2B SaaS (consumer goods)
+Nsight Health,repvue,88.28,2026-07-21,N,no AE / ATS unresolved
+Workvivo,repvue,88.28,2026-07-21,N,acquired by Zoom 2023 (now Workvivo by Zoom)
+Gong.io,repvue,88.28,2026-07-21,N,same company as Gong (already tracked separately as Y)
 Augment Code,repvue,88.26,2026-07-02,N,dropped 2026-07-02: no AE on board (one generic eng req); prior AE listing likely different co (goaugment.com)
-Global-e,repvue,88.26,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-CaptiveAire Systems,repvue,88.26,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Sensor Tower,repvue,88.25,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-PayJunction,repvue,88.25,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Global-e,repvue,88.26,2026-07-21,N,"no AE / ATS unresolved (tried Ashby, Lever, GH)"
+CaptiveAire Systems,repvue,88.26,2026-07-21,N,not B2B SaaS (commercial kitchen ventilation equipment)
+Sensor Tower,repvue,88.25,2026-07-21,N,"no AE — Lever board ""sensortower"" empty"
+PayJunction,repvue,88.25,2026-07-21,N,no AE / ATS unresolved (tried GH)
 AlphaSense,repvue,88.24,2026-06-30,Y,top500 RepVue scan: open AE role
-Nozomi Networks,repvue,88.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Snowflake,repvue,88.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Air Charter Service,repvue,88.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Quilt Software,repvue,88.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Rheaply,repvue,88.23,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Nozomi Networks,repvue,88.24,2026-07-21,N,"no AE on GH board ""nozominetworks"" (only EMEA Account Managers)"
+Snowflake,repvue,88.24,2026-07-21,N,"no AE on Ashby board ""snowflake"" (only finance/eng roles in feed)"
+Air Charter Service,repvue,88.24,2026-07-21,N,not B2B SaaS (private aviation charter)
+Quilt Software,repvue,88.24,2026-07-21,N,no AE / ATS unresolved (small/niche HVAC SaaS)
+Rheaply,repvue,88.23,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
 Flockjay,repvue,88.22,2026-07-02,Y,top500 RepVue scan: open AE role
-Lightspeed DMS,repvue,88.19,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Grip Security,repvue,88.18,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Waites,repvue,88.18,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-RIB Software,repvue,88.17,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-AtoB,repvue,88.17,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Waterworth,repvue,88.16,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-AAPC,repvue,88.15,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-The Predictive Index,repvue,88.11,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-IntelyCare,repvue,88.11,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Corti,repvue,88.11,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Lightspeed DMS,repvue,88.19,2026-07-21,N,"no AE / ATS unresolved (automotive dealer software, niche)"
+Grip Security,repvue,88.18,2026-07-21,N,"no AE / ATS unresolved (tried GH, Lever, Ashby x2, careers page 404)"
+Waites,repvue,88.18,2026-07-21,N,no AE / ATS unresolved
+RIB Software,repvue,88.17,2026-07-21,N,acquired by Schneider Electric 2020
+AtoB,repvue,88.17,2026-07-21,Y,qualifying role confirmed live — Mid-Market AE in latest.csv
+Waterworth,repvue,88.16,2026-07-21,N,no AE / ATS unresolved
+AAPC,repvue,88.15,2026-07-21,N,not B2B SaaS (healthcare coding certification/education)
+The Predictive Index,repvue,88.11,2026-07-21,N,"no AE — GH board ""predictiveindex"" empty (0 jobs)"
+IntelyCare,repvue,88.11,2026-07-21,N,no AE / ATS unresolved (tried GH)
+Corti,repvue,88.11,2026-07-21,N,"no AE on Ashby board ""corti"" (only engineering/comms roles)"
 CodeHS,repvue,88.10,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Luminovo,repvue,88.10,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
 Videojet Technologies,repvue,88.08,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
