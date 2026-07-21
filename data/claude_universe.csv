@@ -391,7 +391,7 @@ Cisco Meraki,repvue,90.79,2026-07-09,N,re-check: not standalone (Cisco division)
 RudderStack,repvue,90.78,2026-07-09,N,re-check: ATS unresolved
 Tailscale,repvue,90.74,2026-07-09,N,"re-check: Greenhouse board found, only hybrid-Denver Customer AE (OTE $100-125K)"
 Consensus,repvue,90.71,2026-07-09,N,"re-check: Lever board 404, likely moved ATS"
-RevenueCat,repvue,90.69,2026-07-09,N,"re-check: Ashby board found, MM AE no longer listed"
+RevenueCat,repvue,90.69,2026-07-21,Y,MM AE (EST/CST remote); replacement posting found 2026-07-21
 Reddit,repvue,90.68,2026-07-09,N,re-check: not B2B SaaS (consumer social)
 Proliant,repvue,90.66,2026-07-09,N,re-check: ATS unresolved
 Cyberhaven,repvue,90.66,2026-07-09,N,"re-check: Ashby board found, Enterprise AE 8+ yrs required (senior-only)"
@@ -924,7 +924,7 @@ Intersection Co.,repvue,86.09,2026-07-01,N,top1000 RepVue scan: no verified role
 Health & Safety Institute,repvue,86.07,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 JobNimbus,repvue,86.07,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Session AI,repvue,86.05,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Certa.ai,repvue,86.05,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+Certa.ai,repvue,86.05,2026-07-21,N,top1000 RepVue scan: no verified role / ATS unresolved
 Attio,repvue,86.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Corning,repvue,86.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Orbital,repvue,86.04,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -2286,7 +2286,7 @@ Fuel50,repvue,,2026-07-05,N,ATS unresolved (GH slug 404)
 Invoca,repvue,,2026-07-05,N,no AE (GH board found under invoca slug; no current AE roles)
 Green Key Resources,repvue,,2026-07-05,N,not B2B SaaS (staffing/recruiting agency)
 aPriori,repvue,,2026-07-05,N,posting not found (Enterprise AE job 5159062004 returns 404 on GH board)
-Envoy Global,repvue,,2026-07-05,Y,Enterprise AE; Chicago or Remote (US); ~$175K OTE; immigration management SaaS
+Envoy Global,repvue,,2026-07-21,N,Greenhouse AE posting dead; no qualifying replacement found
 Brink’s Inc,repvue,,2026-07-05,N,not B2B SaaS (armored trucks / cash management)
 Arbon Equipment Corporation,repvue,,2026-07-05,N,not B2B SaaS (industrial equipment dealer)
 Uncountable Inc.,repvue,,2026-07-05,N,Junior AE only (no IC AE roles on Ashby board)
@@ -4558,3 +4558,7 @@ Ecotrak,ats-search,,2026-07-21,N,no AE postings on Rippling board (facility main
 RSA Security,ats-search,,2026-07-21,N,no AE postings on Rippling board (cybersecurity)
 Replit,ats-search,,2026-07-21,N,no AE postings on Ashby board (dev tools/AI coding)
 Integrate,ats-search,,2026-07-21,N,Commercial AE Seattle on-site only; not qualifying location (project mgmt for defense)
+Bifrost AI,ats-search,,2026-07-21,N,Ashby board (slug: bifrost) shows no AE roles; direct posting URL redirects to board (dead)
+Harmattan AI,ats-search,,2026-07-21,N,Only France Business Developer Defense role; no US AE posting
+Happyrobot,ats-search,,2026-07-21,N,Enterprise AE postings are Argentina and France only; no US-eligible role
+Cyvl,ats-search,,2026-07-21,Y,"Physical AI (LiDAR 3D mapping, transportation infra); Boston AE ($160-200K), Boston/Austin Sr AE ($250-350K), NYC Sr AE; on-site hub roles"
