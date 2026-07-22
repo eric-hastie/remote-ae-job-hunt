@@ -623,7 +623,7 @@ Lightspeed DMS,repvue,88.19,2026-07-21,N,"no AE / ATS unresolved (automotive dea
 Grip Security,repvue,88.18,2026-07-21,N,"no AE / ATS unresolved (tried GH, Lever, Ashby x2, careers page 404)"
 Waites,repvue,88.18,2026-07-21,N,no AE / ATS unresolved
 RIB Software,repvue,88.17,2026-07-21,N,acquired by Schneider Electric 2020
-AtoB,repvue,88.17,2026-07-21,Y,qualifying role confirmed live — Mid-Market AE in latest.csv
+AtoB,repvue,88.17,2026-07-22,N,MM AE posting dead (Ashby UUID not in board) 2026-07-22
 Waterworth,repvue,88.16,2026-07-21,N,no AE / ATS unresolved
 AAPC,repvue,88.15,2026-07-21,N,not B2B SaaS (healthcare coding certification/education)
 The Predictive Index,repvue,88.11,2026-07-21,N,"no AE — GH board ""predictiveindex"" empty (0 jobs)"
@@ -4568,3 +4568,5 @@ RouteThis,ats-search,,2026-07-21,N,no AE open
 GrayMatter Robotics,ats-search,,2026-07-21,N,"Physical AI (industrial robotics RaaS); no AE open, engineering roles only"
 Serve Robotics,ats-search,,2026-07-21,N,Physical AI (autonomous delivery); no qualifying AE (advertising IC contractor only)
 Interface AI,ats-search,,2026-07-21,N,ATS unresolved (Greenhouse board 404); posting may be stale
+Numeral,ats-search,,2026-07-22,Y,3 qualifying AE roles: Commercial MM remote + Enterprise SaaS remote + Enterprise SF hybrid
+Rogo,ats-search,,2026-07-22,N,MM AE posting dead (UUID not in Ashby board); Enterprise AE NYC on-site only (published 2024-06)
