@@ -111,7 +111,7 @@ Synthflow AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no li
 Sysdig,claude,,2026-07-04,N,posting dead; no qualifying replacement on board
 Temporal,claude,95,2026-07-04,N,posting dead; remaining US AE roles are senior-only (Strategic Senior AE)
 The Access Group,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Thoropass,claude,,2026-07-02,Y,has open qualifying role
+Thoropass,claude,,2026-07-22,N,"dropped 2026-07-22: Greenhouse board has no AE postings (posting 6001426004 dead, no replacement found)"
 ThoughtSpot,claude,79,2026-07-04,N,Workday req JR2099 gone
 Tines,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Trunk Tools,claude,,2026-07-02,Y,has open qualifying role
@@ -4570,3 +4570,6 @@ Serve Robotics,ats-search,,2026-07-21,N,Physical AI (autonomous delivery); no qu
 Interface AI,ats-search,,2026-07-21,N,ATS unresolved (Greenhouse board 404); posting may be stale
 Numeral,ats-search,,2026-07-22,Y,3 qualifying AE roles: Commercial MM remote + Enterprise SaaS remote + Enterprise SF hybrid
 Rogo,ats-search,,2026-07-22,N,MM AE posting dead (UUID not in Ashby board); Enterprise AE NYC on-site only (published 2024-06)
+Archera,ats-search,,2026-07-22,Y,"has Commercial AE (MM, Remote US, OTE $150K-$200K) and Enterprise AE (Remote US, OTE not stated); cloud cost optimization / FinOps SaaS; both posted 2026-07-19"
+Resend,ats-search,,2026-07-22,N,"no AE role on Ashby board; posting URL dead at time of check; developer email API (PLG-focused, no AE org apparent)"
+Tebra,ats-search,,2026-07-22,N,AE roles are SMB-only (small healthcare practices); not MM/Ent; disqualified on segment
