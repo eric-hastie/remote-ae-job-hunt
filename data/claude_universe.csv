@@ -50,7 +50,7 @@ HiBob,claude,80,2026-07-04,N,HiBob careers page empty; posting dead
 Highspot,claude,,2026-07-02,Y,has open qualifying role
 Hightouch,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Hivel,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Honeycomb,claude,81,2026-06-30,Y,has open qualifying role
+Honeycomb,claude,81,2026-07-22,N,posting expired 2026-07-22; no qualifying US AE replacement on GH board
 Huntress,claude,,2026-07-02,Y,has open qualifying role
 Incident.io,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Infios,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
@@ -62,7 +62,7 @@ Jama Software,claude,,2026-06-30,N,evaluated (prior master exclusion list); no l
 Keeper Security,claude,,2026-06-30,Y,has open qualifying role
 Komodo Health,claude,79,2026-06-30,Y,has open qualifying role
 Kong,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Lattice,claude,,2026-07-02,Y,has open qualifying role
+Lattice,claude,,2026-07-22,N,posting expired 2026-07-22; only London UK AEs on GH board; no US replacement
 LaunchDarkly,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Leapsome,claude,,2026-07-02,N,dropped 2026-07-02: High-Velocity AE is hybrid-NYC 2d/wk + SMB segment; board Remote label misleading
 Limble CMMS,claude,,2026-07-17,N,evaluated (prior master exclusion list); Ashby board live (slug: limble); no AE roles present
@@ -436,7 +436,7 @@ Basware,repvue,90.08,2026-07-09,N,ATS unresolved (checked 2026-07-09; Greenhouse
 Jasper,repvue,90.00,2026-07-09,N,no AE role (checked 2026-07-09; only Director/VP on Ashby board)
 Google,repvue,89.94,2026-07-09,N,not B2B SaaS (tech conglomerate)
 Anduin Transactions,repvue,89.93,2026-07-09,N,ATS unresolved (checked 2026-07-09; Ashby 404)
-Mews,repvue,89.93,2026-07-09,N,Greenhouse posting dead 2026-07-09 (redirected to board); no qualifying AE
+Mews,repvue,89.93,2026-07-22,N,posting HTTP_DEAD 2026-07-22; no qualifying US AE on GH board (only UK)
 General Assembly,repvue,89.92,2026-07-09,N,not B2B SaaS (tech education/bootcamps)
 Unum Group,repvue,89.91,2026-07-09,N,not B2B SaaS (group insurance carrier)
 Xe.com,repvue,89.89,2026-07-09,N,not B2B SaaS (consumer currency exchange)
@@ -670,7 +670,7 @@ IDeaS Revenue Solutions,repvue,87.86,2026-07-22,N,ATS unresolved / re-checked 20
 Wayground,repvue,87.85,2026-07-22,N,ATS unresolved / re-checked 2026-07-22
 SafetyWing,repvue,87.84,2026-07-22,N,not B2B SaaS target; insurance product for remote workers
 Stripe,repvue,87.83,2026-07-02,Y,top500 RepVue scan: open AE role
-Greenhouse Software,repvue,87.80,2026-07-22,Y,Enterprise AE Remote US; GH job 7752517; base $158.5K+; first_published 2026-04-03
+Greenhouse Software,repvue,87.80,2026-07-22,N,posting expired 2026-07-22; no qualifying US AE replacement on GH board
 Sanity,repvue,87.79,2026-06-30,Y,top500 RepVue scan: open AE role
 "KETIV Technologies, Inc.",repvue,87.77,2026-07-22,N,not B2B SaaS; CAD/PLM value-added reseller/services
 zLinq,repvue,87.76,2026-07-22,N,ATS unresolved / re-checked 2026-07-22 (Ashby 404)
@@ -2973,7 +2973,7 @@ Infrawatch,wellfound,,2026-07-15,N,"No ATS job board found (Greenhouse/Ashby/Lev
 Trayo AI,wellfound,,2026-07-15,N,"Founding AE role is San Mateo, CA (Hybrid), not remote, and applications go via direct email (careers@trayo.ai) — no ATS"
 Seeds,wellfound,,2026-07-15,N,"Could not locate a live company ATS board (Greenhouse/Ashby/Lever/Workable) under ""seeds"" or ""useseeds"" slugs after 5 fe"
 AI Squared,ats-search,,2026-07-15,N,"Live IC Mid-Market AE posting confirmed on Greenhouse (remote, NYC/Chicago preferred, no in-office cadence stated, SaaS/"
-Rollstack,ats-search,,2026-07-15,N,"MM AE but Greenhouse API 404 (snippet-only, not API-confirmed); held"
+Rollstack,ats-search,,2026-07-22,N,GH posting 4787715008 still 404 on API and page; confirmed dead 2026-07-22
 TrackTik (Trackforce),ats-search,,2026-07-15,N,MM AE on Lever but US-remote not confirmed from JD (Montreal co); held
 Trellis,ats-search,,2026-07-15,N,AE on Lever but posting dated 2025-05-13 (stale); held
 Connectly,ats-search,,2026-07-15,N,"Ashby board confirmed (jobs.ashbyhq.com/connectly) but only AE postings are Remote/LATAM (Brazil, Mexico) — no US-remote"
@@ -3552,7 +3552,7 @@ Quorum Analytics,repvue,,2026-07-17,N,"ATS unresolved (GH slug ""quorum"" 404; b
 Axonify,repvue,,2026-07-17,N,migrated from Lever to Gem ATS (jobs.gem.com/axonify); Lever board dead (Document not found); no verifiable live AE posting via supported ATS API; frontline enablement/training SaaS
 Accushield,repvue,,2026-07-17,N,email-only hiring (jobs@accushield.com); no AE listed; only PM and Customer Support open; senior living visitor management SaaS
 CREXi,repvue,,2026-07-17,N,GH board (CREXi): 4 AE roles (Intelligence/Pro) all in Los Angeles or Miami only; not US-remote; OTE unverified; commercial real estate transaction marketplace
-New Relic,repvue,,2026-07-17,Y,GH board (NewRelic): AE Expansion (West) (job 5258556008); US Remote; OTE $200K-$237K; Enterprise; added to latest.csv 2026-07-17
+New Relic,repvue,,2026-07-22,N,"posting expired 2026-07-22; only non-US AE replacements (Japan, France, Germany)"
 DATIS HR Cloud,repvue,,2026-07-17,N,"Workable board (continuumcloud) JS-rendered/API 404; OTE opaque (roles geo-restricted: NY state, California, Nashville); behavioral health HCM/EHR SaaS (ContinuumCloud parent brand)"
 Workable,repvue,,2026-07-17,N,self-hosted Workable board (apply.workable.com/careers/): API 404; Enterprise AE (New Business) location/OTE unverified; Senior AE confirmed Boston in-office; recruiting/ATS platform SaaS
 Netscout,repvue,,2026-07-17,N,office-based roles; comp below $150K floor; network performance monitoring/cybersecurity
@@ -4573,3 +4573,5 @@ Rogo,ats-search,,2026-07-22,N,MM AE posting dead (UUID not in Ashby board); Ente
 Archera,ats-search,,2026-07-22,Y,"has Commercial AE (MM, Remote US, OTE $150K-$200K) and Enterprise AE (Remote US, OTE not stated); cloud cost optimization / FinOps SaaS; both posted 2026-07-19"
 Resend,ats-search,,2026-07-22,N,"no AE role on Ashby board; posting URL dead at time of check; developer email API (PLG-focused, no AE org apparent)"
 Tebra,ats-search,,2026-07-22,N,AE roles are SMB-only (small healthcare practices); not MM/Ent; disqualified on segment
+84.51,ats-search,,2026-07-22,N,retail data/media analytics company (Kroger subsidiary); no AE roles on GH board; not pure B2B SaaS
+Axial,ats-search,,2026-07-22,N,M&A deal platform; no AE roles on GH board; all NY roles 3 days in-office
