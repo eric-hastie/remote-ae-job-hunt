@@ -1368,7 +1368,7 @@ Bluedot Inc,repvue,83.88,2026-07-02,N,RepVue scan: no verified role / ATS unreso
 Fieldwire,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Ivalua,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 LiveFlow,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-Superside,repvue,83.87,2026-07-02,Y,RepVue scan: open AE role
+Superside,repvue,83.87,2026-07-23,N,"Job 1 dead: no active AE role (enterprise-account-executive URL dead, no replacement)"
 Twilio,repvue,83.87,2026-07-02,N,dropped 2026-07-02: no US AE roles (only AU/MX/UK/JP)
 airSlate,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Epicor,repvue,83.87,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -4575,3 +4575,5 @@ Resend,ats-search,,2026-07-22,N,"no AE role on Ashby board; posting URL dead at 
 Tebra,ats-search,,2026-07-22,N,AE roles are SMB-only (small healthcare practices); not MM/Ent; disqualified on segment
 84.51,ats-search,,2026-07-22,N,retail data/media analytics company (Kroger subsidiary); no AE roles on GH board; not pure B2B SaaS
 Axial,ats-search,,2026-07-22,N,M&A deal platform; no AE roles on GH board; all NY roles 3 days in-office
+Nectar Social,ats-search,,2026-07-23,Y,"MM AE Hybrid Palo Alto CA, Ashby API confirmed, $150K-250K base+commission, social/marketing AI SaaS"
+Docsumo,ats-search,,2026-07-23,N,"AE posting from Feb 2024, India-based company, likely non-US AE, no OTE specified"
