@@ -230,7 +230,7 @@ Topline Pro,repvue,94.45,2026-07-08,N,ATS unresolved; AI for home services; not 
 TitanX,repvue,94.42,2026-07-08,N,ATS unresolved; company identity unclear; re-checked 2026-07-08
 Guidewire Software,repvue,94.40,2026-07-08,N,ATS unresolved (Workday); insurance platform SaaS; re-checked 2026-07-08
 LPT Realty,repvue,94.38,2026-07-08,N,real estate brokerage; not B2B SaaS; re-checked 2026-07-08
-UserGems,repvue,94.37,2026-07-02,Y,top-260 RepVue scan: open AE role
+UserGems,repvue,94.37,2026-07-23,N,board gone 2026-07-23: greenhouse usergems board not found
 Nvidia,repvue,94.32,2026-07-08,N,semiconductor/hardware company; not B2B SaaS AE profile; re-checked 2026-07-08
 Lane Four,repvue,94.28,2026-07-08,N,ATS unresolved; small CRM/sales ops company; re-checked 2026-07-08
 Pacvue,repvue,94.25,2026-07-08,N,no IC AE; Account Directors/Sr Account Managers only; re-checked 2026-07-08
@@ -4412,7 +4412,7 @@ Donnelley Financial Solutions (DFIN),repvue,,2026-07-20,N,custom ATS at jobs.dfi
 GoTo,repvue,,2026-07-20,N,"Commercial AE OTE ~$60-81K, far below $150K bar; SMB focus"
 Litmos,repvue,,2026-07-20,N,SAP subsidiary LMS; SAP SuccessFactors ATS; ATS unresolved
 ServiceChannel,repvue,,2026-07-20,N,facilities management SaaS; Enterprise AE exists per search but ATS unresolved (GH/Lever/Ashby 404)
-Veracode,repvue,,2026-07-20,Y,"Principal Account Executive (South East), Remote US, Enterprise; GH API verified; first_published 2026-06-10"
+Veracode,repvue,,2026-07-23,N,dead 2026-07-23: no qualifying US IC AE on board (only manager/SLED/UK roles)
 Suzy,repvue,,2026-07-20,N,"market research platform; ATS unresolved (GH 404, search no results)"
 Progress Software,repvue,,2026-07-20,N,large middleware/dev tools; ATS unresolved; not on standard boards
 Veritiv,repvue,,2026-07-20,N,"distribution company, not B2B SaaS"
