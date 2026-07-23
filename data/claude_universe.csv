@@ -54,7 +54,7 @@ Honeycomb,claude,81,2026-07-22,N,posting expired 2026-07-22; no qualifying US AE
 Huntress,claude,,2026-07-02,Y,has open qualifying role
 Incident.io,claude,,2026-07-23,Y,"Commercial AE (SF, NYC) + Strategic AE (SF, NYC); Ashby 'incident' board"
 Infios,claude,,2026-07-23,N,ATS unresolved
-Infisical,claude,,2026-06-30,Y,has open qualifying role
+Infisical,claude,,2026-07-23,N,dropped 2026-07-23: DEAD posting (no AE on board)
 Ironclad,claude,,2026-07-02,N,"dropped 2026-07-02: Ent-only AEs, hybrid per JD despite (Remote) label; board is Ashby ironcladhq not Greenhouse"
 Itential,claude,,2026-07-23,N,ATS unresolved
 Iterable,claude,,2026-07-23,Y,Enterprise AE West + Evergreen East; Ashby board; Remote US; OTE $266K-310K; Ent segment
@@ -1117,7 +1117,7 @@ Juniper Square,repvue,85.00,2026-07-01,Y,top1000 RepVue scan: open AE role
 Policygenius,repvue,85.00,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Rockset,repvue,84.99,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Zenoss,repvue,84.98,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Runway,repvue,84.98,2026-07-01,Y,top1000 RepVue scan: open AE role
+Runway,repvue,84.98,2026-07-23,N,dropped 2026-07-23: DEAD posting (no AE/sales roles on board)
 Kpler,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Textline,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Quantivate,repvue,84.96,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -4577,3 +4577,7 @@ Tebra,ats-search,,2026-07-22,N,AE roles are SMB-only (small healthcare practices
 Axial,ats-search,,2026-07-22,N,M&A deal platform; no AE roles on GH board; all NY roles 3 days in-office
 Nectar Social,ats-search,,2026-07-23,Y,"MM AE Hybrid Palo Alto CA, Ashby API confirmed, $150K-250K base+commission, social/marketing AI SaaS"
 Docsumo,ats-search,,2026-07-23,N,"AE posting from Feb 2024, India-based company, likely non-US AE, no OTE specified"
+Regal,ats-search,,2026-07-23,Y,Ent AE NYC hybrid (T/W/TH) OTE $250-350K; B2B SaaS AI contact center (regal.ai)
+Ministry Brands,ats-search,,2026-07-23,N,Workday ATS unverifiable; faith-tech B2B SaaS; has AE roles but OTE/details unconfirmable
+CADDi,ats-search,,2026-07-23,N,MM/Ent AE Chicago only (not remote/US target city); manufacturing supply chain SaaS
+Titan Cloud,ats-search,,2026-07-23,N,empty Workable board; no AE postings; fuel asset optimization SaaS
