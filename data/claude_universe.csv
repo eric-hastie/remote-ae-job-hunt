@@ -2,111 +2,111 @@ Company,Source,RepVue Score,Last Checked,Currently Open,Notes
 8am (f/k/a AffiniPay),claude,,2026-07-02,N,dropped 2026-07-02: only Associate AE (BDR-level) on board
 Abnormal Security,claude,,2026-07-02,Y,has open qualifying role
 Accrue,claude,,2026-06-30,Y,has open qualifying role
-Acquia,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Affinity.co,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Acquia,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Affinity.co,claude,,2026-07-23,N,no roles at all; empty Ashby board
 Apollo GraphQL,claude,76,2026-06-30,Y,has open qualifying role
 Apollo.io,claude,85,2026-07-02,Y,has open qualifying role
-Arcade,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Arcade,claude,,2026-07-23,N,ATS unresolved
 Arctic Wolf,claude,,2026-06-30,Y,has open qualifying role
 Arize AI,claude,87,2026-06-30,Y,has open qualifying role
-Articulate,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Ashby,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Articulate,claude,,2026-07-23,N,no roles on Lever articulate board
+Ashby,claude,,2026-07-23,N,ATS unresolved; the ATS platform company itself
 Augury,claude,84,2026-07-04,N,posting dead; no AE roles on board
-Beautiful.ai,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Beautiful.ai,claude,,2026-07-23,N,ATS unresolved
 BILL,claude,81,2026-07-02,Y,has open qualifying role
 Bloomreach,claude,89,2026-07-02,Y,has open qualifying role
-Chainguard,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Chainguard,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Chargebee,claude,,2026-07-04,N,careers URL redirects to homepage; posting dead
 ClickHouse,claude,,2026-06-30,Y,has open qualifying role
-Cloudzero,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Cloudzero,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Commure,claude,78,2026-06-30,Y,has open qualifying role
-Commvault,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Commvault,claude,,2026-07-23,Y,Cloud Resilience AE East (Remote) + West (SF); Greenhouse board; overlay specialist AE
 Confluent,claude,,2026-07-04,N,posting dead - UUID fa87e031 not in Ashby board; no AE postings on board
 Cresta,claude,91,2026-06-30,Y,has open qualifying role
 Cribl,claude,89,2026-07-04,N,dead posting 5720688004; no qualifying IC AE replacement (only RSM/Commercial Sales Rep on board)
 Customer.io,claude,,2026-07-02,Y,has open qualifying role
-Databricks,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Databricks,claude,,2026-07-23,N,no US AE; only APAC/India roles on Greenhouse
 Deel,claude,86,2026-07-04,N,Ashby board empty; posting dead
 Deepgram,claude,96,2026-06-30,Y,has open qualifying role
-Delinea,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Delinea,claude,,2026-07-23,N,no US AE; only APAC roles on Ashby
 Demandbase,claude,87,2026-07-02,N,"dropped 2026-07-02: no IC AE on live Ashby board (only Growth Account Director, MM expansion)"
 Doppler,claude,,2026-07-02,Y,has open qualifying role
 Drata,claude,,2026-07-06,N,dead: Ashby board has no AE posting (both old and replacement URLs dead 2026-07-06)
-DroneDeploy,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Elastic,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+DroneDeploy,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Elastic,claude,,2026-07-23,N,no US AE; only EMEA roles on Greenhouse
 Eve,claude,,2026-07-02,Y,has open qualifying role
-Fiddler AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Fleetio,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Fluint,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Fiddler AI,claude,,2026-07-23,N,ATS unresolved
+Fleetio,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Fluint,claude,,2026-07-23,N,ATS unresolved
 GitGuardian,claude,,2026-06-30,Y,has open qualifying role
-Gitlab,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Gitlab,claude,,2026-07-23,N,no US AE; only Italy role on Greenhouse
 Glean,claude,80,2026-06-30,Y,has open qualifying role
 Gong,claude,88,2026-06-30,Y,has open qualifying role
-Grafana Labs,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Grafana Labs,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Halcyon,claude,,2026-06-30,Y,has open qualifying role
-HappyCo,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+HappyCo,claude,,2026-07-23,N,ATS unresolved
 Hex,claude,,2026-07-02,Y,has open qualifying role
 HiBob,claude,80,2026-07-04,N,HiBob careers page empty; posting dead
 Highspot,claude,,2026-07-02,Y,has open qualifying role
-Hightouch,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Hivel,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Hightouch,claude,,2026-07-23,N,no AE; only Backend Engineer on Ashby
+Hivel,claude,,2026-07-23,N,ATS unresolved; very small startup
 Honeycomb,claude,81,2026-07-22,N,posting expired 2026-07-22; no qualifying US AE replacement on GH board
 Huntress,claude,,2026-07-02,Y,has open qualifying role
-Incident.io,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Infios,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Incident.io,claude,,2026-07-23,Y,"Commercial AE (SF, NYC) + Strategic AE (SF, NYC); Ashby 'incident' board"
+Infios,claude,,2026-07-23,N,ATS unresolved
 Infisical,claude,,2026-06-30,Y,has open qualifying role
 Ironclad,claude,,2026-07-02,N,"dropped 2026-07-02: Ent-only AEs, hybrid per JD despite (Remote) label; board is Ashby ironcladhq not Greenhouse"
-Itential,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Iterable,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Jama Software,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Itential,claude,,2026-07-23,N,ATS unresolved
+Iterable,claude,,2026-07-23,Y,Enterprise AE West + Evergreen East; Ashby board; Remote US; OTE $266K-310K; Ent segment
+Jama Software,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Keeper Security,claude,,2026-06-30,Y,has open qualifying role
 Komodo Health,claude,79,2026-06-30,Y,has open qualifying role
-Kong,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Kong,claude,,2026-07-23,N,no US AE; only Bangalore India AE on Ashby
 Lattice,claude,,2026-07-22,N,posting expired 2026-07-22; only London UK AEs on GH board; no US replacement
-LaunchDarkly,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+LaunchDarkly,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Leapsome,claude,,2026-07-02,N,dropped 2026-07-02: High-Velocity AE is hybrid-NYC 2d/wk + SMB segment; board Remote label misleading
 Limble CMMS,claude,,2026-07-17,N,evaluated (prior master exclusion list); Ashby board live (slug: limble); no AE roles present
-Linear,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Lockthreat,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Linear,claude,,2026-07-23,N,no AE; only engineering/product on Ashby
+Lockthreat,claude,,2026-07-23,N,ATS unresolved
 Lytx,claude,69,2026-07-02,Y,has open qualifying role
-Mabl,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Maintainx,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Mabl,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Maintainx,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Maxio,claude,,2026-07-02,Y,has open qualifying role
-Mercury,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Merge,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Meter,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Mindtickle,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Mistral AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Mercury,claude,,2026-07-23,N,no AE; empty Ashby board
+Merge,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Meter,claude,,2026-07-23,N,no AE; only Sales Engineers on Ashby
+Mindtickle,claude,,2026-07-23,N,no US AE; India-based US-shift only on Lever
+Mistral AI,claude,,2026-07-23,N,"ATS unresolved; French AI company, likely no US remote AE"
 Monte Carlo,claude,,2026-06-30,Y,has open qualifying role
-Motive,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Neo4j,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Nerdio,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Net Health,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-NetBox Labs,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Numeric,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Outsystems,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Motive,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Neo4j,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Nerdio,claude,,2026-07-23,N,ATS unresolved
+Net Health,claude,,2026-07-23,N,ATS unresolved
+NetBox Labs,claude,,2026-07-23,N,no AE; only Channel Account Manager on Ashby
+Numeric,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Outsystems,claude,,2026-07-23,N,ATS unresolved
 PagerDuty,claude,79,2026-06-30,Y,has open qualifying role
 Pigment,claude,,2026-07-02,Y,has open qualifying role
 Pulumi,claude,,2026-06-30,Y,has open qualifying role
-Pylon,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Ramp,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Pylon,claude,,2026-07-23,N,no AE; only technical/product roles on Ashby
+Ramp,claude,,2026-07-23,N,no AE on Ashby
 Redpanda,claude,,2026-07-04,N,ATS board gone
 Render,claude,,2026-07-02,Y,has open qualifying role
 Retool,claude,84,2026-06-30,Y,has open qualifying role
-Rillet,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Rillet,claude,,2026-07-23,N,no AE; only BDR/CS/PM/Solutions Consultant on Ashby
 Rippling,claude,86,2026-06-30,Y,has open qualifying role
-Rocket Software,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Rocket Software,claude,,2026-07-23,N,ATS unresolved
 Samsara,claude,86,2026-07-02,Y,has open qualifying role
-ScaleOps,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Servicenow,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Sierra,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+ScaleOps,claude,,2026-07-23,N,ATS unresolved
+Servicenow,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Sierra,claude,,2026-07-23,Y,High Growth Enterprise AE; Ashby 'sierra' board; on-site SF; $205-250K base + commission
 Sigma Computing,claude,,2026-06-30,Y,has open qualifying role
-Smartsheet,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-SmartSuite,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Starburst,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Smartsheet,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+SmartSuite,claude,,2026-07-23,N,ATS unresolved
+Starburst,claude,,2026-07-23,N,no AE on Greenhouse starburst board
 Sumo Logic,claude,,2026-07-02,Y,has open qualifying role
-Supermetrics,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
-Syniti,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
+Supermetrics,claude,,2026-07-23,N,no US AE; only Singapore junior AE on Greenhouse
+Syniti,claude,,2026-07-23,N,ATS unresolved
 Synthflow AI,claude,,2026-06-30,N,evaluated (prior master exclusion list); no listed role
 Sysdig,claude,,2026-07-04,N,posting dead; no qualifying replacement on board
 Temporal,claude,95,2026-07-04,N,posting dead; remaining US AE roles are senior-only (Strategic Senior AE)
@@ -849,55 +849,55 @@ Cherry,repvue,86.55,2026-07-22,N,ATS unresolved; patient financing niche vertica
 Carolina Handling,repvue,86.53,2026-07-22,N,not B2B SaaS; material handling equipment dealer
 Superchat,repvue,86.53,2026-07-22,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
 Actifio,repvue,86.50,2026-07-22,N,acquired by Google Cloud 2021
-AssuredPartners,repvue,86.49,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Sendcloud,repvue,86.48,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-GoEngineer,repvue,86.48,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+AssuredPartners,repvue,86.49,2026-07-23,N,not B2B SaaS; insurance brokerage
+Sendcloud,repvue,86.48,2026-07-23,N,European shipping SaaS; no US AE found
+GoEngineer,repvue,86.48,2026-07-23,N,not B2B SaaS; engineering reseller
 Monte Carlo Data,repvue,86.47,2026-06-30,Y,top500 RepVue scan: open AE role
 Cisco Systems,repvue,86.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-CareAcademy,repvue,86.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-"AppCard, Inc.",repvue,86.46,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Canopy,repvue,86.45,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ClickTime,repvue,86.44,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Coalesce.io,repvue,86.43,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Kipu Health,repvue,86.42,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-tray.io,repvue,86.41,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Recharge,repvue,86.41,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-InvestNext,repvue,86.40,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+CareAcademy,repvue,86.46,2026-07-23,N,ATS unresolved
+"AppCard, Inc.",repvue,86.46,2026-07-23,N,not B2B SaaS; retail loyalty program (B2C)
+Canopy,repvue,86.45,2026-07-23,N,no roles; empty Ashby board
+ClickTime,repvue,86.44,2026-07-23,N,ATS unresolved
+Coalesce.io,repvue,86.43,2026-07-23,N,ATS unresolved
+Kipu Health,repvue,86.42,2026-07-23,N,ATS unresolved
+tray.io,repvue,86.41,2026-07-23,N,ATS unresolved
+Recharge,repvue,86.41,2026-07-23,N,ATS unresolved
+InvestNext,repvue,86.40,2026-07-23,N,ATS unresolved
 Workday,repvue,86.40,2026-07-22,N,posting JR-0107132 dead 2026-07-22 (Workday returns 0 results)
-JobGet,repvue,86.38,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-XM Cyber,repvue,86.38,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+JobGet,repvue,86.38,2026-07-23,N,B2C hourly worker platform; not B2B SaaS target
+XM Cyber,repvue,86.38,2026-07-23,N,ATS unresolved (Ashby/Lever/GH 404)
 Domino Data Lab,repvue,86.37,2026-06-30,Y,top500 RepVue scan: open AE role
-Dental Intelligence,repvue,86.36,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-"Jane Technologies, Inc.",repvue,86.35,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Stibo,repvue,86.34,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Dental Intelligence,repvue,86.36,2026-07-23,N,ATS unresolved
+"Jane Technologies, Inc.",repvue,86.35,2026-07-23,N,ATS unresolved
+Stibo,repvue,86.34,2026-07-23,N,ATS unresolved after multiple tries
 Buildkite,repvue,86.34,2026-06-30,Y,top500 RepVue scan: open AE role
 HST Pathways,repvue,86.34,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-GuidePoint Security,repvue,86.33,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Action1,repvue,86.32,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Daikin,repvue,86.32,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Employment Hero,repvue,86.31,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-YCharts,repvue,86.31,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Upflow,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-FieldPulse,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Continu,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-REVGEN,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ComplyAdvantage,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-FloQast,repvue,86.30,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-The Boston Beer Company,repvue,86.29,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Thought Machine,repvue,86.29,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Dremio,repvue,86.29,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Loopio,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Deposco,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-NBCUniversal,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-The Trade Desk,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Enphase Energy,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+GuidePoint Security,repvue,86.33,2026-07-23,N,not B2B SaaS; security consulting/reseller
+Action1,repvue,86.32,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Daikin,repvue,86.32,2026-07-23,N,not B2B SaaS; HVAC manufacturer
+Employment Hero,repvue,86.31,2026-07-23,N,Australian HR SaaS; no US AE found
+YCharts,repvue,86.31,2026-07-23,N,ATS unresolved
+Upflow,repvue,86.30,2026-07-23,N,ATS unresolved
+FieldPulse,repvue,86.30,2026-07-23,N,ATS unresolved
+Continu,repvue,86.30,2026-07-23,N,ATS unresolved
+REVGEN,repvue,86.30,2026-07-23,N,not B2B SaaS; sales outsourcing services
+ComplyAdvantage,repvue,86.30,2026-07-23,N,no AE; Greenhouse board shows error/empty
+FloQast,repvue,86.30,2026-07-23,N,no US AE; only Sydney AE on Lever
+The Boston Beer Company,repvue,86.29,2026-07-23,N,not B2B SaaS; beverage company
+Thought Machine,repvue,86.29,2026-07-23,N,ATS unresolved after 3 tries
+Dremio,repvue,86.29,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Loopio,repvue,86.27,2026-07-23,N,no AE; only CSM/engineering on Ashby
+Deposco,repvue,86.27,2026-07-23,N,ATS unresolved
+NBCUniversal,repvue,86.27,2026-07-23,N,not B2B SaaS; media/entertainment company
+The Trade Desk,repvue,86.27,2026-07-23,N,no AE on Greenhouse thetradedesk; only Account Managers
+Enphase Energy,repvue,86.27,2026-07-23,N,not B2B SaaS; solar energy hardware
 Seso Inc.,repvue,86.27,2026-06-30,Y,top500 RepVue scan: open AE role
-Alloy,repvue,86.27,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Supio,repvue,86.25,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Allego,repvue,86.24,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Box,repvue,86.23,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-ePayPolicy,repvue,86.22,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
-Takeda Pharmaceuticals,repvue,86.22,2026-06-30,N,top500 RepVue scan: no verified role / ATS unresolved
+Alloy,repvue,86.27,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Supio,repvue,86.25,2026-07-23,N,ATS unresolved (Ashby/Lever 404)
+Allego,repvue,86.24,2026-07-23,N,no AE found; ATS unresolved
+Box,repvue,86.23,2026-07-23,N,no AE on Greenhouse boxinc board currently
+ePayPolicy,repvue,86.22,2026-07-23,N,ATS unresolved
+Takeda Pharmaceuticals,repvue,86.22,2026-07-23,N,not B2B SaaS; pharmaceutical
 Taulia,repvue,86.21,2026-07-01,Y,top1000 RepVue scan: open AE role
 Mölnlycke Health Care,repvue,86.20,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Double,repvue,86.19,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
