@@ -34,7 +34,7 @@ Doppler,claude,,2026-07-02,Y,has open qualifying role
 Drata,claude,,2026-07-06,N,dead: Ashby board has no AE posting (both old and replacement URLs dead 2026-07-06)
 DroneDeploy,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Elastic,claude,,2026-07-23,N,no US AE; only EMEA roles on Greenhouse
-Eve,claude,,2026-07-02,Y,has open qualifying role
+Eve,claude,,2026-07-24,N,no AE roles on Greenhouse (field enablement/governance only)
 Fiddler AI,claude,,2026-07-23,N,ATS unresolved
 Fleetio,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Fluint,claude,,2026-07-23,N,ATS unresolved
@@ -515,7 +515,7 @@ AppSumo,repvue,89.09,2026-07-09,N,re-check 2026-07-09: not B2B SaaS product (sof
 RCN Technologies,repvue,89.09,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (IT services/MSP)
 Trella Health,repvue,89.08,2026-07-09,N,re-check 2026-07-09: GH board exists; no AE roles (has BDR only)
 ClientSuccess,repvue,89.08,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
-Evolve Security,repvue,89.05,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (security training/consulting)
+Evolve Security,repvue,89.05,2026-07-24,N,ATS unresolved
 Tekmetric,repvue,89.02,2026-07-02,Y,top500 RepVue scan: open AE role
 FMX,repvue,89.01,2026-06-30,Y,top500 RepVue scan: open AE role
 PerkSpot,repvue,89.01,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
@@ -986,110 +986,110 @@ Bishop Fox,repvue,85.69,2026-07-23,N,ATS unresolved; primarily pen testing servi
 Slice,repvue,85.68,2026-07-23,N,ATS unresolved; restaurant tech SaaS 2026-07-23
 Netskope,repvue,85.68,2026-07-23,N,MM AE roles city-specific (San Diego/NY); not confirmed US-remote 2026-07-23
 Taxfyle,repvue,85.67,2026-07-23,N,ATS unresolved; tax tech SaaS 2026-07-23
-Nuance Communications Inc.,repvue,85.67,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Fidelity,repvue,85.67,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Venafi,repvue,85.65,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Apptio,repvue,85.65,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Axis Security,repvue,85.65,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Axon,repvue,85.64,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-SciLeads,repvue,85.64,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Mixmax,repvue,85.62,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Citylitics Inc,repvue,85.61,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Standard Metrics,repvue,85.61,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Vercel,repvue,85.60,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-ExperiencePoint,repvue,85.59,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Regal Plastic Supply Company Inc.,repvue,85.59,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Normalyze,repvue,85.58,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Redfin,repvue,85.57,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+Nuance Communications Inc.,repvue,85.67,2026-07-24,N,acquired by Microsoft 2022; ATS unresolved
+Fidelity,repvue,85.67,2026-07-24,N,not B2B SaaS (financial services firm); permanent skip
+Venafi,repvue,85.65,2026-07-24,N,acquired by CyberArk 2024
+Apptio,repvue,85.65,2026-07-24,N,IBM subsidiary; ATS unresolved
+Axis Security,repvue,85.65,2026-07-24,N,acquired by HPE (Atmos) 2023
+Axon,repvue,85.64,2026-07-24,N,hardware + B2B public safety; not pure SaaS
+SciLeads,repvue,85.64,2026-07-24,N,ATS unresolved
+Mixmax,repvue,85.62,2026-07-24,N,"ATS unresolved (Ashby 404, Lever 404)"
+Citylitics Inc,repvue,85.61,2026-07-24,N,ATS unresolved
+Standard Metrics,repvue,85.61,2026-07-24,N,ATS unresolved
+Vercel,repvue,85.60,2026-07-24,N,"no active AE roles (Ashby board empty, Lever 404)"
+ExperiencePoint,repvue,85.59,2026-07-24,N,not B2B SaaS (leadership development consulting); permanent skip
+Regal Plastic Supply Company Inc.,repvue,85.59,2026-07-24,N,not B2B SaaS (industrial supply); permanent skip
+Normalyze,repvue,85.58,2026-07-24,N,acquired by Palo Alto Networks 2023
+Redfin,repvue,85.57,2026-07-24,N,"not B2B SaaS (real estate marketplace, B2C); permanent skip"
 Tiger Data,repvue,85.57,2026-07-04,N,posting dead; replacement is Spain-only
-Absorb Software,repvue,85.56,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Vena Solutions,repvue,85.55,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Bizzabo,repvue,85.54,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-AWeber,repvue,85.54,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Moveworks,repvue,85.53,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Ingersoll Rand,repvue,85.53,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-EVOLVE,repvue,85.53,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-SingleOps,repvue,85.53,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Selling.com,repvue,85.52,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Resonate,repvue,85.51,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Saviynt,repvue,85.51,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Encapture,repvue,85.51,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Rocket Mortgage,repvue,85.51,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-CrowdRiff,repvue,85.51,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Nalco Water,repvue,85.49,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Webconnex,repvue,85.49,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-InVision,repvue,85.48,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-NewsWhip,repvue,85.48,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Moss,repvue,85.47,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-IGEL,repvue,85.47,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Clio,repvue,85.46,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+Absorb Software,repvue,85.56,2026-07-24,N,ATS unresolved (Ashby/Greenhouse/Lever all 404)
+Vena Solutions,repvue,85.55,2026-07-24,N,ATS unresolved (Ashby/Greenhouse 404)
+Bizzabo,repvue,85.54,2026-07-24,N,ATS unresolved (Greenhouse/Ashby/Lever 404)
+AWeber,repvue,85.54,2026-07-24,N,ATS unresolved
+Moveworks,repvue,85.53,2026-07-24,N,ATS unresolved (likely acquired by ServiceNow)
+Ingersoll Rand,repvue,85.53,2026-07-24,N,not B2B SaaS (industrial manufacturer); permanent skip
+EVOLVE,repvue,85.53,2026-07-24,N,ATS unresolved
+SingleOps,repvue,85.53,2026-07-24,N,ATS unresolved
+Selling.com,repvue,85.52,2026-07-24,N,ATS unresolved
+Resonate,repvue,85.51,2026-07-24,N,ATS unresolved
+Saviynt,repvue,85.51,2026-07-24,Y,Ent AE (territory NY Metro/NJ field) in latest.csv since 2026-07-15
+Encapture,repvue,85.51,2026-07-24,N,ATS unresolved
+Rocket Mortgage,repvue,85.51,2026-07-24,N,primarily B2C mortgage; not B2B SaaS AE target; permanent skip
+CrowdRiff,repvue,85.51,2026-07-24,N,ATS unresolved
+Nalco Water,repvue,85.49,2026-07-24,N,not B2B SaaS (specialty chemicals/water treatment); permanent skip
+Webconnex,repvue,85.49,2026-07-24,N,ATS unresolved
+InVision,repvue,85.48,2026-07-24,N,ATS unresolved (company may be winding down)
+NewsWhip,repvue,85.48,2026-07-24,N,ATS unresolved
+Moss,repvue,85.47,2026-07-24,N,ATS unresolved
+IGEL,repvue,85.47,2026-07-24,N,ATS unresolved
+Clio,repvue,85.46,2026-07-24,N,ATS unresolved (Greenhouse/Lever/Ashby all 404)
 runZero,repvue,85.46,2026-07-07,N,posting 5821374004 dead per verify_links; no replacement AE on board
-SWEEP,repvue,85.44,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Nextdoor,repvue,85.44,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-DoorDash,repvue,85.43,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Doximity,repvue,85.43,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Hebbia,repvue,85.43,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Pathify,repvue,85.42,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Danaher Corporation,repvue,85.42,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Idexx,repvue,85.41,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Coalition,repvue,85.41,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Johnson & Johnson MedTech,repvue,85.39,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Signifyd,repvue,85.39,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Everlaw,repvue,85.38,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-deepset,repvue,85.38,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Jumio Corporation,repvue,85.38,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Guild,repvue,85.38,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Lessonly (owned by Seismic),repvue,85.37,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-World Wide Technology,repvue,85.36,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-YouScience,repvue,85.36,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Autodesk,repvue,85.36,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-FactSet,repvue,85.34,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Sweetwater Sound,repvue,85.34,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+SWEEP,repvue,85.44,2026-07-24,N,ATS unresolved (Ashby sweepai 404)
+Nextdoor,repvue,85.44,2026-07-24,N,not B2B SaaS (B2C/local social); permanent skip
+DoorDash,repvue,85.43,2026-07-24,N,not B2B SaaS (B2C marketplace); permanent skip
+Doximity,repvue,85.43,2026-07-24,N,"B2B healthcare advertising, not typical MM SaaS AE target"
+Hebbia,repvue,85.43,2026-07-24,N,no active AE roles on Ashby board
+Pathify,repvue,85.42,2026-07-24,N,ATS unresolved
+Danaher Corporation,repvue,85.42,2026-07-24,N,not B2B SaaS (industrial conglomerate); permanent skip
+Idexx,repvue,85.41,2026-07-24,N,"not B2B SaaS (veterinary diagnostics, hardware-heavy); permanent skip"
+Coalition,repvue,85.41,2026-07-24,N,no AE roles on Greenhouse (claims/actuary/HR only)
+Johnson & Johnson MedTech,repvue,85.39,2026-07-24,N,not B2B SaaS (medical devices); permanent skip
+Signifyd,repvue,85.39,2026-07-24,Y,"Sr Enterprise AE NW Territory, Remote US, $270-320K OTE, Greenhouse 2026-05-27"
+Everlaw,repvue,85.38,2026-07-24,N,no AE roles on Greenhouse (field enablement/governance only)
+deepset,repvue,85.38,2026-07-24,N,ATS unresolved (Ashby/Lever 404)
+Jumio Corporation,repvue,85.38,2026-07-24,Y,"Account Executive US, Remote, Ent, Greenhouse 2026-05-12"
+Guild,repvue,85.38,2026-07-24,N,no AE roles on Ashby board (engineering/design/marketing only)
+Lessonly (owned by Seismic),repvue,85.37,2026-07-24,N,acquired by and integrated into Seismic; permanent skip
+World Wide Technology,repvue,85.36,2026-07-24,N,not B2B SaaS (IT reseller/services); permanent skip
+YouScience,repvue,85.36,2026-07-24,N,ATS unresolved
+Autodesk,repvue,85.36,2026-07-24,N,ATS unresolved (too large; no accessible MM AE API)
+FactSet,repvue,85.34,2026-07-24,N,ATS unresolved (Ashby 404)
+Sweetwater Sound,repvue,85.34,2026-07-24,N,not B2B SaaS (music retailer); permanent skip
 FireMon,repvue,85.31,2026-07-01,Y,top1000 RepVue scan: open AE role
-Secoda,repvue,85.31,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Built In,repvue,85.30,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Luminary Cloud,repvue,85.30,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-JobAdder,repvue,85.30,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Snappt,repvue,85.29,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Deepki,repvue,85.29,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Arketa,repvue,85.29,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Generis Group,repvue,85.28,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-"Barcodes, Inc",repvue,85.28,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Organogenesis,repvue,85.27,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Metadata.io,repvue,85.27,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-RevSure.ai,repvue,85.26,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Spring Health,repvue,85.26,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-BoomTown ROI,repvue,85.25,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Palo Alto Networks,repvue,85.25,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Keela,repvue,85.24,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-ElevenLabs,repvue,85.24,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+Secoda,repvue,85.31,2026-07-24,N,ATS unresolved (Ashby 404)
+Built In,repvue,85.30,2026-07-24,N,ATS unresolved
+Luminary Cloud,repvue,85.30,2026-07-24,N,ATS unresolved
+JobAdder,repvue,85.30,2026-07-24,N,ATS unresolved
+Snappt,repvue,85.29,2026-07-24,N,ATS unresolved
+Deepki,repvue,85.29,2026-07-24,N,ATS unresolved
+Arketa,repvue,85.29,2026-07-24,N,ATS unresolved
+Generis Group,repvue,85.28,2026-07-24,N,not B2B SaaS (events/media); permanent skip
+"Barcodes, Inc",repvue,85.28,2026-07-24,N,not B2B SaaS (distribution/supply chain); permanent skip
+Organogenesis,repvue,85.27,2026-07-24,N,not B2B SaaS (biotech/medical); permanent skip
+Metadata.io,repvue,85.27,2026-07-24,N,ATS unresolved (Ashby 404)
+RevSure.ai,repvue,85.26,2026-07-24,N,ATS unresolved (Ashby 404)
+Spring Health,repvue,85.26,2026-07-24,N,no active AE role; only future pipeline listing on Greenhouse
+BoomTown ROI,repvue,85.25,2026-07-24,N,ATS unresolved
+Palo Alto Networks,repvue,85.25,2026-07-24,N,ATS unresolved (Lever/Ashby 404); large company
+Keela,repvue,85.24,2026-07-24,N,ATS unresolved
+ElevenLabs,repvue,85.24,2026-07-24,Y,AE North America Mid-Market on Ashby (board blind-spot); added to latest.csv as Needs check
 AssetWatch,repvue,85.24,2026-07-02,Y,top1000 RepVue scan: open AE role
-LeagueApps,repvue,85.23,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Bausch and Lomb,repvue,85.23,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Sentieo (AlphaSense),repvue,85.22,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Bitly,repvue,85.22,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Zenput,repvue,85.22,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Trintech,repvue,85.21,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-GetResponse,repvue,85.21,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Secure Code Warrior,repvue,85.21,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Siemens Energy,repvue,85.21,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Amazon Web Services (AWS),repvue,85.21,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-eSSENTIAL Accessibility,repvue,85.21,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Astronomer,repvue,85.19,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Help Scout,repvue,85.17,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Niural,repvue,85.17,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-POS Nation,repvue,85.16,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-"Datacor, Inc.",repvue,85.16,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Pursuit Sales Solutions,repvue,85.16,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-data.world,repvue,85.14,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Pinpoint,repvue,85.13,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-hyperexponential,repvue,85.13,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Computacenter,repvue,85.12,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Vericel Corporation,repvue,85.12,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-AlertMedia,repvue,85.11,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Benepass,repvue,85.10,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Financial Times,repvue,85.10,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Duro,repvue,85.10,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+LeagueApps,repvue,85.23,2026-07-24,N,"ATS unresolved (sports mgmt SaaS, niche/small)"
+Bausch and Lomb,repvue,85.23,2026-07-24,N,not B2B SaaS (pharma/consumer eye care); permanent skip
+Sentieo (AlphaSense),repvue,85.22,2026-07-24,N,integrated into AlphaSense (in latest.csv)
+Bitly,repvue,85.22,2026-07-24,N,no AE roles (Greenhouse board returns empty)
+Zenput,repvue,85.22,2026-07-24,N,acquired by Crunchtime (Crunchtime (Zenput) in latest.csv)
+Trintech,repvue,85.21,2026-07-24,N,ATS unresolved (Ashby 404)
+GetResponse,repvue,85.21,2026-07-24,N,"ATS unresolved (email marketing, primarily European)"
+Secure Code Warrior,repvue,85.21,2026-07-24,N,ATS unresolved
+Siemens Energy,repvue,85.21,2026-07-24,N,not B2B SaaS (industrial energy); permanent skip
+Amazon Web Services (AWS),repvue,85.21,2026-07-24,N,ATS unresolved (too large; no IC MM AE roles found via API)
+eSSENTIAL Accessibility,repvue,85.21,2026-07-24,N,ATS unresolved
+Astronomer,repvue,85.19,2026-07-24,Y,"Strategic AE NYC/Boston hybrid 2days/wk, $325-350K OTE, Ent, Ashby 2026-06-29"
+Help Scout,repvue,85.17,2026-07-24,N,ATS unresolved
+Niural,repvue,85.17,2026-07-24,N,ATS unresolved
+POS Nation,repvue,85.16,2026-07-24,N,not B2B SaaS (POS hardware/SMB software); permanent skip
+"Datacor, Inc.",repvue,85.16,2026-07-24,N,not B2B SaaS (niche chemical ERP); permanent skip
+Pursuit Sales Solutions,repvue,85.16,2026-07-24,N,not B2B SaaS (sales consulting/training); permanent skip
+data.world,repvue,85.14,2026-07-24,N,ATS unresolved (Ashby 404)
+Pinpoint,repvue,85.13,2026-07-24,N,ATS unresolved
+hyperexponential,repvue,85.13,2026-07-24,N,no AE roles on Ashby board (non-US only)
+Computacenter,repvue,85.12,2026-07-24,N,not B2B SaaS (IT services/reseller); permanent skip
+Vericel Corporation,repvue,85.12,2026-07-24,N,not B2B SaaS (biotech/cell therapy); permanent skip
+AlertMedia,repvue,85.11,2026-07-24,N,no AE roles on Greenhouse (CS roles only)
+Benepass,repvue,85.10,2026-07-24,N,no AE roles on Ashby board (product/eng/security only)
+Financial Times,repvue,85.10,2026-07-24,N,not B2B SaaS (media/journalism); permanent skip
+Duro,repvue,85.10,2026-07-24,N,"ATS unresolved (PLM SaaS for hardware eng, small)"
 Breezeway,repvue,85.09,2026-07-02,Y,top1000 RepVue scan: open AE role
 Securly,repvue,85.08,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Visa,repvue,85.07,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
@@ -1110,7 +1110,7 @@ Skuad,repvue,85.02,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unre
 LogRocket,repvue,85.02,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 UserZoom,repvue,85.02,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Fivetran,repvue,85.01,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
-Johnson & Johnson,repvue,85.01,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
+Johnson & Johnson,repvue,85.01,2026-07-24,N,not B2B SaaS (medical devices); permanent skip
 Mastercard,repvue,85.01,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Yardstik,repvue,85.01,2026-07-01,N,top1000 RepVue scan: no verified role / ATS unresolved
 Juniper Square,repvue,85.00,2026-07-01,Y,top1000 RepVue scan: open AE role
@@ -1512,7 +1512,7 @@ Instapage,repvue,83.34,2026-07-02,N,RepVue scan: no verified role / ATS unresolv
 Verse.ai,repvue,83.34,2026-07-22,N,posting dead 2026-07-22; no qualifying replacement found
 Vyne Dental,repvue,83.34,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Resy,repvue,83.34,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
-DOOR,repvue,83.33,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
+DOOR,repvue,83.33,2026-07-24,N,not B2B SaaS (B2C marketplace); permanent skip
 Principal Financial,repvue,83.33,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 Lincoln Financial,repvue,83.32,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
 PulteGroup,repvue,83.32,2026-07-02,N,RepVue scan: no verified role / ATS unresolved
@@ -1770,7 +1770,7 @@ First Advantage,repvue,,2026-07-03,N,ATS unresolved — background screening Saa
 UPS Supply Chain Solutions,repvue,,2026-07-03,N,not B2B SaaS target — logistics division of UPS
 Movement Mortgage,repvue,,2026-07-03,N,not B2B SaaS target — mortgage company
 When I Work,repvue,,2026-07-03,N,ATS unresolved — shift scheduling SaaS; Lever/Greenhouse 404
-Axonius,repvue,,2026-07-03,N,no qualifying AE — all Ent AEs geo-restricted to specific states; no US-remote IC MM AE
+Axonius,repvue,,2026-07-24,N,hardware + B2B public safety; not pure SaaS
 PennyMac Loan Services,repvue,,2026-07-03,N,not B2B SaaS target — mortgage company
 Bruker,repvue,,2026-07-03,N,not B2B SaaS target — scientific instruments
 AudioEye,repvue,,2026-07-03,N,no qualifying AE — digital accessibility SaaS; no AE roles on Greenhouse board
@@ -2221,7 +2221,7 @@ Innovative Systems,repvue,,2026-07-05,N,ATS unresolved (GH 404; address intellig
 MyCarrier,repvue,,2026-07-05,N,ATS unresolved (GH/Lever 404; TMS logistics SaaS)
 Justworks,repvue,,2026-07-05,N,territory-based AE only (in-territory; min 2yr exp; not broadly remote)
 Unacast,repvue,,2026-07-05,N,ATS unresolved (Ashby/Lever 404; location analytics SaaS)
-Axonics Inc,repvue,,2026-07-05,N,not B2B SaaS (medical devices)
+Axonics Inc,repvue,,2026-07-24,N,hardware + B2B public safety; not pure SaaS
 Amgen,repvue,,2026-07-05,N,not B2B SaaS (biopharmaceutical)
 Humaans,repvue,,2026-07-05,N,no AE (Ashby: only Sales Associate and US SDR Team Lead)
 Revinate,repvue,,2026-07-05,N,no AE (Lever: only India enterprise sales and EMEA solution engineer)
@@ -2239,7 +2239,7 @@ Parloa,repvue,,2026-07-05,N,no US AE (EU Greenhouse: only Austria and Turkey AE 
 Corelight,repvue,,2026-07-05,N,territory-based remote AE (Central/Dallas territory only; senior Enterprise AE)
 Brink’s Inc,repvue,,2026-07-05,N,not B2B SaaS (armored car/cash management services)
 Umbrella,repvue,,2026-07-05,N,ATS unresolved (tried Anodot slug; no AE found on boards)
-"Axonics, Inc.",repvue,,2026-07-05,N,not B2B SaaS (medical devices)
+"Axonics, Inc.",repvue,,2026-07-24,N,hardware + B2B public safety; not pure SaaS
 Briq,repvue,,2026-07-05,N,ATS unresolved (no board found after multiple tries)
 Infinity,repvue,,2026-07-05,N,ATS unresolved (unclear company identity; no board found)
 Heap,repvue,,2026-07-05,N,acquired by Contentsquare (2023); no independent board
@@ -2342,7 +2342,7 @@ Brink’s Inc,repvue,,2026-07-05,N,not B2B SaaS (cash logistics / armored car)
 BlackLine,repvue,,2026-07-05,N,ATS unresolved (iCIMS; current MM AE posting URLs returned 410/404)
 AgentSync,repvue,,2026-07-05,N,no AE role currently (Rippling ATS; only legal/product open)
 LiveIntent,repvue,,2026-07-05,N,acquired by Zeta Global; AE roles NYC-based not remote
-Amazon,repvue,,2026-07-05,N,not ICP (mega-corp; not typical B2B SaaS MM-AE target)
+Amazon,repvue,,2026-07-24,N,ATS unresolved (too large; no IC MM AE roles found via API)
 Reveneer,repvue,,2026-07-05,N,not B2B SaaS (outsourced sales BPO)
 Dixa,repvue,,2026-07-05,N,no AE role currently (empty Workable board)
 Asurion,repvue,,2026-07-05,N,not B2B SaaS (device protection / insurance)
@@ -2588,7 +2588,7 @@ Cynet Security,repvue,,2026-07-07,N,no open positions (cybersecurity; Comeet boa
 NetSPI,repvue,,2026-07-07,N,ATS unresolved (pentesting platform; UKG ATS; could not access board)
 Yardi,repvue,,2026-07-07,N,ATS unresolved (property management software; no standard ATS board found)
 OpenComp,repvue,,2026-07-07,N,ATS unresolved (compensation data SaaS; no board found on standard ATS)
-Siemens,repvue,,2026-07-07,N,not B2B SaaS (industrial conglomerate)
+Siemens,repvue,,2026-07-24,N,not B2B SaaS (industrial energy); permanent skip
 Haas Alert,repvue,,2026-07-07,N,no AE openings (vehicle safety tech; only Technical Delivery Lead on careers page)
 MariaDB,repvue,,2026-07-07,N,ATS unresolved (database software; no standard ATS board found)
 Taboola,repvue,,2026-07-07,N,no qualifying US-remote AE (digital advertising network; international roles only)
@@ -2731,7 +2731,7 @@ Grapevine,ats-search,,2026-07-10,N,NYC HQ; 5 days onsite; not remote
 Condukt,ats-search,,2026-07-10,N,London/Porto only; no US-remote role
 Contentful,ats-search,,2026-07-10,N,Greenhouse board: no AE roles (job 7874855 not in API; stale search result)
 Nightfall,ats-search,,2026-07-10,N,ATS unresolved: Lever board 404; posting page 403
-Benepass,ats-search,,2026-07-10,N,Ashby board: no AE roles open; only engineering/product
+Benepass,ats-search,,2026-07-24,N,no AE roles on Ashby board (product/eng/security only)
 CollegeVine,ats-search,,2026-07-10,N,ATS unresolved: Ashby API 404 (both collegevine and collegevine.com slugs)
 ClearBank,ats-search,,2026-07-10,N,London-based fintech banking API; no US remote AE roles
 Tabz,ats-search,,2026-07-10,N,empty Ashby board; no open roles
@@ -3549,7 +3549,7 @@ Greenlight,repvue,,2026-07-17,N,GH board (GreenlightGuru): only UK-based AE; zer
 Wayflyer,repvue,,2026-07-17,N,Ashby board (wayflyer): only AE is Charlotte NC hybrid 3-4 days/week; disqualified by explicit in-office cadence; e-commerce revenue financing SaaS
 JazzHR,repvue,,2026-07-17,N,"acquired by Employ Inc.; JazzHR brand has no direct job listings; Employ's own AE posting is ""Associate AE"" (entry-level, below 4+ yr ICP bar); recruiting software SaaS"
 Quorum Analytics,repvue,,2026-07-17,N,"ATS unresolved (GH slug ""quorum"" 404; board dynamically loaded); Ashby posting-api shows only BDR/AM (posting-api blind spot); most recent AE (Public Sector, Jan 2026) dead in API; government affairs SaaS"
-Axonify,repvue,,2026-07-17,N,migrated from Lever to Gem ATS (jobs.gem.com/axonify); Lever board dead (Document not found); no verifiable live AE posting via supported ATS API; frontline enablement/training SaaS
+Axonify,repvue,,2026-07-24,N,hardware + B2B public safety; not pure SaaS
 Accushield,repvue,,2026-07-17,N,email-only hiring (jobs@accushield.com); no AE listed; only PM and Customer Support open; senior living visitor management SaaS
 CREXi,repvue,,2026-07-17,N,GH board (CREXi): 4 AE roles (Intelligence/Pro) all in Los Angeles or Miami only; not US-remote; OTE unverified; commercial real estate transaction marketplace
 New Relic,repvue,,2026-07-22,N,"posting expired 2026-07-22; only non-US AE replacements (Japan, France, Germany)"
@@ -3848,7 +3848,7 @@ SAS,repvue,,2026-07-18,N,SAS Institute analytics software; private company; ATS 
 SmartRent,repvue,,2026-07-18,N,Smart home for rental SaaS; Greenhouse: no AE (only Sales Directors)
 Electric,repvue,,2026-07-18,N,IT management SaaS; Ashby board: no AE (only Tech Solutions Eng + SW Eng)
 C.H. Robinson Worldwide,repvue,,2026-07-18,N,Freight broker/logistics; not B2B SaaS
-Rev,repvue,,2026-07-18,N,Transcription/captioning SaaS; acquired by AssemblyAI (2025)
+Rev,repvue,,2026-07-24,N,ATS unresolved (Ashby 404)
 Fingerprint,repvue,,2026-07-18,Y,Enterprise AE Remote; OTE $250-300K; Greenhouse fingerprint/jobs/5826228004
 Reuters,repvue,,2026-07-18,N,News media (Thomson Reuters); not B2B SaaS
 InterSystems,repvue,,2026-07-18,N,Data management platform; private company; ATS unresolved
@@ -3939,7 +3939,7 @@ Auctane,repvue,,2026-07-18,N,no qualifying AE on Greenhouse board; Atlanta AE fo
 Omnissa,repvue,,2026-07-18,Y,Strategic AE NYC+SF OTE $280-400K Ent 5-10yr; workspace/endpoint mgmt SaaS (fmr VMware EUC/Broadcom)
 EveryoneSocial,repvue,,2026-07-18,N,ATS unresolved; employee advocacy/social selling SaaS
 Linq App,repvue,,2026-07-18,N,no AE roles on Ashby board (linqapp); digital business card/networking SaaS
-Snap,repvue,,2026-07-18,N,not B2B SaaS; social media platform (consumer + B2B advertising)
+Snap,repvue,,2026-07-24,N,ATS unresolved
 Blend,repvue,,2026-07-18,N,no live AE on Greenhouse board; Lever URL 403; lending/banking workflow SaaS
 Vaco,repvue,,2026-07-18,N,not B2B SaaS; staffing/talent solutions firm
 SPINS,repvue,,2026-07-18,N,ATS unresolved; retail/CPG analytics data SaaS
@@ -4577,7 +4577,7 @@ Tebra,ats-search,,2026-07-22,N,AE roles are SMB-only (small healthcare practices
 Axial,ats-search,,2026-07-22,N,M&A deal platform; no AE roles on GH board; all NY roles 3 days in-office
 Nectar Social,ats-search,,2026-07-23,Y,"MM AE Hybrid Palo Alto CA, Ashby API confirmed, $150K-250K base+commission, social/marketing AI SaaS"
 Docsumo,ats-search,,2026-07-23,N,"AE posting from Feb 2024, India-based company, likely non-US AE, no OTE specified"
-Regal,ats-search,,2026-07-23,Y,Ent AE NYC hybrid (T/W/TH) OTE $250-350K; B2B SaaS AI contact center (regal.ai)
+Regal,ats-search,,2026-07-24,N,not B2B SaaS (industrial supply); permanent skip
 Ministry Brands,ats-search,,2026-07-23,N,Workday ATS unverifiable; faith-tech B2B SaaS; has AE roles but OTE/details unconfirmable
 CADDi,ats-search,,2026-07-23,N,MM/Ent AE Chicago only (not remote/US target city); manufacturing supply chain SaaS
 Titan Cloud,ats-search,,2026-07-23,N,empty Workable board; no AE postings; fuel asset optimization SaaS
