@@ -516,7 +516,7 @@ RCN Technologies,repvue,89.09,2026-07-09,N,re-check 2026-07-09: not B2B SaaS (IT
 Trella Health,repvue,89.08,2026-07-09,N,re-check 2026-07-09: GH board exists; no AE roles (has BDR only)
 ClientSuccess,repvue,89.08,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
 Evolve Security,repvue,89.05,2026-07-24,N,ATS unresolved
-Tekmetric,repvue,89.02,2026-07-02,Y,top500 RepVue scan: open AE role
+Tekmetric,repvue,89.02,2026-07-24,N,No MM AE posting; only SMB AE and Payment AE on board
 FMX,repvue,89.01,2026-06-30,Y,top500 RepVue scan: open AE role
 PerkSpot,repvue,89.01,2026-07-09,N,re-check 2026-07-09: ATS unresolved (no standard board found)
 Ermetic,repvue,89.01,2026-07-09,N,re-check 2026-07-09: acquired by Tenable 2023 (no longer independent)
@@ -699,7 +699,7 @@ Passport,repvue,87.62,2026-07-22,N,re-check 2026-07-22: Ashby board has QA/Wareh
 Stensul,repvue,87.61,2026-07-22,Y,Enterprise AE NYC; Ashby b199f914; publishedAt 2026-06-10
 PermitFlow,repvue,87.60,2026-07-22,N,re-check 2026-07-22: no AE roles on Ashby board
 MasterControl,repvue,87.59,2026-07-22,N,re-check 2026-07-22: only Europe AE (UK Hybrid); no US remote AE
-Instrumentl,repvue,87.59,2026-07-22,N,re-check 2026-07-22: no AE roles on Ashby board
+Instrumentl,repvue,87.59,2026-07-24,N,re-check 2026-07-24: Lever board confirmed; AE requires only 2-4yr SaaS exp (below 4+ bar); nonprofit vertical
 Mission Cloud,repvue,87.58,2026-07-22,N,not B2B SaaS; AWS managed services/cloud consulting
 1Huddle,repvue,87.56,2026-07-22,N,ATS unresolved / re-checked 2026-07-22 (Ashby 404)
 Oliver Wyman,repvue,87.54,2026-07-22,N,not B2B SaaS; management consulting firm
@@ -1096,7 +1096,7 @@ Visa,repvue,85.07,2026-07-24,N,not B2B SaaS (payment network); permanent skip
 Cencora (AmerisourceBergen),repvue,85.06,2026-07-24,N,not B2B SaaS (pharma distribution); permanent skip
 Capital on Tap,repvue,85.06,2026-07-24,N,no AE roles found; UK-focused business credit card; ATS unresolved
 Remesh,repvue,85.05,2026-07-24,N,ATS unresolved; qualitative research SaaS
-Semgrep,repvue,85.05,2026-07-24,Y,MM AE Hybrid (NYC/SF/Denver/Boston); Ashby f09ea3fd; OTE $200-220K; published 2026-07-08
+Semgrep,repvue,85.05,2026-07-24,N,AE posting closed; no AE roles on Ashby board as of 2026-07-24
 Ecotrak Facility Management Software,repvue,85.04,2026-07-24,N,ATS unresolved; facility maintenance SaaS
 Pathlock,repvue,85.04,2026-07-24,N,ATS unresolved; GRC/ERP security SaaS
 Guesty,repvue,85.04,2026-07-24,N,ATS unresolved; property management SaaS
@@ -1732,7 +1732,7 @@ TeachTown,repvue,,2026-07-03,N,ATS unresolved; special ed software; niche market
 D2IQ,repvue,,2026-07-03,N,ATS unresolved (Ashby 404; Kubernetes platform)
 Perpetua,repvue,,2026-07-03,N,ATS unresolved (Lever 403 blocked)
 Trace3,repvue,,2026-07-03,N,not B2B SaaS (IT solutions integrator/VAR)
-CaptivateIQ,repvue,,2026-07-03,N,no IC AE on Lever; only Account Director found
+CaptivateIQ,repvue,,2026-07-24,Y,Enterprise AE live on Lever (createdAt 2025-01-09); commissions/sales-perf SaaS; Remote US
 Synopsys,repvue,,2026-07-03,N,EDA software; account managers not standard MM AE
 Triplebyte,repvue,,2026-07-03,N,hiring platform pivoted/wound down
 NFP,repvue,,2026-07-03,N,not B2B SaaS (insurance broker/benefits firm)
@@ -2661,7 +2661,7 @@ Pachama,ats-search,,2026-07-07,N,not B2B SaaS; nature/carbon credits marketplace
 Mainshares,ats-search,,2026-07-07,N,SMB-focused (small business acquisition platform); not B2B SaaS AE ICP
 Loop,ats-search,,2026-07-08,Y,Enterprise AE US-remote; OTE ~$241K; ecommerce returns SaaS
 OfficeSpace Software,ats-search,,2026-07-08,Y,MM AE US-remote; workplace management SaaS
-Aerospike,ats-search,,2026-07-08,Y,Senior Ent AE US-remote; OTE $230-300K; database/real-time data SaaS
+Aerospike,ats-search,,2026-07-24,N,No qualifying US AE posting; candidates in Tel Aviv/London only
 LivePerson,ats-search,,2026-07-08,Y,Enterprise AE US-remote; base $140-160K OTE ~$280-320K; conversational AI SaaS
 Atrium Campus,ats-search,,2026-07-08,Y,AE US-remote (SE/Mid-Atl); campus management / higher ed SaaS
 Secureframe,ats-search,,2026-07-08,N,no remote AE - all hybrid (DC/NY)
@@ -2866,7 +2866,7 @@ Cacheflow,ats-search,,2026-07-15,N,AE found but posting dated 2024-04-24 (stale)
 DataStax,ats-search,,2026-07-15,N,"SmartRecruiters slug ""DataStax"" returns 0 postings and careers.smartrecruiters.com/DataStax now redirects to the generic"
 PhillyTech.Co,ats-search,,2026-07-15,N,"listing appears to be a staffing/recruiting firm, not a product co; held"
 MedTrainer,ats-search,,2026-07-15,N,"Verified ATS is Greenhouse (slug medtrainerinc, not SmartRecruiters as guessed); current live postings are BDR, Medical "
-Wiser Solutions,ats-search,,2026-07-15,N,"Only live posting is ""Account Executive (SaaS) - Bilingual English/Spanish"", entry-level (2-3+ yrs), OTE $110-125K — bel"
+Wiser Solutions,ats-search,,2026-07-24,N,re-check 2026-07-24: only bilingual English/Spanish AE on SmartRecruiters; no qualifying role
 IFS (Ultimo),ats-search,,2026-07-15,Y,"Live IC Strategic AE (Expansion) role on Ultimo/IFS install base, Manufacturing vertical, Remote (US); base $125-150K + "
 2nd Watch,ats-search,,2026-07-15,N,"SmartRecruiters board API for slug 2ndWatch returns totalFound:0 (no active postings); the ""Enterprise Account Executive"
 Nexthink,ats-search,,2026-07-15,Y,"Live IC Enterprise AE (West region), remote-eligible, B2B SaaS, 7+ yrs enterprise sales, OTE $300-360K stated"
@@ -4278,7 +4278,7 @@ Funnel Leasing,repvue,,2026-07-19,N,no AE open (property management/leasing soft
 Blackberry,repvue,,2026-07-19,N,ATS unresolved; large legacy cybersecurity company
 TeamSnap,repvue,,2026-07-19,N,"not MM/Ent B2B SaaS (sports team management, SMB/consumer-adjacent)"
 iXsystems,repvue,,2026-07-19,N,not B2B SaaS (storage hardware/software)
-Conga,repvue,,2026-07-19,Y,"Enterprise AE, Remote US; CLM/document automation SaaS"
+Conga,repvue,,2026-07-24,N,No qualifying US AE posting; General Interest pipeline + UK-only Ent AE
 PNC Financial Services Group,repvue,,2026-07-19,N,not B2B SaaS (major bank)
 Vention,repvue,,2026-07-19,N,ATS unresolved (industrial machine building platform)
 RedTeam Software,repvue,,2026-07-19,N,ATS unresolved (construction project management SaaS)
@@ -4585,3 +4585,6 @@ Siena AI,ats-search,,2026-07-24,Y,Remote AE live on Ashby; AI customer service S
 Jua,ats-search,,2026-07-24,N,no US AE role; Physical AI weather/energy forecasting; AEs in London and Zurich only
 Lucid Bots,ats-search,,2026-07-24,N,no AE role; drone cleaning/robotics; Charlotte NC roles only
 Gather AI,ats-search,,2026-07-24,N,no AE role; warehouse inventory drones; engineering/ops roles only
+RAKUNA,ats-search,,2026-07-24,N,B2B AE remote; requires only 1-2yr B2B sales exp (below 4+ bar); HR-tech recruiting platform
+PILOT Inc,ats-search,,2026-07-24,N,Career development SaaS AE; OTE $125K (below $150K floor); 3+ yrs (below 4+ bar); posting expired
+SureDone,ats-search,,2026-07-24,N,"E-commerce multi-channel SaaS; AE role likely SMB-focused, below OTE bar; old posting"

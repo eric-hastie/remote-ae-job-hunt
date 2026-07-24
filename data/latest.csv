@@ -49,7 +49,6 @@ Atrium Campus,,,MM/Ent,,Y,,campus management / higher ed SaaS,https://job-boards
 Adaptive Security,,,MM/Ent,New York,Y,94.51,Cybersecurity SaaS,https://jobs.ashbyhq.com/adaptivesecurity/84d1c461-df52-443e-b450-370429f9a7c6,2026-07-08,2025-07-18,Remote,Verified
 Loop,,~$241K,Ent,Columbus OH,Y,,ecommerce returns SaaS,https://jobs.lever.co/loopreturns/3e1f7655-ee7e-464c-89fc-b96172cdafc1,2026-07-08,2026-04-21,Remote,Verified
 Dash0,,~$250K-$300K,Ent,Hamburg Germany,Y,,Observability / DevOps SaaS,https://jobs.ashbyhq.com/dash0/4dca86e7-eaa7-4e70-bd55-edf2acd9675c,2026-07-08,2025-09-08,Remote,Verified
-Aerospike,,$230-300K,Ent,,Y,,database / real-time data SaaS,https://job-boards.greenhouse.io/aerospike/jobs/8590366002,2026-07-08,2026-06-12,Remote,Verified
 Acceldata,,,Ent,San Jose,Y,93.96,Data observability,https://jobs.lever.co/acceldata/d30b142c-545e-4da7-a370-d9af33261373,2026-07-08,2024-01-20,Remote,Verified
 doinstruct,18,$200-300K,MM/Ent,Germany (US-remote team),Y,,Frontline workforce training SaaS,https://jobs.ashbyhq.com/doinstruct/0be59ea1-c026-4845-a57b-7fa9ee76a2c7,2026-07-07,2026-03-03,Remote,Verified
 Teramind,,,MM,,Y,,Software (Cybersecurity / Insider Threat),https://jobs.lever.co/teramind/31ae16da-b776-4232-8a59-67a56811d284,2026-07-07,2026-03-19,Remote,Verified
@@ -119,7 +118,6 @@ Crunchtime (Zenput),,$200K–$240K,Ent,"Boston, MA",Y,79.59,Restaurant Operation
 BuildOps,,$280K–$300K,Ent,"Los Angeles, CA",Y,84.75,Software,https://job-boards.greenhouse.io/buildops/jobs/5818344004,2026-07-01,2026-03-03,Remote,Verified
 AcuityMD,,"$240,000–$300,000",Ent,"Boston, MA",Y,84.53,Medical Device SaaS,https://job-boards.greenhouse.io/acuitymd/jobs/5722026004,2026-07-01,2025-11-25,Remote,Verified
 Tremendous,,$160K,MM,"New York, NY",Y,93.16,Software,https://jobs.ashbyhq.com/tremendous/4aee93f6-d28c-4c29-93e1-0440cbac6968,2026-06-30,2026-05-08,Remote,Verified
-Tekmetric,,,MM,"Austin, TX",Y,89.02,Software,https://job-boards.greenhouse.io/tekmetric/jobs/6016176004,2026-06-30,2026-06-10,Remote,Verified
 Stripe,,$239K–$358K,MM/Ent,"San Francisco, CA",Y,87.83,Internet / Fintech SaaS (Payments Infrastruct,https://stripe.com/jobs/search?gh_jid=7298935,2026-06-30,,Remote,Verified
 Snapdocs,,$300K ($150K base + $150K variable),Ent,"San Francisco, CA",Y,87.69,Software (B2B SaaS - mortgage/real estate clo,https://jobs.ashbyhq.com/snapdocs/d725e93c-e215-461f-9468-4bc7caf1a506,2026-06-30,2026-06-10,Remote,Verified
 Singular,,,MM/Ent,"San Francisco, CA",Y,87.05,Software (mobile marketing analytics),https://jobs.ashbyhq.com/singular/2eef2b4a-8db5-4340-a600-050119b35c98,2026-06-30,2026-05-18,Remote,Verified
@@ -405,7 +403,6 @@ Dropbox,,$147K-$198K,MM/Ent,"San Francisco, CA",Y,,B2B SaaS - collaboration & fi
 Polar Analytics,,,Ent,,Y,,B2B SaaS - ecommerce analytics,https://jobs.ashbyhq.com/polaranalytics/56b16593-cf97-4055-8762-da8c843ea222,2026-07-19,2026-04-07,Remote,Verified
 Celonis,,,Ent,"Munich, Germany",Y,,B2B SaaS - process mining & execution management,https://job-boards.greenhouse.io/celonis/jobs/7787426003,2026-07-19,2026-07-14,Remote,Verified
 Guidewheel,,$170K-200K,MM,"San Francisco, CA",Y,,Physical AI - industrial/Industry-4.0 automation,http://www.guidewheel.com/company/current-opportunities?gh_jid=5646843004,2026-07-19,2025-09-10,Remote,Verified
-Conga,,,Ent,"Broomfield, CO",Y,,B2B SaaS - CLM/document automation,https://job-boards.greenhouse.io/conga/jobs/5055658007,2026-07-19,2026-03-02,Remote,Verified
 WordPress VIP (Automattic),,,Ent,"San Francisco, CA",Y,,B2B SaaS - enterprise CMS,https://job-boards.greenhouse.io/automatticcareers/jobs/5867610,2026-07-19,2024-09-02,Remote,Verified
 WordPress VIP (Automattic),,,Ent,"San Francisco, CA",Y,,B2B SaaS - enterprise CMS,https://job-boards.greenhouse.io/automatticcareers/jobs/6381135,2026-07-19,2024-11-07,Remote,Verified
 Solo.io,,,Ent,,Y,,B2B SaaS - API gateway / service mesh,https://job-boards.greenhouse.io/soloioinc/jobs/4685637005,2026-07-20,2026-04-16,Remote,Verified
@@ -440,19 +437,16 @@ Commvault,public,,Ent,"Tinton Falls, NJ",East US cities (must reside in region),
 Commvault,public,,Ent,"Tinton Falls, NJ",Bay Area (must reside in region),,Data protection / cloud backup SaaS,https://job-boards.greenhouse.io/commvault/jobs/5194248008,2026-07-23,2026-04-21,SF,Verified
 Sierra,175,,Ent,"San Francisco, CA",N (on-site SF; secondary NYC),,AI customer service agents SaaS,https://jobs.ashbyhq.com/sierra/8da2071d-5e2f-43da-9bb1-2c7b30c078af,2026-07-23,2026-07-16,SF,Verified
 Nectar Social,,,MM,"Palo Alto, CA",N,,B2B SaaS - Marketing/Social AI,https://jobs.ashbyhq.com/nectar-social/50abec80-dba1-4d8a-82e1-489bb8c2e275,2026-07-23,2026-03-19,SF,Verified
-Regal,,"$250,000-$350,000",Ent,"New York, NY","No — NYC hybrid (T/W/TH in-office)",,B2B SaaS - AI contact center / voice AI platform,https://jobs.lever.co/regal.ai/4af66f3d-8b31-4a7d-aa72-248cf481aab4,2026-07-23,2025-05-01,NYC,Verified
+Regal,,"$250,000-$350,000",Ent,"New York, NY",No — NYC hybrid (T/W/TH in-office),,B2B SaaS - AI contact center / voice AI platform,https://jobs.lever.co/regal.ai/4af66f3d-8b31-4a7d-aa72-248cf481aab4,2026-07-23,2025-05-01,NYC,Verified
 Astronomer,,$325K–$350K OTE (uncapped),Ent,"New York, NY",Hybrid – 2 days/wk in NYC or Boston,85.19,Data orchestration SaaS (Apache Airflow / Astro),https://jobs.ashbyhq.com/astronomer/4b5707f6-ffe1-4999-936e-d05ed41b0ec0,2026-07-24,2026-06-29,NYC,Verified
 Astronomer,,$325K–$350K OTE (uncapped),Ent,"New York, NY",Hybrid – 2 days/wk in NYC or Boston,85.19,Data orchestration SaaS (Apache Airflow / Astro),https://jobs.ashbyhq.com/astronomer/4b5707f6-ffe1-4999-936e-d05ed41b0ec0,2026-07-24,2026-06-29,Boston,Verified
 Jumio Corporation,,,Ent,"Sunnyvale, CA",Y,85.38,Identity verification SaaS (KYC / AML / biometric),https://job-boards.greenhouse.io/jumio/jobs/4694502005,2026-07-24,2026-05-12,Remote,Verified
 Signifyd,,$270K–$320K OTE,Ent,"San Jose, CA",Y,85.39,E-commerce fraud protection SaaS,https://job-boards.greenhouse.io/signifyd95/jobs/7958912,2026-07-24,2026-05-27,Remote,Verified
 ElevenLabs,,,MM,"New York, NY",Y,85.24,AI voice / audio generation SaaS,https://jobs.ashbyhq.com/elevenlabs/aa87b7bf-2fd5-4d94-9673-142f6349cf9e,2026-07-24,,Remote,Needs check
-Semgrep,,$200-220K,MM,"San Francisco, CA",Hybrid,85.05,Application security / code analysis SaaS,https://jobs.ashbyhq.com/semgrep/f09ea3fd-5c12-432a-8e41-13f73e8c2d76,2026-07-24,2026-07-08,NYC,Verified
-Semgrep,,$200-220K,MM,"San Francisco, CA",Hybrid,85.05,Application security / code analysis SaaS,https://jobs.ashbyhq.com/semgrep/f09ea3fd-5c12-432a-8e41-13f73e8c2d76,2026-07-24,2026-07-08,SF,Verified
-Semgrep,,$200-220K,MM,"San Francisco, CA",Hybrid,85.05,Application security / code analysis SaaS,https://jobs.ashbyhq.com/semgrep/f09ea3fd-5c12-432a-8e41-13f73e8c2d76,2026-07-24,2026-07-08,Denver,Verified
-Semgrep,,$200-220K,MM,"San Francisco, CA",Hybrid,85.05,Application security / code analysis SaaS,https://jobs.ashbyhq.com/semgrep/f09ea3fd-5c12-432a-8e41-13f73e8c2d76,2026-07-24,2026-07-08,Boston,Verified
 Kpler,,,Ent,"Paris, France",Y,84.96,Commodity data analytics SaaS,https://jobs.lever.co/kpler/a26f4209-45d6-45b0-b560-3e812e0ecb8a,2026-07-24,2025-02-03,Remote,Verified
 Kpler,,,Ent,"Paris, France",Y,84.96,Commodity data analytics SaaS,https://jobs.lever.co/kpler/b93250d4-23b6-496e-8483-63fbeaf8c1fa,2026-07-24,2025-01-28,NYC,Verified
 Jellyfish,,$280-330K,Ent,"Boston, MA",Y,84.90,Engineering intelligence SaaS,https://jobs.ashbyhq.com/jellyfish/6d08e74c-0866-4b0b-a196-c1ee674bcba1,2026-07-24,2026-06-10,Remote,Verified
 Canto,,,MM,"San Francisco, CA",Y,84.82,Digital asset management SaaS,https://job-boards.greenhouse.io/canto/jobs/5285728008?gh_jid=5285728008,2026-07-24,2026-07-02,Remote,Verified
 NextPatient,,,SMB,,Y,84.80,Healthcare SaaS (patient scheduling / communication),https://jobs.ashbyhq.com/nextpatient/0825b614-68e6-4dda-b625-fd1e150e883a,2026-07-24,2026-03-03,Remote,Verified
 Siena AI,,,,"New York, NY",Y,,AI-powered customer service SaaS,https://jobs.ashbyhq.com/siena/05f51b28-8940-4698-b941-fe2054ca1ed9,2026-07-24,2026-01-14,Remote,Verified
+CaptivateIQ,,,Ent,"San Francisco, CA",Y,,Sales performance / commissions SaaS,https://jobs.lever.co/captivateiq/7b75d95c-ddea-4031-add9-80e7b4c33dc5,2026-07-24,2025-01-09,Remote,Verified
