@@ -2980,8 +2980,8 @@ Connectly,ats-search,,2026-07-15,N,"Ashby board confirmed (jobs.ashbyhq.com/conn
 Ambi Robotics,ats-search,,2026-07-15,N,"Only open AE role is Enterprise AE (fully remote, US) but explicitly ""not an entry-level or mid-market role,"" requires 1"
 PayNearMe,ats-search,,2026-07-15,N,SmartRecruiters API (api.smartrecruiters.com/v1/companies/PayNearMe/postings) returns zero live postings; the AE (Mid-Ma
 Freshworks,ats-search,,2026-07-15,N,"Only live AE posting is Boston Mid-Market AE, but JD explicitly states hybrid 3x/week (Tues-Thurs) office cadence, disqu"
-Payscale,ats-search,,2026-07-15,N,SmartRecruiters API (slug Payscale/payscale) returns totalFound:0 — no open postings; Greenhouse/Lever slug guesses 404'
-MyTime,ats-search,,2026-07-15,N,"SmartRecruiters board confirmed (get.mytime.com, LA-based scheduling/POS co.) but only sales role live is VP of Sales — "
+Payscale,ats-search,,2026-07-25,N,SmartRecruiters API (slug Payscale): totalFound=0 — no open postings (re-confirmed 2026-07-25 Job3)
+MyTime,ats-search,,2026-07-25,N,SmartRecruiters API (slug MyTime): only VP of Sales live (re-confirmed 2026-07-25 Job3); mid-market AE search hits are stale/indexed
 Wix (Base44),ats-search,,2026-07-15,N,"SmartRecruiters slug Wix2 confirmed; both ""Senior/Enterprise Account Executive - Base44"" (Remote, OR) postings found are"
 Sectigo,ats-search,,2026-07-15,Y,"SmartRecruiters board confirms live IC Enterprise Sales AE, SLED postings (Chicago/Midwest & Midwest/Great Lakes variant"
 TCP Software,ats-search,,2026-07-15,Y,"Lead-hint posting (C00931DA8E, Mid-Market AE) is dead/not in live Workable API; substituted live qualifying posting foun"
@@ -4598,3 +4598,4 @@ insightsoftware,ats-search,,2026-07-25,Y,SmartRecruiters: MM/Ent AE US-remote; 4
 Agentio,ats-search,,2026-07-25,N,Ashby board: no IC AE role; only Senior Sales Director + Account Manager both NYC on-site only
 Sully.ai,ats-search,,2026-07-25,N,healthcare AI (Ashby slug 404); Senior AE OTE $120-140K below $150K floor; not qualifying
 Steer CRM,ats-search,,2026-07-25,N,Greenhouse board (steercrm): no AE roles; only BDR/SDR and CS positions; automotive repair CRM
+Brightspeed,ats-search,,2026-07-25,N,"telecom/fiber broadband ISP, not B2B SaaS"
