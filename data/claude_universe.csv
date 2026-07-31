@@ -51,7 +51,7 @@ Highspot,claude,,2026-07-02,Y,has open qualifying role
 Hightouch,claude,,2026-07-23,N,no AE; only Backend Engineer on Ashby
 Hivel,claude,,2026-07-23,N,ATS unresolved; very small startup
 Honeycomb,claude,81,2026-07-22,N,posting expired 2026-07-22; no qualifying US AE replacement on GH board
-Huntress,claude,,2026-07-02,Y,has open qualifying role
+Huntress,claude,,2026-07-31,N,MM AE posting dead (id 7778495003); no replacement on board 2026-07-31
 Incident.io,claude,,2026-07-23,Y,"Commercial AE (SF, NYC) + Strategic AE (SF, NYC); Ashby 'incident' board"
 Infios,claude,,2026-07-23,N,ATS unresolved
 Infisical,claude,,2026-07-23,N,dropped 2026-07-23: DEAD posting (no AE on board)
@@ -4628,3 +4628,6 @@ Dyna Robotics,ats-search,,2026-07-31,N,only engineering roles on Ashby board; no
 Cadence,ats-search,,2026-07-31,N,large public EDA/semiconductor company; not B2B SaaS startup; digital twin is niche product line
 IntelliShift,ats-search,,2026-07-31,Y,"Ent AE Enterprise Growth, remote US, OTE $230K-$260K, fleet intelligence SaaS"
 OptiSigns,ats-search,,2026-07-31,N,AE role exists but not remote - requires 4-5 days at Houston HQ
+Augment,ats-search,,2026-07-31,Y,MM AE (Fleets) US-remote; AI logistics automation SaaS (goaugment.ai); Ashby board slug go-augment; posting confirmed live; OTE unknown
+Runhappy,ats-search,,2026-07-31,N,SMB venue/family-entertainment-center booking SaaS; below MM segment; OTE unknown/likely low; 2-5+ yrs exp (too junior range)
+Forethought,ats-search,,2026-07-31,N,Acquired by Zendesk; careers now on Zendesk careers page; no longer independent
