@@ -1903,7 +1903,7 @@ Evisort,repvue,,2026-07-04,N,acquired by Workday 2024; no standalone ATS
 Verafin,repvue,,2026-07-04,N,acquired by Nasdaq 2021; no standalone ATS
 ClearPoint Strategy,repvue,,2026-07-04,N,ATS unresolved (GH/Ashby 404)
 Ultimate Kronos Group UKG,repvue,,2026-07-04,N,ATS unresolved (GH/Lever 404; large HR company likely on Workday)
-Druva,repvue,,2026-07-31,Y,MM AE Senior AE (Virginia; Remote US; GH 8575565002) qualifies 3+yrs $202-269K base+var; Denver AE too senior (8+/12+ yrs required)
+Druva,repvue,,2026-07-31,N,MM AE Senior AE (Virginia; Remote US; GH 8575565002) qualifies 3+yrs $202-269K base+var; Denver AE too senior (8+/12+ yrs required)
 CrossCountry Mortgage,repvue,,2026-07-04,N,not B2B SaaS (mortgage lending)
 Dialpad,repvue,,2026-07-31,N,all AE roles hybrid in-office Austin TX or Tempe AZ; no US-remote AE
 Intuit,repvue,,2026-07-04,N,ATS unresolved (GH 404; large company with proprietary ATS)
@@ -2687,7 +2687,7 @@ Jeeves,ats-search,,2026-07-08,N,no US AE roles (EMEA and LatAm only)
 Perplexity,ats-search,,2026-07-08,N,no AE roles on current Ashby board
 Swapcard,ats-search,,2026-07-09,Y,MM AE; Remote US; event management SaaS (Lever)
 Edia,ats-search,,2026-07-09,Y,Ent AE East; Remote US; K-12 edtech AI SaaS (Ashby)
-Cloudforce,ats-search,,2026-07-09,Y,Ent AE Remote US (CA territory); higher-ed AI platform; OTE $200K+ (Lever)
+Cloudforce,ats-search,,2026-07-31,N,Ent AE Remote US (CA territory); higher-ed AI platform; OTE $200K+ (Lever)
 Resilinc,ats-search,,2026-07-31,N,Ent AE; Remote US; supply chain risk SaaS; OTE $300-320K (Lever)
 SheerID,ats-search,,2026-07-20,N,AE posting expired; no open AE on Rippling board 2026-07-20
 Subtotal,ats-search,,2026-07-09,Y,AE MM/Ent; Remote US; retail commerce data SaaS; OTE $160-190K (Ashby)
@@ -2708,7 +2708,7 @@ Hudl,ats-search,,2026-07-09,N,OTE $80-120K below $150K threshold; sports analyti
 Mend.io,ats-search,,2026-07-09,N,no IC AE role; RSM/Channel Manager titles only
 Overflow,ats-search,,2026-07-09,N,nonprofit/faith sector vertical; OTE undisclosed
 Yelp,ats-search,,2026-07-09,N,ad-tech/local business not B2B SaaS; Lever posting 404 dead
-Spekit,ats-search,,2026-07-09,Y,MM AE US-remote; OTE ~$170-240K; sales enablement/digital adoption SaaS; Ashby board
+Spekit,ats-search,,2026-07-31,N,MM AE US-remote; OTE ~$170-240K; sales enablement/digital adoption SaaS; Ashby board
 Agicap,ats-search,,2026-07-09,N,no US AE roles; all postings European markets only
 Dataiku,ats-search,,2026-07-09,N,no qualifying US remote AE; Federal/Public Sector only (10+ yrs too senior)
 Jobgether,ats-search,,2026-07-09,N,job aggregator/platform not a target company
@@ -4618,11 +4618,13 @@ Softengine,ats-search,,2026-07-26,N,SAP Business One ERP reseller/implementation
 WellSky,ats-search,,2026-07-26,N,large healthcare IT company; Workday ATS 403 unresolvable; territory/regional AE model
 Cyclomedia Technology,ats-search,,2026-07-26,N,government spatial/mapping data company; posting 404 dead; government sales not B2B SaaS
 Drivetrain,ats-search,,2026-07-27,Y,AE - CFO Solutions; US remote; MM/Ent; B2B SaaS financial planning platform
-NavVis,ats-search,,2026-07-31,Y,"qualifying Physical AI AE (Mountain West territory-remote; OTE $161K-$222K; digital twin / reality capture for industrial & construction facilities)"
-Atomic Financial,ats-search,,2026-07-31,Y,"AE live on Ashby board (Remote US; Feb 2026 posted; B2B fintech connectivity API for major banks); OTE/exp not confirmed → needs check"
-Infinity Constellation,ats-search,,2026-07-31,N,"holding company; AE role for Supernal product posted Aug 2025 (10 months old); unclear IC AE structure"
-Kinetica DB,ats-search,,2026-07-31,N,"0 active jobs on SmartRecruiters API (totalFound: 0)"
-Infinite Reality,ats-search,,2026-07-31,N,"ATS board not found (GH slug infinitereality → 404)"
-AeroVect,ats-search,,2026-07-31,N,"only engineering roles on Ashby board; no AE openings"
-Dyna Robotics,ats-search,,2026-07-31,N,"only engineering roles on Ashby board; no AE openings"
-Cadence,ats-search,,2026-07-31,N,"large public EDA/semiconductor company; not B2B SaaS startup; digital twin is niche product line"
+NavVis,ats-search,,2026-07-31,Y,qualifying Physical AI AE (Mountain West territory-remote; OTE $161K-$222K; digital twin / reality capture for industrial & construction facilities)
+Atomic Financial,ats-search,,2026-07-31,Y,AE live on Ashby board (Remote US; Feb 2026 posted; B2B fintech connectivity API for major banks); OTE/exp not confirmed → needs check
+Infinity Constellation,ats-search,,2026-07-31,N,holding company; AE role for Supernal product posted Aug 2025 (10 months old); unclear IC AE structure
+Kinetica DB,ats-search,,2026-07-31,N,0 active jobs on SmartRecruiters API (totalFound: 0)
+Infinite Reality,ats-search,,2026-07-31,N,ATS board not found (GH slug infinitereality → 404)
+AeroVect,ats-search,,2026-07-31,N,only engineering roles on Ashby board; no AE openings
+Dyna Robotics,ats-search,,2026-07-31,N,only engineering roles on Ashby board; no AE openings
+Cadence,ats-search,,2026-07-31,N,large public EDA/semiconductor company; not B2B SaaS startup; digital twin is niche product line
+IntelliShift,ats-search,,2026-07-31,Y,"Ent AE Enterprise Growth, remote US, OTE $230K-$260K, fleet intelligence SaaS"
+OptiSigns,ats-search,,2026-07-31,N,AE role exists but not remote - requires 4-5 days at Houston HQ
