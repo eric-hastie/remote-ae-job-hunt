@@ -1620,7 +1620,7 @@ Speexx,repvue,,2026-07-31,N,no qualifying AE found on standard ATS boards
 Humanitix,repvue,,2026-07-31,N,not B2B SaaS (nonprofit event ticketing platform)
 Advizex,repvue,,2026-07-31,N,not B2B SaaS (IT VAR/reseller)
 W.W. Grainger,repvue,,2026-07-31,N,not B2B SaaS (industrial distribution company)
-Adthena,repvue,,2026-07-02,Y,open qualifying role (Ent AE Austin (remote)); verified locally 7/2 after cloud API block
+Adthena,repvue,,2026-07-31,N,posting UUID dead on Ashby; board only shows Talent Community posts (no real AE opening)
 Gravitee,repvue,,2026-07-27,N,hybrid (Denver/NYC offices required)
 Bubble,repvue,,2026-07-27,N,no AE on Ashby board (Senior Manager/Commercial Success only)
 Easy Metrics Inc.,repvue,,2026-07-31,N,no qualifying AE found on standard ATS boards
@@ -4618,3 +4618,11 @@ Softengine,ats-search,,2026-07-26,N,SAP Business One ERP reseller/implementation
 WellSky,ats-search,,2026-07-26,N,large healthcare IT company; Workday ATS 403 unresolvable; territory/regional AE model
 Cyclomedia Technology,ats-search,,2026-07-26,N,government spatial/mapping data company; posting 404 dead; government sales not B2B SaaS
 Drivetrain,ats-search,,2026-07-27,Y,AE - CFO Solutions; US remote; MM/Ent; B2B SaaS financial planning platform
+NavVis,ats-search,,2026-07-31,Y,"qualifying Physical AI AE (Mountain West territory-remote; OTE $161K-$222K; digital twin / reality capture for industrial & construction facilities)"
+Atomic Financial,ats-search,,2026-07-31,Y,"AE live on Ashby board (Remote US; Feb 2026 posted; B2B fintech connectivity API for major banks); OTE/exp not confirmed → needs check"
+Infinity Constellation,ats-search,,2026-07-31,N,"holding company; AE role for Supernal product posted Aug 2025 (10 months old); unclear IC AE structure"
+Kinetica DB,ats-search,,2026-07-31,N,"0 active jobs on SmartRecruiters API (totalFound: 0)"
+Infinite Reality,ats-search,,2026-07-31,N,"ATS board not found (GH slug infinitereality → 404)"
+AeroVect,ats-search,,2026-07-31,N,"only engineering roles on Ashby board; no AE openings"
+Dyna Robotics,ats-search,,2026-07-31,N,"only engineering roles on Ashby board; no AE openings"
+Cadence,ats-search,,2026-07-31,N,"large public EDA/semiconductor company; not B2B SaaS startup; digital twin is niche product line"
