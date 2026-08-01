@@ -717,7 +717,7 @@ Digitalzone,repvue,87.43,2026-07-22,N,not B2B SaaS; B2B demand generation agency
 Siteline,repvue,87.42,2026-07-22,N,ATS unresolved / re-checked 2026-07-22 (Ashby 404)
 Interfolio,repvue,87.41,2026-07-22,N,ATS unresolved / re-checked 2026-07-22 (GH 404; Elsevier subsidiary)
 Otsuka,repvue,87.39,2026-07-22,N,not B2B SaaS; pharmaceutical company
-Grata,repvue,87.39,2026-07-22,N,ATS unresolved / re-checked 2026-07-22 (GH/Lever/Ashby all 404)
+Grata,repvue,87.39,2026-08-01,N,acquired by Datasite June 2025; careers page redirects to datasite.wd1.myworkdayjobs.com
 Groove Technology Solutions,repvue,87.38,2026-07-22,N,not B2B SaaS; IT consulting services
 Eagle Eye,repvue,87.38,2026-07-22,N,ATS unresolved / re-checked 2026-07-22 (Ashby 404; UK-based)
 Wiiisdom,repvue,87.37,2026-07-22,N,ATS unresolved / re-checked 2026-07-22 (Ashby 404; SAP analytics)
@@ -4631,3 +4631,10 @@ OptiSigns,ats-search,,2026-07-31,N,AE role exists but not remote - requires 4-5 
 Augment,ats-search,,2026-08-01,N,BOARD_GONE 2026-08-01: Ashby board go-augment returned 404; dropped from latest.csv
 Runhappy,ats-search,,2026-07-31,N,SMB venue/family-entertainment-center booking SaaS; below MM segment; OTE unknown/likely low; 2-5+ yrs exp (too junior range)
 Forethought,ats-search,,2026-07-31,N,Acquired by Zendesk; careers now on Zendesk careers page; no longer independent
+Ombud,ats-search,,2026-08-01,N,Denver hybrid Tue/Wed/Thu in office; Commercial AE not remote; OTE unknown
+Near Space Labs,ats-search,,2026-08-01,N,AE posting GH 5149616008 dead; board has no AE roles
+Sama,ats-search,,2026-08-01,N,Enterprise AE GH 5597797004 dead; board has India roles only
+Phaidra,ats-search,,2026-08-01,N,Senior AE GH 4582566005 dead; only engineering/research on board
+DoiT,ats-search,,2026-08-01,N,Attribute AE: 2+ yrs exp below 4+ bar; startup/enterprise segment; OTE unknown
+Nift,ats-search,,2026-08-01,Y,MM AE Martech REMOTE; GH 5200436007; 5+ yrs; OTE undisclosed; posted 2026-07-31
+Precoro Inc,ats-search,,2026-08-01,N,AE on-site Nashville TN; 1+ yr exp below bar; procurement SaaS
