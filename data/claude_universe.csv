@@ -67,7 +67,7 @@ LaunchDarkly,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-
 Leapsome,claude,,2026-07-27,N,hybrid NYC/SF (unchanged)
 Limble CMMS,claude,,2026-07-17,N,evaluated (prior master exclusion list); Ashby board live (slug: limble); no AE roles present
 Linear,claude,,2026-07-23,N,no AE; only engineering/product on Ashby
-Lockthreat,claude,,2026-07-23,N,ATS unresolved
+Lockthreat,claude,,2026-08-02,N,"Workable board (lockthreat): Enterprise AE roles require 10+ years/Director level, too senior; AI-native GRC platform"
 Lytx,claude,69,2026-07-02,Y,has open qualifying role
 Mabl,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Maintainx,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
@@ -390,7 +390,7 @@ Inky,repvue,90.80,2026-07-09,N,re-check: ATS unresolved
 Cisco Meraki,repvue,90.79,2026-07-09,N,re-check: not standalone (Cisco division)
 RudderStack,repvue,90.78,2026-07-09,N,re-check: ATS unresolved
 Tailscale,repvue,90.74,2026-07-09,N,"re-check: Greenhouse board found, only hybrid-Denver Customer AE (OTE $100-125K)"
-Consensus,repvue,90.71,2026-07-09,N,"re-check: Lever board 404, likely moved ATS"
+Consensus,repvue,90.71,2026-08-02,N,Moved to Rippling ATS (ats.rippling.com/consensus/jobs); no open AE positions; demo experience platform SaaS
 RevenueCat,repvue,90.69,2026-07-21,Y,MM AE (EST/CST remote); replacement posting found 2026-07-21
 Reddit,repvue,90.68,2026-07-09,N,re-check: not B2B SaaS (consumer social)
 Proliant,repvue,90.66,2026-07-09,N,re-check: ATS unresolved
@@ -2883,7 +2883,7 @@ BuildingLink,ats-search,,2026-07-15,N,"Workable board confirmed (correct company
 Huzzle,ats-search,,2026-07-15,N,"Huzzle is a recruitment/talent-marketplace platform (not an operating B2B SaaS company); the ""AE"" posting is a generic c"
 Opal,ats-search,,2026-07-15,N,Workable board API (opal-labs) returns empty jobs array and the specific job ID from search is 404 — no live posting con
 Clearstory,ats-search,,2026-07-15,N,"Live Workable posting confirmed (Mid-Market AE, Specialty Contractor) but restricted to ""Western Region"" (not full US-re"
-ZeroFox,ats-search,,2026-07-15,N,Workable board confirmed (real ZeroFox) but no Commercial/Chicago AE posting exists; only Senior AE - FedCiv and Senior 
+ZeroFox,ats-search,,2026-08-02,Y,Commercial AE - TOLA live on Workable (slug: zerofox); $180K-$220K OTE; MM/remote US; digital risk protection SaaS
 Inspectorio,ats-search,,2026-07-15,N,Could not verify posting in any ATS JSON API (Workable/Greenhouse/Lever all 404); role also appears to be Senior AE requ
 Virtuoso,ats-search,,2026-07-15,N,Enterprise AE - SaaS DevOps/Fully Remote posting exists at apply.workable.com/virtuoso/j/E26A568F44/ but is NOT present 
 MLabs,ats-search,,2026-07-15,N,"Enterprise AE (cross-border payments/banking infra, remote US) confirmed live on Workable, but OTE stated as $100K-$150K"
@@ -2892,7 +2892,7 @@ Parq,ats-search,,2026-07-15,N,"Founding Enterprise AE requires ""in-person colla
 Runware,ats-search,,2026-07-15,N,No Account Executive posting exists on Runware's Workable board (slug confirmed live; only eng/hardware/data roles liste
 LocalStack,ats-search,,2026-07-15,N,"No AE posting live on LocalStack's Workable board; only Legal Counsel, Support Engineer, and Technical Account Manager r"
 EngFlow,ats-search,,2026-07-15,N,Workable board API (apply.workable.com/api/v1/widget/accounts/engflow) returns empty jobs array — no live posting confir
-Aikido Security,ats-search,,2026-07-15,N,"Enterprise Account Executive US posting not present in live Recruitee API (only 10 offers listed: Channel Biz Mgr, Marke"
+Aikido Security,ats-search,,2026-08-02,N,Recruitee board: only Channel Business Manager roles; no IC AE posting; application security SaaS
 Momentum Data,ats-search,,2026-07-15,N,Only AE posting in Recruitee feed (Global Account Executive) is dated 2021-11-22 and its posting URL redirects to Recrui
 Incentivio,ats-search,,2026-07-15,N,"Recruitee board (incentivio) API returns empty offers array; both AE posting URLs found via search (Chicago Remote, Mid "
 Confirmo,ats-search,,2026-07-15,N,crypto/payments; borderline B2B SaaS; held
@@ -4658,3 +4658,5 @@ Burro,ats-search,,2026-08-02,N,no AE open; agricultural robotics; has Dealer AM 
 Field AI,ats-search,,2026-08-02,N,AE Construction role in Irvine CA — not remote / no qualifying city; construction autonomy & robotics
 Clearly AI,ats-search,,2026-08-02,N,no AE open on Ashby board; only Forward Deployed Security Engineer posted
 Partner One Capital,ats-search,,2026-08-02,N,PE/investment firm acquiring software companies; not B2B SaaS ICP
+TrueDialog,ats-search,,2026-08-02,N,Empty Workable board (truedialog-inc); no open AE postings; business SMS SaaS (Austin TX)
+Transifex,ats-search,,2026-08-02,N,Empty Workable board (transifex); no open AE postings; localization SaaS (owned by XTM International)
