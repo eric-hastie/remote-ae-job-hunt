@@ -19,3 +19,5 @@ data/recheckC_alsoFound.csv
 
 # unverified.csv is derived from the gitignored aggregator pulls
 data/unverified.csv
+
+data/aggregator_only.csv
