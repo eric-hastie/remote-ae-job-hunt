@@ -2693,7 +2693,7 @@ SheerID,ats-search,,2026-07-20,N,AE posting expired; no open AE on Rippling boar
 Subtotal,ats-search,,2026-07-09,Y,AE MM/Ent; Remote US; retail commerce data SaaS; OTE $160-190K (Ashby)
 Gray Swan AI,ats-search,,2026-07-09,Y,Ent AE; Remote US; AI security SaaS; OTE $314-384K (Ashby)
 Knock,ats-search,,2026-07-09,N,fintech mortgage company; not B2B SaaS
-Credit Pulse,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Founding Account Executive, Credit Pulse | Previously marked 'unverifiable' (OTE/remote status unknown). Now confirmed: it's a real, live, IC founding AE"
+Credit Pulse,ats-search,,2026-08-03,N,DEAD_ID - forum-ventures ashby board has no AE/Credit Pulse role
 Libra AI,ats-search,,2026-07-09,N,AE role India-based (Bangalore); not US-remote
 Avante,ats-search,,2026-07-09,N,4 days/week in-office Seattle or NYC; not remote
 Redpanda Data,ats-search,,2026-07-09,N,no AE roles on Ashby board; data streaming infrastructure
@@ -3187,7 +3187,7 @@ LASSO,queue,,2026-07-15,N,ATS unresolved — event crew management SaaS; no Gree
 Suse,queue,,2026-07-15,N,ATS unresolved — traditional enterprise Linux distro; not pure B2B SaaS; EQT portco
 LiveSwitch,queue,,2026-07-15,N,ATS unresolved — small real-time video SaaS; no verifiable AE posting found
 Shutterstock,queue,,2026-07-15,N,Not pure B2B SaaS AE; stock media/creative assets marketplace; enterprise AE targets agencies not SaaS buyers
-Unily,queue,,2026-08-03,Y,"recheck-B 2026-08-03: Enterprise Account Executive, NAM | Previously the ATS could not be found ('unresolved'). Found via Rippling - it's a live full-cycle IC AE role b"
+Unily,queue,,2026-08-03,N,HTTP_DEAD - rippling posting gone; no candidates
 Gladly,queue,,2026-07-15,N,No AE posting on Greenhouse board (sagansystems slug); only CS/support roles live; customer service platform
 Relyance AI,queue,,2026-08-03,N,"recheck-B 2026-08-03: The specific Greenhouse Enterprise AE req (5371305004, explicit 8+ yrs to C-level) is dead (404 after host redirect). Company's own careers page (rely"
 Colt Technology Services,queue,,2026-07-15,N,"Not B2B SaaS; network services/connectivity provider (MPLS, SD-WAN infrastructure)"
@@ -3529,7 +3529,7 @@ Merrill Edge,repvue,,2026-07-17,N,consumer retail investing platform (Bank of Am
 AppDirect,repvue,,2026-07-17,N,GH board exists but populated with Devs.ai/PartnerStack third-party jobs (shared/confused ATS board); AppDirect own ATS unresolved; cloud marketplace SaaS
 Fujitsu,repvue,,2026-07-17,N,multinational enterprise IT conglomerate; not a B2B SaaS startup fitting ICP
 Everest Group,repvue,,2026-07-17,N,IT research and advisory firm; not a B2B SaaS product company
-Preqin,repvue,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive, Preqin, Associate | Originally rejected as ""not accessible via ATS API"" post-acquisition. Confirmed live and IC-level (title is ex"
+Preqin,repvue,,2026-08-03,N,HTTP_DEAD - blackrock page down; no replacement
 iSolved HCM,repvue,,2026-07-17,N,uses own iSolvedHire ATS platform; ATS unresolved per spec; HCM/payroll SaaS
 twentyAI,repvue,,2026-07-17,N,posts jobs on own website (twentyai.com/job/); ATS unresolved; very early-stage AI SaaS
 Thales,repvue,,2026-07-17,N,"defense/aerospace/industrial conglomerate (parent of ForgeRock, Ping Identity, Imperva acquisitions); not a B2B SaaS startup fitting ICP"
@@ -3926,7 +3926,7 @@ Stack Overflow,repvue,,2026-07-31,N,Strategic AE Remote US Ent; developer Q&A / 
 Cox Media,repvue,,2026-07-18,N,not B2B SaaS; traditional media/digital advertising company
 Restaurant Technologies,repvue,,2026-07-18,N,ATS unresolved; foodservice automation/fryer oil management SaaS/IoT
 DuploCloud,repvue,,2026-07-18,Y,AE Remote US OTE $230-260K SMB/MM; cloud DevSecOps automation SaaS; Rippling ATS
-Cox Automotive,repvue,,2026-08-03,Y,recheck-B 2026-08-03: Regional Sales Account Executive (Cox Automotive Fleet) | Was rejected only because OTE ~$130K was below the old $150K floor - removed. This Fleet-focused AE role is ge
+Cox Automotive,repvue,,2026-08-03,N,HTTP_DEAD - coxenterprises page down
 Clarifai,repvue,,2026-07-18,N,ATS unresolved; AI vision/multimodal ML SaaS
 Nanonets,repvue,,2026-07-18,N,AE hybrid Palo Alto 2x/week in-office required; document AI SaaS
 Uber,repvue,,2026-07-18,N,not B2B SaaS; rideshare/delivery/logistics platform
@@ -4112,7 +4112,7 @@ Andela,repvue,,2026-07-19,N,no AE role on Ashby board
 Hologram,repvue,,2026-07-19,N,no active AE on GH board (only GTM Engineer roles)
 Tinuiti,repvue,,2026-07-19,N,digital marketing agency; not B2B SaaS
 Nearmap,repvue,,2026-07-19,N,ATS unresolved (Paycom JS-only; AE role exists but can't verify URL)
-Cars.com,repvue,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive, Major Accounts (West) | Was rejected only for OTE ~$115K being below the old $150K floor - removed. Confirmed remote IC AE role with e"
+Cars.com,repvue,,2026-08-03,N,aggregator URL (himalayas) violated URL-capture rules; not B2B SaaS
 Courier,repvue,,2026-07-19,N,no AE role found; small API/notifications startup
 Baker Tilly US,repvue,,2026-07-19,N,accounting/consulting firm; not B2B SaaS
 NAVEX,repvue,,2026-07-19,N,AE roles SMB-only and city-based (not remote)
@@ -4668,3 +4668,5 @@ Instawork,yc,,2026-08-03,N,no US AE roles on Greenhouse board; only India operat
 Profound,ats-search,,2026-08-03,N,Enterprise AE on Ashby (Profound) is on-site only (NY/SF/London/Singapore); not US-remote
 Serval,ats-search,,2026-08-03,N,Strategic AE and Majors AE both require SF on-site 5x/week; not US-remote
 Glacis,wellfound,,2026-08-03,Y,Senior Enterprise AE Remote US; supply chain AI B2B SaaS; Ashby board glacis-ai; published 2026-07-09; added to latest.csv
+Laminar,ats-search,,2026-08-03,Y,"MM AE, CPG; Physical AI - industrial manufacturing AI; Boston/Remote; Lever ab45ee40"
+Criteria Corp,ats-search,,2026-08-03,N,ATS unresolved: uses BambooHR (403 blocked); pre-employment assessment B2B SaaS
