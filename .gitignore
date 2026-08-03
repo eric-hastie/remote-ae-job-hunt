@@ -16,3 +16,6 @@ data/optionA_flips.csv
 data/recheckB_winners.csv
 data/recheckB_other.json
 data/recheckC_alsoFound.csv
+
+# unverified.csv is derived from the gitignored aggregator pulls
+data/unverified.csv

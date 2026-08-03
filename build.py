@@ -58,7 +58,8 @@ LOCATIONS = [
 def nav_html(active):
     items = [("index.html","Remote","remote"),("nyc.html","NYC","nyc"),("sf.html","SF","sf"),
              ("denver.html","Denver","denver"),("boston.html","Boston","boston"),
-             ("austin.html","Austin","austin"),("history.html","History &amp; Trends",None),("discards.html","Discards",None)]
+             ("austin.html","Austin","austin"),("unverified.html","Unverified Leads",None),
+             ("history.html","History &amp; Trends",None),("discards.html","Discards",None)]
     out = []
     for href, label, key in items:
         out.append(f"<b>{label}</b>" if key == active and key else f'<a href="{href}">{label}</a>')
