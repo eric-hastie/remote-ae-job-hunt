@@ -14,7 +14,7 @@ Scraped job boards bury a handful of great fits under hundreds of mismatched lis
 
 | Step | What happened |
 |------|---------------|
-| **1 · Defined the ICP** | IC Account Executive, Mid-Market / Enterprise B2B SaaS, US-remote, ~$150-340K OTE, ~4+ yrs closing experience. |
+| **1 · Defined the ICP** | IC Account Executive, Mid-Market / Enterprise B2B SaaS, US-remote, ~$100-300K OTE, 0-8 yrs required experience. |
 | **2 · Fanned out by vertical** | Parallel research across five lanes - dev tools & infra, fintech & data, vertical SaaS, AI-native, and security - for diverse results. |
 | **3 · Verified every posting** | Each role confirmed live, remote, and IC-level against the company's own ATS (Greenhouse / Ashby). Anything I couldn't verify got dropped - **no fabricated or stale listings.** |
 | **4 · De-duped & segmented** | Screened against a 64-company master list to keep only net-new finds, then tagged by segment so mid-market roles sort to the top. |

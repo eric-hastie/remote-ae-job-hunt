@@ -87,7 +87,9 @@ def ae_matches(jobs):
         t = j["title"].lower()
         if "account executive" not in t:
             continue
-        if re.search(r"\b(sdr|bdr|associate|director|vp|manager, )\b", t):
+        # "associate" is deliberately NOT excluded: Associate AE is a closing IC
+        # role and is in scope. Only non-closing and above-IC titles are dropped.
+        if re.search(r"\b(sdr|bdr|director|vp|manager, )\b", t):
             continue
         out.append(j)
     return out

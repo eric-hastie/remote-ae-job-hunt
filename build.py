@@ -158,7 +158,7 @@ footer .wrap{max-width:760px}
   <h2>About this project</h2>
   <p>While job-searching, I got tired of scraped job boards that bury a handful of good fits under hundreds of mismatched listings. So I built a research workflow that does the opposite: it defines a precise ideal-candidate profile, then <b>verifies and filters first</b> - only surfacing roles that actually clear the bar. It re-runs weekly, so the data stays current and the history doubles as a view into how the remote-AE market is moving.</p>
   <div class="method">
-    <div class="card"><h3>1 · Defined the ICP</h3><p>Individual-contributor AE, Mid-Market / Enterprise B2B SaaS, US-remote, ~$150-340K OTE, ~4+ yrs closing. The bar is explicit, so nothing off-profile gets through.</p></div>
+    <div class="card"><h3>1 · Defined the ICP</h3><p>Individual-contributor AE, Mid-Market / Enterprise B2B SaaS, US-remote, ~$100-300K OTE, 0-8 yrs required experience. The bar is explicit, so nothing off-profile gets through.</p></div>
     <div class="card"><h3>2 · Fanned out by vertical</h3><p>Parallel research across five lanes - dev tools &amp; infra, fintech &amp; data, vertical SaaS, AI-native, and security - so the results are diverse, not the same five household names.</p></div>
     <div class="card"><h3>3 · Verified every posting</h3><p>Each role was confirmed live, remote, and IC-level against the company's own ATS (Greenhouse / Ashby). Anything unverifiable was dropped - <b>zero fabricated or stale listings</b>.</p></div>
     <div class="card"><h3>4 · De-duped &amp; segmented</h3><p>Screened against a 64-company master list to keep only net-new finds, then tagged by segment so mid-market roles (the qualifying lane) sort to the top.</p></div>

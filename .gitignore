@@ -2,3 +2,17 @@
 
 # RepVue's proprietary dataset - staged locally, never published
 data/repvue_universe.csv
+
+# Wellfound harvest - staged locally, never published
+data/wellfound_raw.tsv
+data/wellfound_triage.csv
+
+# HiringCafe harvest - staged locally, never published
+data/hiringcafe_raw.tsv
+data/hiringcafe_triage.csv
+
+# Session working files - content is merged into latest.csv / claude_universe.csv
+data/optionA_flips.csv
+data/recheckB_winners.csv
+data/recheckB_other.json
+data/recheckC_alsoFound.csv

@@ -43,23 +43,41 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 
 ## The bar (ICP — a role qualifies only if it clears ALL)
 
-IC **Account Executive** (NOT SDR/BDR, NOT "Associate AE", NOT Director/VP/RVP) · segment **MM** or
+IC **Account Executive** (NOT SDR/BDR, NOT Director/VP/RVP; **"Associate AE" IS allowed** — it is a
+closing IC role and is explicitly in scope) · segment **MM** or
 **MM/Ent** preferred (pure **Ent** allowed but tagged so it sorts last) · **US-remote OR based in
 NYC / SF / Denver / Boston / Austin** — set `Location` = `Remote` / `NYC` / `SF` / `Denver` /
 `Boston` / `Austin` accordingly (build.py renders one page per location); other cities and
 non-US are excluded (a role in two = one row per applicable location). Boston/Austin are
-priority physical-AI hubs · **OTE ~$150K–$340K**
-(blank if not reliably known — never guess) · **B2B SaaS** · **~4+ yrs** closing (reject 8+ senior-only
-and junior/BDR). Set `Status` = `Verified` normally; `Needs check` if the posting is real but only
+priority physical-AI hubs · **NO COMP FLOOR — see the comp rule below**
+(record OTE when known; blank if not reliably known — never guess) · **B2B SaaS** ·
+**required experience 0–8 yrs**.
+
+**COMP RULE — THERE IS NO SALARY FLOOR. Do not reject any role on a low posted salary.**
+Job boards and ATS feeds almost always publish **BASE salary, not OTE**. For an AE, base is
+typically ~50% of OTE, so a posting showing "$80-90K" is usually a ~$160-180K OTE role. Screening a
+posted number against an OTE floor is comparing two different quantities and silently kills good
+roles. (This happened: a $100K floor was applied to base-salary figures and dropped Cyberhaven among
+others. Removed 2026-08-03, same class of mistake as the experience floor.) Record the posted number
+and note whether it is base or OTE when the posting says; never drop a row for being "too low".
+
+**THERE IS NO EXPERIENCE FLOOR. This is a hard rule — do not reintroduce one.** The only experience
+test is the CEILING: reject a posting only if it demands MORE than ~8 yrs closing. Early-career,
+associate-level, and unstated-experience AE roles all qualify, in every segment including MM. Never
+filter on years because a posting asks for less than Eric has; his own tenure is not a floor and never
+was. (A `~4+ yrs` floor was previously inferred from Eric's background and applied globally — it was
+wrong, it was never specified, and it is what made MM results thin. Removed 2026-08-03.)
+
+Set `Status` = `Verified` normally; `Needs check` if the posting is real but only
 search/mirror-corroborated (never fully dropped — it's surfaced for manual review).
 
 **PHYSICAL-AI EXCEPTION (deliberate pivot target — Eric wants into Physical AI):** Physical AI = AI that
 perceives/acts in the physical world — **robotics, autonomous vehicles, drones/UAV, perception & sensors
 (lidar/radar/vision), embodied AI / world models, simulation & synthetic data for physical systems,
 industrial / Industry-4.0 automation, machine vision, spatial computing / AR-VR, edge AI for physical
-devices, smart-infrastructure autonomy**. For these companies, LOWER the bar — **OTE floor ~$100K** (not
-$150K; accept lower comp to break in; blank if unstated), accept **hardware / RaaS / AI software** (do
-NOT require pure SaaS), and **~3+ yrs** closing. Tag `Industry` starting with `Physical AI - ` (e.g.
+devices, smart-infrastructure autonomy**. For these companies, LOWER the bar — the global OTE floor is
+now ~$100K so comp is no longer a separate carve-out, but still accept **hardware / RaaS / AI software**
+(do NOT require pure SaaS) and treat the experience range leniently. Tag `Industry` starting with `Physical AI - ` (e.g.
 `Physical AI - autonomous vehicles`) so these are filterable. Physical AI is a priority vertical for the
 Job 3 rotation — rotate its niches in (robotics/AMR, AV/self-driving, drones/UAV, perception/lidar,
 embodied-AI/world-models, simulation/synthetic-data, industrial-AI, spatial computing, edge-AI,
@@ -184,7 +202,7 @@ SAME ATS-verify pipeline on the merged candidate list.
 **Feeders — gather leads from all three (leads only; verification happens in step 4):**
 1. **Funding news — last 7 days.** WebSearch "Series A/B/C" + "B2B SaaS" raise/round announcements,
    TechCrunch/Axios/BusinessWire funding roundups. Prefer Series B/C (Series A is usually too early for
-   a $150K+ OTE MM AE, but include any Series A explicitly scaling a sales team).
+   a $100K+ OTE MM AE, but include any Series A explicitly scaling a sales team).
 2. **YC companies hiring AEs.** WebSearch the public YC directory / "Work at a Startup" for B2B SaaS
    companies with open AE / GTM roles (e.g. `site:ycombinator.com/companies "account executive"`, recent
    batches + "account executive remote"). YC-backed = net-new by definition.
