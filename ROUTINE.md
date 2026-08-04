@@ -108,6 +108,23 @@ number (see the ICP bar: there is no comp floor or ceiling).
 Rows the script prints as `NEEDS_BROWSER` are on non-API hosts and can only be read in a real browser —
 leave them blank rather than guessing.
 
+**Also run `python3 scripts/backfill_titles.py --write`** to populate the `Title` column. When adding a
+row by hand, always fill Title — the publish-time dedupe reads the territory out of it.
+
+### Publishing rule: one role per company per page
+
+`latest.csv` keeps EVERY qualifying role (it is the dataset). `build.py` decides what gets published,
+collapsing each company to a single row per geo page:
+
+1. **Segment** — MM beats MM/Ent beats unspecified beats Ent.
+2. **Geography** — furthest west wins, read from the job title against the `WEST` map in build.py
+   (so Armadin's six territories resolve to Southwest).
+3. **Recency** — most recently posted, then most recently added.
+
+The kept row shows a `+N` pill so a company with more openings is visible rather than silently trimmed.
+Duplicate rows sharing one posting URL are dropped outright (the Remote listing wins, else westernmost).
+Do NOT prune `latest.csv` to achieve this — the dedupe is a render-time decision and must stay reversible.
+
 Then act on the verify script's output:
 - **DEAD/BROKEN with a qualifying replacement candidate** (IC AE, US-remote, right segment — read the
   JD if unsure): update the row's URL, copying the replacement URL **verbatim from the script output**.

@@ -34,10 +34,84 @@ def load():
         "posted": clean(x.get("Posted", "")),
         "location": clean(x.get("Location", "") or "Remote"),
         "status": clean(x.get("Status", "") or "Verified"),
+        "title": clean(x.get("Title", "")),
     } for x in r]
+    rows = drop_duplicate_urls(rows)
     rows.sort(key=lambda x: tier(x["segment"]))            # stable within date
     rows.sort(key=lambda x: x["added"], reverse=True)      # newest first
     return rows
+
+# ---------------------------------------------------------------- dedupe ----
+# Longitudes keyed by the territory/city words that show up in AE job titles.
+# Used for the "publish the furthest-west role" tie-break. Longest key wins, so
+# "southwest" is never mistaken for "west" and "ohio valley" beats "ohio".
+WEST = {
+    "hawaii": -157, "alaska": -149,
+    "pacific northwest": -122, "pacific": -122, "northwest": -122, "pnw": -122,
+    "seattle": -122, "portland": -122, "san francisco": -122, "bay area": -122,
+    "west coast": -120, "california": -119, "los angeles": -118, "socal": -118,
+    "san diego": -117, "nevada": -116, "las vegas": -115, "utah": -111,
+    "phoenix": -112, "arizona": -111, "southwest": -110, "west": -110,
+    "mountain": -105, "denver": -105, "colorado": -105, "rockies": -105,
+    "central": -97, "tola": -97, "texas": -97, "austin": -97, "dallas": -96,
+    "houston": -95, "midwest": -93, "chicago": -87, "great lakes": -85,
+    "ohio valley": -83, "ohio": -83, "southeast": -84, "atlanta": -84,
+    "florida": -81, "miami": -80, "mid-atlantic": -77, "washington dc": -77,
+    "east coast": -75, "northeast": -74, "new york": -74, "nyc": -74,
+    "east": -74, "boston": -71, "new england": -71,
+}
+_WEST_KEYS = sorted(WEST, key=len, reverse=True)
+
+def longitude(title):
+    """Approximate longitude implied by a job title, or +999 if it names none."""
+    t = (title or "").lower()
+    for k in _WEST_KEYS:
+        if k in t:
+            return WEST[k]
+    return 999
+
+def drop_duplicate_urls(rows):
+    """One row per posting URL. The same posting was being listed on several
+    geo pages (and occasionally twice on one), inflating counts with rows that
+    are literally the same job. Keep the Remote listing when there is one,
+    otherwise the westernmost page."""
+    page_west = {"remote": -999, "sf": -122, "denver": -105, "austin": -97,
+                 "nyc": -74, "boston": -71}
+    best = {}
+    for r in rows:
+        u = r["url"]
+        rank = page_west.get((r["location"] or "").strip().lower(), 0)
+        if u not in best or rank < best[u][0]:
+            best[u] = (rank, r)
+    return [v[1] for v in best.values()]
+
+def dedupe_by_company(rows):
+    """Publish at most one role per company per page.
+
+    Order of preference, per Eric's rule:
+      1. segment  - MM beats MM/Ent beats unspecified beats Ent
+      2. geography - furthest west wins (territory read from the job title)
+      3. recency  - most recently posted, then most recently added
+    The rows that lose are not deleted; the winner carries a `more` count so the
+    page can show that the company has additional openings.
+    """
+    groups = {}
+    for r in rows:
+        groups.setdefault(r["company"].strip().lower(), []).append(r)
+    out = []
+    for grp in groups.values():
+        best = dict(min(grp, key=lambda x: (tier(x["segment"]), longitude(x["title"]),
+                                            _neg(x["posted"]), _neg(x["added"]))))
+        best["more"] = len(grp) - 1
+        out.append(best)
+    return out
+
+def _neg(datestr):
+    """Sort key putting the most recent date first. Some rows carry free text
+    rather than an ISO date, so anything unparseable sorts last instead of
+    raising."""
+    m = re.match(r"\s*(\d{4})-(\d{2})-(\d{2})", datestr or "")
+    return (0, -int(m.group(1)), -int(m.group(2)), -int(m.group(3))) if m else (1, 0, 0, 0)
 
 # location pages generated from the shared dataset (filter by Location)
 LOCATIONS = [
@@ -132,6 +206,9 @@ tbody tr:hover{background:var(--panel)}
 .st-ok{background:#1d3a2e;color:#7ff0c8}.st-check{background:#4a3a1a;color:#ffd591}
 .dq{cursor:pointer;color:var(--muted);font-size:12px;margin-left:12px;user-select:none;white-space:nowrap}
 .dq:hover{color:#ff7a7a;text-decoration:underline}
+.jt{font-size:12.5px;color:var(--fg);opacity:.82;margin-top:2px}
+.more{display:inline-block;font-size:11px;font-weight:700;color:var(--accent);border:1px solid var(--accent);
+      border-radius:999px;padding:0 6px;margin-left:6px;vertical-align:middle;cursor:help}
 .appl{cursor:pointer;color:var(--muted);font-size:12px;margin-left:10px;user-select:none;white-space:nowrap}
 .appl:hover{color:var(--accent2);text-decoration:underline}
 .ote{font-variant-numeric:tabular-nums}
@@ -255,7 +332,7 @@ function render(){
     if(dqMode==='dqd' && !DQ.has(r.url))return false;
     if(indF==='physical-ai' && !/physical ai|robot|autonom|self-driv|drone|uav|lidar|radar|perception|sensor|embodied|world model|spatial comput|edge ai|machine vision|digital twin/i.test(r.industry||''))return false;
     if(!term)return true;
-    return (r.company+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
+    return (r.company+' '+r.title+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
   });
   if(sortK){
     list=list.slice().sort((a,b)=>{
@@ -268,7 +345,7 @@ function render(){
     <tr>
       <td class="ote" style="white-space:nowrap">${fmtAdded(r.added)}</td>
       <td class="ote" style="white-space:nowrap">${fmtAdded(r.posted)}</td>
-      <td><div class="co">${r.company}</div><div class="ind">${r.industry||''}</div></td>
+      <td><div class="co">${r.company}${r.more?` <span class="more" title="${r.more} more open AE role${r.more>1?'s':''} at this company on this board - only the best-fit one is shown">+${r.more}</span>`:''}</div>${r.title?`<div class="jt">${r.title}</div>`:''}<div class="ind">${r.industry||''}</div></td>
       <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>
       <td>${segLabel(r)}</td>
       <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
@@ -622,6 +699,11 @@ def main():
     rows = load()
     for fname, key, label, h1, sublead in LOCATIONS:
         loc_rows = [r for r in rows if (r["location"] or "Remote").strip().lower() == key]
+        before = len(loc_rows)
+        loc_rows = dedupe_by_company(loc_rows)
+        loc_rows.sort(key=lambda x: tier(x["segment"]))
+        loc_rows.sort(key=lambda x: x["added"], reverse=True)
+        collapsed = before - len(loc_rows)
         total = len(loc_rows)
         mm = sum(1 for x in loc_rows if "MM" in x["segment"])
         out = (TEMPLATE
@@ -635,7 +717,8 @@ def main():
                .replace("__DATEHUMAN__", human))
         with open(os.path.join(ROOT, fname), "w") as f:
             f.write(out)
-        print(f"built {fname}: {total} roles ({mm} MM-friendly)")
+        print(f"built {fname}: {total} roles ({mm} MM-friendly)"
+              + (f" [{collapsed} extra roles collapsed into their company]" if collapsed else ""))
 
     snaps = snapshots()
     if snaps:
