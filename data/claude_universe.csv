@@ -4703,19 +4703,19 @@ Nscale,hiring-velocity-list,,2026-08-04,N,"Greenhouse EU (nscaleoperationsukltd)
 Fluidstack,hiring-velocity-list,,2026-08-04,N,"Ashby (fluidstack): 7 roles, construction/infra/talent. No sales function posted."
 Jetson,hiring-velocity-list,,2026-08-04,N,"Home electrification / HVAC installer roles (Jetson Home, Portland OR). Consumer services, not B2B SaaS - outside ICP."
 Fleet Artificial Intelligence,hiring-velocity-list,,2026-08-04,N,"fleetai.com/careers is a remote contract 'Fleet Fellowship' (RLHF/eval work), not FTE sales. No ATS board resolved. No AE found."
-Mind Robotics,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Dominion Dynamics,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-White Circle,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Conduct,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-fonio.ai,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Hilbert,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Monaco,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Armadin,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Inertia,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Hark,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Revspot,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Bolna,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Cowboy Space,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Prometheus,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Fundamental,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
-Pillar,hiring-velocity-list,,2026-08-04,N,ATS unresolved - no public job board found via search; seed-stage/generic name. NOT a confirmed no-AE; re-check.
+Mind Robotics,hiring-velocity-list,,2026-08-04,N,"Ashby (mindrobotics): 13 roles, all Palo Alto onsite, robotics hardware/research. No GTM."
+Dominion Dynamics,hiring-velocity-list,,2026-08-04,N,"Ashby (Dominion Dynamics): 9 roles, Ottawa/Toronto ON only, defense sensing engineering. Canada-only, no GTM."
+White Circle,hiring-velocity-list,,2026-08-04,N,"Ashby (whitecircle): 10 roles, Paris + 2 remote (recruiter/data labeler). Zero GTM function."
+Conduct,hiring-velocity-list,,2026-08-04,N,"Ashby (conduct): real Enterprise Account Executive BUT London UK, isRemote=false. Fails US-remote bar."
+fonio.ai,hiring-velocity-list,,2026-08-04,N,"Ashby (fonio): 2 AE roles but Vienna (German-speaking) + Barcelona (Spanish-speaking), plus EU SDRs. Fails US bar."
+Hilbert,hiring-velocity-list,,2026-08-04,Y,"'GTM Launcher / Enterprise Sales' on Ashby slug 'hilberts' (not 'hilbert'), SF hybrid. Title ambiguous; other GTM role is a Revenue Leader (leadership, excluded). Needs check."
+Monaco,hiring-velocity-list,,2026-08-04,Y,"Forward-Deployed Account Executive (New Business) on Ashby (monaco), SF onsite. Also a Post-Sales AE variant (more CS-shaped, not added)."
+Armadin,hiring-velocity-list,,2026-08-04,Y,"6x Regional Sales Manager (SW/SE/TOLA/NYC/New England/Ohio Valley), Remote US, Ashby (armadin). JD confirms IC quota-carrying, NOT people-mgmt. Kevin Mandia (Mandiant founder) co. Comp not disclosed."
+Inertia,hiring-velocity-list,,2026-08-04,N,"Ashby (inertia): 8 roles, all Livermore CA onsite, laser/fusion engineering. No GTM."
+Hark,hiring-velocity-list,,2026-08-04,N,"Greenhouse (hark): 51 roles, ALL San Jose, consumer AI device co (Brett Adcock). Zero sales/GTM."
+Revspot,hiring-velocity-list,,2026-08-04,N,"Bengaluru IN; only Wellfound presence, no ATS board. India-based - fails US-remote bar."
+Bolna,hiring-velocity-list,,2026-08-04,N,"Bengaluru IN; Gem ATS (jobs.gem.com/bolna) - marketing / founders office / AI solutions eng. No AE, India-based."
+Cowboy Space,hiring-velocity-list,,2026-08-04,N,"Ashby (cowboyspace): 6 roles, San Carlos CA onsite, aerospace engineering + export control. No GTM."
+Prometheus,hiring-velocity-list,,2026-08-04,N,"Ashby (prometheus): only 2 placeholder 'MTS - Opportunistic TEST' postings. Bezos-backed, $6.2B, but no real GTM reqs yet. Worth re-checking."
+Fundamental,hiring-velocity-list,,2026-08-04,N,"Ashby (fundamental): only GTM roles are Enterprise Account MANAGER + Technical Partnerships Manager, SF hybrid. AM != closing AE. Borderline - revisit if AM scope broadens."
+Pillar,hiring-velocity-list,,2026-08-04,N,UNRESOLVED: Ashby board jobs.ashbyhq.com/pillar exists but posting-api returns 404 (public API disabled) - the documented Ashby blind spot. Not a confirmed no-AE; needs manual browser check.
