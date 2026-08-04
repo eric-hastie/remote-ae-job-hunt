@@ -2762,7 +2762,7 @@ bem,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08
 Pathwork,ats-search,,2026-08-04,N,no AE roles (AI Engineers only); on-site SF/Brooklyn; insurance workflow AI SaaS
 Uber Freight,ats-search,,2026-07-11,N,freight/logistics services (not B2B SaaS); not qualifying vertical
 Coast,ats-search,,2026-08-04,N,no AE roles on GH board (Customer Success Manager only); in-person company; B2B fleet fintech
-Statsig,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE NYC, Ashby, OTE $270-300K, 3+ yrs enterprise software sales)"
+Statsig,ats-search,,2026-08-04,N,Board gone (BOARD_GONE) - Ashby board no longer exists
 Muck Rack,ats-search,,2026-08-03,Y,Enterprise AE Media Intelligence; Remote US; OTE $175K+; PR/media intelligence SaaS
 Avoca,ats-search,,2026-08-04,N,home services AI (booking + customer engagement); AE role NYC HQ in-office only; not US-remote
 Assort Health,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE SF/NYC hybrid, Ashby, OTE $300-330K, pub 2025-10-17; 5+ yrs)"
