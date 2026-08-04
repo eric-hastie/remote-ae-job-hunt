@@ -132,6 +132,8 @@ tbody tr:hover{background:var(--panel)}
 .st-ok{background:#1d3a2e;color:#7ff0c8}.st-check{background:#4a3a1a;color:#ffd591}
 .dq{cursor:pointer;color:var(--muted);font-size:12px;margin-left:12px;user-select:none;white-space:nowrap}
 .dq:hover{color:#ff7a7a;text-decoration:underline}
+.appl{cursor:pointer;color:var(--muted);font-size:12px;margin-left:10px;user-select:none;white-space:nowrap}
+.appl:hover{color:var(--accent2);text-decoration:underline}
 .ote{font-variant-numeric:tabular-nums}
 .apply{font-weight:600;white-space:nowrap}
 .muted{color:var(--muted)}
@@ -186,6 +188,7 @@ footer .wrap{max-width:760px}
     </div>
     <div class="seg" id="dqseg">
       <button data-dq="active" class="on">Active</button>
+      <button data-dq="applied">Applied</button>
       <button data-dq="dqd">DQ'd</button>
     </div>
     <div class="seg" id="indseg">
@@ -203,7 +206,7 @@ footer .wrap{max-width:760px}
         <th data-k="ote">OTE <span class="arw"></span></th>
         <th data-k="segment">Segment <span class="arw"></span></th>
         <th>Posting</th>
-        <th>DQ</th>
+        <th>Actions</th>
         <th data-k="status">Status <span class="arw"></span></th>
         <th data-k="repvue">RepVue <span class="arw"></span></th>
         <th data-k="hq">HQ <span class="arw"></span></th>
@@ -224,6 +227,8 @@ const count=document.getElementById('count');
 let seg='all', statusF='all', dqMode='active', indF='all', sortK=null, sortDir=1;
 const DQ=new Set(JSON.parse(localStorage.getItem('ae_dq')||'[]'));
 function saveDQ(){localStorage.setItem('ae_dq',JSON.stringify([...DQ]));}
+const APPLIED=new Set(JSON.parse(localStorage.getItem('ae_applied')||'[]'));
+function saveApplied(){localStorage.setItem('ae_applied',JSON.stringify([...APPLIED]));}
 function isMM(r){return r.segment.includes('MM')}
 function segLabel(r){const cls=isMM(r)?'b-mm':'b-ent';return '<span class="badge '+cls+'">'+r.segment+'</span>';}
 function statusBadge(r){return r.status==='Needs check' ? '<span class="st st-check">Needs check</span>' : '<span class="st st-ok">Verified</span>';}
@@ -245,7 +250,8 @@ function render(){
     if(seg==='ent' && isMM(r))return false;
     if(statusF==='verified' && r.status==='Needs check')return false;
     if(statusF==='needs' && r.status!=='Needs check')return false;
-    if(dqMode==='active' && DQ.has(r.url))return false;
+    if(dqMode==='active' && (DQ.has(r.url)||APPLIED.has(r.url)))return false;
+    if(dqMode==='applied' && !APPLIED.has(r.url))return false;
     if(dqMode==='dqd' && !DQ.has(r.url))return false;
     if(indF==='physical-ai' && !/physical ai|robot|autonom|self-driv|drone|uav|lidar|radar|perception|sensor|embodied|world model|spatial comput|edge ai|machine vision|digital twin/i.test(r.industry||''))return false;
     if(!term)return true;
@@ -266,12 +272,12 @@ function render(){
       <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>
       <td>${segLabel(r)}</td>
       <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
-      <td><span class="dq" data-url="${r.url}">${DQ.has(r.url)?'restore':'DQ ✕'}</span></td>
+      <td style="white-space:nowrap"><span class="dq" data-url="${r.url}">${DQ.has(r.url)?'restore':'DQ ✕'}</span><span class="appl" data-url="${r.url}">${APPLIED.has(r.url)?'undo':'Applied ✓'}</span></td>
       <td>${statusBadge(r)}</td>
       <td>${r.repvue?('<b>'+r.repvue+'</b>'):'<span class=muted>-</span>'}</td>
       <td class="muted">${r.hq||''}</td>
     </tr>`).join('');
-  count.textContent=list.length+' of '+DATA.length+' roles'+(DQ.size?(' · '+DQ.size+' DQ’d'):'');
+  count.textContent=list.length+' of '+DATA.length+' roles'+(APPLIED.size?(' · '+APPLIED.size+' applied'):'')+(DQ.size?(' · '+DQ.size+' DQ’d'):'');
 }
 document.querySelectorAll('#seg button').forEach(b=>b.onclick=()=>{
   seg=b.dataset.seg;
@@ -294,10 +300,18 @@ document.querySelectorAll('#indseg button').forEach(b=>b.onclick=()=>{
   b.classList.add('on');render();
 });
 tbody.addEventListener('click',e=>{
-  const el=e.target.closest('.dq'); if(!el)return;
-  const u=el.dataset.url;
-  if(DQ.has(u))DQ.delete(u); else DQ.add(u);
-  saveDQ(); render();
+  const dqEl=e.target.closest('.dq');
+  if(dqEl){
+    const u=dqEl.dataset.url;
+    if(DQ.has(u)){DQ.delete(u)}else{DQ.add(u);APPLIED.delete(u);saveApplied()}
+    saveDQ(); render(); return;
+  }
+  const apEl=e.target.closest('.appl');
+  if(apEl){
+    const u=apEl.dataset.url;
+    if(APPLIED.has(u)){APPLIED.delete(u)}else{APPLIED.add(u);DQ.delete(u);saveDQ()}
+    saveApplied(); render(); return;
+  }
 });
 document.querySelectorAll('thead th[data-k]').forEach(th=>th.onclick=()=>{
   const k=th.dataset.k;
