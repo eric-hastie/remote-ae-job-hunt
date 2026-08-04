@@ -13,7 +13,7 @@ Articulate,claude,,2026-07-23,N,no roles on Lever articulate board
 Ashby,claude,,2026-07-23,N,ATS unresolved; the ATS platform company itself
 Augury,claude,84,2026-08-03,Y,GH job 8645562002; Enterprise AE US Remote; OTE $220K-$260K; verified 2026-07-31
 Beautiful.ai,claude,,2026-07-23,N,ATS unresolved
-BILL,claude,81,2026-07-31,N,has open qualifying role
+BILL,claude,81,2026-08-04,N,Greenhouse 404 - posting dead as of 2026-08-04
 Bloomreach,claude,89,2026-07-02,Y,has open qualifying role
 Chainguard,claude,,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
 Chargebee,claude,,2026-07-31,N,ATS unresolved (Ashby/Lever/GH all 404)
@@ -59,7 +59,7 @@ Ironclad,claude,,2026-07-27,N,ATS unresolved (GH 503); previously Ent-only/hybri
 Itential,claude,,2026-07-23,N,ATS unresolved
 Iterable,claude,,2026-08-03,Y,Enterprise AE West + Evergreen East; Ashby board; Remote US; OTE $266K-310K; Ent segment
 Jama Software,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
-Keeper Security,claude,,2026-08-03,Y,has open qualifying role
+Keeper Security,claude,,2026-08-04,N,has open qualifying role; posting dead as of 2026-08-04
 Komodo Health,claude,79,2026-08-03,Y,has open qualifying role
 Kong,claude,,2026-07-23,N,no US AE; only Bangalore India AE on Ashby
 Lattice,claude,,2026-07-22,N,posting expired 2026-07-22; only London UK AEs on GH board; no US replacement
@@ -2425,7 +2425,7 @@ Retention.com,repvue,,2026-08-02,N,ATS unresolved (not found on major ATS boards
 Sunbelt Staffing,repvue,,2026-07-06,N,not B2B SaaS (healthcare staffing agency)
 BigHand,repvue,,2026-08-02,N,ATS unresolved (UK-based legal workflow SaaS; not found on major US boards)
 Sage,repvue,,2026-08-02,N,ATS unresolved (large public UK company; likely Workday)
-Sendbird,repvue,,2026-08-03,Y,Enterprise Account Executive Ent remote US East Coast $260K-$300K OTE (messaging/chat API SaaS)
+Sendbird,repvue,,2026-08-04,N,Enterprise Account Executive Ent remote US East Coast $260K-$300K OTE (messaging/chat API SaaS); posting dead as of 2026-08-04
 Logz.io,repvue,,2026-08-02,Y,AE role on Lever (logz board); Boston hybrid (3 days onsite); added to latest.csv 2026-07-16
 Dotdigital,repvue,,2026-08-02,N,ATS unresolved (UK-based marketing automation; not found on major US boards)
 BTL Industries,repvue,,2026-07-06,N,not B2B SaaS (medical body-contouring devices)
@@ -2642,7 +2642,7 @@ Sign In Solutions,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Lever board (f
 Amper,ats-search,,2026-08-03,N,ATS unresolved (Ashby 404)
 AiPrise,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive - US | Originally rejected for 'segment/OTE unverified'. Now verified via the live Ashby posting: US-remote, IC AE ti"
 Rhombus,ats-search,,2026-08-03,Y,recheck-B 2026-08-03: Commercial Account Executive - Central (South Central/Texas) | Originally rejected for 'territorial SMB/MM; OTE unknown' - territorial coverage is not an exclusion criterion
-Prokeep,ats-search,,2026-07-07,Y,"MM/Ent AE, Remote US, $225-260K OTE; contractor-distributor comm SaaS"
+Prokeep,ats-search,,2026-08-04,N,"MM/Ent AE, Remote US, $225-260K OTE; contractor-distributor comm SaaS; posting dead as of 2026-08-04"
 Vibes,ats-search,,2026-08-03,Y,"Ent AE Platform, Remote US, base $120K-$240K+comm; mobile marketing SaaS"
 doinstruct,ats-search,,2026-07-07,Y,"Sr AE + Founding AE USA, Remote US (East), $200-300K OTE; DACH frontline training SaaS expanding US"
 Taxwire,ats-search,,2026-07-07,Y,"AE, Remote US (NYC preferred), $200-250K OTE; indirect tax compliance SaaS; MM/SMB"
@@ -4671,3 +4671,20 @@ Glacis,wellfound,,2026-08-03,Y,Senior Enterprise AE Remote US; supply chain AI B
 Laminar,ats-search,,2026-08-03,Y,"MM AE, CPG; Physical AI - industrial manufacturing AI; Boston/Remote; Lever ab45ee40"
 Criteria Corp,ats-search,,2026-08-03,N,ATS unresolved: uses BambooHR (403 blocked); pre-employment assessment B2B SaaS
 Autura,ats-search,,2026-08-04,N,AE is Cleveland OH in-office (GH 5375097008); not remote/target-city
+Slingshot Aerospace,ats-search,,2026-08-04,Y,Commercial & Channel AE Remote US; space situational awareness B2B SaaS; Ashby board slingshot-aerospace; published 2026-01-28; added to latest.csv
+Resolve AI,ats-search,,2026-08-04,Y,Enterprise AE SF; AIOps/autonomous incident resolution SaaS; $190M raised; Ashby board Resolve AI; published 2025-04-01; added to latest.csv
+Turgon AI,ats-search,,2026-08-04,Y,Founding AE SF; Enterprise IT/CIO AI platform; Lever board turgon-ai; published 2024-09-28; added to latest.csv as Needs check
+11x,ats-search,,2026-08-04,Y,AE SF; AI digital workers (Alice/Jordan); a16z+Benchmark; ~$75M raised; Ashby API 404 but search-confirmed; added to latest.csv as Needs check
+Sweed,ats-search,,2026-08-04,N,"Cannabis POS SaaS; AE posting for SoCal territory, not qualifying city/remote"
+turbopuffer,ats-search,,2026-08-04,N,Vector DB startup; no AE role on board
+Amplo,ats-search,,2026-08-04,N,No open jobs on board
+Qualitate,ats-search,,2026-08-04,N,Credit fund platform; not B2B SaaS
+Chief,ats-search,,2026-08-04,N,B2C membership network; not B2B SaaS
+Qovery,ats-search,,2026-08-04,N,ATS unresolved; Ashby + Lever both 404
+Grammarly,ats-search,,2026-08-04,N,AE posting expired Aug 2025; no current qualifying role
+Bedrock Robotics,ats-search,,2026-08-04,N,Autonomous construction tech; no AE role on board
+HavocAI,ats-search,,2026-08-04,N,Defense robotics; no AE role
+Allen Control Systems,ats-search,,2026-08-04,N,Drone detection hardware; no AE role
+Eventual,ats-search,,2026-08-04,N,Physical AI data infrastructure startup; no AE role
+Emi Labs,ats-search,,2026-08-04,N,Enterprise AE but Mexico remote only; not US
+Garage,ats-search,,2026-08-04,N,Specialty vehicle marketplace; not B2B SaaS
