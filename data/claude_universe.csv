@@ -46,7 +46,7 @@ Grafana Labs,claude,,2026-08-03,Y,has open qualifying role (re-verified 2026-07-
 Halcyon,claude,,2026-07-31,N,has open qualifying role
 HappyCo,claude,,2026-07-23,N,ATS unresolved
 Hex,claude,,2026-07-02,Y,has open qualifying role
-HiBob,claude,80,2026-07-31,N,HiBob careers page empty; posting dead; re-checked 2026-07-31
+HiBob,claude,80,2026-08-04,N,HiBob job posting dead (generic Careers page); already N; confirmed 2026-08-04
 Highspot,claude,,2026-07-02,Y,has open qualifying role
 Hightouch,claude,,2026-08-03,Y,"Greenhouse posting live: Account Executive Ad Studio - North America (GH 6100883004), Ent OTE $200K-$350K, SF/NYC; $150M Series D Apr 2026"
 Hivel,claude,,2026-07-23,N,ATS unresolved; very small startup
@@ -901,7 +901,7 @@ Takeda Pharmaceuticals,repvue,86.22,2026-07-23,N,not B2B SaaS; pharmaceutical
 Taulia,repvue,86.21,2026-08-03,Y,top1000 RepVue scan: open AE role
 Mölnlycke Health Care,repvue,86.20,2026-07-23,N,medical device/wound care manufacturer; not B2B SaaS
 Double,repvue,86.19,2026-07-23,N,ATS unresolved; company identity unclear 2026-07-23
-Pinwheel,repvue,86.19,2026-07-23,N,ATS unresolved; no Greenhouse/Ashby/Lever board found 2026-07-23
+Pinwheel,repvue,86.19,2026-08-04,Y,Sr. AE NYC; GH board pinwheelapi job 7826740003; first_published 2026-08-04; URL updated in latest.csv
 IT Solutions,repvue,86.19,2026-07-23,N,MSP/IT reseller; not a B2B SaaS product company
 Birdie,repvue,86.17,2026-07-23,N,UK-based elderly care platform; UK market only
 Login VSI,repvue,86.17,2026-07-23,N,ATS unresolved; VDI testing/DEX monitoring niche 2026-07-23
@@ -968,7 +968,7 @@ Pathrise,repvue,85.77,2026-07-23,N,career coaching service; not B2B SaaS
 Rewind,repvue,85.77,2026-07-23,N,no AE on Ashby board (VP-level only) 2026-07-23
 SailPoint,repvue,85.77,2026-08-01,N,Workday wd1 tenant active (R012971 Texas Ent AE + R011562 Strategic AE); pages JS-only unreadable; territory-based field sales; no US-remote confirmed
 DoubleVerify,repvue,85.76,2026-07-23,N,no IC AE on Greenhouse board 2026-07-23
-Varicent,repvue,85.76,2026-08-03,Y,top1000 RepVue scan: open AE role
+Varicent,repvue,85.76,2026-08-04,N,GH job 4826237008 DEAD; no qualifying replacement on board; dropped 2026-08-04
 Faddom,repvue,85.76,2026-07-23,N,AE in Tel Aviv only; not US-remote 2026-07-23
 Currencycloud,repvue,85.76,2026-07-23,N,acquired by Visa 2022; different company now
 Quotient Technology,repvue,85.74,2026-07-23,N,ATS unresolved; digital promotions SaaS 2026-07-23
@@ -2954,7 +2954,7 @@ Corgi Insurance,yc,,2026-07-15,N,"Live Ashby board (jobs.ashbyhq.com/corgi, 12 p
 Reacher,yc,,2026-07-15,Y,"Live Ashby posting ""Founding Account Executive (US)"" is remote (location=Remote, no specific in-office day cadence state"
 Coval,yc,,2026-07-15,N,"Founding AE role explicitly requires in-person work in SoMa, San Francisco (""We work in-person in SoMa, San Francisco"") "
 Handoff,yc,,2026-07-15,N,"All 3 live AE postings (AE; AE MM/Ent; AE SMB) on Lever board are on-site Austin, TX or hybrid Buenos Aires — no US-remo"
-InEvent,yc,,2026-07-15,N,"AE role targets SMB segment (not MM/Ent), requires only ~2 yrs experience, and OTE unstated on posting (external sources"
+InEvent,yc,,2026-08-04,N,posting URL dead confirmed 2026-08-04; was already N
 Flagright,yc,,2026-07-15,N,Live Ashby board (jobs.ashbyhq.com/flagright.com) has 8 postings; no US-remote IC AE role currently open — only Mid-Mark
 CollectWise,yc,,2026-08-03,Y,recheck-B 2026-08-03: Founding Account Executive | Previously held only because no clean company-ATS URL existed. Confirmed live via YC's own job board with a re
 Jiga,yc,,2026-08-03,N,"recheck-B 2026-08-03: Ashby board (jiga) currently shows only one open role, Content & Comms Manager - no Account Executive posting is live in the board API despite third-p"
@@ -4157,7 +4157,7 @@ Unity Technologies,repvue,,2026-08-03,N,recheck-B 2026-08-03 UNRESOLVED: ATS sti
 Cleveland Browns,repvue,,2026-07-19,N,NFL sports team; not B2B SaaS
 Amperity,repvue,,2026-07-19,N,no active AE on GH board currently
 Ryder System,repvue,,2026-07-19,N,transportation/logistics company; not B2B SaaS
-Raintree Systems,repvue,,2026-08-03,Y,Account Executive RCM - Remote US; healthcare EHR/RCM SaaS; OTE not stated
+Raintree Systems,repvue,,2026-08-04,N,job posting HTTP dead; no replacement found; dropped 2026-08-04
 Scorpion,repvue,,2026-07-19,N,SMB AE only; OTE $115-147K below $150K bar
 Rave Mobile Safety,repvue,,2026-07-19,N,no AE found on standard ATS
 Studeo,repvue,,2026-07-19,N,no AE found
@@ -4674,7 +4674,7 @@ Autura,ats-search,,2026-08-04,N,AE is Cleveland OH in-office (GH 5375097008); no
 Slingshot Aerospace,ats-search,,2026-08-04,Y,Commercial & Channel AE Remote US; space situational awareness B2B SaaS; Ashby board slingshot-aerospace; published 2026-01-28; added to latest.csv
 Resolve AI,ats-search,,2026-08-04,Y,Enterprise AE SF; AIOps/autonomous incident resolution SaaS; $190M raised; Ashby board Resolve AI; published 2025-04-01; added to latest.csv
 Turgon AI,ats-search,,2026-08-04,Y,Founding AE SF; Enterprise IT/CIO AI platform; Lever board turgon-ai; published 2024-09-28; added to latest.csv as Needs check
-11x,ats-search,,2026-08-04,Y,AE SF; AI digital workers (Alice/Jordan); a16z+Benchmark; ~$75M raised; Ashby API 404 but search-confirmed; added to latest.csv as Needs check
+11x,ats-search,,2026-08-04,N,Ashby board completely gone (board_gone); dropped from latest.csv 2026-08-04
 Sweed,ats-search,,2026-08-04,N,"Cannabis POS SaaS; AE posting for SoCal territory, not qualifying city/remote"
 turbopuffer,ats-search,,2026-08-04,N,Vector DB startup; no AE role on board
 Amplo,ats-search,,2026-08-04,N,No open jobs on board
@@ -4719,3 +4719,8 @@ Cowboy Space,hiring-velocity-list,,2026-08-04,N,"Ashby (cowboyspace): 6 roles, S
 Prometheus,hiring-velocity-list,,2026-08-04,N,"Ashby (prometheus): only 2 placeholder 'MTS - Opportunistic TEST' postings. Bezos-backed, $6.2B, but no real GTM reqs yet. Worth re-checking."
 Fundamental,hiring-velocity-list,,2026-08-04,N,"Ashby (fundamental): only GTM roles are Enterprise Account MANAGER + Technical Partnerships Manager, SF hybrid. AM != closing AE. Borderline - revisit if AM scope broadens."
 Pillar,hiring-velocity-list,,2026-08-04,N,UNRESOLVED: Ashby board jobs.ashbyhq.com/pillar exists but posting-api returns 404 (public API disabled) - the documented Ashby blind spot. Not a confirmed no-AE; needs manual browser check.
+Newcore Identity,ats-search,,2026-08-04,N,"HiBob job posting dead (generic Careers page, UUID resolves to Careers only); identity security startup"
+Gain.pro,ats-search,,2026-08-04,N,Recruitee board (gain.recruitee.com); no AE/sales roles open; B2B private markets intelligence platform
+Innodata Inc,ats-search,,2026-08-04,N,Recruitee board empty (innodatainc.recruitee.com); no open roles; AI data/services company
+TransPerfect,ats-search,,2026-08-04,N,Language services company; no US AE role; only Colombia on-site role; not B2B SaaS
+Time Doctor,ats-search,,2026-08-04,N,"Workforce analytics SaaS; open role is Account Manager Mid-Market (retention/expansion), not IC AE new business"
