@@ -36,8 +36,8 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 ## Tool & cost rules
 
 - **WebFetch / WebSearch ONLY for web access.** NEVER curl/wget/Bash to fetch URLs.
-- Bash is allowed ONLY for git, `python3 build.py`, `python3 scripts/verify_links.py`, `date`, and
-  file ops — not for open-ended research.
+- Bash is allowed ONLY for git, `python3 build.py`, `python3 scripts/verify_links.py`,
+  `python3 scripts/backfill_comp.py`, `date`, and file ops — not for open-ended research.
 - **Work inline — do NOT spawn subagents.** Be token-conscious (this draws on a subscription quota):
   don't over-fan-out; stop a vertical as soon as it's dry (see loop rule).
 
@@ -94,7 +94,21 @@ API. Do NOT re-verify API-covered rows by WebFetching posting pages — a dead G
 HTTP 200 and silently redirects to the full board (`?error=true`), so page-reads pass dead links
 (this corrupted the list once; see URL-capture rules below).
 
-Then act on the script's output:
+**Then run `python3 scripts/backfill_comp.py --write`.** It fills blank OTE cells from the ATS's own
+JSON API. Never record "no comp stated" from a WebFetch of a posting PAGE: Ashby, HireBridge, Workable
+and Workday render the description client-side, so WebFetch returns only the page shell and the comp
+range looks absent when the posting plainly publishes it (this is why LifeLoop, Vercel, Plaid and ~55
+others were blank). The board APIs carry it as a structured field.
+
+**Base vs OTE:** the column is named OTE but ATS feeds publish BASE far more often. For an AE, base is
+roughly half of OTE, so `$60,000-$70,000` may be base against a ~$130K OTE. Suffix the value with
+` base` whenever the source says base — never silently conflate the two, and never screen on the
+number (see the ICP bar: there is no comp floor or ceiling).
+
+Rows the script prints as `NEEDS_BROWSER` are on non-API hosts and can only be read in a real browser —
+leave them blank rather than guessing.
+
+Then act on the verify script's output:
 - **DEAD/BROKEN with a qualifying replacement candidate** (IC AE, US-remote, right segment — read the
   JD if unsure): update the row's URL, copying the replacement URL **verbatim from the script output**.
 - **DEAD/BROKEN with no qualifying candidate**: drop the row from `latest.csv` and set its
