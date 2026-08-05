@@ -4,7 +4,7 @@ Abnormal Security,claude,,2026-07-02,Y,has open qualifying role
 Accrue,claude,,2026-08-03,Y,has open qualifying role
 Acquia,claude,,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
 Affinity.co,claude,,2026-07-23,N,no roles at all; empty Ashby board
-Apollo GraphQL,claude,76,2026-08-03,Y,has open qualifying role
+Apollo GraphQL,claude,76,2026-08-05,N,posting dead (3b50c2d4 → 415db1ad both dead); only UK candidate found; not US
 Apollo.io,claude,85,2026-07-02,Y,has open qualifying role
 Arcade,claude,,2026-07-23,N,ATS unresolved
 Arctic Wolf,claude,,2026-06-30,Y,has open qualifying role
@@ -4204,7 +4204,7 @@ Agiliti,repvue,,2026-07-19,N,medical equipment rental; not B2B SaaS
 GEICO,repvue,,2026-07-19,N,consumer insurance; not B2B SaaS
 Mintel Group Ltd,repvue,,2026-07-19,N,market research firm; not B2B SaaS
 Axiom,repvue,,2026-07-19,N,legal staffing firm
-Dropbox,repvue,,2026-07-19,Y,Account Executive MM/Ent; US remote; OTE $147-198K Zone 2; GH job 7908701
+Dropbox,repvue,,2026-08-05,N,MM/Ent AE posting dead (GH 7908701); no qualifying replacement found
 Activated Insights,repvue,,2026-07-19,N,own website ATS only; URL capture rule
 Hireology,repvue,,2026-07-19,N,own Hireology ATS (non-standard); URL capture rule
 Corporate Visions,repvue,,2026-07-19,N,sales training firm; not SaaS
@@ -4610,7 +4610,7 @@ Oden Technologies,ats-search,,2026-08-03,Y,Ent AE Remote (NYC/Boston); Physical 
 Bifrost,ats-search,,2026-07-26,N,AE posting appears removed; Ashby board shows engineering/Singapore-only positions
 Orchard Robotics,ats-search,,2026-07-26,N,Enterprise AE but PNW (WA/OR) location only; not qualifying US location
 Katana,ats-search,,2026-07-26,N,Senior AE but Canada (Toronto) only; no US-remote posting found
-AirOps,ats-search,,2026-08-03,Y,Ent AE Remote/NYC/SF; AI content engineering SaaS; OTE $265K-$325K; Ashby 3b50c2d4; published 2026-06-11; $115M raised
+AirOps,ats-search,,2026-08-05,N,Ent AE posting dead (Ashby 3b50c2d4); no replacement found on board
 ConCntric,ats-search,,2026-07-26,N,construction project management software; AE limited to IL/IN locations only; not national remote
 Archer Review,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive, Institutional Partnerships | Was rejected solely for 'OTE $125K-$135K below the $150K floor' - that floor is removed. IC, remote-US, 3 yrs "
 Impartner Software,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Existing Account Executive | Original note rejected a DIFFERENT req ('Distribution AE', channel/partner, too junior) - this is a distinct, "
@@ -4726,3 +4726,8 @@ TransPerfect,ats-search,,2026-08-04,N,Language services company; no US AE role; 
 Time Doctor,ats-search,,2026-08-04,N,"Workforce analytics SaaS; open role is Account Manager Mid-Market (retention/expansion), not IC AE new business"
 AllVoices,ats-search,,2026-08-05,Y,"MM AE, Remote US, OTE $120-200K; workplace safety/anonymous reporting SaaS (Rippling ATS)"
 AnywhereWorks,ats-search,,2026-08-05,N,remote work marketplace/staffing platform; not a B2B SaaS product company
+UWorld,unknown,,2026-08-05,N,MM AE posting dead (Workable jN92vY1p); no replacement found
+DoiT International,ats-search,,2026-08-05,Y,GH AE Attribute North America (Remote US West/East); B2B SaaS cloud FinOps/AI observability; 2+ yrs exp; IDs 7762284003/7762277003 both live; published 2026-06-04
+Process Street,ats-search,,2026-08-05,Y,GH 10 AE Remote (ET/CT/PT) openings; B2B SaaS workflow automation & compliance; 3+ yrs exp; ID 8530554002; published 2026-04-29
+Pallet,ats-search,,2026-08-05,N,Sr Ent AE East USA Remote; GH 5147873007 not in board API (dead posting); logistics AI automation; $250-350K OTE stated but posting dead
+Bridge (Instructure LMS),ats-search,,2026-08-05,N,Found via edtech.com aggregator; posting dated Sept 2025 (stale); no live ATS board URL confirmed; EdTech LMS B2B SaaS
