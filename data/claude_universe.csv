@@ -545,7 +545,7 @@ Warner Bros. Discovery,repvue,88.74,2026-07-21,N,not B2B SaaS (media/entertainme
 Woven Teams,repvue,88.74,2026-07-21,N,no AE / ATS unresolved
 Snappy Kraken,repvue,88.71,2026-07-21,N,no AE / ATS unresolved (tried GH)
 Fullcast,repvue,88.71,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
-Tenna,repvue,88.70,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
+Tenna,repvue,88.70,2026-08-05,N,no AE / ATS unresolved (tried Ashby); Lever board confirmed no AE (2026-08-05)
 PetDesk,repvue,88.70,2026-07-21,N,no AE / ATS unresolved (tried Ashby)
 Ordergroove,repvue,88.70,2026-07-21,N,no AE on GH board (only SDR role listed)
 McAfee,repvue,88.69,2026-07-21,N,not qualifying — consumer-focused (enterprise became Trellix)
@@ -4724,3 +4724,5 @@ Gain.pro,ats-search,,2026-08-04,N,Recruitee board (gain.recruitee.com); no AE/sa
 Innodata Inc,ats-search,,2026-08-04,N,Recruitee board empty (innodatainc.recruitee.com); no open roles; AI data/services company
 TransPerfect,ats-search,,2026-08-04,N,Language services company; no US AE role; only Colombia on-site role; not B2B SaaS
 Time Doctor,ats-search,,2026-08-04,N,"Workforce analytics SaaS; open role is Account Manager Mid-Market (retention/expansion), not IC AE new business"
+AllVoices,ats-search,,2026-08-05,Y,"MM AE, Remote US, OTE $120-200K; workplace safety/anonymous reporting SaaS (Rippling ATS)"
+AnywhereWorks,ats-search,,2026-08-05,N,remote work marketplace/staffing platform; not a B2B SaaS product company
