@@ -84,14 +84,14 @@ Nerdio,claude,,2026-07-23,N,ATS unresolved
 Net Health,claude,,2026-07-23,N,ATS unresolved
 NetBox Labs,claude,,2026-07-23,N,no AE; only Channel Account Manager on Ashby
 Numeric,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
-Outsystems,claude,,2026-07-23,N,ATS unresolved
+Outsystems,claude,,2026-08-05,Y,AE posting confirmed live
 PagerDuty,claude,79,2026-06-30,Y,has open qualifying role
 Pigment,claude,,2026-07-02,Y,has open qualifying role
 Pulumi,claude,,2026-06-30,Y,has open qualifying role
 Pylon,claude,,2026-07-23,N,no AE; only technical/product roles on Ashby
 Ramp,claude,,2026-08-03,N,no AE on Ashby (re-confirmed 2026-08-03 Job3)
 Redpanda,claude,,2026-07-31,N,ATS unresolved (Lever 404)
-Render,claude,,2026-07-02,Y,has open qualifying role
+Render,claude,,2026-08-05,N,AE posting dead
 Retool,claude,84,2026-08-03,N,"recheck-C 2026-08-03 CLOSED: Careers page shows ""0 roles across all locations and departments"" - the Enterprise-East AE posting and the entire job board are gone."
 Rillet,claude,,2026-08-03,N,no AE; only BDR/CS/PM/Solutions Consultant on Ashby (re-confirmed 2026-08-03)
 Rippling,claude,86,2026-08-03,Y,has open qualifying role
@@ -2651,7 +2651,7 @@ RegScale,ats-search,,2026-08-03,N,no IC AE roles; only Director-level and CS rol
 Anthropic,ats-search,,2026-08-03,N,AE roles on-site SF/NYC or non-US (ASEAN/APAC); no qualifying US-remote IC AE
 SimpleClosure,ats-search,,2026-08-03,N,SMB-focused (business closure service); below MM segment ICP
 Reflow,ats-search,,2026-08-03,N,no AE roles (workforce analytics SaaS)
-Accurate Background,ats-search,,2026-08-03,N,no AE roles on Lever board
+Accurate Background,ats-search,,2026-08-05,Y,AE posting confirmed live
 Quandri,ats-search,,2026-08-03,N,Canadian insurance automation; Canada-remote only; not US-remote
 Luxury Presence,ats-search,,2026-08-03,N,Austin TX on-site required; not US-remote
 Avertium,ats-search,,2026-08-03,N,managed services MSSP; not SaaS
@@ -2689,7 +2689,7 @@ Swapcard,ats-search,,2026-07-09,Y,MM AE; Remote US; event management SaaS (Lever
 Edia,ats-search,,2026-08-03,Y,Ent AE East; Remote US; K-12 edtech AI SaaS (Ashby)
 Cloudforce,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Real ATS is Lever (api.lever.co/v0/postings/go-cloudforce, fetched live). Current board shows only 2 open roles, both marketing (Associate Director of"
 Resilinc,ats-search,,2026-08-03,N,recheck-B 2026-08-03: Lever board (token resilinc) no longer has an active Enterprise AE requisition - it now shows only a 'Go To Market Future Opportunities' placeholder p
-SheerID,ats-search,,2026-07-20,N,AE posting expired; no open AE on Rippling board 2026-07-20
+SheerID,ats-search,,2026-08-05,Y,AE posting confirmed live
 Subtotal,ats-search,,2026-07-09,Y,AE MM/Ent; Remote US; retail commerce data SaaS; OTE $160-190K (Ashby)
 Gray Swan AI,ats-search,,2026-07-09,Y,Ent AE; Remote US; AI security SaaS; OTE $314-384K (Ashby)
 Knock,ats-search,,2026-07-09,N,fintech mortgage company; not B2B SaaS
@@ -3001,7 +3001,7 @@ Transcend,ats-search,,2026-08-05,N,no AE on Greenhouse (transcendinc) — only S
 Agility PR Solutions,ats-search,,2026-07-15,N,The specific job ID URL resolves only to Agility PR's full Rippling job board (dead link per rules); current live AE ope
 Anaconda,ats-search,,2026-07-15,Y,"Live Rippling posting for IC Mid-Market Account Executive, remote-acceptable (East territory), 3+ yrs B2B SaaS closing e"
 Copado,ats-search,,2026-08-03,Y,"Lead hint (General Commercial AE) is Denver, CO on-site w/ relocation required, disqualifying — but same board has a liv"
-Community Brands (Momentive),ats-search,,2026-07-15,N,"Identity confirmed via search: this is Momentive Software (formerly Community Brands, nonprofit/association SaaS) — not "
+Community Brands (Momentive),ats-search,,2026-08-05,Y,AE posting confirmed live
 Magnitude Software (insightsoftware),ats-search,,2026-07-15,N,"ATS confirmed as Workday tenant magnitudesoftware.wd1.myworkdayjobs.com (insightsoftware careers page links there), but "
 DebtBook,ats-search,,2026-08-05,N,AE requires in-office 5x/week Charlotte NC (not remote)
 Rutter,ats-search,,2026-08-05,N,no AE on Ashby (just Solutions Architect)
@@ -3031,7 +3031,7 @@ Futurex,ats-search,,2026-07-15,N,"Original lead posting (job ID B88B4258D9) is n
 Nitrogen,repvue,,2026-08-05,N,no AE on Workable nitrogenwealth (only Sr PM + AI Eng)
 LogicMonitor,repvue,,2026-08-05,Y,"has open qualifying role: AE Catchpoint (Dallas + Houston remote), Greenhouse"
 Altrata,repvue,,2026-07-15,N,ATS unresolved - no board found on Greenhouse/Ashby/Lever after multiple attempts
-AbsenceSoft,repvue,,2026-07-15,N,MM AE confirmed on Greenhouse but hybrid Denver 3d/week; not remote
+AbsenceSoft,repvue,,2026-08-05,Y,AE posting confirmed live
 Sayari Labs,repvue,,2026-07-15,N,Greenhouse board (sayari) has only EMEA AE roles (London/Tokyo); no US-remote AE
 Ottimate,repvue,,2026-07-15,N,ATS unresolved - no board found on Greenhouse/Ashby; site uses custom ATS
 Verisk,repvue,,2026-07-15,N,Not B2B SaaS - large enterprise insurance/energy data analytics company
@@ -3925,7 +3925,7 @@ United Rentals,repvue,,2026-07-18,N,not B2B SaaS; equipment rental company
 Stack Overflow,repvue,,2026-07-31,N,Strategic AE Remote US Ent; developer Q&A / enterprise knowledge SaaS; Greenhouse
 Cox Media,repvue,,2026-07-18,N,not B2B SaaS; traditional media/digital advertising company
 Restaurant Technologies,repvue,,2026-07-18,N,ATS unresolved; foodservice automation/fryer oil management SaaS/IoT
-DuploCloud,repvue,,2026-07-18,Y,AE Remote US OTE $230-260K SMB/MM; cloud DevSecOps automation SaaS; Rippling ATS
+DuploCloud,repvue,,2026-08-05,N,AE posting dead
 Cox Automotive,repvue,,2026-08-03,N,HTTP_DEAD - coxenterprises page down
 Clarifai,repvue,,2026-07-18,N,ATS unresolved; AI vision/multimodal ML SaaS
 Nanonets,repvue,,2026-07-18,N,AE hybrid Palo Alto 2x/week in-office required; document AI SaaS
@@ -4731,3 +4731,7 @@ DoiT International,ats-search,,2026-08-05,Y,GH AE Attribute North America (Remot
 Process Street,ats-search,,2026-08-05,Y,GH 10 AE Remote (ET/CT/PT) openings; B2B SaaS workflow automation & compliance; 3+ yrs exp; ID 8530554002; published 2026-04-29
 Pallet,ats-search,,2026-08-05,N,Sr Ent AE East USA Remote; GH 5147873007 not in board API (dead posting); logistics AI automation; $250-350K OTE stated but posting dead
 Bridge (Instructure LMS),ats-search,,2026-08-05,N,Found via edtech.com aggregator; posting dated Sept 2025 (stale); no live ATS board URL confirmed; EdTech LMS B2B SaaS
+Esper,ats-search,,2026-08-05,N,No AE roles found
+Hamming AI,ats-search,,2026-08-05,N,No AE roles found
+Innova Market Insights,ats-search,,2026-08-05,N,No AE roles found
+WorkOS,ats-search,,2026-08-05,Y,AE posting confirmed live
