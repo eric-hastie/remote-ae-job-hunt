@@ -3171,7 +3171,7 @@ Straumann Group,repvue,,2026-07-15,N,Not B2B SaaS; dental products/implant compa
 phData,repvue,,2026-07-15,N,Not B2B SaaS; data engineering/ML consulting firm
 Lilt,queue,,2026-08-06,N,Ashby board 404 (lilt slug); ATS unresolved
 Board International,queue,,2026-08-06,N,GH board 404 (boardinternational slug); ATS unresolved
-EvenUp,queue,,2026-08-06,Y,"territory AE roles on Ashby (evenup slug): NYC/Boston/LA/ATL/etc; posting-api 404, board JS-rendered; added NYC row as Needs check"
+EvenUp,queue,,2026-08-06,N,"Ashby board private (API 401); board JS-rendered; no verifiable posting URL obtainable; dropped from latest.csv (BAD_URL, board slug confirmed but API restricted)"
 Virtuagym,queue,,2026-07-15,N,ATS unresolved — Dutch fitness SaaS; no Greenhouse/Ashby/Lever board found; not US-market AE
 Planhat,queue,,2026-07-15,N,AE roles all in-office (Stockholm); no US-remote AE; customer success platform
 Evaluate,queue,,2026-07-15,N,ATS unresolved — UK pharma intelligence platform (Norstella subsidiary); no US AE board found
@@ -4735,3 +4735,5 @@ Esper,ats-search,,2026-08-05,N,No AE roles found
 Hamming AI,ats-search,,2026-08-05,N,No AE roles found
 Innova Market Insights,ats-search,,2026-08-05,N,No AE roles found
 WorkOS,ats-search,,2026-08-05,Y,AE posting confirmed live
+Makse Group,ats-search,,2026-08-06,N,Workday consulting SI/implementation partner; AE role is services/consulting sales not pure B2B SaaS product
+OneDigital,ats-search,,2026-08-06,N,Business insurance and HR consulting broker; not B2B SaaS
