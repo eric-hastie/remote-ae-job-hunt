@@ -277,7 +277,7 @@ eMoney Advisor,repvue,93.16,2026-08-03,N,"recheck-B 2026-08-03: Jobvite careers 
 Tremendous,repvue,93.16,2026-07-02,Y,top-260 RepVue scan: open AE role
 Cycode,repvue,93.04,2026-07-08,N,acquired by Check Point Software 2024
 Pipedrive,repvue,93.04,2026-08-03,N,no US roles (only EU office locations on Lever)
-Brellium,repvue,92.99,2026-08-04,Y,MM AE hybrid NYC; $240K-$350K OTE; Ashby 365a3ff9-49e3-4bfb-8245-cdb2322f7eef; published 2026-04-08
+Brellium,repvue,92.99,2026-08-06,N,posting dead; no AE roles on board
 Roofr,repvue,92.97,2026-08-04,N,no qualifying AE role (bilingual SDR roles only)
 Victory Home Remodeling,repvue,92.92,2026-07-08,N,not B2B SaaS (home remodeling contractor)
 Texas Instruments,repvue,92.92,2026-07-08,N,not B2B SaaS (semiconductor manufacturer)
@@ -1732,7 +1732,7 @@ TeachTown,repvue,,2026-07-31,N,ATS unresolved; special ed software; niche market
 D2IQ,repvue,,2026-07-27,N,ATS unresolved (Ashby 404)
 Perpetua,repvue,,2026-07-27,N,ATS unresolved (Lever 404)
 Trace3,repvue,,2026-07-31,N,not B2B SaaS (IT solutions integrator/VAR)
-CaptivateIQ,repvue,,2026-08-03,Y,Enterprise AE live on Lever (createdAt 2025-01-09); commissions/sales-perf SaaS; Remote US
+CaptivateIQ,repvue,,2026-08-06,N,"posting dead; only Account Director open (not IC AE, 8+ yr req)"
 Synopsys,repvue,,2026-07-27,N,EDA software; account managers not standard MM AE - permanent
 Triplebyte,repvue,,2026-07-27,N,hiring platform pivoted/wound down - permanent
 NFP,repvue,,2026-07-31,N,not B2B SaaS (insurance broker/benefits firm)
@@ -2902,7 +2902,7 @@ Routeware,ats-search,,2026-08-03,Y,"Live IC Strategic Account Executive, remote 
 Focal Systems,ats-search,,2026-08-05,N,Rippling board 404 / gone
 TheGuarantors,ats-search,,2026-07-15,Y,"Senior AE (Remote), MM/Ent multifamily fintech, 4+ yrs B2B, OTE $180-235K - qualifies"
 Bloom Growth,ats-search,,2026-08-05,N,no AE on Rippling (only CSM)
-Enertiv,ats-search,,2026-08-05,N,Rippling board 404 / gone
+Enertiv,ats-search,,2026-08-06,Y,"Ent AE, Remote US, CRE energy management SaaS; board back online"
 GoTab,ats-search,,2026-08-05,N,Lever board 404 / gone
 Klir,ats-search,,2026-08-03,Y,"Live IC Strategic/Enterprise AE, remote US, 5+ yrs $1M+ quota SaaS closing — qualifies (Ent segment); the Mid-Market AE "
 SchoolAI,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Reconfirmed: Rippling board (ats.rippling.com/schoolai/jobs) shows zero open roles company-wide (""There are currently no open roles. Come back later!"""
@@ -4725,3 +4725,9 @@ WorkOS,ats-search,,2026-08-05,Y,AE posting confirmed live
 Makse Group,ats-search,,2026-08-06,N,Workday consulting SI/implementation partner; AE role is services/consulting sales not pure B2B SaaS product
 OneDigital,ats-search,,2026-08-06,N,Business insurance and HR consulting broker; not B2B SaaS
 Fulfillment IQ,ats-search,,2026-08-06,N,Toronto onsite/hybrid; not US remote (AE via Workable workable.com/fiq 2026-08-06)
+Metriport,ats-search,,2026-08-06,N,posting dead; candidate URL not present in Ashby API
+Wander,ats-search,,2026-08-06,Y,"Ent AE, Austin TX in-office, vacation rental management SaaS"
+Amilia,ats-search,,2026-08-06,N,AE posting 404 on recruitee board
+SkillsWave,ats-search,,2026-08-06,N,no open roles on Rippling board
+Chord,ats-search,,2026-08-06,N,no open roles on Rippling board
+AgencyCyber,ats-search,,2026-08-06,N,100% in-person NYC; SMB-focused (startups); not remote
