@@ -37,7 +37,7 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 
 - **WebFetch / WebSearch ONLY for web access.** NEVER curl/wget/Bash to fetch URLs.
 - Bash is allowed ONLY for git, `python3 build.py`, `python3 scripts/verify_links.py`,
-  `python3 scripts/backfill_comp.py`, `date`, and file ops — not for open-ended research.
+  `python3 scripts/backfill_comp.py`, `python3 scripts/enrich_repvue.py`, `date`, and file ops — not for open-ended research.
 - **Work inline — do NOT spawn subagents.** Be token-conscious (this draws on a subscription quota):
   don't over-fan-out; stop a vertical as soon as it's dry (see loop rule).
 
@@ -182,6 +182,9 @@ One job per run (plus Job 1). Do not combine or improvise beyond the selected jo
 
 Drop anything unverified — no "just in case." No fabrication; leave Funding/RepVue blank if unknown.
 
+**Never type a RepVue score from memory or from a web page.** The only source is the local library
+(`data/repvue_universe.csv`) via `scripts/enrich_repvue.py` — see RepVue enrichment under Finish.
+
 ## Job 3 — ATS-native search (net-new startups; queue-dry runs at 13:00, 18:00 & 23:00 UTC)
 
 Find postings directly on the ATS platforms — the posting first, the company second. This is the
@@ -296,6 +299,18 @@ MM-AE posting qualifies (distinct from its city postings); Checkr's Strategic AE
 universe covered the obvious names. Discovery is now the RepVue score-≥80 queue above.)*
 
 ## Finish
+
+**RepVue enrichment (LOCAL RUNS ONLY).** Before `build.py`, run
+`python3 scripts/enrich_repvue.py --write`. It fills blank `RepVue` / `RepVue Score` cells in
+`latest.csv` and `claude_universe.csv` by exact-normalized-name match against the local
+`data/repvue_universe.csv` library, so every newly discovered company that RepVue already rates
+picks up its score automatically. Scores are a point-in-time snapshot and go stale — that is
+accepted; they are a directional read on the sales org, not a live figure. The script only fills
+blanks (it never overwrites a hand-entered score), skips names RepVue rates ambiguously, and carries
+a hand-verified `COLLISIONS` set for same-name-different-company traps (e.g. Capsule the AI video
+company vs Capsule the pharmacy) — add to that set rather than loosening the matcher. **Cloud runs
+skip this**: the library is gitignored and absent from cloud clones, so the script no-ops there and
+new rows simply stay blank until the next local run backfills them.
 
 `python3 build.py` (regenerates `index.html` + `history.html` + `discards.html` — NEVER hand-edit those; `discards.html` lists every `Currently Open = N` universe row with its Notes as the discard reason) → copy
 `latest.csv` to `data/$(date -u +%F).csv` → `git add -A` → commit

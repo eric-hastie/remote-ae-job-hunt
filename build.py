@@ -293,7 +293,7 @@ footer .wrap{max-width:760px}
   </div>
 </div>
 <footer><div class="wrap">
-  <p><b>Methodology note.</b> This is a snapshot verified __DATEHUMAN__; job postings turn over quickly, so confirm a role is still open before applying. Funding and RepVue figures are from public sources and may be approximate (blank where not reliably verifiable rather than guessed). All companies shown are net-new relative to a separately maintained master list.</p>
+  <p><b>Methodology note.</b> This is a snapshot verified __DATEHUMAN__; job postings turn over quickly, so confirm a role is still open before applying. Funding figures are from public sources and may be approximate (blank where not reliably verifiable rather than guessed). RepVue scores are a point-in-time snapshot of RepVue&rsquo;s company ratings, matched by company name; treat them as a directional read on the sales org, not a live figure, and blank where the company has too few ratings to be scored. All companies shown are net-new relative to a separately maintained master list.</p>
   <p>Built by Eric Hastie as a demonstration of GTM research, data curation, and AI-assisted workflow design. Refreshed automatically each week.</p>
 </div></footer>
 <script>
