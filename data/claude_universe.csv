@@ -873,7 +873,7 @@ Stibo,repvue,86.34,2026-07-23,N,ATS unresolved after multiple tries
 Buildkite,repvue,86.34,2026-08-03,Y,top500 RepVue scan: open AE role
 HST Pathways,repvue,86.34,2026-07-23,N,ATS unresolved; no AE posting found 2026-07-23
 GuidePoint Security,repvue,86.33,2026-07-23,N,not B2B SaaS; security consulting/reseller
-Action1,repvue,86.32,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Action1,repvue,86.32,2026-08-07,N,Workable short URLs redirect to homepage — postings dead
 Daikin,repvue,86.32,2026-07-23,N,not B2B SaaS; HVAC manufacturer
 Employment Hero,repvue,86.31,2026-07-23,N,Australian HR SaaS; no US AE found
 YCharts,repvue,86.31,2026-07-23,N,ATS unresolved
@@ -1193,7 +1193,7 @@ OnBoard,repvue,84.83,2026-08-07,N,RepVue scan: open AE role; posting expired 202
 Fairwinds,repvue,84.82,2026-07-24,N,ATS unresolved; Kubernetes security SaaS
 Manta,repvue,84.82,2026-07-24,N,ATS unresolved; data catalog/lineage SaaS
 Canto,repvue,84.82,2026-07-24,Y,MM AE Remote; GH job-boards.greenhouse.io/canto/jobs/5285728008; published 2026-07-02
-Algolia,repvue,84.82,2026-07-24,Y,search SaaS; GH board has Senior Enterprise AE + SMB AE (Remote US); GH API blocked on recheck
+Algolia,repvue,84.82,2026-08-07,N,"GH posting dead; remaining US options are Renewal/Install Base AE only, no MM new-biz"
 CyberArk,repvue,84.81,2026-07-24,N,ATS unresolved; large enterprise security SaaS (GH board not accessible)
 ATG,repvue,84.80,2026-07-24,N,ATS unresolved; e-commerce platform
 NextPatient,repvue,84.80,2026-07-24,Y,Account Executive (East) Remote; Ashby 0825b614-68e6-4dda-b625-fd1e150e883a; $160-180K base+commission; published 2026-03-03
@@ -1785,7 +1785,7 @@ Par Technology,repvue,82,2026-07-31,N,ATS unresolved — restaurant/retail techn
 Advanced Drainage Systems,repvue,82,2026-07-31,N,not B2B SaaS target — drainage products manufacturer
 Ambient.ai,repvue,82,2026-07-27,N,ATS unresolved (Ashby 'ambient' 404)
 Verathon Medical,repvue,82,2026-07-31,N,not B2B SaaS target — medical devices
-EDB (EnterpriseDB),repvue,83,2026-08-03,Y,GH board slug=edb: AE/Sr AE Expansion (7749860003) + New Logo (7713194003) both live; in latest.csv
+EDB (EnterpriseDB),repvue,83,2026-08-07,N,"GH job 7749860003 → 404, posting dead"
 Smarsh,repvue,83,2026-08-03,Y,open Ent AE role (compliance archiving
 Hatch,repvue,82,2026-07-31,N,ATS unresolved — home services CRM; not MM B2B SaaS match
 ICON plc,repvue,82,2026-07-31,N,not B2B SaaS (pharma CRO / clinical trials)
@@ -1849,7 +1849,7 @@ Torii,repvue,82,2026-07-31,N,GH toriihq: Commercial AE 6114218004 exists but 1+ 
 Fermat,repvue,82,2026-07-27,N,ATS unresolved (Ashby 'fermat' 404)
 Nuage Consulting,repvue,82,2026-07-31,N,not B2B SaaS (consulting firm)
 Hendrick Automotive Group,repvue,82,2026-07-31,N,not B2B SaaS (auto dealer)
-Classy.org,repvue,82,2026-07-03,Y,MM AE US-remote via GoFundMe Pro GH board; nonprofit fundraising SaaS
+Classy.org,repvue,82,2026-08-07,N,"GH board posting dead (gofundme/7398335), no qualifying US replacement"
 Trimble Inc.,repvue,82,2026-07-31,N,large public company; no startup-style B2B SaaS remote AE role found
 Echo AI,repvue,82,2026-07-27,N,Ashby 'echo' board empty; no qualifying AE
 1upHealth,repvue,82,2026-07-27,N,GH '1uphealth' - no AE (PM/engineering only)
@@ -3872,7 +3872,7 @@ PowerSchool,repvue,78,2026-07-18,N,EdTech (K-12 schools); no qualifying enterpri
 PatientPop,repvue,78,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive, Growth | Third of three live Tebra IC AE reqs, US-Remote, within the experience bar and no comp floor applies."
 Vehlo,repvue,78,2026-07-18,N,automotive dealer software; no qualifying AE found on ATS boards
 GoDaddy,repvue,78,2026-07-18,N,web services primarily consumer/SMB; not MM/Ent B2B SaaS
-Dusty Robotics,repvue,78,2026-07-18,N,Physical AI construction robotics; no AE role currently open (Greenhouse board confirmed)
+Dusty Robotics,repvue,78,2026-08-07,Y,"Physical AI construction robotics; Sales AE Detroit (remote US, 25% travel), Rippling board; 3-6+ yrs required"
 Shogun,repvue,78,2026-07-18,N,ecommerce SaaS; no AE found on ATS boards
 PEI,repvue,78,2026-07-18,N,PE data/intelligence company; not found on ATS boards
 Vonage,repvue,78,2026-07-18,N,acquired by Ericsson 2023; mainly EU AE roles post-acquisition
@@ -4489,7 +4489,7 @@ Cradlepoint,repvue,76,2026-07-20,N,"ATS unresolved; networking hardware/cloud, E
 Dutchie,repvue,76,2026-07-20,N,no AE role on board (thedutchie Greenhouse); only ops/product/finance roles listed
 Kroll,repvue,76,2026-07-20,N,not B2B SaaS (financial advisory/risk consulting)
 Learnexus,repvue,76,2026-07-20,N,ATS unresolved; L&D marketplace
-OneTrust,repvue,76,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive, Enterprise | Originally rejected wholesale as 'Enterprise-only AEs; office-first; Denver role requires 10+ yrs -> too senio"
+OneTrust,repvue,76,2026-08-07,N,"GH posting dead; replacement requires 10+ yrs (over ceiling), no qualifying US option"
 Drift,repvue,76,2026-07-20,N,acquired by Salesloft 2023; no standalone ATS board
 Netwrix,repvue,76,2026-07-20,N,ATS unresolved; IT security software
 Coyote Logistics,repvue,76,2026-07-20,N,not B2B SaaS (logistics brokerage/freight)
@@ -4736,3 +4736,11 @@ SFG20,ats-search,,2026-08-07,N,UK-only AE (Manchester); no US-remote role; indus
 Affinitiv,ats-search,,2026-08-07,N,Greenhouse board (affinitiv): no AE role; automotive marketing SaaS; Account Coordinator/District Sales Mgr only
 Avidbots,ats-search,65,2026-08-07,N,"Physical AI autonomous floor-cleaning robots; ATS unresolved (Ashby 404, careers page JS-only); roles found are expansion AM in Dallas/Charlotte not US-remote"
 GTP Software,ats-search,,2026-08-07,Y,MM AE Remote on Rippling board; in latest.csv; added to universe 2026-08-07
+MixMode,ats-search,,2026-08-07,N,"GH posting 5148346007 → 404 (dead), removed from latest.csv"
+Canopy Works,ats-search,,2026-08-07,Y,"MM AE East, US-remote, healthcare wearable safety SaaS; GH 4357642009"
+Globalli,ats-search,,2026-08-07,Y,"MM AE, US-remote, global payroll/HCM SaaS; GH 5183722007"
+CoVet,ats-search,,2026-08-07,N,"AI copilot for vet practices; AE-NA is Canada-only remote, CAD salary — not US-based"
+elockers,ats-search,,2026-08-07,N,"Smart locker tech for events/entertainment; hardware/tech hybrid, not pure B2B SaaS"
+Evolv AI,ats-search,,2026-08-07,N,Enterprise AE GH posting 4523997005 → 404 dead
+Defy Security,ats-search,,2026-08-07,N,Cybersecurity VAR (not pure SaaS); Ent AE 8-12 yrs required (over ceiling); city-specific locations
+Workyard,ats-search,,2026-08-07,N,Construction workforce mgmt SaaS; no AE role on Ashby board (only SAM + eng roles)
