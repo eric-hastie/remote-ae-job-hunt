@@ -253,7 +253,7 @@ AMAROK,repvue,93.70,2026-07-08,N,not B2B SaaS (physical perimeter security hardw
 Salesfinity,repvue,93.69,2026-08-03,N,ATS unresolved (not on GH/Ashby/Lever; likely small startup)
 Karbon,repvue,93.66,2026-07-02,Y,top-260 RepVue scan: open AE role
 Skip fka SkipTheDishes,repvue,93.64,2026-07-08,N,not B2B SaaS (consumer food delivery app)
-Element451,repvue,93.59,2026-08-03,Y,top-260 RepVue scan: open AE role
+Element451,repvue,93.59,2026-08-07,N,top-260 RepVue scan: open AE role; posting expired 2026-08-07
 SiriusXM,repvue,93.58,2026-07-08,N,not B2B SaaS (satellite radio/streaming media)
 Groundcover,repvue,93.57,2026-08-03,N,ATS unresolved (not on GH/Ashby/Lever)
 Connecteam,repvue,93.56,2026-07-20,N,AE posting dead (GH ID 5590684004 gone); only SMB AEs remain; no qualifying MM/Ent AE
@@ -1189,7 +1189,7 @@ Main Street Hub,repvue,84.42,2026-07-25,N,acquired by GoDaddy 2018; brand retire
 Stryker,repvue,84.42,2026-07-25,N,not B2B SaaS (medical devices hardware)
 Carta,repvue,84.42,2026-07-25,N,only SMB/Emerging Firm AE on Greenhouse; not MM/Ent segment
 Sunbit,repvue,84.83,2026-07-24,N,ATS unresolved; BNPL for service industries
-OnBoard,repvue,84.83,2026-07-02,Y,RepVue scan: open AE role
+OnBoard,repvue,84.83,2026-08-07,N,RepVue scan: open AE role; posting expired 2026-08-07
 Fairwinds,repvue,84.82,2026-07-24,N,ATS unresolved; Kubernetes security SaaS
 Manta,repvue,84.82,2026-07-24,N,ATS unresolved; data catalog/lineage SaaS
 Canto,repvue,84.82,2026-07-24,Y,MM AE Remote; GH job-boards.greenhouse.io/canto/jobs/5285728008; published 2026-07-02
@@ -3019,7 +3019,7 @@ Sonatype,ats-search,,2026-08-05,Y,"has open qualifying role: AE (Inside Sales) F
 DeleteMe,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Live Lever board (api.lever.co/v0/postings/deleteme) confirmed via full JSON pull: 6 open roles, none titled Account Executive. Only sales-adjacent ro"
 Futurex,ats-search,,2026-08-06,N,"Original lead posting (job ID B88B4258D9) is no longer live on Futurex's Workable board; only live AE-type posting is ""S"
 Nitrogen,repvue,,2026-08-05,N,no AE on Workable nitrogenwealth (only Sr PM + AI Eng)
-LogicMonitor,repvue,,2026-08-05,Y,"has open qualifying role: AE Catchpoint (Dallas + Houston remote), Greenhouse"
+LogicMonitor,repvue,,2026-08-07,N,"has open qualifying role: AE Catchpoint (Dallas + Houston remote), Greenhouse; posting expired 2026-08-07"
 Altrata,repvue,,2026-08-06,N,ATS unresolved - no board found on Greenhouse/Ashby/Lever after multiple attempts
 AbsenceSoft,repvue,,2026-08-05,Y,AE posting confirmed live
 Sayari Labs,repvue,,2026-08-06,Y,"Greenhouse: Strategic AE (4232181009) + Strategic AE FinSvcs (4304527009), Remote"
@@ -4735,3 +4735,4 @@ Certa,claude,,2026-08-07,N,"AE posting dead (Ashby ID expired), no replacement A
 SFG20,ats-search,,2026-08-07,N,UK-only AE (Manchester); no US-remote role; industrial maintenance standards SaaS
 Affinitiv,ats-search,,2026-08-07,N,Greenhouse board (affinitiv): no AE role; automotive marketing SaaS; Account Coordinator/District Sales Mgr only
 Avidbots,ats-search,,2026-08-07,N,"Physical AI autonomous floor-cleaning robots; ATS unresolved (Ashby 404, careers page JS-only); roles found are expansion AM in Dallas/Charlotte not US-remote"
+GTP Software,ats-search,,2026-08-07,Y,MM AE Remote on Rippling board; in latest.csv; added to universe 2026-08-07
