@@ -123,7 +123,7 @@ Workiva,claude,87,2026-07-22,N,posting R11596-1 dead 2026-07-22 (Workday returns
 Wrike,claude,78,2026-07-23,N,no IC AE on Greenhouse (ADM/AI roles only) 2026-07-23
 Writer,claude,82,2026-07-31,N,has open qualifying role
 Zscaler,claude,84,2026-07-31,N,MM AE open; in latest.csv (added 2026-07-13)
-Amplitude,claude,79,2026-08-03,Y,Strategic AE (Ent) remote-NE US; product analytics
+Amplitude,claude,79,2026-08-10,N,posting dead (8593702002); all replacement candidates non-US (India/UK/Saudi Arabia)
 Postman,claude,75,2026-07-02,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
 Mixpanel,claude,77,2026-07-23,N,only London hybrid AE; no US-remote MM AE 2026-07-23
 CockroachDB,claude,,2026-08-03,N,"recheck-B 2026-08-03: Greenhouse board (26 live postings) has exactly one Account Executive role and it is Remote, Singapore - no US-remote or six-city AE opening currently"
@@ -274,7 +274,7 @@ Strider Technologies,repvue,93.24,2026-08-03,N,no AE role open (GH: only enginee
 Censys,repvue,93.23,2026-08-03,N,AE Japan only; no US role
 InsideSales,repvue,93.21,2026-07-08,N,acquired by Aurea Software 2021; no longer independent
 eMoney Advisor,repvue,93.16,2026-08-03,N,"recheck-B 2026-08-03: Jobvite careers board explicitly states zero open positions company-wide at this time - nothing to qualify, regardless of the old experience-floor rej"
-Tremendous,repvue,93.16,2026-07-02,Y,top-260 RepVue scan: open AE role
+Tremendous,repvue,93.16,2026-08-10,N,posting dead (4aee93f6); no qualifying replacement candidates found on board
 Cycode,repvue,93.04,2026-07-08,N,acquired by Check Point Software 2024
 Pipedrive,repvue,93.04,2026-08-03,N,no US roles (only EU office locations on Lever)
 Brellium,repvue,92.99,2026-08-06,N,posting dead; no AE roles on board
@@ -4768,3 +4768,22 @@ Bloom Energy,ats-search,,2026-08-09,N,Hardware/fuel cell energy company; not B2B
 Optimal AI,ats-search,,2026-08-10,Y,Founding AE US-remote on Ashby (published 2026-05-29); B2B SaaS AI code review; added to latest.csv
 Modal,ats-search,,2026-08-10,N,Enterprise AE only; NYC in-office 5 days/week; 7-10+ yrs exp required; $300K OTE; not remote; disqualified
 Fyxer,ats-search,,2026-08-10,N,No AE on Ashby board; only customer support role; AI email/scheduling assistant; AE postings from search are stale
+CAIS,funding_news,,2026-08-10,N,"N, $170M Series D; no qualifying remote AE role found"
+TerraFirma,funding_news,,2026-08-10,N,"N, no qualifying AE role found"
+Walden Robotics,yc,,2026-08-10,N,"N, robotics hardware; no AE roles"
+State Affairs,funding_news,,2026-08-10,N,"N, no qualifying AE role found"
+Spectro Cloud,funding_news,,2026-08-10,N,"N, AE role requires 10-15 yrs exp (ceiling exceeded)"
+Arva Intelligence,yc,,2026-08-10,N,"N, early-stage AI; no AE roles found"
+The Prompting Company,yc,,2026-08-10,N,"N, on-site SF only; no remote AE"
+Naïve,funding_news,,2026-08-10,N,"N, $28.5M Series A; 8 employees; engineering/marketing roles only"
+Mentorcam,yc,,2026-08-10,N,"N, YC; B2C mentorship platform 9 employees; no AE roles"
+Prime Intellect,funding_news,,2026-08-10,N,"N, $130M Series A; Ashby board shows engineering only; no AE"
+Simile,funding_news,,2026-08-10,N,"N, $200M Series B; Strategic Account Director only (dir-level + on-site)"
+Omilia,funding_news,,2026-08-10,N,"N, $67M raise; director-level sales only (Director Premier Sales NAM)"
+Freehand,funding_news,,2026-08-10,N,"N, $75M Series B; no AE roles (GTM Architect + eng only)"
+Poetic,funding_news,,2026-08-10,N,"N, $50M Series A; no AE (Enterprise GTM only, on-site SF/NYC)"
+Delightree,funding_news,,2026-08-10,Y,"Y, $25M; AE MM Denver hybrid $200K+ OTE; ats.rippling.com/delightree/jobs/8de04f43"
+Trase,funding_news,,2026-08-10,Y,"Y, $107M Seed; Sr Enterprise + Healthcare AE remote; job-boards.greenhouse.io/trase"
+Probook,funding_news,,2026-08-10,Y,"Y, $40M Series A; Enterprise AE NYC $300K OTE; jobs.ashbyhq.com/probook/a54815d3"
+Runlayer,funding_news,,2026-08-10,Y,"Y, $30M Series A; AE Ent NYC/remote; jobs.ashbyhq.com/runlayer/63e79480"
+Nectar Social,funding_news,,2026-08-10,Y,"Y, $30M Series A; Ent + MM AE Palo Alto; jobs.ashbyhq.com/nectar-social"
