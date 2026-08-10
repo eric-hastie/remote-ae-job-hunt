@@ -10,7 +10,7 @@ Arcade,claude,79,2026-07-23,N,ATS unresolved
 Arctic Wolf,claude,85,2026-06-30,Y,has open qualifying role
 Arize AI,claude,87,2026-08-03,Y,has open qualifying role
 Articulate,claude,,2026-07-23,N,no roles on Lever articulate board
-Ashby,claude,91,2026-07-23,N,ATS unresolved; the ATS platform company itself
+Ashby,claude,91,2026-08-10,N,Ashby board: only EMEA French-speaking MM AE; no US AE; ATS platform company itself
 Augury,claude,84,2026-08-03,Y,GH job 8645562002; Enterprise AE US Remote; OTE $220K-$260K; verified 2026-07-31
 Beautiful.ai,claude,78,2026-07-23,N,ATS unresolved
 BILL,claude,81,2026-08-04,N,Greenhouse 404 - posting dead as of 2026-08-04
@@ -523,7 +523,7 @@ Ermetic,repvue,89.01,2026-07-09,N,re-check 2026-07-09: acquired by Tenable 2023 
 Thousandeyes,repvue,88.95,2026-08-05,N,re-check 2026-07-09: Cisco subsidiary; ATS under Cisco (no independent board)
 Machinio,repvue,88.94,2026-07-21,N,no AE / ATS unresolved after multiple attempts
 Orum,repvue,88.94,2026-07-21,N,no AE role on Ashby board (only engineering)
-Balto,repvue,88.93,2026-08-10,N,"Lever 404 (board gone); Rippling board active but no AE (only BDR, RevOps); rechecked 2026-08-10"
+Balto,repvue,88.93,2026-08-10,N,"Rippling board: no AE (only BDR, marketing, RevOps); re-confirmed 2026-08-10"
 Dyson,repvue,88.90,2026-07-21,N,not B2B SaaS (consumer hardware)
 Groove,repvue,88.89,2026-07-21,N,acquired by Clari 2023
 Schneider Electric,repvue,88.89,2026-07-21,N,not B2B SaaS (industrial/energy tech)
@@ -1403,7 +1403,7 @@ Ciena,repvue,83.79,2026-07-25,N,not pure B2B SaaS (networking equipment); re-che
 Genesys,repvue,83.78,2026-08-01,N,"Workday wd1: multiple active AE roles in search (JR108179 Sr MM, JR110755 Sr Commercial, etc.); all pages JS-only unreadable; territory-based; cannot confirm remote status"
 Sonic.net,repvue,83.78,2026-07-25,N,not B2B SaaS (ISP); re-checked 2026-07-25
 Zappi,repvue,83.78,2026-07-25,N,re-check 2026-07-25: ATS unresolved
-Zapier,repvue,83.77,2026-08-10,Y,MM AE found on Ashby (posting-api blind spot): Account Executive Mid Market US-remote https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672 posted ~2026-05-31; rechecked 2026-08-10
+Zapier,repvue,83.77,2026-08-10,N,posting d4576c10 expired 2026-08-10; no replacement AE on Ashby board
 Skyflow,repvue,83.77,2026-08-03,Y,re-check 2026-07-25: Enterprise AE Remote $280-330K OTE — added to latest.csv
 Splunk,repvue,83.76,2026-07-25,N,re-check 2026-07-25: acquired by Cisco; Greenhouse board 404
 Proof,repvue,83.76,2026-08-03,Y,re-check 2026-07-25: Strategic Enterprise AE Remote $250-350K — added to latest.csv
@@ -2624,14 +2624,14 @@ Restaurant365,ats-search,79,2026-07-07,Y,MM AE; Remote US; no listed OTE; restau
 Rithum,ats-search,71,2026-07-07,Y,MM Hunter AE; Remote Eastern/Central US; no listed OTE; eCommerce / retail media SaaS
 Akuity,ats-search,,2026-08-06,N,Greenhouse 4048997009 → 404; still no US AE (re-confirmed 2026-08-06)
 Chainalysis,ats-search,76,2026-08-03,Y,Enterprise AE (Crypto Native) US-remote confirmed via Ashby API (board: chainalysis-careers); Ent segment; OTE ~$300K-$350K; re-checked 2026-08-03
-Perplexity,ats-search,,2026-08-03,N,"no AE on Ashby perplexity board (16 jobs, all eng/PM/CS); re-checked 2026-08-03"
+Perplexity,ats-search,,2026-08-10,N,Ashby board confirmed no AE (marketing/AI research/CS only); re-confirmed 2026-08-10
 Blumira,ats-search,72,2026-08-03,N,no AE (empty Greenhouse blumira board); re-checked 2026-08-03
-Snappy,ats-search,,2026-08-07,N,"recheck-B 2026-08-03: Ashby board (api.ashbyhq.com/posting-api/job-board/snappy, fetched directly) shows only a Business Development Representative in sales, plus non-sales; NOTE: MM AE found in Ashby search (UUID d6672801) but excluded from posting-api feed — posting-api blind spot; needs manual verification"
+Snappy,ats-search,,2026-08-10,N,"Ashby board: no AE (only BDR, CS, engineering); MM AE posting d6672801 dead/removed 2026-08-10"
 Steer,ats-search,70,2026-08-03,N,SMB auto repair vertical; not qualifying segment
 Submittable,ats-search,79,2026-08-03,Y,recheck-B 2026-08-03: Enterprise Account Executive | Original rejection cited OTE '$140K-$190K' (the Mid-Market government-vertical variant) as a comp concern — th
 Effective AI,ats-search,,2026-08-03,N,SF/NYC hybrid only; not US-remote
 Sign In Solutions,ats-search,69,2026-08-03,N,"recheck-B 2026-08-03: Lever board (fully loaded) shows the only live Account Executive postings are St. Petersburg, FL (hybrid 3x/week) and Northampton, UK; the Denver, CO "
-Amper,ats-search,,2026-08-03,N,ATS unresolved (Ashby 404)
+Amper,ats-search,,2026-08-10,N,Ashby board 404 (board gone); ATS unresolved 2026-08-10
 AiPrise,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive - US | Originally rejected for 'segment/OTE unverified'. Now verified via the live Ashby posting: US-remote, IC AE ti"
 Rhombus,ats-search,,2026-08-03,Y,recheck-B 2026-08-03: Commercial Account Executive - Central (South Central/Texas) | Originally rejected for 'territorial SMB/MM; OTE unknown' - territorial coverage is not an exclusion criterion
 Prokeep,ats-search,68,2026-08-04,N,"MM/Ent AE, Remote US, $225-260K OTE; contractor-distributor comm SaaS; posting dead as of 2026-08-04"
@@ -2659,7 +2659,7 @@ Atrium Campus,ats-search,,2026-07-08,Y,AE US-remote (SE/Mid-Atl); campus managem
 Secureframe,ats-search,80,2026-08-04,N,no remote AE - all hybrid (DC/NY)
 Jamloop,ats-search,,2026-08-04,N,no qualifying US-remote IC AE; geo-territory Senior AE; SMB CTV ad platform
 Contentsquare,ats-search,76,2026-08-04,N,no US AE - all international roles
-AuditBoard,ats-search,,2026-08-04,N,Commercial AE posting likely closed (posted Jan 2026; Ashby board now 404)
+AuditBoard,ats-search,,2026-08-10,N,Ashby board 404 (board gone); search hit for 5752ed00 is stale; no qualifying AE 2026-08-10
 Vidmob,ats-search,71,2026-08-04,N,AE on-site only (New York NY)
 Olly Olly,ats-search,70,2026-08-04,N,not MM/Ent - SMB inside sales for small business digital marketing
 1bios,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Ashby posting-api board (api.ashbyhq.com/posting-api/job-board/1bios) returns an empty job list, and the specific ""Account Executive, Provider Growth"""
@@ -3440,7 +3440,7 @@ Rhombus Systems,repvue,79,2026-08-03,Y,recheck-B 2026-08-03: Commercial Account 
 ExtraHop,repvue,79,2026-08-07,N,GH extrahopnetworks; no IC AE; RSM titles only; network detection SaaS; checked 2026-08-07
 FORT Robotics,robotics,75,2026-08-03,Y,robotics AE (Remote (must reside in Southeast or Central US region))
 Robust.AI,robotics,,2026-07-16,Y,"robotics AE (San Carlos, CA (Bay Area, remote possible))"
-Encord,robotics,,2026-08-06,N,Account Manager Physical AI in NY but no IC AE; AE posting 8a88f55e confirmed dead (2026-08-06)
+Encord,robotics,,2026-08-10,N,AE posting 8a88f55e shows title at direct URL but not in board API; Account Manager Physical AI NY not IC AE; still no qualifying IC AE 2026-08-10
 Covariant,robotics,,2026-08-03,Y,"robotics AE (New York, NY (hybrid, in-office 2-3x/week))"
 Ouster,robotics,77,2026-08-03,Y,robotics AE (Remote (US))
 Cyngn,robotics,,2026-08-07,N,Lever board; only engineering/hardware/HR roles; no AE; autonomous vehicle tech; checked 2026-08-07
@@ -4546,7 +4546,7 @@ Ecotrak,ats-search,,2026-07-21,N,no AE postings on Rippling board (facility main
 RSA Security,ats-search,75,2026-07-21,N,no AE postings on Rippling board (cybersecurity)
 Replit,ats-search,,2026-07-21,N,no AE postings on Ashby board (dev tools/AI coding)
 Integrate,ats-search,73,2026-07-21,N,Commercial AE Seattle on-site only; not qualifying location (project mgmt for defense)
-Bifrost AI,ats-search,,2026-08-06,N,No sales roles on Ashby; Singapore-only engineering (re-confirmed 2026-08-06)
+Bifrost AI,ats-search,,2026-08-10,N,confirmed no AE on Ashby (bifrost slug); only Singapore engineering/internship roles 2026-08-10
 Harmattan AI,ats-search,,2026-08-03,N,only France Business Developer Defense role; no US AE posting (re-confirmed 2026-08-03)
 Happyrobot,ats-search,,2026-07-21,N,Enterprise AE postings are Argentina and France only; no US-eligible role
 Cyvl,ats-search,,2026-08-03,Y,"Physical AI (LiDAR 3D mapping, transportation infra); Boston AE ($160-200K), Boston/Austin Sr AE ($250-350K), NYC Sr AE; on-site hub roles"
@@ -4594,7 +4594,7 @@ Lakeside Software,ats-search,69,2026-08-03,N,"recheck-B 2026-08-03 UNRESOLVED: A
 Rally,ats-search,,2026-07-25,N,UX research platform (rallyuxr); Ashby board empty; no open roles
 Agency Cybersecurity,ats-search,,2026-08-03,N,recheck-B 2026-08-03: Current YC/Work at a Startup jobs page for Agency shows exactly one open role: Sales Development Representative/BDR ($65-150K listed range not confirm
 Oden Technologies,ats-search,,2026-08-03,Y,Ent AE Remote (NYC/Boston); Physical AI manufacturing AI; OTE $200-300K; Ashby c52a05db
-Bifrost,ats-search,,2026-07-26,N,AE posting appears removed; Ashby board shows engineering/Singapore-only positions
+Bifrost,ats-search,,2026-08-10,N,confirmed no AE on Ashby (bifrost slug); only Singapore engineering/internship roles 2026-08-10
 Orchard Robotics,ats-search,,2026-07-26,N,Enterprise AE but PNW (WA/OR) location only; not qualifying US location
 Katana,ats-search,,2026-07-26,N,Senior AE but Canada (Toronto) only; no US-remote posting found
 AirOps,ats-search,,2026-08-05,N,Ent AE posting dead (Ashby 3b50c2d4); no replacement found on board
@@ -4765,3 +4765,6 @@ Reforge,ats-search,,2026-08-09,N,SMB AE only (not MM/Ent); professional learning
 NCC Group,ats-search,,2026-08-09,N,Cybersecurity services firm (not B2B SaaS product); UK-based
 Cengage,ats-search,,2026-08-09,N,EdTech/education publisher (digital learning); not traditional B2B SaaS
 Bloom Energy,ats-search,,2026-08-09,N,Hardware/fuel cell energy company; not B2B SaaS
+Optimal AI,ats-search,,2026-08-10,Y,Founding AE US-remote on Ashby (published 2026-05-29); B2B SaaS AI code review; added to latest.csv
+Modal,ats-search,,2026-08-10,N,Enterprise AE only; NYC in-office 5 days/week; 7-10+ yrs exp required; $300K OTE; not remote; disqualified
+Fyxer,ats-search,,2026-08-10,N,No AE on Ashby board; only customer support role; AI email/scheduling assistant; AE postings from search are stale
