@@ -2774,7 +2774,7 @@ GoFundMe,ats-search,,2026-07-12,Y,same entity as Classy.org (GoFundMe Pro); nonp
 SOCi,ats-search,77,2026-08-03,Y,AI marketing/MarTech SaaS; Enterprise AE US-remote; b2b multi-location brands
 Anomali,ats-search,75,2026-08-03,N,"recheck-C 2026-08-03 CLOSED: Lever board (jobs.lever.co/anomali, confirmed as their real board via anomali.com/company/careers) now shows only 3 postings - Director Global Sales D"
 Enterpret,ats-search,,2026-08-05,Y,Customer feedback analytics SaaS; Commercial AE posting is NYC hybrid not remote
-Smile Digital Health,ats-search,,2026-08-05,Y,FHIR-based healthcare data platform; no AE posting active; corrected to Y (live in latest.csv 2026-08-05); re-checked 2026-08-05
+Smile Digital Health,ats-search,,2026-08-11,N,"posting 37182dcc expired, no AE replacement on board 2026-08-11"
 Newform,ats-search,,2026-08-05,N,"Founding AE at NYC creative-intelligence ad-tech services co; in-office 3/5 days, not remote; not pure B2B SaaS"
 Curvion Blue,ats-search,,2026-07-13,N,Revenue execution / sales services firm (not B2B SaaS product); AE role is for their own services team
 BlackBox Strategies,ats-search,,2026-07-13,N,"GTM consulting/services agency; AE role is window-treatment/consumer sales, not B2B SaaS"
@@ -3622,7 +3622,7 @@ Botpress,repvue,78,2026-08-08,N,GH board found (botpress); 0 jobs open; conversa
 Q4,repvue,78,2026-08-08,N,GH board found (q4-inc); 0 jobs open; investor relations SaaS
 OpenEye,repvue,78,2026-08-09,N,not B2B SaaS (DNA analysis hardware/software)
 Assurance IQ,repvue,78,2026-08-09,N,not B2B SaaS (insurance marketplace / Prudential subsidiary)
-Model N,repvue,78,2026-08-03,Y,Global AE Life Sciences; Remote US; Ent segment; expansion/named-acct focus
+Model N,repvue,78,2026-08-11,N,"posting 202579d6 now Global Account Manager role, not AE; dropped 2026-08-11"
 ViB,repvue,78,2026-08-09,N,not B2B SaaS (B2B demand gen media)
 Thomson Reuters,repvue,78,2026-08-09,N,not B2B SaaS (large media/information corporation)
 Alteryx,repvue,78,2026-08-08,N,GH board found (alteryx); 0 jobs open; data analytics SaaS (PE-acquired)
@@ -3947,3 +3947,53 @@ Blue Bite,repvue,,2026-08-11,N,NFC/IoT marketing SaaS; ATS unresolved; no AE fou
 Linq App,repvue,,2026-08-11,N,education SaaS; ATS unresolved; no AE found
 Gloat,repvue,,2026-08-11,N,talent marketplace SaaS; ATS unresolved; no AE found
 Blend,repvue,,2026-08-11,N,"mortgage/banking SaaS; Lever not accessible; Strategic AE only (Enterprise, NY/SF)"
+SPINS,repvue,,2026-08-11,Y,AE - Renewals role on Greenhouse (job 7989005); already in latest.csv as SPINS/MikMak
+Pandora,repvue,,2026-08-11,N,B2C music streaming; not B2B SaaS
+Particular Audience,repvue,,2026-08-11,N,Australian retail AI company; no US AE
+BrowserStack,repvue,,2026-08-11,N,"uses Workday; AE roles only in India/Hyderabad/UK, no US AE"
+Plauti,repvue,,2026-08-11,N,Dutch Salesforce data quality company; no US AE
+"RQI Partners, LLC",repvue,,2026-08-11,N,CPR/emergency training nonprofit; not B2B SaaS
+Avochato,repvue,,2026-08-11,N,AE role targets SMB (25-250 employees); not MM segment
+Edward Jones,repvue,,2026-08-11,N,financial advisory firm; not B2B SaaS
+Rand Worldwide,repvue,,2026-08-11,N,CAD/simulation software reseller/services; not B2B SaaS
+Decisions,repvue,,2026-08-11,N,process automation SaaS; ATS unresolved after Greenhouse/Lever/search
+Agility Recovery,repvue,,2026-08-11,N,"disaster recovery SaaS; careers page 403, ATS unresolved"
+Extreme Networks,repvue,,2026-08-11,N,networking hardware+cloud; not primarily B2B SaaS
+Frends,repvue,,2026-08-11,N,Finnish iPaaS company; no US AE
+GoComet,repvue,,2026-08-11,N,Indian supply chain SaaS; no US AE
+Causeway Technologies,repvue,,2026-08-11,N,UK construction tech; no US AE
+MURAL,repvue,,2026-08-11,N,visual collaboration SaaS; no AE on Ashby board currently
+Denim,repvue,,2026-08-11,N,"freight factoring fintech; Ashby 404, ATS unresolved"
+Compliancy Group,repvue,,2026-08-11,Y,compliance SaaS; qualifying AE role already in latest.csv
+Vasion,repvue,,2026-08-11,N,"document management SaaS; AE roles only APAC and UK, no US AE"
+OSF Digital,repvue,,2026-08-11,N,digital consulting/services company; not a SaaS product
+Housecall Pro,repvue,,2026-08-11,N,"field service management SaaS; AE roles target SMB home service pros, not MM"
+Karl Storz,repvue,,2026-08-11,N,medical devices hardware; not B2B SaaS
+Temenos,repvue,,2026-08-11,N,Swiss core banking software; no US remote AE
+LivaNova,repvue,,2026-08-11,N,medical devices (pacemakers/heart-lung); not B2B SaaS
+Shamrock Trading Corporation,repvue,,2026-08-11,N,transportation finance/factoring; not B2B SaaS
+Knak,repvue,,2026-08-11,N,"email builder SaaS; Greenhouse board has only Ottawa/Canada roles, no US AE"
+ArcBest,repvue,,2026-08-11,N,freight/logistics carrier; not B2B SaaS
+Shaw Business,repvue,,2026-08-11,N,Canadian telecom/cable; not B2B SaaS
+Wandz.ai,repvue,,2026-08-11,N,"Israeli e-commerce AI (Namogoo); ATS unresolved, no US AE found"
+Spark Hire,repvue,,2026-08-11,N,"video interviewing SaaS; ATS unresolved, careers page inaccessible"
+Logitech,repvue,,2026-08-11,N,hardware peripherals; not B2B SaaS
+GrammaTech,repvue,,2026-08-11,N,"software security analysis; uses ADP, no AE found"
+Zimmer Biomet,repvue,,2026-08-11,N,orthopedic medical implants; not B2B SaaS
+"CoStar Group, Inc.",repvue,,2026-08-11,N,commercial real estate data SaaS; ATS unresolved (Greenhouse/Lever 404)
+"AdRoll ABM, a brand of NextRoll",repvue,,2026-08-11,N,"advertising SaaS; only pipeline/future-opportunity posting on Greenhouse, no active AE req"
+Zycus,repvue,,2026-08-11,N,Indian procurement SaaS; no US AE found via search
+Reputation.com,repvue,,2026-08-11,N,"online reputation SaaS; careers page 404, ATS unresolved"
+Aruza Marketing,repvue,,2026-08-11,N,marketing services company; not a SaaS product
+Mollie,repvue,,2026-08-11,N,"Dutch payments platform; European focus, no US AE"
+Comdata,repvue,,2026-08-11,N,"fleet payment technology; not primarily B2B SaaS, ATS unresolved"
+ServPro,repvue,,2026-08-11,N,cleaning/restoration franchise; not B2B SaaS
+Clinisys,repvue,,2026-08-11,N,clinical lab informatics software; no AE title visible on careers page
+BENlabs,repvue,,2026-08-11,N,"AI creator marketing SaaS; Lever 403, ATS unresolved"
+Bosch,repvue,,2026-08-11,N,industrial/automotive hardware; not B2B SaaS
+Bambee,repvue,,2026-08-11,N,"HR SaaS; Lever board has only SDR/HR Sales Advisor, no AE role"
+onPhase,repvue,,2026-08-11,N,"document management SaaS (DocuPhase); Greenhouse 404, ATS unresolved"
+Clyde,repvue,,2026-08-11,N,"product protection SaaS; Ashby 404, ATS unresolved"
+Myriad Genetics,repvue,,2026-08-11,N,genetic testing diagnostics; not B2B SaaS
+Enhesa,repvue,,2026-08-11,N,"EHS compliance SaaS; Lever 404, ATS unresolved"
+Design Collective by Cintas,repvue,,2026-08-11,N,workwear/uniform program (Cintas); not B2B SaaS
