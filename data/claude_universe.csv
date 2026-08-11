@@ -2419,7 +2419,7 @@ Sunbelt Staffing,repvue,80,2026-07-06,N,not B2B SaaS (healthcare staffing agency
 BigHand,repvue,80,2026-08-02,N,ATS unresolved (UK-based legal workflow SaaS; not found on major US boards)
 Sage,repvue,80,2026-08-02,N,ATS unresolved (large public UK company; likely Workday)
 Sendbird,repvue,80,2026-08-04,N,Enterprise Account Executive Ent remote US East Coast $260K-$300K OTE (messaging/chat API SaaS); posting dead as of 2026-08-04
-Logz.io,repvue,80,2026-08-02,Y,AE role on Lever (logz board); Boston hybrid (3 days onsite); added to latest.csv 2026-07-16
+Logz.io,repvue,80,2026-08-11,N,AE posting dead 2026-08-11; only open role is Tel Aviv (not US-remote); dropped from latest.csv
 Dotdigital,repvue,80,2026-08-02,N,ATS unresolved (UK-based marketing automation; not found on major US boards)
 BTL Industries,repvue,80,2026-07-06,N,not B2B SaaS (medical body-contouring devices)
 Veoci,repvue,80,2026-08-02,N,ATS unresolved (small emergency management SaaS)
@@ -2710,7 +2710,7 @@ JumpCloud,ats-search,79,2026-08-04,N,no US-remote commercial AE posting found
 Cyderes,ats-search,70,2026-07-10,N,MSSP managed services; not B2B SaaS
 Outreach,ats-search,,2026-07-10,Y,Commercial AE; US-remote; MM; sales engagement SaaS
 WorkWave,ats-search,77,2026-08-05,N,Enterprise AE; US-remote; OTE $190-250K; field service SaaS; posting expired 2026-08-05
-Bluesight,ats-search,,2026-08-03,Y,Senior AE; US-remote; OTE $200-220K+; healthcare SaaS
+Bluesight,ats-search,,2026-08-11,N,AE posting dead 2026-08-11; no qualifying replacement found; dropped from latest.csv
 BriteCore,ats-search,,2026-08-03,Y,Enterprise AE; US-remote; P&C insurance SaaS
 Roebling,ats-search,,2026-08-06,N,Ashby board still 404; ATS unresolved 2026-08-06
 9fin,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE NYC, Ashby, $150-175K base, pub 2025-09-29)"
@@ -3902,7 +3902,7 @@ Trulioo,repvue,,2026-08-11,Y,identity verification SaaS; AE role verified live i
 Omnissa,repvue,,2026-08-11,Y,digital workspace SaaS; AE role verified live in latest.csv
 Intermedia,repvue,,2026-08-11,Y,UCaaS/cloud comms; AE role verified live in latest.csv
 Vultr,repvue,,2026-08-11,Y,cloud infrastructure; AE role verified live in latest.csv
-Nanonets,repvue,,2026-08-11,Y,AI document automation SaaS; AE role verified live in latest.csv
+Nanonets,repvue,,2026-08-11,N,MM AE posting dead 2026-08-11; only replacement is Ent AE in Palo Alto (non-qualifying city); dropped from latest.csv
 Applause,repvue,,2026-08-11,Y,crowdtesting SaaS; MM AE remote; already in latest.csv
 SPINS / MikMak,repvue,,2026-08-11,Y,retail analytics/commerce SaaS; AE Renewals remote $135K OTE; already in latest.csv
 Wayvia,repvue,,2026-08-11,Y,commerce data SaaS (fka PriceSpider); AE remote; already in latest.csv
@@ -3997,3 +3997,53 @@ Clyde,repvue,,2026-08-11,N,"product protection SaaS; Ashby 404, ATS unresolved"
 Myriad Genetics,repvue,,2026-08-11,N,genetic testing diagnostics; not B2B SaaS
 Enhesa,repvue,,2026-08-11,N,"EHS compliance SaaS; Lever 404, ATS unresolved"
 Design Collective by Cintas,repvue,,2026-08-11,N,workwear/uniform program (Cintas); not B2B SaaS
+Betterment,repvue,,2026-08-11,N,fintech/robo-advisor; Greenhouse board exists but no AE role open
+Safe Haven Security Services,repvue,,2026-08-11,N,home security (B2C/dealer network); not B2B SaaS
+Knowde,repvue,,2026-08-11,N,chemical marketplace SaaS; AE posting found Nov 2025 but Greenhouse board/job 404 (expired)
+Rapid Finance,repvue,,2026-08-11,N,business lending/fintech; not B2B SaaS
+Clearlink,repvue,,2026-08-11,N,marketing services agency; not B2B SaaS product
+Pagefreezer,repvue,,2026-08-11,N,web archiving SaaS; AE role is SMB in Vancouver BC (not US-remote)
+IANS,repvue,,2026-08-11,N,IT security research/advisory subscription; not B2B SaaS AE role
+EVO Payments,repvue,,2026-08-11,N,payment processing; not B2B SaaS
+Altair,repvue,,2026-08-11,N,engineering simulation/HPC software; Greenhouse 404 ATS unresolved; not typical MM SaaS AE role
+GlobalTranz,repvue,,2026-08-11,N,freight brokerage/logistics; not B2B SaaS
+Black Kite,repvue,,2026-08-11,N,third-party cyber risk SaaS; ATS unresolved (no board found on Ashby/GH/Lever/search)
+Beeline,repvue,,2026-08-11,N,workforce VMS SaaS; ATS unresolved (no board found)
+BrightEdge,repvue,,2026-08-11,Y,SEO/content marketing SaaS; AE role verified live in latest.csv
+Clumio,repvue,,2026-08-11,N,cloud backup SaaS; ATS unresolved (no board found)
+Wood Mackenzie,repvue,,2026-08-11,N,energy data analytics/research; ATS unresolved; more research/consulting than SaaS AE
+Exact Sciences,repvue,,2026-08-11,N,genomics/cancer diagnostics; not B2B SaaS
+Bringg,repvue,,2026-08-11,N,delivery management SaaS; Greenhouse board but no AE postings (Israel-only engineering roles)
+Republic National Distributing Company,repvue,,2026-08-11,N,beverage distribution; not B2B SaaS
+Reyes Coca-Cola Bottling,repvue,,2026-08-11,N,beverage distribution; not B2B SaaS
+QuidelOrtho,repvue,,2026-08-11,N,diagnostics equipment; not B2B SaaS
+Fenergo,repvue,,2026-08-11,N,financial services CLM SaaS; ATS unresolved; Dublin-based (likely EMEA-only AE roles)
+Strategic Financial Solutions,repvue,,2026-08-11,N,debt relief services; not B2B SaaS
+Artlist,repvue,,2026-08-11,N,music/video licensing SaaS; AE role is Tel Aviv hybrid only (not US)
+Sora.co,repvue,,2026-08-11,N,ATS unresolved (no board found on standard platforms)
+Ibotta,repvue,,2026-08-11,N,consumer rebates app; not B2B SaaS
+Advertise Purple,repvue,,2026-08-11,N,affiliate marketing agency; not B2B SaaS product
+Matillion,repvue,,2026-08-11,Y,data integration/ETL SaaS; AE role verified live in latest.csv
+Operatix,repvue,,2026-08-11,N,outsourced SDR/sales agency; not B2B SaaS product
+Synerfac Technical Staffing,repvue,,2026-08-11,N,technical staffing; not B2B SaaS
+Syncfusion,repvue,,2026-08-11,N,developer UI components SaaS; Greenhouse 404 ATS unresolved; SMB-focused sales model
+Rectangle Health,repvue,,2026-08-11,N,healthcare payment SaaS; only AE is SMB in St. Petersburg FL (not qualifying)
+Parabola,repvue,,2026-08-11,Y,data automation/workflow SaaS; ENT AE hiring NYC+SF hybrid 3-4 days/week; $260-300K OTE
+ContactOut,repvue,,2026-08-11,N,contact data/sales intelligence SaaS; ATS unresolved (Ashby 404 search no results)
+Circa,repvue,,2026-08-11,N,OFCCP/diversity recruiting SaaS; ATS unresolved (no qualifying board found)
+Avantor,repvue,,2026-08-11,N,lab supplies/distribution; not B2B SaaS
+Storyblok,repvue,,2026-08-11,N,headless CMS SaaS; Greenhouse board but no AE postings open
+Oracle,repvue,,2026-08-11,N,large enterprise ERP/cloud; AE roles require 10+ yrs (senior-only); exceeds experience ceiling
+Red Canary,repvue,,2026-08-11,N,MDR SaaS; acquired by Zscaler 2022; standalone AE board gone; roles now under Zscaler/ZscalerRedCanary boards
+Lumenis,repvue,,2026-08-11,N,medical laser devices; not B2B SaaS
+ZocDoc,repvue,,2026-08-11,N,healthcare marketplace; Greenhouse board has Account Directors only (no IC AE)
+Nextworld,repvue,,2026-08-11,N,ERP SaaS; Lever 404 ATS unresolved
+Poka,repvue,,2026-08-11,N,manufacturing connected worker SaaS; same as Poka Labs (checked 2026-08-07 as N)
+ThinScale Technology,repvue,,2026-08-11,N,endpoint security SaaS; ATS unresolved (Ashby 404 search no results)
+Logical Position,repvue,,2026-08-11,N,digital marketing agency; not B2B SaaS product
+Pearl,repvue,,2026-08-11,N,dental AI SaaS; Ashby board confirmed but no AE postings open
+Rock Solid Technologies,repvue,,2026-08-11,N,IT services/MSP; not B2B SaaS product
+GTT,repvue,,2026-08-11,N,telecom/managed networking services; not B2B SaaS
+Fresh Relevance,repvue,,2026-08-11,N,personalization SaaS; Lever 404 ATS unresolved
+Codility,repvue,,2026-08-11,N,developer assessment SaaS; Greenhouse/Lever 404 ATS unresolved
+Ethos Systems,repvue,,2026-08-11,N,enterprise training SaaS (LearnToWin); Greenhouse 404 ATS unresolved; $30M Series A
