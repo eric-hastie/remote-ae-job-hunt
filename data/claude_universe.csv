@@ -3847,3 +3847,53 @@ WATI.io,ats-search,,2026-08-10,N,Workable API: no AE postings (empty board)
 Bifrost AI,ats-search,,2026-08-10,N,Ashby board: no AE roles (only tech/strategy); Physical AI synthetic data but no AE hiring
 SmartAsset,ats-search,,2026-08-10,Y,"MM AE Remote US, $130K OTE; B2B SaaS financial advisor marketing platform AMP; GH 8691974002"
 1848 Ventures,ats-search,,2026-08-10,N,"VC firm, not a direct company target; GH postings are for portcos"
+InterSystems,repvue,,2026-08-11,Y,"Enterprise AE Health Plans, Boston MA; GH job 7723402003; $145-170K base"
+Coralogix,repvue,,2026-08-11,Y,Enterprise AE Boston MA; OTE $280-320K; Comeet ATS; 5+ yrs req
+Sonrai Security,repvue,,2026-08-11,Y,MM/Ent cloud security AE; remote; already in latest.csv
+Squiz,repvue,,2026-08-11,Y,MM/Ent digital experience platform AE; remote; already in latest.csv
+Relay Payments,repvue,,2026-08-11,Y,Ent fleet payments AE; remote; already in latest.csv
+PatientPop (now Tebra),repvue,,2026-08-11,Y,SMB healthcare AE; remote; already in latest.csv
+PerformYard,repvue,,2026-08-11,Y,SMB/MM performance management AE; remote; already in latest.csv
+Atmosphere,repvue,,2026-08-11,Y,MM streaming TV for business AE; remote; already in latest.csv
+Dusty Robotics,repvue,,2026-08-11,Y,MM Physical AI construction robotics AE; remote; already in latest.csv
+Dustin,repvue,,2026-08-11,N,"IT product distributor (Nordic), not B2B SaaS"
+Stack Sports,repvue,,2026-08-11,N,"ATS unresolved (Paylocity JS-only, can't verify remotely)"
+OrderMyGear,repvue,,2026-08-11,N,AE role SMB segment only (MergeCo Rippling board); not MM/Ent
+MSP360,repvue,,2026-08-11,N,ATS unresolved (Ashby/Lever/GH all 404)
+Globalization Partners,repvue,,2026-08-11,N,no AE roles posted; GH board has BDR only
+Boostly,repvue,,2026-08-11,N,no AE roles; Ashby board has CSM only
+Chaos Cylindo,repvue,,2026-08-11,N,AE roles UK only (London Hybrid/Remote); no US AE
+Deputy,repvue,,2026-08-11,N,no AE roles; Lever board has Account Manager (Sydney) only
+Glovo,repvue,,2026-08-11,N,"B2C food delivery app, not B2B SaaS"
+Southwest Airlines,repvue,,2026-08-11,N,"airline, not B2B SaaS"
+Midaxo,repvue,,2026-08-11,N,no AE roles; website shows Account Manager Americas only
+Pequity,repvue,,2026-08-11,N,ATS unresolved (Ashby/GH/Lever all 404)
+Spendesk,repvue,,2026-08-11,N,Ashby board empty; European spend management company
+GroupBy,repvue,,2026-08-11,N,website unreachable (ESERVFAIL); possibly defunct/acquired
+Bounteous,repvue,,2026-08-11,N,"digital experience agency, not B2B SaaS product company"
+Peloton,repvue,,2026-08-11,N,"B2C fitness hardware/software, not B2B SaaS"
+Coalfire,repvue,,2026-08-11,N,cybersecurity advisory/services firm; AE roles are services-focused not SaaS
+Texas First Rentals,repvue,,2026-08-11,N,"equipment rental company, not B2B SaaS"
+Mouseflow,repvue,,2026-08-11,N,no US AE roles; only Scandinavia-focused AE posted
+First AML,repvue,,2026-08-11,N,ATS unresolved (Ashby/careers page both 404)
+Gryphon.Ai,repvue,,2026-08-11,N,careers page 404; no live AE posting found
+efficy,repvue,,2026-08-11,N,Belgian CRM company; no US AE roles
+PowerSchool,repvue,,2026-08-11,N,ATS unresolved (Ashby/GH/Lever all 404; Workday unknown)
+Vehlo,repvue,,2026-08-11,N,ATS unresolved (Ashby/GH/Lever/Workable all 404)
+GoDaddy,repvue,,2026-08-11,N,primarily consumer/SMB web hosting and domain registrar; not MM B2B SaaS
+Shogun,repvue,,2026-08-11,N,no current openings; careers page says 'check back for upcoming open roles'
+PEI,repvue,,2026-08-11,N,ATS unresolved; unclear company identity
+Vonage,repvue,,2026-08-11,N,acquired by Ericsson 2023; ATS unresolved (Lever 404)
+BMO,repvue,,2026-08-11,N,"Bank of Montreal; bank, not B2B SaaS"
+SourceScrub,repvue,,2026-08-11,N,GH board empty; no active jobs posted
+PeopleFluent,repvue,,2026-08-11,N,Workable board empty; no active AE jobs posted
+Forescout,repvue,,2026-08-11,N,ATS unresolved (not found on GH/Ashby/Lever boards)
+Actalent,repvue,,2026-08-11,N,"technical staffing/engineering services, not B2B SaaS"
+Tripleseat,repvue,,2026-08-11,N,no AE posted; HireBridge board shows talent pipeline only
+OrderProtection,repvue,,2026-08-11,N,ATS unresolved (GH/Ashby both 404)
+Happeo,repvue,,2026-08-11,N,ATS unresolved; Finnish internal comms company; no US AE found
+Backbase,repvue,,2026-08-11,N,ATS unresolved; Dutch banking engagement platform
+Bench Accounting,repvue,,2026-08-11,N,ATS unresolved (GH/Lever both 404)
+Devoteam,repvue,,2026-08-11,N,"IT consulting/digital services firm, not B2B SaaS product"
+Innovative Solutions,repvue,,2026-08-11,N,AWS managed services partner; services not SaaS product
+Keyfactor,repvue,,2026-08-11,N,GH board has Enterprise AE but formal title is Sales Director (manager); excludes IC AE
