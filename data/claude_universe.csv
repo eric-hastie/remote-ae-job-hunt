@@ -3897,3 +3897,53 @@ Bench Accounting,repvue,,2026-08-11,N,ATS unresolved (GH/Lever both 404)
 Devoteam,repvue,,2026-08-11,N,"IT consulting/digital services firm, not B2B SaaS product"
 Innovative Solutions,repvue,,2026-08-11,N,AWS managed services partner; services not SaaS product
 Keyfactor,repvue,,2026-08-11,N,GH board has Enterprise AE but formal title is Sales Director (manager); excludes IC AE
+Vertafore,repvue,,2026-08-11,Y,identity/insurance software SaaS; AE role verified live in latest.csv
+Trulioo,repvue,,2026-08-11,Y,identity verification SaaS; AE role verified live in latest.csv
+Omnissa,repvue,,2026-08-11,Y,digital workspace SaaS; AE role verified live in latest.csv
+Intermedia,repvue,,2026-08-11,Y,UCaaS/cloud comms; AE role verified live in latest.csv
+Vultr,repvue,,2026-08-11,Y,cloud infrastructure; AE role verified live in latest.csv
+Nanonets,repvue,,2026-08-11,Y,AI document automation SaaS; AE role verified live in latest.csv
+Applause,repvue,,2026-08-11,Y,crowdtesting SaaS; MM AE remote; already in latest.csv
+SPINS / MikMak,repvue,,2026-08-11,Y,retail analytics/commerce SaaS; AE Renewals remote $135K OTE; already in latest.csv
+Wayvia,repvue,,2026-08-11,Y,commerce data SaaS (fka PriceSpider); AE remote; already in latest.csv
+University of Phoenix,repvue,,2026-08-11,N,"consumer education provider, not B2B SaaS"
+ETRADE by Morgan Stanley,repvue,,2026-08-11,N,"financial broker, not B2B SaaS"
+United Rentals,repvue,,2026-08-11,N,"equipment rental, not B2B SaaS"
+Airgas,repvue,,2026-08-11,N,"industrial gases company, not B2B SaaS"
+Univar Solutions,repvue,,2026-08-11,N,"chemical distribution, not B2B SaaS"
+Uber,repvue,,2026-08-11,N,"consumer/marketplace platform, not B2B SaaS"
+Snap,repvue,,2026-08-11,N,"social media company, not B2B SaaS"
+Vaco,repvue,,2026-08-11,N,"staffing/consulting, not SaaS"
+Ingram Micro,repvue,,2026-08-11,N,"IT distribution, not B2B SaaS"
+TD Synnex,repvue,,2026-08-11,N,"IT distribution/reseller, not B2B SaaS"
+Cox Media,repvue,,2026-08-11,N,"media company, not B2B SaaS"
+Cox Automotive,repvue,,2026-08-11,N,automotive software/remarketing; mixed model not pure B2B SaaS
+ClearOne Advantage,repvue,,2026-08-11,N,"debt resolution service, not B2B SaaS"
+Restaurant Technologies,repvue,,2026-08-11,N,"FOG/oil management service company, not B2B SaaS"
+Precisely,repvue,,2026-08-11,N,ATS unresolved after 5 fetches; no AE on GH/Ashby/Lever/SmartRecruiters
+Yellowfin BI,repvue,,2026-08-11,N,ATS unresolved; no AE found on standard platforms
+Livestorm,repvue,,2026-08-11,N,AE roles are Europe-only (Recruitee API); no US-remote AE
+Abrigo,repvue,,2026-08-11,N,"on JobVite; AE roles in Raleigh NC, not US-remote"
+Monetate,repvue,,2026-08-11,N,ATS unresolved; no AE found on standard platforms
+DuploCloud,repvue,,2026-08-11,N,GH board embedded-only; no AE role found
+Clarifai,repvue,,2026-08-11,N,GH board (clarifai); no AE role currently posted
+Digital.ai,repvue,,2026-08-11,N,ATS unresolved; no AE found on standard platforms
+Auctane,repvue,,2026-08-11,N,GH board; API shows only engineering/ops roles; no AE
+Springbuk,repvue,,2026-08-11,N,health analytics SaaS; ATS unresolved; no AE found
+EveryoneSocial,repvue,,2026-08-11,N,employee advocacy SaaS; ATS unresolved; no AE found
+JWX,repvue,,2026-08-11,N,JW Player video SaaS; ATS unresolved; no AE found
+LoyaltyLion,repvue,,2026-08-11,N,UK e-commerce loyalty SaaS; Lever API not accessible; no US AE confirmed
+Planday,repvue,,2026-08-11,N,Danish workforce mgmt SaaS; ATS unresolved; no US AE found
+BoomCloud,repvue,,2026-08-11,N,dental membership plan SaaS; ATS unresolved; no AE found
+Dayshape,repvue,,2026-08-11,N,UK legal matter mgmt SaaS; ATS unresolved; no US AE
+Amboss,repvue,,2026-08-11,N,medical education SaaS; Ashby board; no AE role posted
+Network for Good,repvue,,2026-08-11,N,nonprofit CRM/fundraising SaaS; ATS unresolved; no AE found
+Alight,repvue,,2026-08-11,N,benefits admin software; ATS unresolved; no AE on standard platforms
+Technology Associates,repvue,,2026-08-11,N,ATS unresolved; company identity unclear; no AE found
+Mitel,repvue,,2026-08-11,N,business communications; ATS unresolved; not pure SaaS
+eBacon,repvue,,2026-08-11,N,payroll/HR SaaS; ATS unresolved; no AE found
+Stack Overflow,repvue,,2026-08-11,N,developer community; ATS unresolved; no AE on standard platforms
+Blue Bite,repvue,,2026-08-11,N,NFC/IoT marketing SaaS; ATS unresolved; no AE found
+Linq App,repvue,,2026-08-11,N,education SaaS; ATS unresolved; no AE found
+Gloat,repvue,,2026-08-11,N,talent marketplace SaaS; ATS unresolved; no AE found
+Blend,repvue,,2026-08-11,N,"mortgage/banking SaaS; Lever not accessible; Strategic AE only (Enterprise, NY/SF)"
