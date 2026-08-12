@@ -2197,7 +2197,7 @@ ACCESS Newswire,repvue,81,2026-08-02,N,ATS unresolved (GH/Lever 404; PR distribu
 Arango,repvue,81,2026-08-02,N,ATS unresolved (GH/Ashby/Lever 404; open-source database)
 Overhaul,repvue,81,2026-08-01,N,ATS unresolved (Ashby 404; 2026-08-01 recheck)
 Planview,repvue,81,2026-08-01,N,"ATS unresolved (GH 404, no standard board found; 2026-08-01 recheck)"
-Rokt,repvue,81,2026-08-03,Y,no AE (only Strategic Account Manager; 4-day in-office model)
+Rokt,repvue,81,2026-08-12,N,AE posting C05E420835 confirmed dead (not in Workable board); only BDM role active
 Pilot Company,repvue,,2026-07-05,N,not B2B SaaS (travel center/fuel network)
 Raptor Technologies,repvue,81,2026-08-01,N,ATS unresolved (GH slug 'raptor' 404; 2026-08-01 recheck)
 Interval International,repvue,81,2026-07-05,N,not B2B SaaS (vacation ownership exchange network)
@@ -2708,7 +2708,7 @@ Udacity,ats-search,70,2026-08-04,N,posting dead (GH 404)
 Novara,ats-search,,2026-08-04,N,SMB only; not MM/Ent segment
 JumpCloud,ats-search,79,2026-08-04,N,no US-remote commercial AE posting found
 Cyderes,ats-search,70,2026-07-10,N,MSSP managed services; not B2B SaaS
-Outreach,ats-search,,2026-07-10,Y,Commercial AE; US-remote; MM; sales engagement SaaS
+Outreach,ats-search,,2026-08-12,N,Commercial AE (MM Remote) dead; no qualifying US replacement found
 WorkWave,ats-search,77,2026-08-05,N,Enterprise AE; US-remote; OTE $190-250K; field service SaaS; posting expired 2026-08-05
 Bluesight,ats-search,,2026-08-11,N,AE posting dead 2026-08-11; no qualifying replacement found; dropped from latest.csv
 BriteCore,ats-search,,2026-08-03,Y,Enterprise AE; US-remote; P&C insurance SaaS
@@ -4248,3 +4248,4 @@ Touchbistro,repvue,,2026-08-12,N,ATS unresolved; Lever/Ashby 404
 Genius Sports,repvue,,2026-08-12,N,only NYC Senior AE in Sweepstakes niche; not remote
 Localyze,repvue,,2026-08-12,N,ATS unresolved; GH/Ashby 404
 Enboarder,repvue,,2026-08-12,N,no AE roles on GH board
+Zonar,repvue,76,2026-08-12,N,MM AE posting HTTP_DEAD (applytojob.com); no qualifying replacement
