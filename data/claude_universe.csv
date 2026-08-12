@@ -690,7 +690,7 @@ Triptease,repvue,87.67,2026-07-22,N,ATS unresolved / re-checked 2026-07-22 (Ashb
 Locus Robotics,repvue,87.66,2026-07-22,N,re-check 2026-07-22: GH board has Sales Manager/CSM only; no AE
 Ignition,repvue,87.66,2026-07-22,N,ATS unresolved / re-checked 2026-07-22
 Reltio,repvue,87.65,2026-07-22,N,re-check 2026-07-22: AE roles geo-restricted (Midwest/LATAM/Europe); no Remote US
-Shift Technology,repvue,87.65,2026-08-03,Y,top500 RepVue scan: open AE role
+Shift Technology,repvue,87.65,2026-08-12,N,posting 4766257003 gone from Greenhouse; no AE roles on board
 Yipitdata,repvue,87.65,2026-08-03,Y,top500 RepVue scan: open AE role
 Calix,repvue,87.64,2026-07-25,N,re-check 2026-07-25: no AE found on any standard ATS board
 Trane Technologies,repvue,87.64,2026-07-22,N,not B2B SaaS; HVAC/industrial manufacturer
@@ -739,7 +739,7 @@ Tandems,repvue,87.31,2026-07-22,N,ATS unresolved / re-checked 2026-07-22
 Unilever,repvue,87.28,2026-07-22,N,not B2B SaaS; consumer goods company
 Tractian,repvue,87.28,2026-07-22,N,re-check 2026-07-22: MM and Ent AE visible at careers.tractian.com (Austin/US cities) but custom ATS; no API URL available
 Notion,repvue,87.27,2026-07-22,N,re-check 2026-07-22: no AE roles on Ashby board
-Pricefx,repvue,87.22,2026-08-03,Y,top500 RepVue scan: open AE role
+Pricefx,repvue,87.22,2026-08-12,N,careers page says no open positions
 Hopper,repvue,87.22,2026-07-22,N,not B2B SaaS; consumer travel app
 A-LIGN,repvue,87.22,2026-08-03,Y,top500 RepVue scan: open AE role
 Western Digital,repvue,87.21,2026-07-22,N,not B2B SaaS; hardware manufacturer
@@ -4098,3 +4098,53 @@ Fastly,repvue,,2026-08-11,N,no AE on Greenhouse board; CDN/edge platform
 Leverage,repvue,,2026-08-11,N,LeverageEdu; India-based ed-tech; not B2B SaaS in scope
 ArcSite,repvue,,2026-08-11,Y,B2B SaaS (field sales/construction drawings); Remote AE on Workable (82EBC07752)
 Unmind,repvue,,2026-08-11,Y,"B2B SaaS (workplace mental health); Principal Ent AE, NYC hybrid (Ashby)"
+Refinitiv,repvue,,2026-08-12,N,LSEG subsidiary; too large/enterprise; ATS unresolved
+Potloc,repvue,,2026-08-12,N,Lever API: only 3 non-AE roles (ops/eng); no qualifying AE
+Gray Media,repvue,,2026-08-12,N,TV broadcasting; not B2B SaaS
+National Debt Relief,repvue,,2026-08-12,N,debt settlement; not B2B SaaS
+EasyKnock,repvue,,2026-08-12,N,real estate equity; not B2B SaaS
+Beacon,repvue,,2026-08-12,N,PE firm; no IC AE posting
+UniFirst Corporation,repvue,,2026-08-12,N,uniform services; not B2B SaaS
+Juvare,repvue,,2026-08-12,N,no AE on Greenhouse board; emergency mgmt software
+VAST Data,repvue,,2026-08-12,N,ATS unresolved; Jobgether aggregator only; no direct ATS URL
+Fifth Wheel Freight,repvue,,2026-08-12,N,freight/logistics marketplace; not B2B SaaS
+Andela,repvue,,2026-08-12,Y,Sr AE (Enterprise) on Ashby; remote North America; already in latest.csv
+Hologram,repvue,,2026-08-12,N,Greenhouse: only GTM Engineers; no IC AE role
+Tinuiti,repvue,,2026-08-12,N,performance marketing agency; not B2B SaaS
+Nearmap,repvue,,2026-08-12,N,ATS unresolved; no AE role found on standard boards
+Cars.com,repvue,,2026-08-12,N,automotive marketplace; not B2B SaaS
+Courier,repvue,,2026-08-12,N,ATS unresolved; no AE role found
+Baker Tilly US,repvue,,2026-08-12,N,accounting/consulting firm; not B2B SaaS
+NAVEX,repvue,,2026-08-12,N,custom ATS site; direct URL returned 404
+Applitools,repvue,,2026-08-12,N,ATS unresolved; no AE role found on standard boards
+CDW,repvue,,2026-08-12,N,IT reseller/VAR; not B2B SaaS product company
+Arcoro,repvue,,2026-08-12,N,custom OurCareerPages ATS; no direct API; no AE URL found
+Catalyst,repvue,,2026-08-12,N,Greenhouse board empty; no open roles
+Anthology inc,repvue,,2026-08-12,N,Workday ATS; no qualifying AE found
+DataCamp,repvue,77,2026-08-12,Y,Senior Enterprise AE on Greenhouse; NYC; already in latest.csv
+Alasco GmbH,repvue,,2026-08-12,N,Germany-based real estate fintech; not US scope
+DISQO,repvue,,2026-08-12,N,Greenhouse: only ADR/AM roles; no IC AE posting
+ThreatLocker,repvue,,2026-08-12,N,all roles in-office; no remote AE
+FritoLay,repvue,,2026-08-12,N,CPG/food company; not B2B SaaS
+Kaplan,repvue,,2026-08-12,N,education/test prep; not B2B SaaS
+Ware2Go,repvue,,2026-08-12,N,Google subsidiary; fulfillment logistics; ATS unresolved
+Sequoia,repvue,,2026-08-12,N,ATS unresolved; no qualifying AE found on standard boards
+Lacework,repvue,,2026-08-12,N,acquired by Fortinet June 2024; rebranded FortiCNAPP; disqualified
+ALKU,repvue,,2026-08-12,N,staffing firm; not B2B SaaS product company
+Unqork,repvue,,2026-08-12,N,Greenhouse: only CX/Customer Advocate roles; no IC AE posting
+Sunlight Financial,repvue,,2026-08-12,N,home improvement lending; not B2B SaaS
+Paytm,repvue,,2026-08-12,N,India payments; not US B2B SaaS scope
+American Heart Association,repvue,,2026-08-12,N,non-profit; not B2B SaaS
+Aptos Retail,repvue,,2026-08-12,N,Greenhouse slug aptos returned 404; no AE roles found
+SOCi inc,repvue,,2026-08-12,N,duplicate of SOCi (already in universe); same company
+Corpay,repvue,,2026-08-12,N,large payments/fleet cards; not B2B SaaS product
+Wex,repvue,,2026-08-12,N,fleet payments/benefits; not B2B SaaS product
+Olo,repvue,,2026-08-12,N,Lever API: no qualifying AE roles; only engineering
+Mothership,repvue,,2026-08-12,N,404 on Ashby and Lever; ATS unresolved
+Acquire.io,repvue,,2026-08-12,N,not found on standard ATS boards
+edX,repvue,,2026-08-12,N,online education (acquired by 2U); not B2B SaaS
+MINDBODY,repvue,,2026-08-12,N,Ashby 404; ATS unresolved
+Diversified,repvue,,2026-08-12,N,AV/technology integration services; not pure SaaS
+Splash,repvue,,2026-08-12,N,ATS unresolved; 404/403 on Ashby GH and Lever boards
+Broadcom Inc.,repvue,,2026-08-12,N,too large; enterprise hardware/software; not AE IC scope
+Anecdotes,repvue,77,2026-08-12,Y,AE on Comeet; Remote; already in latest.csv
