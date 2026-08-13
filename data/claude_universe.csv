@@ -251,7 +251,7 @@ MEDDICC,repvue,93.84,2026-08-03,N,sales methodology training company; not a B2B 
 SpotHero,repvue,93.73,2026-07-08,N,consumer parking marketplace; not B2B SaaS; re-checked 2026-07-08
 AMAROK,repvue,93.70,2026-07-08,N,not B2B SaaS (physical perimeter security hardware)
 Salesfinity,repvue,93.69,2026-08-03,N,ATS unresolved (not on GH/Ashby/Lever; likely small startup)
-Karbon,repvue,93.66,2026-07-02,Y,top-260 RepVue scan: open AE role
+Karbon,repvue,93.66,2026-08-13,N,AE posting 5794974004 expired; no replacement on Greenhouse board
 Skip fka SkipTheDishes,repvue,93.64,2026-07-08,N,not B2B SaaS (consumer food delivery app)
 Element451,repvue,93.59,2026-08-07,N,top-260 RepVue scan: open AE role; posting expired 2026-08-07
 SiriusXM,repvue,93.58,2026-07-08,N,not B2B SaaS (satellite radio/streaming media)
@@ -826,7 +826,7 @@ ACA Group,repvue,86.67,2026-07-22,N,ATS unresolved; Greenhouse/Lever/Ashby all 4
 Ambition,repvue,86.67,2026-07-22,N,ATS unresolved; Ashby/Lever all 404
 Join,repvue,86.66,2026-07-22,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
 LiveChat,repvue,86.64,2026-07-22,N,ATS unresolved; Ashby/Lever all 404
-FOSSA,repvue,86.64,2026-07-22,Y,added to latest.csv 2026-07-15: MM/Ent remote AE; Greenhouse fossainc board verified
+FOSSA,repvue,86.64,2026-08-13,N,AE posting 7802728003 expired; no replacement on Greenhouse board
 Flagstar Bank,repvue,86.62,2026-07-22,N,not B2B SaaS; commercial bank
 PDQ,repvue,86.62,2026-07-22,N,ATS unresolved; Greenhouse `pdq` = PDQ Doors (wrong company); Ashby/Lever 404
 CoreView,repvue,86.61,2026-07-22,N,ATS unresolved; Ashby/Lever all 404
@@ -4402,8 +4402,8 @@ Donnelley Financial Solutions (DFIN),repvue,,2026-08-13,Y,"already in latest.csv
 GoTo,repvue,,2026-08-13,Y,"already in latest.csv; cloud comms/IT management, remote commercial AE"
 Veracode,repvue,,2026-08-13,Y,"already in latest.csv; application security SaaS, Principal AE remote US"
 Quadient,repvue,,2026-08-13,Y,"already in latest.csv; customer comms SaaS, remote AE"
-Orum.io,repvue,,2026-08-13,Y,Commercial AE on Ashby (posting-api blind spot); B2B SaaS AI calling platform; US remote $180K OTE
-Suzy,repvue,,2026-08-13,Y,Enterprise AE on Ashby (posting-api blind spot); consumer insights SaaS; Needs check
+Orum.io,repvue,,2026-08-13,N,AE posting 0e05bcf0 expired; Ashby board has no replacement
+Suzy,repvue,,2026-08-13,N,Ashby board empty as of 2026-08-13; posting 6ec9bd24 no longer live
 Danone,repvue,,2026-08-13,N,not B2B SaaS — food/beverage CPG company
 New Western,repvue,,2026-08-13,N,not B2B SaaS — real estate marketplace
 Veritiv,repvue,,2026-08-13,N,not B2B SaaS — packaging/distribution company
@@ -4447,3 +4447,52 @@ Huq,repvue,,2026-08-13,N,UK-based location data analytics; not US-remote focused
 CoAdvantage,repvue,,2026-08-13,N,HR/PEO services company; not pure SaaS; services-heavy
 Yellow.ai,repvue,,2026-08-13,N,ATS unresolved — careers page JS-rendered; conversational AI SaaS; no US AE listings visible
 TapMango,repvue,,2026-08-13,N,customer loyalty SaaS primarily for SMB; not MM/Enterprise segment
+Workrise formerly RigUp,repvue,,2026-08-13,N,Greenhouse board (workrise) confirmed; no AE posting; Data Analyst only; workforce platform for industrial energy sector
+OneDigital Advanced Health,repvue,,2026-08-13,N,benefits consulting/brokerage firm; not B2B SaaS
+Mimeo,repvue,,2026-08-13,N,print/document production services; not B2B SaaS
+Definitive Healthcare,repvue,,2026-08-13,N,Greenhouse (definitivehc): only Agency Partnerships AE in Framingham MA (not remote); no MM/commercial AE posted
+Green Street,repvue,,2026-08-13,N,ATS unresolved; Greenhouse 404; real estate analytics/research firm
+NetLine,repvue,,2026-08-13,N,ATS unresolved; Greenhouse 404; B2B content syndication platform; no AE found in search
+SurveySparrow,repvue,,2026-08-13,N,Greenhouse/Ashby/Lever all 404; search found no US remote AE; India-based SaaS survey platform
+Momentum Solar,repvue,,2026-08-13,N,residential solar panel company; not B2B SaaS
+"Zep, Inc.",repvue,,2026-08-13,N,industrial cleaning/chemical products manufacturer; not B2B SaaS
+Wipro,repvue,,2026-08-13,N,global IT services consulting giant; not B2B SaaS startup; no qualifying AE role
+scaleMatters,repvue,,2026-08-13,N,ATS unresolved; revenue analytics/ops SaaS; Greenhouse/Ashby/Lever all 404
+Jigsaw,repvue,,2026-08-13,N,Ashby API board (jigsaw) empty; fallback search found NYC AE posting but JS-rendered; cannot confirm liveness per URL-capture rules
+PatSnap,repvue,,2026-08-13,N,"Lever board exists (patsnap); no AE posting; only Account Manager roles (London, Toronto)"
+Tungsten Automation,repvue,,2026-08-13,N,SilkRoad ATS; AE-Payments (222168) and Sr. AE (222372) both expired; no live qualifying AE
+Anton Paar,repvue,,2026-08-13,N,laboratory instruments/precision measurement manufacturer; not B2B SaaS
+Equilar,repvue,,2026-08-13,N,ATS unresolved; Greenhouse/Ashby/Lever all 404; executive compensation data/analytics
+Houzz,repvue,,2026-08-13,N,Greenhouse 404; search found BDR/Strategic Sales Rep only; no qualifying IC AE posting
+CGI,repvue,,2026-08-13,N,large IT services consulting firm; not B2B SaaS startup AE
+Cardinal Health,repvue,,2026-08-13,N,medical/pharmaceutical distribution company; not B2B SaaS
+Pion,repvue,,2026-08-13,N,student discount/engagement platform (Student Beans); not B2B SaaS AE
+Mavenoid,repvue,,2026-08-13,N,Lever EU board (jobs.eu.lever.co/mavenoid) empty; no AE postings; product support AI SaaS
+HERE Technologies,repvue,,2026-08-13,N,ATS unresolved; Greenhouse/Ashby/Lever all 404; no AE found in search; mapping/location SaaS
+Riipen,repvue,,2026-08-13,N,Pinpoint ATS; search found Account Management Director and Sr. Partner Relationship Manager (not IC AE); ed-tech workforce platform
+Pypestream,repvue,,2026-08-13,N,ATS unresolved; Greenhouse/Ashby all 404; conversational AI SaaS; Wellfound shows some roles but not verifiable
+AIG,repvue,,2026-08-13,N,insurance/financial services company; not B2B SaaS
+Penske Automotive Group,repvue,,2026-08-13,N,auto dealership group; not B2B SaaS
+Loxo,repvue,,2026-08-13,N,Greenhouse/Ashby/Lever all 404; AI recruiting platform (loxo.co); ATS unresolved
+Critical Mention,repvue,,2026-08-13,N,acquired by Onclusive; no independent ATS/AE posting found
+ImageTrend,repvue,,2026-08-13,N,ATS unresolved; Greenhouse 404; Lever 404; public safety/EMS software; no AE found in search
+Open Systems,repvue,,2026-08-13,N,ATS unresolved; careers page 403; SmartRecruiters board (OpenSystemsInc2) is different company (staffing); network security SaaS
+IMG Academy,repvue,,2026-08-13,N,sports training academy; not B2B SaaS
+Viventium,repvue,,2026-08-13,N,Ashby 404; careers page JS-rendered; search found no AE openings; payroll/HR SaaS for healthcare
+Daniels Health,repvue,,2026-08-13,N,medical/sharps waste management; not B2B SaaS
+AutoLeap,repvue,,2026-08-13,N,Greenhouse 404; careers page shows 0 current openings; auto shop management SaaS
+Accrisoft Corporation,repvue,,2026-08-13,N,ATS unresolved; Greenhouse/Ashby/Lever all 404; marketing/events platform for associations
+Revance,repvue,,2026-08-13,N,pharmaceutical/aesthetics company; not B2B SaaS
+Perforce Puppet,repvue,,2026-08-13,N,ATS unresolved; Greenhouse/Ashby all 404; DevOps/infrastructure automation; Perforce portfolio company
+Forward Financing,repvue,,2026-08-13,N,small business revenue-based financing; not B2B SaaS
+Cradlepoint,repvue,,2026-08-13,N,Workday ATS (cradlepoint.wd1.myworkdayjobs.com); ATS unresolved; network edge/SASE; part of Ericsson
+Dutchie,repvue,,2026-08-13,N,Greenhouse (thedutchie): AE roles state-specific CA and NJ only; no US-remote AE and no approved city designation
+Kroll,repvue,,2026-08-13,N,risk consulting/valuation advisory; not B2B SaaS
+Learnexus,repvue,,2026-08-13,N,ATS unresolved; search found no AE; L&D marketplace
+OneTrust,repvue,,2026-08-13,N,Greenhouse: Enterprise AE only (requires 10+ yrs closing; exceeds ceiling); MM AE posting expired; privacy/trust management SaaS
+Drift,repvue,,2026-08-13,N,acquired by Salesloft in 2024; no independent AE postings
+Netwrix,repvue,,2026-08-13,N,"Rippling ATS: only Middle East AE (Arabic speaker, UAE); no US AE; cybersecurity SaaS"
+Coyote Logistics,repvue,,2026-08-13,N,freight brokerage/logistics marketplace; not B2B SaaS
+Sierra Interactive,repvue,,2026-08-13,N,ATS unresolved; Ashby 404; real estate CRM/IDX platform
+Spotify,repvue,,2026-08-13,N,consumer music streaming platform; no B2B SaaS AE qualifying role
+Aware,repvue,,2026-08-13,N,ATS unresolved; Greenhouse/Ashby/Lever all 404; workforce analytics SaaS
