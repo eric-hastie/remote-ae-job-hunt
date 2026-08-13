@@ -436,7 +436,7 @@ Basware,repvue,90.08,2026-08-04,N,ATS unresolved (checked 2026-07-09; Greenhouse
 Jasper,repvue,90.00,2026-08-05,N,no AE role (checked 2026-07-09; only Director/VP on Ashby board); re-checked 2026-08-05
 Google,repvue,89.94,2026-07-09,N,not B2B SaaS (tech conglomerate)
 Anduin Transactions,repvue,89.93,2026-08-04,N,ATS unresolved (checked 2026-07-09; Ashby 404)
-Mews,repvue,89.93,2026-07-22,N,posting HTTP_DEAD 2026-07-22; no qualifying US AE on GH board (only UK)
+Mews,repvue,89.93,2026-08-13,N,posting HTTP_DEAD 2026-08-13; GH job ID 4927843101 returns 404; no qualifying US AE on GH board (only UK)
 General Assembly,repvue,89.92,2026-07-09,N,not B2B SaaS (tech education/bootcamps)
 Unum Group,repvue,89.91,2026-07-09,N,not B2B SaaS (group insurance carrier)
 Xe.com,repvue,89.89,2026-07-09,N,not B2B SaaS (consumer currency exchange)
@@ -4398,3 +4398,52 @@ The Conference Board,repvue,,2026-08-13,N,non-profit research; not B2B SaaS
 Kantata,repvue,,2026-08-13,N,ATS unresolved; professional services SaaS
 Euna Solutions,repvue,,2026-08-13,N,ATS unresolved; public sector SaaS; AE found via search but not verified via API
 Qlik,repvue,,2026-08-13,N,ATS unresolved; PE-owned data analytics; uses custom career hub
+Donnelley Financial Solutions (DFIN),repvue,,2026-08-13,Y,"already in latest.csv; DFIN financial disclosure software, remote AE"
+GoTo,repvue,,2026-08-13,Y,"already in latest.csv; cloud comms/IT management, remote commercial AE"
+Veracode,repvue,,2026-08-13,Y,"already in latest.csv; application security SaaS, Principal AE remote US"
+Quadient,repvue,,2026-08-13,Y,"already in latest.csv; customer comms SaaS, remote AE"
+Orum.io,repvue,,2026-08-13,Y,Commercial AE on Ashby (posting-api blind spot); B2B SaaS AI calling platform; US remote $180K OTE
+Suzy,repvue,,2026-08-13,Y,Enterprise AE on Ashby (posting-api blind spot); consumer insights SaaS; Needs check
+Danone,repvue,,2026-08-13,N,not B2B SaaS — food/beverage CPG company
+New Western,repvue,,2026-08-13,N,not B2B SaaS — real estate marketplace
+Veritiv,repvue,,2026-08-13,N,not B2B SaaS — packaging/distribution company
+"Broadcast Music, Inc (BMI)",repvue,,2026-08-13,N,not B2B SaaS — music licensing organization
+Aveanna Healthcare,repvue,,2026-08-13,N,not B2B SaaS — healthcare staffing company
+Simply NUC,repvue,,2026-08-13,N,not B2B SaaS — hardware manufacturer
+SThree,repvue,,2026-08-13,N,not B2B SaaS — STEM staffing agency
+Herc Rentals,repvue,,2026-08-13,N,not B2B SaaS — equipment rental company
+Humanscale,repvue,,2026-08-13,N,not B2B SaaS — ergonomic hardware/furniture
+Topgolf,repvue,,2026-08-13,N,not B2B SaaS — entertainment/golf venues
+Ricoh,repvue,,2026-08-13,N,not pure B2B SaaS — hardware/printing/document management
+EIMS,repvue,,2026-08-13,N,not B2B SaaS — B2B marketing/events services agency
+Aegis Sciences Corporation,repvue,,2026-08-13,N,not B2B SaaS — drug testing laboratory
+Rapid Medical,repvue,,2026-08-13,N,not B2B SaaS — medical devices
+DISYS,repvue,,2026-08-13,N,not B2B SaaS — IT staffing
+British American Tobacco,repvue,,2026-08-13,N,not B2B SaaS — tobacco company
+Mondo,repvue,,2026-08-13,N,not B2B SaaS — staffing/talent agency
+VRBO,repvue,,2026-08-13,N,not B2B SaaS — vacation rental consumer marketplace
+Workrise,repvue,,2026-08-13,N,not pure B2B SaaS — energy workforce marketplace (formerly RigUp)
+Moneris,repvue,,2026-08-13,N,Canadian payment processor; not US-remote focused AE org
+Niche,repvue,,2026-08-13,N,no remote AE openings currently; education platform matching students to schools
+Accredible,repvue,,2026-08-13,N,ATS unresolved — not found on standard ATS boards; credential management SaaS
+Brightcove,repvue,,2026-08-13,N,only UK/Singapore Senior AE; no US-remote AE on board
+Qvinci Software,repvue,,2026-08-13,N,ATS unresolved — very small FP&A reporting SaaS; no standard ATS board found
+Amdocs,repvue,,2026-08-13,N,large telecom software company; ATS not on standard boards; typically specialized senior roles
+Blackbaud,repvue,,2026-08-13,N,nonprofit CRM SaaS; Enterprise AE requires 8+ yrs (over ceiling); no qualifying MM AE found
+Reward Gateway,repvue,,2026-08-13,N,ATS unresolved — employee benefits SaaS; not found on standard boards
+Approve Payments,repvue,,2026-08-13,N,ATS is BambooHR; AE role was Wilmington NC physical (not remote); equipment financing SaaS
+Litmos,repvue,,2026-08-13,N,"only UK AE (Bristol, England); no US-remote AE on GH board (Greenhouse slug: litmos)"
+ServiceChannel,repvue,,2026-08-13,N,ATS unresolved — facilities management SaaS; not found on standard ATS boards
+Progress Software,repvue,,2026-08-13,N,Senior AE specialized in SLED (public sector) vertical; uses Jobvite; not standard private B2B SaaS AE
+Sungard Availability Services,repvue,,2026-08-13,N,ATS unresolved — IT resilience/cloud services; possibly rebranded/acquired
+ContractPodAi,repvue,,2026-08-13,N,rebranded to Leah; limited openings; no clear US-remote AE role found
+Service Pro by MSI Data,repvue,,2026-08-13,N,ATS unresolved — small field service management platform
+MachineMetrics,repvue,,2026-08-13,N,no AE on Workable board (empty board); industrial IoT analytics
+Board.org,repvue,,2026-08-13,N,ATS unresolved — identity unclear; slug Boardorg not found on standard boards
+Bevy,repvue,,2026-08-13,N,careers page 404; company possibly rebranded/acquired; ATS unresolved
+iWave,repvue,,2026-08-13,N,ATS unresolved — fundraising analytics SaaS; not found on standard boards
+Huq,repvue,,2026-08-13,N,UK-based location data analytics; not US-remote focused
+8x8,repvue,,2026-08-13,N,ATS on own careers site 8x8.com; rate-limited verification; cloud comms SaaS
+CoAdvantage,repvue,,2026-08-13,N,HR/PEO services company; not pure SaaS; services-heavy
+Yellow.ai,repvue,,2026-08-13,N,ATS unresolved — careers page JS-rendered; conversational AI SaaS; no US AE listings visible
+TapMango,repvue,,2026-08-13,N,customer loyalty SaaS primarily for SMB; not MM/Enterprise segment
