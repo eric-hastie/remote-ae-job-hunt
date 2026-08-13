@@ -3445,7 +3445,7 @@ Covariant,robotics,,2026-08-03,Y,"robotics AE (New York, NY (hybrid, in-office 2
 Ouster,robotics,77,2026-08-03,Y,robotics AE (Remote (US))
 Cyngn,robotics,,2026-08-07,N,Lever board; only engineering/hardware/HR roles; no AE; autonomous vehicle tech; checked 2026-08-07
 Chef Robotics,robotics,,2026-08-03,Y,"robotics AE (San Francisco, CA (Remote option))"
-Glacier,physical-ai,,2026-07-16,Y,physical-AI AE
+Glacier,physical-ai,,2026-08-13,N,posting expired - no replacement found
 HiveMQ,physical-ai,77,2026-08-03,Y,physical-AI AE
 VNTANA,physical-ai,,2026-08-09,N,physical-AI AE; posting dead - no current AE openings confirmed Aug 2026
 Spot AI,physical-ai,70,2026-08-03,Y,physical-AI AE
@@ -4496,3 +4496,47 @@ Coyote Logistics,repvue,,2026-08-13,N,freight brokerage/logistics marketplace; n
 Sierra Interactive,repvue,,2026-08-13,N,ATS unresolved; Ashby 404; real estate CRM/IDX platform
 Spotify,repvue,,2026-08-13,N,consumer music streaming platform; no B2B SaaS AE qualifying role
 Aware,repvue,,2026-08-13,N,ATS unresolved; Greenhouse/Ashby/Lever all 404; workforce analytics SaaS
+Authenticx,repvue,,2026-08-13,N,no qualifying AE (SDR only; in-office Indianapolis)
+TLC Worldwide,repvue,,2026-08-13,N,not B2B SaaS (experiential marketing agency)
+Taylor Corporation,repvue,,2026-08-13,N,not B2B SaaS (printing/communications services)
+Boats Group,repvue,,2026-08-13,N,not B2B SaaS (marine marketplace)
+WordStream,repvue,,2026-08-13,N,acquired by Gannett/LocaliQ; not standalone SaaS
+Oneflow,repvue,,2026-08-13,N,ATS unresolved; European HQ (Sweden)
+Epiq Global,repvue,,2026-08-13,N,not B2B SaaS (legal services company)
+Pella Windows and Doors,repvue,,2026-08-13,N,not B2B SaaS (window/door manufacturer)
+Martal Group,repvue,,2026-08-13,N,not B2B SaaS (outsourced sales agency)
+Elsevier,repvue,,2026-08-13,N,not B2B SaaS (academic publisher)
+Observe.ai,repvue,,2026-08-13,N,no AE openings (Channel Sales Director only)
+Ocrolus,repvue,,2026-08-13,Y,Ent AE - Mortgage; Remote US (West Coast preferred)
+Conductor,repvue,,2026-08-13,Y,Ent AE NYC and SF/Remote on Rippling ATS
+GHGSat,repvue,,2026-08-13,N,not B2B SaaS (satellite emissions monitoring)
+Apisero Inc.,repvue,,2026-08-13,N,not B2B SaaS (Salesforce SI consulting)
+Eide Bailly,repvue,,2026-08-13,N,not B2B SaaS (accounting/consulting firm)
+Eargo,repvue,,2026-08-13,N,not B2B SaaS (consumer hearing aids)
+Constrafor,repvue,,2026-08-13,N,SMB AE posting expired; no current AE
+Neustar,repvue,,2026-08-13,N,acquired by TransUnion; no longer independent
+Sterling,repvue,,2026-08-13,N,same as SterlingBackCheck - acquired by First Advantage
+ESO,repvue,,2026-08-13,N,no qualifying AE found (Account Manager only on Lever)
+Matrix42,repvue,,2026-08-13,N,primarily European market; no US remote AE found
+Kolena,repvue,,2026-08-13,N,no AE openings on major ATS platforms
+GigaOm,repvue,,2026-08-13,N,not B2B SaaS (tech research/analyst firm)
+Inside Real Estate,repvue,,2026-08-13,N,only Marketplace Sales Executive (account mgmt); no qualifying AE
+Blue Raven Solar,repvue,,2026-08-13,N,not B2B SaaS (residential solar company)
+Blue Mantis,repvue,,2026-08-13,N,not B2B SaaS (IT managed services/reseller)
+SamCart,repvue,,2026-08-13,N,not B2B SaaS (B2C ecommerce creator platform)
+AdDaptive Intelligence,repvue,,2026-08-13,N,ATS unresolved
+CMiC,repvue,,2026-08-13,N,no AE openings found on major ATS platforms
+Snap! Mobile,repvue,,2026-08-13,N,ATS unresolved; niche school fundraising platform
+UBEO,repvue,,2026-08-13,N,not B2B SaaS (document management hardware/services)
+Sezzle,repvue,,2026-08-13,N,not B2B SaaS (consumer BNPL)
+Medasource,repvue,,2026-08-13,N,not B2B SaaS (healthcare staffing)
+BlueConic,repvue,,2026-08-13,N,AE postings expired; no current AE openings
+Ziflow,repvue,,2026-08-13,N,AE in-office Dallas TX only (not remote or target city)
+NetBrain Technologies,repvue,,2026-08-13,Y,Commercial AE Denver area - already in latest.csv
+SKNV,repvue,,2026-08-13,N,ATS unresolved; unable to identify company
+Port.io,repvue,,2026-08-13,N,ATS unresolved
+Checkout,repvue,,2026-08-13,N,no current US AE openings found
+AdDaptive Intelligence, Inc.,repvue,,2026-08-13,N,ATS unresolved (added as AdDaptive Intelligence above)
+Moody's Analytics,repvue,,2026-08-13,N,ATS unresolved; financial analytics
+Moody’s Analytics,repvue,,2026-08-13,N,ATS unresolved (name dedup fix)
+"AdDaptive Intelligence, Inc.",repvue,,2026-08-13,N,ATS unresolved (name dedup fix)
