@@ -4299,3 +4299,53 @@ Burtch Works,queue,,2026-08-12,N,Analytics/data science staffing - not SaaS
 HealthJoy,queue,,2026-08-12,N,Greenhouse board; no AE roles currently (benefits nav SaaS)
 UserTesting,queue,,2026-08-12,N,Workday board (JS-rendered); AE roles unverifiable via API
 TRAFFIX,queue,,2026-08-12,N,Traffic control/management - not SaaS
+EF Education First,repvue,,2026-08-13,N,not B2B SaaS (education services)
+ARKK,repvue,,2026-08-13,N,UK-based financial regulation SaaS; no US AE
+Fiserv,repvue,,2026-08-13,N,large fintech/payments; not pure B2B SaaS ICP
+TetraScience,repvue,,2026-08-13,N,no AE roles (Workable board: eng/ops only)
+Lexipol,repvue,,2026-08-13,N,no AE (only SDR on join.lexipol.com)
+InvoiceCloud,repvue,,2026-08-13,N,no AE roles (GH board: CSM/eng only)
+WordPress VIP,repvue,,2026-08-13,Y,already in latest.csv as WordPress VIP (Automattic)
+SysAid Technologies Ltd,repvue,,2026-08-13,N,ATS unresolved; ITSM SaaS
+WorkBoard,repvue,,2026-08-13,N,no AE roles (GH board: CSM/accounting only)
+Otis Elevator Co.,repvue,,2026-08-13,N,not B2B SaaS (elevators/hardware)
+Ribbon Health,repvue,,2026-08-13,N,ATS unresolved; healthcare data API
+Allstream,repvue,,2026-08-13,N,ATS unresolved; UCaaS/telecom for businesses
+Brokerlink,repvue,,2026-08-13,N,not B2B SaaS (insurance brokerage)
+Hona,repvue,,2026-08-13,N,ATS unresolved; legal tech SaaS
+FARO Technologies,repvue,,2026-08-13,N,ATS unresolved; 3D measurement/Physical AI
+Lumafield,repvue,,2026-08-13,N,no AE on Lever board (only eng/CSM)
+American Financial Network,repvue,,2026-08-13,N,not B2B SaaS (mortgage banking)
+Northwestern Mutual,repvue,,2026-08-13,N,not B2B SaaS (insurance/financial)
+Cutera,repvue,,2026-08-13,N,not B2B SaaS (medical aesthetic devices)
+Sisense,repvue,,2026-08-13,Y,already in latest.csv; analytics platform
+Beacon Platform,repvue,,2026-08-13,N,ATS unresolved; quant finance platform
+Quantive,repvue,,2026-08-13,N,no active AE (Techstars posting expired)
+Paragon 28,repvue,,2026-08-13,N,not B2B SaaS (orthopedic medical devices)
+Hitachi Energy,repvue,,2026-08-13,N,not B2B SaaS (energy/power systems)
+BetterComp,repvue,,2026-08-13,N,ATS unresolved; compensation management SaaS
+DigitalOcean,repvue,,2026-08-13,N,ATS unresolved; cloud infrastructure
+Dstillery,repvue,,2026-08-13,N,ATS unresolved; audience intelligence/adtech
+QAD Inc,repvue,,2026-08-13,N,ATS unresolved; manufacturing ERP/SaaS
+Press Ganey,repvue,,2026-08-13,N,ATS unresolved; healthcare analytics SaaS
+Lucidworks,repvue,,2026-08-13,N,no AE on Lever board (board empty for AE)
+Moody's Analytics,repvue,,2026-08-13,N,ATS unresolved; financial analytics
+Ambassador Labs,repvue,,2026-08-13,N,no AE (Lever posting dead; Ashby 404)
+Winmo,repvue,,2026-08-13,N,ATS unresolved; sales intelligence platform
+EverTrue,repvue,,2026-08-13,N,ATS unresolved; advancement/fundraising SaaS
+Future Family,repvue,,2026-08-13,N,ATS unresolved; fertility benefits HR tech
+PhotoShelter,repvue,,2026-08-13,N,ATS unresolved; digital asset management SaaS
+Equitable Advisors,repvue,,2026-08-13,N,not B2B SaaS (financial advisory)
+Travel + Leisure Co.,repvue,,2026-08-13,N,not B2B SaaS (hospitality/travel)
+Check Point Software,repvue,,2026-08-13,N,ATS unresolved; enterprise cybersecurity
+Business Talent Group,repvue,,2026-08-13,N,not B2B SaaS (management consulting/staffing)
+Levelset,repvue,,2026-08-13,N,ATS unresolved; construction payment SaaS (Procore)
+Panduit,repvue,,2026-08-13,N,not B2B SaaS (network hardware)
+Feenyx,repvue,,2026-08-13,N,ATS unresolved; AI hiring platform
+Innova Solutions,repvue,,2026-08-13,N,not B2B SaaS (IT staffing/services)
+Bluecore,repvue,,2026-08-13,N,ATS unresolved; retail AI/marketing SaaS
+Spirent Communications,repvue,,2026-08-13,N,not B2B SaaS (telecom testing/hardware)
+Cognite,repvue,,2026-08-13,Y,AE Chemical Manufacturing; US-remote; Ent; Physical AI - industrial AI
+VMRay,repvue,,2026-08-13,N,ATS unresolved; malware analysis cybersec SaaS
+Onfido,repvue,,2026-08-13,N,acquired by Entrust; no longer independent
+Informa,repvue,,2026-08-13,N,not B2B SaaS (media/events/data company)
