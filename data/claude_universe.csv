@@ -4349,3 +4349,52 @@ Cognite,repvue,,2026-08-13,Y,AE Chemical Manufacturing; US-remote; Ent; Physical
 VMRay,repvue,,2026-08-13,N,ATS unresolved; malware analysis cybersec SaaS
 Onfido,repvue,,2026-08-13,N,acquired by Entrust; no longer independent
 Informa,repvue,,2026-08-13,N,not B2B SaaS (media/events/data company)
+"QAD, Inc",repvue,,2026-08-13,Y,already in latest.csv; ERP/manufacturing software
+Solo.io,repvue,,2026-08-13,Y,already in latest.csv; Strategic AE; service mesh/API SaaS
+Swoogo,repvue,,2026-08-13,Y,already in latest.csv; AE Enterprise; event management SaaS
+Optimove,repvue,,2026-08-13,Y,already in latest.csv; marketing automation SaaS
+Tapcheck,repvue,,2026-08-13,Y,AE Large (Ent); remote US; B2B SaaS EWA/fintech; added to latest
+H1,repvue,,2026-08-13,Y,Enterprise AE Digital Health; remote US; B2B SaaS healthcare data; added to latest
+Scandit,repvue,,2026-08-13,N,no AE roles currently
+ThreatConnect,repvue,,2026-08-13,N,acquired by Dataminr
+Greenlight Guru,repvue,,2026-08-13,N,AE UK-only
+Cognizant Technology Solutions,repvue,,2026-08-13,N,not B2B SaaS; IT services
+Randstad Enterprise,repvue,,2026-08-13,N,staffing; not B2B SaaS
+Publicis,repvue,,2026-08-13,N,advertising agency; not B2B SaaS
+Zenoti,repvue,,2026-08-13,N,no IC AE; expansion AM only in specific cities
+Strata Identity,repvue,,2026-08-13,N,domain not found; likely defunct/rebranded
+Sana Commerce,repvue,,2026-08-13,N,no US AE roles
+VideoAmp,repvue,,2026-08-13,N,no IC AE; Strategic Account Director/AM only
+Kraft Heinz,repvue,,2026-08-13,N,not B2B SaaS; food company
+Kentico,repvue,,2026-08-13,N,Czech CMS/DXP; EU-focused; no US remote AE found
+Apptentive,repvue,,2026-08-13,N,acquired by Alchemer 2022
+EfficientIP,repvue,,2026-08-13,N,French DDI; EU-focused; no US AE found
+Hanzo,repvue,,2026-08-13,N,ATS unresolved; small web archiving company
+Syncle,repvue,,2026-08-13,N,Finnish company; not US-focused
+Anomalo,repvue,,2026-08-13,N,no AE roles; only data architect in EMEA
+Techtronic Industries - TTI,repvue,,2026-08-13,N,not B2B SaaS; power tools manufacturer
+Welcome to the Jungle,repvue,,2026-08-13,N,job platform; UK-based; not B2B SaaS
+Tundra Technical Solutions,repvue,,2026-08-13,N,staffing; not B2B SaaS
+NCS Group,repvue,,2026-08-13,N,staffing/IT services; not B2B SaaS
+TriNet,repvue,,2026-08-13,N,ATS unresolved; HR/PEO + SaaS platform
+Seeq Corporation,repvue,,2026-08-13,N,AE EU-only; no US remote AE
+Absolute Software,repvue,,2026-08-13,N,no US AE roles; only India/Japan/LATAM AE
+Lightspeed HQ,repvue,,2026-08-13,N,AE EU/Canada only; no US remote AE
+Exasol,repvue,,2026-08-13,N,German analytical DB; EU-focused; no US AE
+Purolator,repvue,,2026-08-13,N,courier; not B2B SaaS
+Proquest,repvue,,2026-08-13,N,acquired by Clarivate 2022; no longer independent
+SeekOut.io,repvue,,2026-08-13,N,no AE roles currently
+Pax8,repvue,,2026-08-13,N,ATS on Workday; cloud distributor not pure B2B SaaS
+CloudFactory,repvue,,2026-08-13,N,ATS unresolved; data labeling
+Verse Medical,repvue,,2026-08-13,N,ATS unresolved; small healthcare startup
+Payzer,repvue,,2026-08-13,N,ATS unresolved; small field service payments
+Verizon Business,repvue,,2026-08-13,N,telecom; not B2B SaaS
+Yandex,repvue,,2026-08-13,N,Russian tech; non-US
+Sentinel Technologies,repvue,,2026-08-13,N,IT VAR/services; not B2B SaaS
+RobCo,repvue,,2026-08-13,N,robotics Physical AI; German company; no US AE roles
+Express Employment Professionals,repvue,,2026-08-13,N,staffing; not B2B SaaS
+SRS Distribution,repvue,,2026-08-13,N,roofing distributor; not B2B SaaS
+The Conference Board,repvue,,2026-08-13,N,non-profit research; not B2B SaaS
+Kantata,repvue,,2026-08-13,N,ATS unresolved; professional services SaaS
+Euna Solutions,repvue,,2026-08-13,N,ATS unresolved; public sector SaaS; AE found via search but not verified via API
+Qlik,repvue,,2026-08-13,N,ATS unresolved; PE-owned data analytics; uses custom career hub
