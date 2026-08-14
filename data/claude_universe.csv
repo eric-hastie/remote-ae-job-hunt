@@ -204,7 +204,7 @@ Omni,repvue,95.32,2026-07-08,Y,open qualifying role: AE (L1-L2) MM/SMB US-remote
 Force Management,repvue,95.26,2026-07-08,N,sales training firm; not B2B SaaS product; re-checked 2026-07-08
 AIHR,repvue,95.25,2026-08-03,N,Netherlands-based HR learning platform; not US-remote AE; re-checked 2026-07-08
 Rockerbox,repvue,95.23,2026-07-08,N,acquired by DoubleVerify March 2025; re-checked 2026-07-08
-Maxwell,repvue,95.17,2026-07-02,Y,top-260 RepVue scan: open AE role
+Maxwell,repvue,95.17,2026-08-14,N,top-260 RepVue scan: open AE role; Greenhouse board empty 2026-08-14
 QuotaPath,repvue,95.16,2026-08-03,N,no AE on Rippling board (product manager roles only); re-checked 2026-07-08
 Jack Henry,repvue,95.08,2026-08-03,N,banking tech (credit unions); 60% travel; OTE unknown; not typical B2B SaaS AE; re-checked 2026-07-08
 Ionic,repvue,95.08,2026-08-03,N,no IC AE on Lever board (SDR only); re-checked 2026-07-08
@@ -595,7 +595,7 @@ Noesis,repvue,88.40,2026-07-21,N,not B2B SaaS (IT consulting)
 Cato Networks,repvue,88.38,2026-08-14,N,"no AE on GH board ""catonetworks"" (only engineering/AI roles)"
 ZOLL Data Systems,repvue,88.37,2026-08-14,N,"no AE / ATS unresolved; healthcare EMS hardware+software, not pure SaaS"
 Aligned,repvue,88.37,2026-07-02,Y,top500 RepVue scan: open AE role
-Radar Labs,repvue,88.37,2026-08-14,N,no AE / ATS unresolved
+Radar Labs,repvue,88.37,2026-08-14,N,no AE / ATS unresolved; ATS re-check 2026-08-14: Workable API empty (no AE); previous search hit was stale
 Appspace,repvue,88.35,2026-08-14,Y,re-check 2026-08-14: Enterprise AE (USA) posted 2026-08-04; GH job 6134571004; fully remote
 Dooly,repvue,88.35,2026-07-21,N,defunct — company website returns 404
 Premium Merchant Funding,repvue,88.34,2026-07-21,N,not B2B SaaS (MCA/merchant cash advance lending)
@@ -1097,7 +1097,7 @@ Cencora (AmerisourceBergen),repvue,85.06,2026-07-24,N,not B2B SaaS (pharma distr
 Capital on Tap,repvue,85.06,2026-07-24,N,no AE roles found; UK-focused business credit card; ATS unresolved
 Remesh,repvue,85.05,2026-07-24,N,ATS unresolved; qualitative research SaaS
 Semgrep,repvue,85.05,2026-07-24,N,AE posting closed; no AE roles on Ashby board as of 2026-07-24
-Ecotrak Facility Management Software,repvue,85.04,2026-07-24,N,ATS unresolved; facility maintenance SaaS
+Ecotrak Facility Management Software,repvue,85.04,2026-08-14,N,ATS unresolved; facility maintenance SaaS; Rippling re-check 2026-08-14: no AE role (only Implementation Consultant + Sales Engineer)
 Pathlock,repvue,85.04,2026-07-24,N,ATS unresolved; GRC/ERP security SaaS
 Guesty,repvue,85.04,2026-07-24,N,ATS unresolved; property management SaaS
 Source Intelligence,repvue,85.04,2026-07-24,N,ATS unresolved; supply chain compliance SaaS
@@ -2669,7 +2669,7 @@ Goody,ats-search,,2026-08-04,N,"no AE (Ashby: data analyst, designer, PMM Contra
 Freehand,ats-search,,2026-08-04,N,no AE (Ashby: GTM Architect/BDR/eng/consulting roles; no AE title)
 SPS-North America,ats-search,,2026-07-08,N,"not B2B SaaS - managed services / BPO (mailroom, document processing)"
 FourKites,ats-search,73,2026-08-04,N,no qualifying AE (GH 8029316: Enterprise AE requires 8+ yrs supply chain selling; over ceiling)
-Trackforce,ats-search,71,2026-08-05,Y,Lever board 404 / gone
+Trackforce,ats-search,71,2026-08-14,N,Lever board 404 / gone; confirmed dead 2026-08-14
 Sourcegraph,ats-search,76,2026-08-04,N,no AE roles on GH board (Regional Sales Director only)
 Trustwell,ats-search,65,2026-08-04,N,GH board 404; posting dead
 Dash0,ats-search,,2026-08-03,Y,Ent AE; Remote US; OTE ~$250K-$300K; observability / DevOps SaaS
@@ -2907,7 +2907,7 @@ GoTab,ats-search,,2026-08-05,N,Lever board 404 / gone
 Klir,ats-search,74,2026-08-03,Y,"Live IC Strategic/Enterprise AE, remote US, 5+ yrs $1M+ quota SaaS closing — qualifies (Ent segment); the Mid-Market AE "
 SchoolAI,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Reconfirmed: Rippling board (ats.rippling.com/schoolai/jobs) shows zero open roles company-wide (""There are currently no open roles. Come back later!"""
 Summit Commercial Solutions,ats-search,,2026-08-07,N,"Canadian insurance brokerage (Kelowna, BC); AE posting is Canada-only (requires Level 2/RIBO license), not US-remote, no"
-Workstreet,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive (Growth) | Originally rejected for ""SMB segment, not MM/Ent"" — segment is not an exclusion under the corrected bar. Full-"
+Workstreet,ats-search,,2026-08-14,N,"recheck-B 2026-08-03: Account Executive (Growth) | Originally rejected for ""SMB segment, not MM/Ent"" — segment is not an exclusion under the corrected bar. Full-; URL dead 2026-08-14, no qualifying candidate"
 LegalOn Technologies,ats-search,,2026-08-05,Y,"has open qualifying role: Enterprise AE (Governance/Fides) Remote US, $200-240K base, Rippling"
 RiskExec,ats-search,,2026-08-05,N,no AE on Rippling (only Sr Dir Product Mgmt)
 Shipium,ats-search,,2026-08-05,Y,"has open qualifying role: Senior AE Remote (28 US states), $128-140K base, Rippling"
@@ -2964,7 +2964,7 @@ Trayo AI,wellfound,,2026-08-06,N,"Founding AE role is San Mateo, CA (Hybrid), no
 Seeds,wellfound,,2026-08-06,N,"Could not locate a live company ATS board (Greenhouse/Ashby/Lever/Workable) under ""seeds"" or ""useseeds"" slugs after 5 fe"
 AI Squared,ats-search,,2026-08-05,N,AE Enterprise + MM on Greenhouse but both require 10+ years (exceeds 8yr ceiling)
 Rollstack,ats-search,74,2026-07-22,N,GH posting 4787715008 still 404 on API and page; confirmed dead 2026-07-22
-TrackTik (Trackforce),ats-search,,2026-08-06,Y,Lever: MM AE (19d81252) confirmed US Remote from JD
+TrackTik (Trackforce),ats-search,,2026-08-14,N,Lever: MM AE (19d81252) confirmed US Remote from JD; Job-1 2026-08-14: no qualifying US-remote AE candidates on tracktik board
 Trellis,ats-search,,2026-08-05,N,"stale AE posting on Lever (created 2025-05-13, still not hired after 15+ months)"
 Connectly,ats-search,,2026-08-05,N,LATAM AE only (Mexico + Brazil)
 Ambi Robotics,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Reconfirmed via Lever: the only open AE req (Enterprise Account Executive, remote US) explicitly requires ""10-12+ years of enterprise sales experience"
@@ -3844,7 +3844,7 @@ Reuters,repvue,78,2026-08-09,N,News media (Thomson Reuters); not B2B SaaS
 Canopy Works,ats-search,,2026-08-10,Y,"MM AE East Remote, healthcare staff safety wearables; GH 4357642009"
 Laminar,ats-search,,2026-08-10,Y,MM AE Remote $170-200K OTE + Ent AE Boston $230-280K OTE; Physical AI industrial manufacturing CPG
 WATI.io,ats-search,,2026-08-10,N,Workable API: no AE postings (empty board)
-Bifrost AI,ats-search,,2026-08-10,N,Ashby board: no AE roles (only tech/strategy); Physical AI synthetic data but no AE hiring
+Bifrost AI,ats-search,,2026-08-14,N,Ashby board: no AE roles (only tech/strategy); Physical AI synthetic data but no AE hiring; Ashby API re-check 2026-08-14: no AE in feed; direct URL JS-only unverifiable
 SmartAsset,ats-search,,2026-08-10,Y,"MM AE Remote US, $130K OTE; B2B SaaS financial advisor marketing platform AMP; GH 8691974002"
 1848 Ventures,ats-search,,2026-08-10,N,"VC firm, not a direct company target; GH postings are for portcos"
 InterSystems,repvue,,2026-08-11,Y,"Enterprise AE Health Plans, Boston MA; GH job 7723402003; $145-170K base"
@@ -4540,3 +4540,9 @@ Moody's Analytics,repvue,,2026-08-14,N,no AE role found; Account Manager only; l
 AdDaptive Intelligence,repvue,,2026-08-14,N,no open positions found; AdTech account-based advertising not B2B SaaS
 Moody’s Analytics,repvue,,2026-08-14,N,queue-name alias for matching; see Moody’s Analytics rows above
 "AdDaptive Intelligence, Inc.",repvue,,2026-08-14,N,queue-name alias for matching; see AdDaptive Intelligence rows above
+Caret,ats-search,,2026-08-14,N,"Workable board empty; legal/accounting SaaS, no AE posting"
+Fyxer,ats-search,,2026-08-14,N,Ashby board: only Customer Support role; AI executive assistant B2B SaaS
+HappyRobot Inc.,ats-search,,2026-08-14,N,"Ashby: AE roles exist but Argentina+France only, no US-remote AE"
+Jua,ats-search,,2026-08-14,N,"Ashby: AE roles London+Zurich only, no US-remote; Physical AI weather forecasting"
+Harmattan AI,ats-search,,2026-08-14,N,"Ashby: no AE roles; French defense AI robotics company, Paris/Morocco roles only"
+Popmenu,ats-search,,2026-08-14,N,"Workable URL dead 2026-08-14; SMB segment, restaurant tech; no qualifying MM AE"
