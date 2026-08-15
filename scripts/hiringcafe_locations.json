@@ -1,0 +1,246 @@
+{
+ "Remote": {
+  "types": [
+   "country"
+  ],
+  "address_components": [
+   {
+    "long_name": "United States",
+    "short_name": "US",
+    "types": [
+     "country"
+    ]
+   }
+  ],
+  "geometry": {
+   "location": {
+    "lat": 37.09024,
+    "lon": -95.712891
+   }
+  },
+  "formatted_address": "United States",
+  "workplace_types": [
+   "Remote"
+  ],
+  "options": {
+   "flexible_regions": [
+    "anywhere_in_continent",
+    "anywhere_in_world"
+   ],
+   "radius": 50,
+   "radius_unit": "miles",
+   "ignore_radius": false
+  },
+  "id": "FxY1yZQBoEtHp_8UEq7V"
+ },
+ "NYC": {
+  "types": [
+   "locality"
+  ],
+  "address_components": [
+   {
+    "long_name": "New York",
+    "short_name": "New York",
+    "types": [
+     "locality"
+    ]
+   },
+   {
+    "long_name": "New York",
+    "short_name": "NY",
+    "types": [
+     "administrative_area_level_1"
+    ]
+   },
+   {
+    "long_name": "United States",
+    "short_name": "US",
+    "types": [
+     "country"
+    ]
+   }
+  ],
+  "geometry": {
+   "location": {
+    "lat": 40.7128,
+    "lon": -74.006
+   }
+  },
+  "formatted_address": "New York, NY, US",
+  "workplace_types": [],
+  "options": {
+   "radius": 50,
+   "radius_unit": "miles",
+   "ignore_radius": false
+  },
+  "id": "ZhY1yZQBoEtHp_8UErzY"
+ },
+ "SF": {
+  "types": [
+   "locality"
+  ],
+  "address_components": [
+   {
+    "long_name": "San Francisco",
+    "short_name": "San Francisco",
+    "types": [
+     "locality"
+    ]
+   },
+   {
+    "long_name": "California",
+    "short_name": "CA",
+    "types": [
+     "administrative_area_level_1"
+    ]
+   },
+   {
+    "long_name": "United States",
+    "short_name": "US",
+    "types": [
+     "country"
+    ]
+   }
+  ],
+  "geometry": {
+   "location": {
+    "lat": 37.7749295,
+    "lon": -122.4194155
+   }
+  },
+  "formatted_address": "San Francisco, CA, US",
+  "workplace_types": [],
+  "options": {
+   "radius": 50,
+   "radius_unit": "miles",
+   "ignore_radius": false
+  },
+  "id": "6xk1yZQBoEtHp_8Uv-2X"
+ },
+ "Denver": {
+  "types": [
+   "locality"
+  ],
+  "address_components": [
+   {
+    "long_name": "Denver",
+    "short_name": "Denver",
+    "types": [
+     "locality"
+    ]
+   },
+   {
+    "long_name": "Colorado",
+    "short_name": "CO",
+    "types": [
+     "administrative_area_level_1"
+    ]
+   },
+   {
+    "long_name": "United States",
+    "short_name": "US",
+    "types": [
+     "country"
+    ]
+   }
+  ],
+  "geometry": {
+   "location": {
+    "lat": 39.7392358,
+    "lon": -104.990251
+   }
+  },
+  "formatted_address": "Denver, CO, US",
+  "workplace_types": [],
+  "options": {
+   "radius": 50,
+   "radius_unit": "miles",
+   "ignore_radius": false
+  },
+  "id": "FRk1yZQBoEtHp_8Uv--X"
+ },
+ "Boston": {
+  "types": [
+   "locality"
+  ],
+  "address_components": [
+   {
+    "long_name": "Boston",
+    "short_name": "Boston",
+    "types": [
+     "locality"
+    ]
+   },
+   {
+    "long_name": "Massachusetts",
+    "short_name": "MA",
+    "types": [
+     "administrative_area_level_1"
+    ]
+   },
+   {
+    "long_name": "United States",
+    "short_name": "US",
+    "types": [
+     "country"
+    ]
+   }
+  ],
+  "geometry": {
+   "location": {
+    "lat": 42.3601,
+    "lon": -71.0589
+   }
+  },
+  "formatted_address": "Boston, MA, US",
+  "workplace_types": [],
+  "options": {
+   "radius": 50,
+   "radius_unit": "miles",
+   "ignore_radius": false
+  },
+  "id": "6hk1yZQBoEtHp_8UuNAZ"
+ },
+ "Austin": {
+  "types": [
+   "locality"
+  ],
+  "address_components": [
+   {
+    "long_name": "Austin",
+    "short_name": "Austin",
+    "types": [
+     "locality"
+    ]
+   },
+   {
+    "long_name": "Texas",
+    "short_name": "TX",
+    "types": [
+     "administrative_area_level_1"
+    ]
+   },
+   {
+    "long_name": "United States",
+    "short_name": "US",
+    "types": [
+     "country"
+    ]
+   }
+  ],
+  "geometry": {
+   "location": {
+    "lat": 30.2672,
+    "lon": -97.7431
+   }
+  },
+  "formatted_address": "Austin, TX, US",
+  "workplace_types": [],
+  "options": {
+   "radius": 50,
+   "radius_unit": "miles",
+   "ignore_radius": false
+  },
+  "id": "3xk1yZQBoEtHp_8UuMMX"
+ }
+}
