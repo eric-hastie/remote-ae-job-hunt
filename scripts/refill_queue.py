@@ -53,11 +53,12 @@ def main():
     if "--floor" in args:
         floor = float(args[args.index("--floor") + 1])
     if floor < FLOOR:
-        sys.exit(f"REFUSED: floor {floor:g} is below {FLOOR:g}. Lowering the score floor is "
-                 "Eric's call, not the script's — ask him first, then pass --floor explicitly.")
+        sys.exit(f"REFUSED: floor {floor:g} is below {FLOOR:g}. Lowering the score floor is Eric's "
+                 "call, not the script's. Ask him. If he says yes, edit the FLOOR constant; "
+                 "--floor can only raise the bar. A dry queue is not a reason (the ring wraps).")
 
     if not os.path.exists(REPVUE):
-        sys.exit(f"ERROR: {REPVUE} not found. RepVue data is local-only (gitignored) — "
+        sys.exit(f"ERROR: {REPVUE} not found. RepVue data is local-only (gitignored). "
                  "run this on the machine that has it, not in a cloud clone.")
 
     evaluated = {base(r["Company"]) for r in csv.DictReader(open(UNIVERSE, newline=""))}
