@@ -27,9 +27,9 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 - **`data/scan_queue.csv`** — the SCAN RING: every RepVue company at score **≥ 76**, best-score-first
   (4,075 companies). Columns: `Company,Slug,Score` (Slug = starting guess for the ATS board token).
   It is a ring, not a well: Job 2 walks it 50 per run, and on reaching the bottom it starts a new
-  cycle **from the top, at the highest scores**. It never goes dry. A full cycle is ~16 days at 250
-  companies/day, which is the right re-check cadence anyway (roles churn on a monthly scale; a
-  re-check inside 3-4 weeks yields almost nothing).
+  cycle **from the top, at the highest scores**. It never goes dry. On its 2 slots/day (~100
+  companies/day) a full cycle is ~40 days, which is the right re-check cadence anyway (roles churn on
+  a monthly scale; a re-check inside 3-4 weeks yields almost nothing).
   **The score floor is 76.** Below that the yield turns Enterprise-heavy and the sales orgs are weak
   — MM density is concentrated in the top score ranks. `scripts/refill_queue.py` refuses a lower
   floor. Lowering it is Eric's decision, never the routine's.
@@ -162,15 +162,23 @@ Then act on the verify script's output:
 
 Get `H=$(date -u +%H)` (runs fire at 03/08/13/18/23) and `D=$(date -u +%u)` (1 = Monday):
 
-1. **Monday 18:00 UTC run** (`D==1 && H==18`) → **Job F — weekly fresh-startup sweep**.
-2. **Every other run** → **Job 2 — ring scan**. The ring never goes dry; when it wraps it re-checks
-   from the highest scores down, so there is no "queue dry" branch any more.
+1. **Monday 18:00 UTC** (`D==1 && H==18`) → **Job F — weekly fresh-startup sweep**.
+2. **`H` in {13, 18, 23}** → **Job 3 — vertical startup search** (3 discovery slots/day).
+3. **`H` in {03, 08}** → **Job 2 — ring scan** (2 re-check slots/day).
 
-**Jobs 3 and 4 therefore have no slot right now, and that is a live decision for Eric, not for a
-run to improvise.** It matters because the ring is entirely RepVue companies and RepVue has no
-net-new left for us, so with Job 2 on every slot, Job F (Mondays) is this routine's only source of
-never-before-seen companies. Job 4's purpose is now served better by the ring's own wrap-around
-(score-ordered, wider coverage). Do not reassign slots inside a run; leave the schedule as written.
+**This split is Eric's, set 2026-08-16, and a run does not get to reassign it.** The reasoning, so
+it is not re-litigated every run: net-new companies now come ONLY from Jobs 3 and F, because the
+ring is entirely RepVue companies and RepVue has zero net-new left at score ≥76 (all 4,075 already
+evaluated). Job 3 has also earned the slots on yield — **24.9% of the companies it checked had a
+qualifying role (90 of 361), against 6.8% for the RepVue scan (279 of 4,121)** — and the ring's rate
+will fall below its own 6.8%, since every ring pass from here is a re-check rather than a first look.
+
+Two ring slots = ~100 companies/day = a **~40-day cycle**. That is intentional: role churn is
+monthly, so a slower ring loses almost nothing, and re-checking a company inside 3-4 weeks has
+repeatedly yielded ~nothing.
+
+**Job 4 is retired.** The ring's wrap-around IS the re-check rotation, in score order, over more
+companies than Job 4 covered. Its section is kept below only as the reference for re-check judgment.
 
 One job per run (plus Job 1). Do not combine or improvise beyond the selected job's budget.
 
@@ -206,24 +214,46 @@ Drop anything unverified — no "just in case." No fabrication; leave Funding/Re
 **Never type a RepVue score from memory or from a web page.** The only source is the local library
 (`data/repvue_universe.csv`) via `scripts/enrich_repvue.py` — see RepVue enrichment under Finish.
 
-## Job 3 — ATS-native search (net-new startups; queue-dry runs at 13:00, 18:00 & 23:00 UTC)
+## Job 3 — Vertical startup search (net-new startups; runs at 13:00, 18:00 & 23:00 UTC)
 
 Find postings directly on the ATS platforms — the posting first, the company second. This is the
-primary net-new engine once the queue is dry; it catches startups too new or obscure for RepVue.
-**Search ALL EIGHT hosted-board domains, not just three** — the extra platforms are where smaller,
-newer companies live.
+primary net-new engine: it catches startups too new or too obscure for RepVue, which is now the only
+place net-new companies come from. **Search ALL EIGHT hosted-board domains, not just three** — the
+extra platforms are where smaller, newer companies live.
+
+**The six verticals, set by Eric 2026-08-16. Do not add, drop or substitute one inside a run:**
+
+| Vertical | Query terms to pair with the board domain |
+|---|---|
+| fintech / payments | `fintech`, `payments`, `banking`, `treasury` |
+| devtools / infra | `developer tools`, `infrastructure`, `observability`, `platform engineering` |
+| data / analytics | `data platform`, `analytics`, `data infrastructure`, `warehouse` |
+| robotics | `robotics`, `automation`, `warehouse robotics` |
+| physical AI | `physical AI`, `embodied AI`, `autonomy`, `industrial AI` |
+| AI infra | `AI infrastructure`, `LLM`, `inference`, `AI platform`, `agents` |
+
+The first three are the MM-density picks: a 2026-07-15 sweep of them returned 4 winners, ALL of them
+MM, the best MM yield of anything tried. The last three are the AI-native picks: `robotics` and
+`physical-ai` sweeps hit 4-of-7 and 4-of-6 qualifying rates, the highest in the file, though on
+samples that small treat them as promising rather than proven. Healthtech is NOT on this list.
 
 1. Run ~10–12 WebSearch queries this run, all scoped to hosted-board domains, **rotating so
    consecutive runs never repeat the same query** (stale queries re-find the same names). Seed this
    run's position in the matrix from the clock — e.g. `R=$(( (10#$(date -u +%j) * 5 + 10#$(date -u +%H)) ))` —
-   and step through the domain × phrasing × qualifier matrix so every run advances; the full cycle
+   and step through the **vertical × domain × phrasing** matrix so every run advances; the full cycle
    repeats only after the matrix is exhausted.
+   - **vertical** (the outer axis — every run covers ONE vertical, so the six rotate across two days):
+     take `V = R % 6` against the table above and use that vertical's terms for all this run's queries.
    - **domains** (cycle across runs): `site:jobs.ashbyhq.com`, `site:job-boards.greenhouse.io`,
      `site:jobs.lever.co`, `site:jobs.smartrecruiters.com`, `site:apply.workable.com`,
      `site:*.recruitee.com`, `site:ats.rippling.com`, `site:*.myworkdayjobs.com`
    - **phrasing**: `"account executive"` / `"commercial account executive"` /
      `"mid-market account executive"` / `"AE" "remote"`
-   - **qualifier**: rotate `mid-market` / `growth` / `remote (US)` / (none).
+   - Query shape: `<domain> <phrasing> <one vertical term>`. Bias toward
+     `"mid-market account executive"` and `"commercial account executive"` — deep ATS search skews
+     Enterprise, and MM is what the list is short on. Do NOT bias to Strategic/Enterprise/Director.
+   - **Name the vertical in the run summary** so yield per vertical stays measurable. That number is
+     what justifies keeping or cutting a vertical later, and nobody can reconstruct it after the fact.
 2. From the hits, collect candidate companies **not already in `claude_universe.csv`** (paren-aware
    base-name match). Search hits are LEADS, not verification — a hit may be a dead posting.
 3. Verify each candidate on its board's JSON API per the ATS reference + URL-capture rules (the search
@@ -236,11 +266,13 @@ newer companies live.
    - **GTM-cluster signal:** a never-before-seen board carrying a CLUSTER of fresh GTM roles (an AE
      *plus* a sales-manager / RevOps / first-GTM-hire posting) is a net-new sales org standing up —
      treat as high-priority net-new.
-4. Record EVERY candidate evaluated into `claude_universe.csv` (`Source = ats-search`, Y/N + reason,
-   `Last Checked` = today); winners → `latest.csv`. Budget: stop at 50 companies evaluated or when
-   the query set is exhausted, whichever comes first.
+4. Record EVERY candidate evaluated into `claude_universe.csv`, Y/N + reason, `Last Checked` = today;
+   winners → `latest.csv`. **`Source` = `ats-` plus this run's vertical** — `ats-fintech`,
+   `ats-devtools`, `ats-data`, `ats-robotics`, `ats-physical-ai`, `ats-ai-infra` — never a bare
+   `ats-search`. The Source column is the only per-vertical yield record that exists. Budget: stop at
+   50 companies evaluated or when the query set is exhausted, whichever comes first.
 
-## Job 4 — Re-check rotation (queue-dry runs at 03:00 & 08:00 UTC)
+## Job 4 — RETIRED (superseded by the ring wrap in Job 2; kept as re-check reference)
 
 Re-check the universe for newly-opened roles: take the 100 `Currently Open = N` rows with the oldest
 `Last Checked` (highest RepVue Score first as tiebreak), skipping rows whose Notes mark a permanent
