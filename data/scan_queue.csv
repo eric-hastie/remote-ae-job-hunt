@@ -1,1687 +1,4076 @@
-Company,Slug
-Outreach.io,Outreachio
-Pleo,pleo
-Alsco Uniforms,AlscoUniforms
-Viz.ai,Vizai
-Higher Logic,HigherLogic
-Wolters Kluwer,woltersKluwer
-ReSkin Medical,reskin-medical
-FINTRX,Fintrx
-IT BY DESIGN,ITBYDESIGN
-Crowe,Crowe
-PerkinElmer,PerkinElmer
-Aprimo,Aprimo
-brightfin,brightfin
-Gappify,gappify
-Aggreko,Aggreko
-SurveyMonkey,SurveyMonkey
-Erie Home,ErieConstruction
-Development Dimensions International,DevelopmentDimensionsInternational
-WP Engine,WPEngine
-Immuta,Immuta
-Jamf,jamf
-Granite Telecommunications,GraniteTelecommunications
-Conceal,Conceal
-Luma Health,LumaHealth
-Massachusetts Mutual Life Insurance,MassachusettsMutualLifeInsurance
-Exago BI,Exago
-CBTS,CBTS
-The Linux Foundation,TheLinuxfoundation
-GovSpend,GovSpend
-Jellyvision,Jellyvision
-SmartVault Corporation,SmartVault
-Lumen,CenturyLink
-Johnson Controls,JohnsonControls
-Coursera,Coursera
-STEMCELL Technologies,Stemcell
-Applied Software,AppliedSoftware
-NRC Health,NRCHealth
-Harri,Harri
-SafetyCulture,SafetyCulture
-AccessPay,AccessPay
-Monotype,Monotype
-ALSO Group,also-group
-VelocityEHS,velocityehs
-Bunzl,bunzl
-Kenect,Kenect
-Cardata,cardata
-Avanade,Avanade
-ChannelEngine,channelengine
-Avepoint,Avepoint
-Sunlighten,Sunlighten
-One Identity,Oneidentity
-ifm,ifm
-Realvolve,Realvolve
-Madison Logic,MadisonLogic
-Coretelligent,Coretelligent
-Blink,blink
-Influential,Captiv8
-MediaMath,MediaMath
-Zen Educate,ZenEducate
-Resi,Resi
-Auto-Chlor System,AutoChlorSystem
-Semarchy,Semarchy
-Better Place Forests,BetterPlaceForests
-MeridianLink,MeridianLink
-Gail,LulaTechnologies
-Searchspring,Searchspring
-Numotion,Numotion
-Butterfly Network,ButterflyNetwork
-EcoOnline Global,EcoOnlineGlobal
-Postal.io,Postalio
-Omatic,Omatic
-BiggerPockets,biggerpockets
-Bonfire Interactive,BonfireInteractive
-Finastra,Finastra
-Expert Institute,ExpertInstitute
-Igloo Software,IglooSoftware
-LRQA,lrqa
-WorkJam,WorkJam
-Thanx,Thanx
-Intelliloan,intelliloan
-ACV Auctions,ACVAuctions
-memoryBlue,memoryBlue
-Circana,Circana
-Slalom,Slalom
-Vectra AI,VectraAI
-Brandwatch,Brandwatch
-SimilarWeb,SimilarWeb
-Brightwheel,Brightwheel
-Evolv Technology,EvolvTechnology
-Nobl9,Nobl9
-Automattic,Automattic
-NTT,ntt
-Federated Insurance,FederatedInsurance
-Blancco,blancco
-Parata Systems,Parata
-Tebra,kareo
-Macrium Software,macrium-software
-Workhuman,Workhuman
-Republic Services,RepublicServices
-AppZen,AppZen
-Airmeet,Airmeet
-CleverTap,CleverTap
-Hikvision,Hikvision
-Tethr,Tethr
-ZEDEDA,zededa
-ZimVie,zimvie
-Dodge Construction Network,DodgeDataAnalytics
-Steris,Steris
-DoiT International,Doitinternational
-Medidata Solutions,MedidataSolutions
-Lionbridge,Lionbridge
-Enovis,Enovis
-LiveView Technologies,LiveViewTechnologies
-Azurity Pharmaceuticals,AzurityPharmaceuticals
-Athelas,Athelas
-Reejig,reejig
-Onit,Onit
-"Pacific Rim Capital, Inc.",PacificRimCapital
-CreditorWatch,creditorwatch
-ChargePoint,ChargePoint
-Verint Systems,VerintSystems
-G2,G2Crowd
-gWorks,gWorks
-Demandwell,Demandwell
-"O'Reilly Media, Inc.",OReillyMediaInc
-PVcase,pvcase
-Zelis,ZelisHealthcare
-HRSoft,hrsoft
-Calabrio,Calabrio
-Esper.io,Esperio
-DemandScience,DemandScience
-Arrive Logistics,ArriveLogistics
-"AdRoll, a division of NextRoll",AdRoll
-Forcepoint,Forcepoint
-Safe and Sound Security,safe-and-sound-security
-Hajoca Corporation,HajocaCorporation
-Canva,Canva
-MD7,MD7
-S&P Global,SPGlobal
-Zeta,Zeta
-TimelyCare,timelycare
-Citizens Financial Group,CitizensFinancialGroup
-Peek,Peek
-McKinstry,Mckinstry
-Ortho Molecular Products,OrthoMolecularProducts
-Insideout,Insideout
-PayPal,Paypal
-"Globality, Inc.",globality
-ImageFIRST,imagefirst
-Edmentum,Edmentum
-CATALIS,catalis
-Foxtons,foxtons
-Extensiv,Extensiv
-Pantheon Platform,Pantheon
-Silk,Silk
-RTS Financial,rts-financial-services-inc
-EasySend,EasySend
-Coherent,Coherent
-Hotjar,Hotjar
-RTB House,rtb-house
-Digital River,Digitalriver
-Peak AI,PeakAI
-Code Climate,CodeClimate
-Litera,Litera
-VTS,Vts
-Spectrum Enterprise (Time Warner),SpectrumEnterpriseTimeWarner
-SchooLinks,SchooLinks
-FIS,FIS
-Walnut,Walnut
-ScentAir,ScentAir
-CDI,CDI
-Traba,Traba
-CAST AI,cast-ai
-Virgin Media O2,virgin-media-o2
-Flight Schedule Pro,FSP
-Udemy,Udemy
-Epsilon,Epsilon
-IP Fabric,ip-fabric
-Couchbase,Couchbase
-SAP Engagement Cloud,Emarsys
-Omada,Omadaas
-Appficiency inc,Appficiencyinc
-Globus Medical,GlobusMedical
-EcoVadis,EcoVadis
-Agora,Agora
-Vertiv,Vertiv
-Eastridge Workforce Solutions,EastridgeWorkforceSolutions
-Anitian,Anitian
-Radiant Logic,RadiantLogic
-Firmex,Firmex
-Paytronix,paytronix
-Directive,DirectiveConsulting
-Netcore Cloud,NetcoreCloud
-Greenphire,greenphire
-"Twingate, Inc.",Twingate
-Alpha Group,AlphaGroup
-HUMAN,Perimeterx
-vArmour,vArmour
-Texada Software,TexadaSoftware
-Zone & Co.,zoneandco
-Piano,piano
-LocaliQ,local-iq
-Cynet,Cynet
-"Quench USA, Inc.",quench
-Totango,Totango
-ConnectWise,ConnectWise
-Springbrook Software,springbrook
-Altares Dun & Bradstreet,AltaresDunBradstreet
-SumUp,SumUp
-Emeritus,Emeritus
-Cordis,Cordis
-CallMiner,CallMiner
-Tufin,Tufin
-Syndio,Syndio
-Elastic Suite,elastic-suite
-Aon,Aon
-Buxton,Buxton
-AspireIQ,AspireIQ
-LoanDepot,Loandepot
-Robin,Robin
-Snagajob,Snagajob
-Multiplier,Multiplier
-ClassPass,ClassPass
-Ernest Packaging Solutions,ErnestPackagingSolutions
-GetDandy,getdandy
-Canonical,Canonical
-Prime Communications,PrimeCommunications
-PowerReviews,PowerReviews
-Daktronics,Daktronics
-Noregon Systems,Noregon
-Mapbox,Mapbox
-Personetics,Personetics
-Cellebrite,Cellebrite
-Stormwind Studios,Stormwindstudios
-OpsRamp,OpsRamp
-Tempo Software,gsd
-Autosoft,Autosoft
-DBS,DBS
-AutogenAI,autogenai
-GoodLife Fitness,GoodLifeFitness
-Construct CRM,construct-crm
-Beamery,beamery
-"Claris, an Apple company",Claris
-hh2,hh2-cloud-services
-Aloha,ReviewWave
-Revalize,Revalize
-nTop,nTopology
-MarqVision,MarqVision
-Fortitude Systems,FortitudeSystems
-EBSCO Information Services,EBSCOInformationServices
-Demyst Data,DemystData
-Utility,utility-associates
-Smokeball,Smokeball
-Colonial Life,ColonialLife
-Consilium Staffing,Consilium
-Split Software,SplitSoftware
-Planisware,Planisware
-Zoomin,Zoomin
-Robert Half International,RobertHalfInternational
-Jedox,Jedox
-"Nitro, Inc",Nitro
-Boeing,Boeing
-American Income Life Insurance,AmericanIncomeLifeInsuranceCompany
-Aderant,Aderant
-Adaptavist,Adaptavist
-Level Access,LevelAccess
-Improvado,Improvado
-Insight,Insight
-Getaround,Getaround
-BitSight,BitSight
-Kyndryl,Kyndryl
-MikMak,MikMak
-OxBlue,OxblueCorporation
-LogicManager,LogicManager
-CareMessage,caremessage
-Unishippers,Unishippers
-IDI,IDI
-Graybar Electric,GraybarElectric
-TraceLink,tracelink
-Rakuten Advertising,rakuten
-IronScales,IronScales
-ISN,isn
-Terminus,Terminus
-Lighthouse,LighthouseIntelligence
-Parcel Perform,ParcelPerform
-Randstad Digital,randstad-digital
-Adverity,Adverity
-Empire Flippers,EmpireFlippers
-Clear,Clear
-Regal.ai,regal-io
-Designs For Vision,DesignsForVision
-Baxter International,BaxterInternational
-Circonus,Circonus
-FranklinCovey,FranklinCovey
-Solutionreach,Solutionreach
-Collage Group,collage-group
-One Source Communications,OneSourceCommunications
-Ryan Transportation,RyanTransportation
-Motus,Motus
-"Trustwave, A LevelBlue Company",Trustwave
-Synack,synack
-Guidepoint,Guidepoint
-Revver,eFileCabinet
-LeafLink,LeafLink
-OneRail,onerail
-Novisto,Novisto
-Aquant,Aquant
-Uptycs,uptycs
-Osapiens,osapiens
-Just Eat Takeaway.com,JustEatTakeawaycom
-Arcadia.io,arcadia-io
-QXO,Beaconbuildingproducts
-Chatmeter,Chatmeter
-Smartcat,smartcat
-ORBCOMM,ORBCOMM
-Telus,Telus
-InMoment,Inmoment
-League,League
-Qualys,Qualys
-Arctera,arctera-us-llc
-Clean Harbors,CleanHarbors
-Workleap (GSoft),Workleap-Gsoft
-Progyny,Progyny
-MD Clarity,MDClarity
-Xsens,Movella
-Talend,talend
-Certinia,Certinia
-Vodafone,Vodafone
-Reagan Outdoor Advertising,reagan-outdoor-advertising
-Turing,Turing
-Jolt,Jolt
-Exclaimer,Exclaimer
-Buildertrend,BuildertrendSolutionsInc
-McLean & Company,McLeanCompany
-Catchpoint,Catchpoint
-Unbabel,Unbabel
-LastPass,LastPass
-Intuit Mailchimp,mailchimp
-Bonterra,Bonterra
-Intiveo,intiveo
-Canon Solutions America,CanonSolutionsAmerica
-Everbridge,everbridge
-HeyJobs,HeyJobs
-Aiven,aiven
-United Wholesale Mortgage,UnitedWholesaleMortgage
-Maxim Healthcare Services,MaximHealthcareServices
-Vistance Networks,commscope
-Redpoint Global,Redpointglobal
-Incode Technologies,incode
-Livingston International,LivingstonInternational
-Camping World,CampingWorld
-Billtrust,Billtrust
-Particle,Particle
-Matthews Real Estate Investment Services,matthews-real-estate-investment-servces
-Lead Forensics,LeadForensics
-Aucto,aucto
-RoadSync,roadsync
-W. W. Norton,WWNorton
-Podium,Podium
-Deep Instinct,DeepInstinct
-Flexera,Flexera
-DispatchTrack,DispatchTrack
-Drift Net,DriftNetSecurities
-OPENLANE,openlane
-Randstad,Randstad
-Dexian,Dexian
-ScalePad,ScalePad
-Theta Lake,ThetaLake
-TransImpact,transimpact
-GLG,GLG
-Curated,curated
-Logixboard,Logixboard
-Seagate,Seagate
-Family First Life,FamilyFirstLife
-Orkes,orkes
-Wursta,wursta
-Bonfire,Bonfire
-Cision,Cision
-Argyle,Argyle
-HHAeXchange,HHAeXchange
-Upfluence,Upfluence
-Mulberry Technology,MulberryTechnology
-Privitar,Privitar
-Ingram Micro Cloud,IngramMicroCloud
-Pivotree,Pivotree
-Apryse,PDFTronSystemsInc
-Fountain,fountain
-ArisGlobal,ArisGlobal
-Ascendion,ascendion
-Productboard,productboard
-Dataminr,Dataminr
-Forethought,Forethought
-Chmura Economics & Analytics,ChmuraEconomicsAnalytics
-Brenntag,Brenntag
-RightCapital,rightcapital
-Nisos,nisos
-DSV,DSV
-International SOS,InternationalSOS
-OnSolve,OnSolve
-Logility,Logility
-SmartLinx,SmartLinxSolutions
-Cohere,cohere-inc
-Science Interactive Group,ScienceInteractive
-SimpleLegal,SimpleLegal
-Lewan Technology,LewanTechnology
-InRiver,InRiver
-WGSN,WGSN
-Epredia,Epredia
-Corporate Finance Institute,CorporateFinanceInstitute
-Handshake,Handshake
-DearDoc,DearDoc
-Mobile Mini,MobileMini
-Runwise,runwise
-durhamlane,durhamlane
-Idelic,Idelic
-Optiv,Optiv
-Insight Global,InsightGlobal
-Novatech,novatech
-Nylas,nylas
-Institutional Shareholder Services,InstitutionalShareholderServices
-Carahsoft Technology Corporation,CarahsoftTechnologyCorporation
-Prismm Technologies,prismm-technologies
-ALTEN,ALTEN
-Mondelez International,MondelezInternational
-CARFAX,Carfax
-Compugen,Compugen
-Phenom,PhenomPeople
-Sift,Sift
-Clover,Clover
-Storable,Storable
-Optomi Professional Services,OptomiProfessionalServices
-Patterson Dental,PattersonDental
-Denodo Technologies,DenodoTechnologiesInc
-Whatfix,Whatfix
-Crisis24,Crisis24
-Weaviate,weaviate
-Acosta,Acosta
-OPEXUS,opexus
-Super Payments,super-payments
-Park Place Technologies,ParkPlaceTechnologies
-Amplience,amplience
-The Pipeline Group,ThePipelineGroup
-WellSaid Labs,WellSaidLabs
-Obvious,Flatfile
-Polymershapes,polymershapes
-Stackline,Stackline
-Learning Pool,LearningPool
-BacklotCars,BacklotCars
-Exactera,Exactera
-DeckRobot,deckrobot
-Cobalt AI,CobaltRobotics
-Homes.com,homescom
-Connectd,connectd
-Simplilearn,Simplilearn
-USHealth Advisors,USHealthAdvisors9950
-Medix,Medix
-Rekor,RekorRecognitionSystems
-Concept3D,Concept3d
-Emplifi,Emplifi
-THRIVE,THRIVE
-ManpowerGroup,ManpowerGroup
-London Stock Exchange Group,LondonStockExchange
-Tilt,Tilt
-Tom James Company,TomJamescompany
-Newgen Software,newgen-software
-The Sales Factory,TheSalesFactory
-Charles River Development,CharlesRiverDevelopment
-Parsable,Parsable
-Digital Ox,digital-ox
-RSA Security,RSASecurity
-Incorta,Incorta
-Alyce,Alyce
-Cheetah Digital,CheetahDigital
-BiltOn,beti
-Sword Health,sword-health
-AdvancedMD,AdvancedMD
-Shipware,Shipware
-New Work SE,NewWorkSE
-Skyhigh Security,SkyhighSecurity
-BlueVoyant,BlueVoyant
-Ekata,Ekata
-Forvis Mazars,forvis
-Brookdale,Brookdale
-Orbus Software,Orbussoftware
-Logikcull,Logikcull
-Ramsey Solutions,RamseySolutions
-Verdantix,verdantix
-GridGain,gridgain
-Reading Horizons,ReadingHorizons
-Hornetsecurity,Hornetsecurity
-SoSafe,SoSafe
-Personify Health,VirginPulse
-New York Life Insurance,NewYorkLifeInsurance
-Lever,Lever
-IntelliShift,IntelliShift
-Rival,Rival
-Clutch,clutch
-SumTotal Systems,SumTotalSystems
-OneLocal,OneLocal
-Identiq,Identiq
-System Pavers,SystemPavers
-Epos Now,eposnow
-1WorldSync,1WorldSync
-DefenseStorm,DefenseStorm
-Scotlynn,Scotlynn
-AmberBox Gunshot Detection,amberbox
-Emotive,Emotive
-Retina.ai,Retinaai
-Denim Social,DenimSocial
-Vimeo,Vimeo
-Appian Corporation,AppianCorporation
-NINJIO Cybersecurity Awareness Training,NINJIO
-Aledade,Aledade
-Salesforce.org,Salesforceorg
-BioReference,BioreferenceLaboratories
-Celigo,Celigo
-Apiiro,Apiiro
-Motivosity,Motivosity
-SnapLogic,SnapLogic
-Lightpath,Lightpath
-Prefect,Prefect
-Zluri,zluri
-Sauce Labs,SauceLabs
-MYOB,MYOB
-Zivver,Zivver
-Procurify,Procurify
-Orkin,Orkin
-UPS,UPS
-DaySmart Appointments,DaySmartAppointment
-OfferUp,Offerup
-Allianz Trade,allianz-trade
-"Elavon, Inc.",ElavonInc
-Instil,instil
-Resolver,Resolver
-The Scion Group,TheScionGroup
-Buildout,Buildout
-AdAction,AdAction
-Honeywell,Honeywell
-Radware,Radware
-Cyara,Cyara
-insightsoftware,insightsoftware
-Britive,britive
-Guardsquare,Guardsquare
-NICE Actimize,nice-actimize
-Colossyan,colossyan
-Nosto,Nosto
-Expana,mintec
-Solsten,Solsten
-HomeStars,HomeStars
-BeyondID,BeyondID
-Oyo,Oyo
-HyperComply,HyperComply
-CoPilot AI,CoPilotAI
-Spirax Sarco,SpiraxSarco
-Introhive,Introhive
-The Federal Savings Bank,TheFederalSavingsBank
-Cybrary,Cybrary
-SHI International Corp.,SHI
-MultiView,multiview
-Flinks,Flinks
-Certn,Certn
-ClearData,Cleardata
-Total Quality Logistics (TQL),TotalQualityLogisticsTQL
-Wish,Wish
-NowSecure,NowSecure
-Snap Finance,SnapFinance
-Transfr Inc.,TransfrInc
-MOO,Moo
-Fastenal,Fastenal
-Korber Supply Chain,koerber-supply-chain-software
-Tricentis,Tricentis
-WellnessLiving,WellnessLiving
-Darktrace,darktrace
-Lightcast,Emsi
-Partnerize,Partnerize
-Soul Machines,soulmachines
-"By Appointment Only, Inc (BAO)",Bao
-Deepwatch,deepwatch
-A10 Networks,a10-networks
-Sapiens,sapiens
-VIAS3D,vias3d
-GoStudent,GoStudent
-Sanguine Biosciences,SanguineBiosciences
-Sphera,Sphera
-CMX1 (ComplianceMetrix),cmx1
-Charlie Health,charlie-health
-Alma Lasers North America,AlmaLasers
-Singtel,Singtel
-Alida,Alida
-Xylem,XylemDewatering
-Choice Home Warranty,ChoiceHomeWarranty
-Chowly,Chowly
-Healthicity,Healthicity
-Rootstock Software,RootstockSoftware
-Queue-it,Queueit
-WhiteHat DAST,WhiteHatSecurity
-Barracuda Networks,BarracudaNetworks
-Fastmarkets,Fastmarkets
-Lucanet,LucaNet
-CoreMedia,coremedia
-Worldline,Worldline
-Convoso,Convoso
-DiligenceVault,DiligenceVault
-TurnKey Lender,TurnKeyLender
-Ceros,Ceros
-DISCO,CSDISCO
-APS Payroll,APSPayroll
-Hibu,Hibu
-Segra,Segra
-FactoryFix,FactoryFix
-OpenText,Opentext
-15Five,15Five
-Cyberbit,Cyberbit
-TeamSense,teamsense
-"Burwood Group, Inc",BurwoodGroupInc
-Eventbrite,Eventbrite
-Riverbed Technology,RiverbedTechnology
-Blackpoint Cyber,blackpoint-cyber
-Meridian IT,meridian-it
-WellSky,Wellsky
-ATT,ATT
-SafeGuard Cyber,SafeGuardCyber
-Frontier Communications,FrontierCommunications
-AllVoices,AllVoices
-Doofinder,doofinder
-TradeBeyond,tradebeyond
-Starry,Starry
-Smartly.io,Smartlyio
-Symetri USA,Microdesk
-LightEdge Solutions,LightEdge
-Rundoo,rundoo
-TeleSign,TeleSign
-Prodigal,Prodigal
-Dakota Software,DakotaSoftware
-Nielsen,nielsen
-SourceDay,sourceday
-Medallia,Medallia
-Lime Technologies,LimeTechnologies
-Webfleet Solutions,WebfleetSolutions
-Seagull,Seagullscientific
-Frontline Education,FrontlineEducation
-G&A Partners,GAPartners
-Culligan,culligan
-Masterplan.com,Masterplan-com
-Aptean,Aptea
-NCR,NCR
-Instawork,Instawork
-Cint,Cint
-Univision,Univision
-Covetrus,Covetrus
-Wellhub,wellhub
-Promon,promon
-AMETEK,ametek
-Reputation Defender by Norton,ReputationDefender
-OC Tanner,OCtanner
-Talroo,Talroo
-Intellistack,Formstack
-Doodle,Doodle
-Zynex Medical,ZynexMedical
-ITRS Group,ITRSGroup
-TitanHQ,Titanhq
-CoreTrust,coretrust
-PhoneBurner,phoneburner
-Milliman,Milliman
-Thompson Safety,thompson-safety
-VikingCloud,VikingCloud
-Finix Payments,FinixPayments
-TELUS Agriculture & Consumer Goods,telus-agriculture-consumer-goods
-Katalon,KatalonInc
-Hasura,Hasura
-Mphasis,Mphasis
-Spectrio,Spectrio
-WorkTango,Kazoo
-hireEZ,Hiretual
-Corsearch,Corsearch
-Dun & Bradstreet,DunBradstreet
-FreightQuote,FreightQuote
-Alcumus,Alcumus
-Arcserve,Arcserve
-Dassault Systèmes,DassaultSystemes
-LegalZoom,legalzoom
-Fourth,Fourth
-Netacea,Netacea
-LumiQ,LumiQ
-Imprivata,Imprivata
-Crayon Group,CrayonGroup
-Bolt,Bolt
-Workstream,Workstream
-Arcos,Arcos
-PrimePay,PrimePay
-Oasis Security,oasis-security
-LifeRay,LifeRay
-Boxhub,Boxhub
-Rapyd,Rapyd
-Arrow Electronics,ArrowElectronics
-AlignOps,ToolWatch
-Firstup,Firstup
-mParticle,mParticle
-Caris Life Sciences,CarisLifeSciences
-Software AG,SoftwareAG
-Wesco Anixter,AnixterInternational
-Galvanize Inc,Galvanize
-Espressive,Espressive
-CodeSignal,CodeSignal
-AudioCodes,AudioCodes
-Stampli,Stampli
-Explorance,Explorance
-SightCall,SightCall
-Preply,Preply
-MSCI,MSCI
-Lumivero,Lumivero
-eProductivity Software,eproductivity-software
-Richardson Sales Performance,RichardsonSalesPerformance
-Trusted Shops,TrustedShops
-SYSPRO,syspro
-Argano,Argano
-Whova,Whova
-Progress MarkLogic,MarkLogi
-Kastle Systems,kastle
-Mainfreight,Mainfreight
-Ascend Technologies,AscendTechnologies
-CommentSold,CommentSold
-Teamtailor,Teamtailor
-LightBox,lightbox
-Dotloop,dotloop
-Employ Inc,EmployInc
-Criteria Corp,Criteriacorp
-ChaosSearch,ChaosSearch
-SonarSource,SonarSource
-Winningtemp,winningtemp
-Atos,Atos
-Alleva,alleva
-Lone Wolf Technologies,LoneWolfTechnologies
-Engageware,engageware
-Roadrunner Recycling,RoadrunnerRecycling
-Clarivate,clarivate
-Run:ai,Run-ai
-SEI Investments,SEIinvestments
-Relias,Relias
-Actian,Actian
-N2K,N2K
-Lambda,lambda
-Khoros,Khoros
-AEM,AEM
-BlueAlly,blueally
-Operto,operto
-Crayon,Crayon
-Hoth,Hoth
-ASAPP,ASAPP
-SolarWinds,Solarwinds
-Third Bridge,ThirdBridge
-Mayne Pharma,MaynePharma
-Akumin,Akumin
-Channelscaler,Allbound
-LawVu,LawVu
-Insightly,Insightly
-CooperSurgical,CooperSurgical
-Zeotap,zeotap
-ZenBusiness,zenbusiness
-Valtech,valtech
-IntelePeer,IntelePeer
-DrChrono,DrChrono
-Spirion,Spirion
-Accuris,accuris
-Nova Medical Centers,nova-medical-center
-Oracle HCM,OracleHCM
-Avo,Avo
-Lincare Holdings,LincareHoldings
-Thinkific,Thinkific
-MissionOne Media by Adlucent,adlucent
-Miramis Technologies,Pocketlaw
-Kulzer Dental,kulzer-dental-llc
-Entrust,Entrust
-Reynolds and Reynolds,ReynoldsandReynolds
-Unit4,Unit4
-Strategy,strategy
-Yext,Yext
-Notified,Notified
-Bio-Techne,BioTechne
-Bestpass,BestPass
-Evotix,Evotix
-Boost.ai,boost-ai
-Statista,statista
-Benify,benify
-Zimperium,zimperium
-"Datto, Inc.",DattoInc
-H-Wave,h-wave
-Budderfly,budderfly
-Brightpearl,brightpearl
-ScreenCloud,ScreenCloud
-"Coverall North America, Inc.",CoverallNorthAmericaInc
-Trinity Logistics,TrinityLogistics
-Miovision Technologies Inc,MiovisionTechnologiesInc
-Truepic,truepic
-Cloud Academy,CloudAcademy
-Prosperity Home,ProsperityHome
-Spectrum Business,SpectrumBusiness
-IBISWorld,ibisworld
-ADT,ADT
-Scrut Automation,scrut-automation
-FRONTLINE Selling,FRONTLINESelling
-Elevate K-12,ElevateK12
-Anderson Trucking Service,AndersonTruckingServices
-Nexxen,nexxen
-Alvaria,Alvaria
-PayIt,Payit
-Northern Trust Corporation,NorthernTrustCorporation
-Ermi,Ermi
-Saia Inc.,Saia
-SS&C Blue Prism,blueprism
-Randstad Technologies,RandstadTechnologies
-VFI Corporate Finance,VFICorporateFinance
-Wayfair,wayfair
-Wheels Up,WheelsUp
-Enpal,Enpal
-CampusLogic,CampusLogic
-FISPAN,FISPAN
-Zipwhip,Zipwhip
-BetterUp,BetterUp
-TESSCO Technologies,TESSCO
-Comscore,comscore
-ISI Markets,isi-emerging-markets-group
-Getinge,Getinge
-Mphasis Silverline,SilverlineCRM
-Canon Inc.,Canon
-Spectro Cloud,spectro-cloud-inc
-Archer,ArcherIntegratedRiskManagement
-JourneyTEAM,JourneyTeam
-Whisbi,Whisbi
-Storyblocks,Storyblocks
-Factorial HR,FactorialHR
-Formations,Formations
-Les Olson IT,LesOlsonIT
-Haiilo,smarp
-Envisio,Envisio
-Cornerstone OnDemand,CornerstoneOnDemand
-Crown Equipment,crown-equipment
-Tracker RMS,trackerrms
-Benevity,Benevity
-Fifth Third Bank,FifthThirdBancorp
-Cocoon,Cocoon
-Allvue Systems,AllvueSystems
-Hired,Hired
-J.B. Hunt Transport Services,jb-hunt
-Updox,Updox
-Prevedere,Prevedere
-Altice USA,alticeUSA
-"Aqueduct Technologies, Inc.",AqueductTechnologiesInc
-inKind,inkind
-Voxel,Voxel
-ZipRecruiter,ZipRecruiter
-IRIS Software Group,IRISsoftware
-Olive,Olive
-Cledara,Cledara
-Corporate Traveller,Corporatetraveller
-Route,Route
-pharosIQ,pharosiq
-Trusaic,Trusaic
-Houghton Mifflin Harcourt,HoughtonMifflinHarcourt
-Bread Financial,BreadFinancial
-Korn Ferry,KornFerry
-SoundHound,SoundHound
-Society for Human Resource Management (SHRM),SocietyforHumanResourceManagement
-Botkeeper,Botkeeper
-AEG,AEG
-Gravity Payments,gravity-payments
-PhishLabs,PhishLabs
-accessiBe,accessiBe
-Icertis,Icertis
-Exiger,Exiger
-goFLUENT,goFluent
-Upwork,Upwork
-Poppulo,Poppulo
-JobTarget,JobTarget
-C-4 Analytics,C4Analytics
-Wagestream,Wagestream
-Bizlibrary,Bizlibrary
-Tigera,Tigera
-Eviden,eviden
-Fuel Cycle,FuelCycle
-Copyleaks,copyleaks
-Trend Micro,TrendMicro
-Quickbase,QuickBase
-SpendHQ,SpendHQ
-Bombora,Bombora
-RiskLens,RiskLens
-Class,classtechnologies
-Beyonk,beyonk
-Navigate360,Navigate360
-Panaya,Panaya
-Micromine,micromine
-Paligo,paligo
-Brooklyn Sports & Entertainment,BSEGlobal
-LexCheck,lexcheck
-Victaulic,Victaulic
-Rackspace Technology,rackspace
-Dexters,dexters
-Web Scribble Solutions,WebScribbleSolutions
-Lambent,Lambent
-Xerox Business Solutions Midwest,COTG
-Verity,verity
-BenchPrep,BenchPrep
-Michael Page (Page Group),MichaelPage
-Dye & Durham Corporation,DyeandDurhamCorporation
-Wizehire,Wizehire
-DNSFilter,DNSFilter
-HealthStream,Healthstream
-SingleStore,SingleStore
-Braintrust,braintrust
-Hitachi Vantara,HitachiVantara
-Emissary,Emissary
-Bureau Veritas Group,BureauVeritasGroup
-CloudHealth,CloudHealthbyVMware
-GroundTruth,Groundtruth
-Reibus International,ReibusInternational
-Axway,Axway
-Netlify,Netlify
-Mitto,Mitto
-Demostack,Demostack
-Adentro,Zenreach
-Oxford Nanopore Technologies,OxfordNanoporeTechnologies
-Datassential,datassential
-Bitdefender,Bitdefender
-Egencia,Egencia
-WESCO International,WESCOInternational
-UsableNet,UsableNet
-LeadSquared,leadsquared
-Lawmatics,Lawmatics
-SalesIntel.io,SalesIntel
-"Stem, Inc.",StemInc
-Modern Treasury,modern-treasury
-Tapcart,Tapcart
-Bio-Rad Laboratories,BioRadLaboratories
-RapidAPI,RapidAPI
-Trellix,Trellix
-Optoro,Optoro
-Productsup,Productsup
-Nudge,nudge
-NCC Group,NCC
-CybelAngel,CybelAngel
-Core BTS,Corebts
-SALESmanago,Salesmanago
-TE Connectivity,TEConnectivity
-Boon AI,BoonAI
-EZRA Coaching,ezra-coaching
-Skybox Security,skybox
-Nursa,Nursa
-YOOBIC,Yoobic
-ButterflyMX,ButterflyMX
-Velosio,Velosio
-SetSchedule,SetSchedule
-Kendall Hunt Publishing,KendallHuntPublishing
-Workspan,Workspan
-Mammotome,Mammotome
-Cox Business,CoxBusiness
-BurnAlong Inc.,BurnAlongInc
-commercetools,commercetools
-inploi,inploi
-Decimal,Decimal
-SkillSoft,SkillSoft
-Deque Systems,DequeSystems
-Trustmi,trustmi
-SureCo,SurecoHealthAndTech
-AlliantGroup,alliantgroupLP
-Skyward Inc,Skyward
-Capco,Capco
-Silo,Silo
-illumend,myCOI
-iMatrix,iMatrix
-Untapped,Untapped
-AngelList,AngelList
-Blackhawk Network,BlackhawkNetwork
-Yembo,yembo
-Allstate Benefits,Allstatebenefits
-Vouched,vouched
-City Wide Facility Solutions,CityWideFacilitySolutions
-Alaska Communications,AlaskaCommunications
-Legion Technologies,Legion
-Clearco,Clearco
-Flowcode,flowcode
-Omnitracs,Omnitracs
-Engagedly,Engagedly
-Penske Truck Leasing,PenskeTruckLeasing
-Searce,Searce
-Ziply Fiber,ZiplyFiber
-Snipp Interactive Inc.,SnippInteractiveInc
-Vyond,vyond
-Annex Cloud,AnnexCloud
-Goosehead Insurance,GooseheadInsurance
-BIOTRONIK,Biotronik
-EQS Group,EQS
-Rightworks,Rightworks
-MFG,Mfgcom
-United States Gold Bureau,USGoldBureau
-Airspace,AirspaceTechnologies
-Integrate,Integrate
-Madwire,Madwire
-Athennian,Athennian
-Grant Thornton,Grantthornton
-ESET North America,ESETNorthAmerica
-RadarFirst,Radar
-Peak Sales Recruiting,peak-sales-recruiting
-TrackVia,TrackVia
-Netgain Solutions,netgain-solutions
-Schneider National Inc,schneider-national
-Here,OpenFin
-Socialive,Socialive
-"Upgrade, Inc.",upgrade
-Apptopia,Apptopia
-Indico Data,IndicoDataSolutions
-Better,Better
-Seldon,seldon
-Azul Systems,AzulSystems
-Hanover Research,HanoverResearch
-interface.ai,interface-ai
-Apex Energy Solutions,ApexEnergySolutions
-Pyramid Analytics,pyramidanalytics
-HighRadius,HighRadius
-Dynamic Yield,DynamicYield
-"Jobcase, Inc.",Jobcase
-SmartBear Software,SmartBearSoftware
-Foursquare,Foursquare
-RR Donnelley,RRD
-HiveWatch,hivewatch
-KINEXON,kinexon
-Wallbox Chargers,WallboxChargers
-Rocketium,Rocketium
-Hyqoo,hyqoo
-ASUS,asus-computer
-Airship,Airship
-Access Information Management,access-information-management
-SoftwareONE,Comparexusa
-KnowBe4,KnowBe4
-American Residential Services,AmericanResidentialServices
-Uscreen,uscreen
-WorkWhile,workwhile
-Castor EDC,CastorEDC
-Particl,particl
-North Highland,NorthHighland
-W.B. Mason Company,WBmason
-SureFire Local,surefire-local
-Unitrends,unitrends
-Levata,levata
-JRNI,JRNI
-Legit Security,legit-security
-Ryan,Ryan
-NCR Voyix,ncr-voyix
-Myers Holum Inc,MyersHolumInc
-SpectrumVoIP,SpectrumVoIP
-Autura,autura
-Hawk Ridge Systems,HawkRidgeSystems
-Optus,Optus
-Lengow,Lengow
-Provation,Provation
-EventMobi,EventMobi
-Seasoned,Seasoned
-Xsolis,xsolis
-Snow Software,SnowSoftware
-Fivecast,Fivecast
-Ivanti,Ivanti
-BrightHR,BrightHR
-Zeller,Zeller
-Teladoc Health,Teladochealth
-FieldEdge (Xplor),FieldEdge
-Contrast Security,ContrastSecurity
-2U,2U
-Sinch,Sinch
-Aerolase,aerolase
-Securiti,Securiti
-Hearst,Hearst
-Angi,AngiesList
-Dealer Spike LLC,Dealerspike
-Vantage Marketing,vantagemarketing
-Kantox,kantox
-Automation Anywhere,AutomationAnywhere
-Deliverr,Deliverr
-Vade,vade
-Metro Sales Inc.,MetroSalesINC
-Clientbook,Clientbook
-Treasure Data,TreasureData
-The RealReal,therealreal
-SpotOn,SpotOn
-VensureHR,VensureHR
-Cegid,cegid
-Gen,gen-digital
-Thomas International,ThomasInternational
-OpenReel,OpenReel
-Traliant,Traliant
-Nordcloud,nordcloud
-PDSVISION,pdsvision
-Echo Global Logistics,echogloballogistics
-Doctify,doctify
-Picus Security,picus-security
-Coface,Coface
-C2FO,C2FO
-Rosetta Stone,RosettaStone
-Splashtop Inc,SplashtopInc
-Team Engine,TeamEngine
-E2open,E2Open
-Armorblox,Armorblox
-VaxCare,VaxCare
-Zesty,zesty
-Humanitru,humanitru
-Lytho,inMotionNow
-Guidehouse,Guidehouse
-WorkMotion,WorkMotion
-Logix Fiber Networks,LogixFiberNetworks
-SurePayroll,SurePayroll
-Edge226,Edge226
-SafeGraph,SafeGraph
-DreamBox Learning,DreamBoxLearning
-Tubular Labs,TubularLabs
-Shippeo,shippeo
-Paychex,Paychex
-Supplier.io,supplier-io
-dormakaba,dormakaba
-Revenue Grid,RevenueGrid
-TomTom,Tomtom
-The Judge Group,Thejudgegroup
-Macrobond Financial,MacrobondFinancial
-Protegrity,Protegrity
-Brightspeed,brightspeed
-Vendr,Vendr
-Quantiphi,Quantiphi
-Augmedics,augmedics
-Cameo,Cameo
-Chamberlain Group,ChamberlainGroup
-Checkpoint Technologies,CheckpointTechnologies
-ClearSale,clearsale
-SiteCore,SiteCore
-ADT Solar,ADTSolar
-Automation Hero,AutomationHero
-Dentsply Sirona,DentsplySirona
-Vector Security,Vector
-Adecco,Adecco
-FareHarbor,FareHarbor
-Entropik Tech,Entropiktech
-Total Expert,TotalExpert
-Centage,Centage
-Tradeshift,Tradeshift
-Sales Transformation Group,SalesTransformationGroup
-QorusDocs,QorusDoc
-Leena AI,LeenaAI
-Terryberry,Terryberry
-Assembly Software,AssemblySoftware
-Addigy,Addigy
-LivingSocial,LivingSocial
-AMCS,AMCS
-Accelo,Accelo
-Cerner,Cerner
-MediaRadar,MediaRadar
-CareerArc,CareerArc
-NewtonX,NewtonX
-Uberflip,Uberflip
-Anvyl,Anvyl
-Cybba,Cybba
-Bluebird Fiber,BluebirdNetwork
-DiliTrust,DiliTrust
-Visiting Media,Visiting-Media
-Pearson Education,PearsonEducation
-Metronet,Metronet
-Sendlane,Sendlane
-TForce Freight,tforce-freight
-Omnigo,Omnigo
-Egen,springml
-Revolut,Revolut
-re:Members,billhighway
-Aviatrix,Aviatrix
-Productiv,Productiv
-Snappy Gifts,SnappyGifts
-Duda,Duda
-Adeptia,Adeptia
-Trace Minerals,trace-minerals
-CloudKitchens,CloudKitchens
-Intigriti,Intigriti
-Guaranteed Rate,guaranteedrate
-Waters Corporation,waters-corporation
-Datatonic,datatonic
-Global Relay,GlobalRelay
-PHMG,PHMG
-Shipamax,Shipamax
-Bird,MessageBird
-TigerGraph,TigerGraph
-Galderma,Galderma
-LanguageLine Solutions,LanguageLine
-Cybereason,Cybereason
-MaestroQA,MaestroQA
-Acxiom,Acxiom
-Integrity360,integrity-360
-Beans.ai,beans-ai
-Assignar,Assignar
-Zerocater,zerocater
-CommerceIQ,CommerceIQ
-Sidetrade,Sidetrade
-SkyHive,SkyHive
-Notable,Notable
-BentoBox,BentoBox
-Vibe.co,vibe-co
-iAdvize,iAdvize
-Veza,veza
-STACK Construction Technologies,stack-construction-technologies
-The Acquisition Group,theacquisitiongroup
-Pentair,Pentair
-AmeriSave,AmeriSave
-Lookout,Lookout
-Stericycle,stericycle
-Salary.com,Salarycom
-Solv Health,Solv
-Bolster,CostCertified
-Monster,Monstercom
-ECI Software Solutions,ECIsoftwaresolutions
-Zix Corporation,ZixCorporation
-Aston Carter,AstonCarter
-Customer Lobby,CustomerLobby
-Otter,TryOtter
-Advanced Technology Services (ATS),advanced-technology-services
-Grand Canyon Education,GrandCanyonEducation
-Kowa Pharmaceuticals America,Kowa
-Labster,Labster
-FMO Media,fmo-media
-Tomorrow.io,tomorrowio
-HungerRush,Hungerrush
-Direct Components Inc,DirectComponentsInc
-Optum,Optum
-BrainCheck,Braincheck
-Globant,Globant
-T-REX Group,TREXGroup
-HCLSoftware,hcl-software
-PGi,PGi
-OneSpan,OneSpan
-Netradyne,Netradyne
-Enfusion,Enfusion
-Brightmine,XpertHR
-Eldermark,eldermark
-Upflex,upflex
-Veriforce,Veriforce
-Odaseva,Odaseva
-"Neuronetics, Inc.",Neuronetics
-Files.com,Filescom
-Imagine Learning,ImagineLearning
-AdPushup,Adpushup
-Adlib,AdlibSoftware
-The Remi Group (Remi),TheRemiGroup
-simpleshow,simpleshow
-Leadoo,Leadoo
-Envoy,Envoy
-Salesfire,salesfire
-UEAT,Ueat
-Dispatch,Dispatch
-Atlas,Atlashxm
-"Validity, inc.",Validityinc
-CompHealth,CompHealth
-Trolley,Trolley
-LA Fitness,LAfitness
-symplr,symplr
-InMode,Inmode
-Sprint,Sprint
-MassPay,Masspay
-Hustle,hustle
-Persado,persado
-CastleBranch,CastleBranch
-Kixie,Kixie
-Menu Connect,SinglePlatform
-Darwinbox,Darwinbox
-Grubhub,Grubhub
-Universal Robots,universal-robots
-Via,Via
-Wiser,Wiser
-HID Global,HIDGlobal
-Jitterbit,Jitterbit
-Lucas Systems,Lucas
-DAS42,DAS42
-FUJIFILM Business Innovation Singapore,FUJIFILMBusinessInnovationSingapore
-OX Security,ox-security
-Blue Ridge,BlueRidge
-Infraspeak,Infraspeak
-Rakuten,Rakuten
-Credly,Credly
-Illumia,TransactCampusInc
-Perficient,perficient
-TINYpulse,TINYpulse
-Kontent.ai,kontent-ai
-ProService Hawaii,ProServiceHawaii
-Rapidscale,Logicworks
-Sedex,sedex
-RGP,Rgp
-Wheel,Wheel
-PERSUIT,Persuit
-Keap,Keap
-BetterHelp,BetterHelp
-Upsun,platformsh
-Leyton,Leyton
-Craft,Craft
-HCL Technologies,Hcl
-Technology & Services Industry Association,TechnologyServicesIndustryAssociation
-BusinessNext,CRMNEXT
-Docupace,Docupace
-Feedzai,Feedzai
-Ebury,ebury
-Life Time,LifeTime
-Certus Recruitment Group,Certus
-Mindray,Mindray
-Computer Generated Solutions (CGS),ComputerGeneratedSolutions
-Advarra,advarra
-Aurigo Software Technologies,aurigo-software
-Gecko Robotics,GeckoRobotics
-ProcedureFlow,ProcedureFlow
-Ably,Ably
-Lithia Motors,LithiaMotors
-Wurth,Wurth
-Global Payments,GlobalPayments
-SugarCRM,Sugar
-Professional Sports Publications,ProfessionalSportsPublications
-RealSelf,RealSelf
-ContinuumCloud,continuumcloud
-Optimize Health,Optimizehealth
-Weedmaps,Weedmaps
-Byram Healthcare,ByramHealthcare
-Stott and May,StottandMay
-Regal Wine Company,regalwinecompany
-Tenstreet,Tenstreet
-VIAVI Solutions,viavi-solutions
-Turtl,Turtl
-Logically,Logically
-Radius,Radius
-Centrical,Centrical
-Dice,Dice
-Milestone Inc.,MilestoneInternet
-Reach,Reach
-Trackunit,Trackunit
-Adwerx,Adwerx
-SetSail,SetSail
-CloudBees,CloudBees
-LoanStreet Inc.,LoanStreet
-bioMérieux,biomerieux
-Demodesk,Demodesk
-Virtalis,Virtalis
-Innovapptive,Innovapptive
-Arbiter,arbitersports
-Diebold Nixdorf,DieboldNixdorf
-Ooma,Ooma
-Granicus,Granicus
-Ledgy,Ledgy
-Lumicity,Lumicity
-Onapsis,Onapsis
-Kaleidoscope,Kaleidoscope
-NoRedInk,NoRedInk
-deskbird,deskbird
-Chattr,chattr
-Sifted,Sifted
-Todyl,Todyl
-Spryker Systems,SprykerSystems
-HourWork,HourWork
-Altium,Altium
-Tekion,Tekion
-Info-Tech Research Group,InfoTechResearchGroup
-Bungalow Living,BungalowlivingInc
-Templafy,Templafy
-Concentrix,ServiceSource
-Trucker Path,trucker-path
-Air AI,air-ai
-Relay Network,RelayNetwork
-Consensus Cloud Solutions,ConsensusCloudSolutions
-Tech Mahindra,techmahindra
-Conversica,Conversica
-ISMG,ismg
-Meditrina,meditrina
-Bizzdesign,BiZZdesign
-Sartorius,Sartorius
-Lumifi,Netsurion
-"MedInc of Texas, Arthrex Distributor",MedIncofTexas
-CIENCE,CIENCE
-Proficio,PROFICIO
-Elation Health,ElationHealth
-Workiz,workiz
-Bamboo Rose,BambooRose
-Victorious,VictoriousSEO
-Feefo,Feefo
-Loftware,Loftware
-Clear Channel Outdoor,clearchannel
-Lower,Lower
-AutoRABIT,Autorabit
-NTT DATA,NTTDATA
-PFL,PFL
-evolv Consulting,evolvConsulting
-GNC,GNC
-SPHERE Technology Solutions,sphere-technologies
-Tricerat,Tricerat
-PredictHQ,PredictHQ
-FindLaw,FindLaw
-Bitrise,Bitrise
-MotionPoint,motionpoint
-Ylopo,ylopo
-Markforged,Markforged
-Tietoevry,tietoevry
-Intelligent Medical Objects,IntelligentMedicalObjects
-Conexiom,Conexiom
-TownSquare Interactive,TownSquareInteractive
-truckstop.com,truckstopcom
-eDesk,Edesk
-GRIN,GRIN
-Modernize,Modernize
-foreUP,foreUP
-Transaction Network Services,Transactionnetworkservices
-Canvas,Canvas
-Korbyt,Korbytcom
-iboss,iboss
-3Pillar Global,3PillarGlobal
-VTEX,Vtex
-Dolby,Dolbyio
-Xodus Medical,xodus-medical
-EasyVista,EasyVista
-Endava,Endava
-Effectv,Effectv
-CheckedUp,checkedup
-Envestnet,Envestnet
-i-PRO,iPROAmericasInc
-Loom,Loom
-The Block,TheBlock
-Avenue Logistics,avenue-logistics
-MacroFab,MacroFab
-LaSalle Network,LasalleNetwork
-Azira,Near
-CybSafe,CybSafe
-Zenarate,zenarate
-J.R. Simplot Company,JRSimplotCompany
-TransLoc (owned by Modaxo),TransLoc
-Omdia,Omdia
-City National Bank,CityNationalBank
-Rush Enterprises,Rushtruckcenters
-Veradigm,Allscripts
-Simplr.ai,simplr
-Zensai,zensai
-Glue Up,GlueUp
-YuJa,YuJa
-TaskHuman,TaskHuman
-Arjo,Arjo
-FoodLogiQ,FoodLogiQ
-Hybrid,Hybrid
-Yellowbrick Data,YellowbrickData
-Digital Turbine,DigitalTurbine
-AppTweak,AppTweak
-Intrado,Intrado
-Cascade Strategy,CascadeStrategy
-ARC Document Solutions,ARCDocumentSolutions
-Marco Technologies,MarcoTechnologies
-Veem,Veem
-Amount,Amount
-Genetec,Genetec
-Relatient,Relatient
-iGrafx,igrafx
-#paid,Hashtagpaid
-Soliant,Soliant
-Heartland Payment Systems,HeartlandPaymentSystems
-Community.com,Communitycom
-iWorQ Systems,iWorQSystems
-Hungry,hungry
-N.Rich,NRich
-Lunchbox.io,Lunchboxio
-SOTI,SOTI
-Vervint,vervint
-Sealed Air,SealedAir
-The Qt Company,TheQtCompany
-Avaya,Avaya
-PowerToFly,PowerToFly
-Numerated,numerated
-Persistent,Persistent
-Office Depot,OfficeDepot
-ChannelSight,ChannelSight
-Rimini Street,RiminiStreet
-Kaseya,Kaseya
-Bottomline Technologies,bottomlinetechnolog
-Glassbox Digital,Glassbox
-LifeLabs Learning,LifeLabs-Learning
-Quid,NetbaseQuid
-66degrees,66degrees
-Revel Systems,RevelSystems
-7SIGNAL,7SIGNAL
-Provi,Provi
-Martindale-Avvo,martindale-avvo
-Tradesmen International,TradesmenInternational
-Cinchy,Cinchy
-Ladle,ladle
-White Label Communications,WhiteLabelCommunications
-HealthPlanOne,HealthPlanOne
-BrandSafway,Brandsafway
-VeUP,veup
-Bold Commerce,BoldCommerce
-Net2Phone,Net2Phone
-Columbus,Columbus
-Threekit,Threekit
-Brooksource,Brooksource
-Arity,Arity
-DXC Technology,DXC
-Prophecy,prophecy-io
-Robin AI,robin-ai
-Windstream,WindstreamHoldings
-Supermicro,supermicro
-Alloy.ai,Alloy
-Famly,Famly
-Allied USA,AlliedUSA
-Clutch Solutions,ClutchSolutions
-Global Knowledge Training,GlobalKnowledgeTraining
-Act-On Software,ActOnSoftware
-FiscalNote,FiscalNote
-Aetna,Aetna
-Metapack,Metapack
-"Collabera, Inc",CollaberaInc
-BlueGrace Logistics,BluegraceLogistics
-InfutorData,Infutor
-Ingenious.Build,ingenious-build
-Nuvei,Nuvei
-BrightView Landscapes,BrightView
-Emergent LLC,EmergentLLC
-Laiye,Laiye
-Adaptiva,Adaptiva
-FlashLabs,flashintel
-Oxford Global Resources,OxfordGlobalResources
-Signpost,Signpost
-Marcus Evans Group,MarcusEvans
-TransPerfect,Transperfect
-MetaMap,MetaMap
-Masimo,Masimo
-Priority1,Priority1
-Clearent,Clearent
-Plume Design,PlumeDesign
-Drips,Drips
-Calero,calero
-Newforma,Newforma
-Stellar Elements,stellar-elements
-Protolabs,ProtoLabs
-Prestige Staffing,PrestigeStaffing
-Cequence Security,cequence-security
-Smurfit WestRock,WestRock
-Momentive Software,CommunityBrands
-Gigamon,Gigamon
-Centercode,Centercode
-GoGuardian,GoGuardian
-Verisk Marketing Solutions,verisk-marketing-solutions
-Weed Man,WeedMan
-Qumulo,Qumulo
-Promenade,Promenade
-Masterworks.io,masterworksio
-QuickNode,quicknode
-Paysafe Group,Paysafegroup
-Progressive Leasing,ProgressiveLeasing
-Claranet,claranet
-Ansarada,Ansarada
-SCC,SCC
-Zoovu,Zoovu
-Nuix,Nuix
-SmartFinancial,Smartfinancial
-Aesthetic Management Partners,AestheticManagementPartners
-Inspirato,Inspirato
-Teletrac Navman,TeletracNavmanNewZealand
-Carbon6,carbon6
-Brainlab,Brainlab
-Optimy,Optimy
-Lillio,Himama
-Skedulo,Skedulo
-Sheer Logistics,SheerLogistics
-InvestCloud,InvestCloud
-Pipl,Pipl
-Teleperformance,Teleperformance
-Reveal,Reveal
-CloudSense,CloudSense
-Scratchpad,scratchpad
-PeopleGrove,PeopleGrove
-Foundry,Foundry
-Empower Pharmacy,EmpowerPharmacy
-HeadSpin,HeadSpin
-Paynada,paynada
-Bytes Software Services,Bytes
-Innovaccer,Innovaccer
-Commsor,Commsor
-Xerox Business Solutions,XeroxBusinessSolutions
-Multivista,Multivista
-Co-operators,Cooperators
-Pistachio,pistachio-as
-DigitalRoute,DigitalRoute
-Infosec Institute,infosecinstitute
-Novogene America,NovogeneAmerica
-Narvar,Narvar
-GiveCampus,GiveCampus
-Wowza,Wowza
-Acclarent,Acclarent
-FUJIFILM Healthcare Americas Corporation,FujifilmMedical
-Shippit,Shippit
-OpenWeb,OpenWeb
-BlueVine,BlueVine
-Kafene,kafene
-Granulate,Granulate
-Ruby,Ruby
-Convera,convera
-Palantir,Palantir
-UL Solutions,UnderwritersLaboratories
-CloudCall,CloudCall
-Mayan,mayan
-Enumerate,Enumerate
-Ontop,Ontop
-Molex,molex
-Adorama,adorama
-Tithe.ly,Tithely
-Mentimeter,Mentimeter
-Microchip USA,microchip-usa
-Paessler GmbH,Paessler
-Solcom,solcom
-Intertek,Intertek
-Delaget,Delaget
-NuWest Group,NuWestGroup
-The Knot Worldwide,Theknot
-KlearNow.AI,KlearNow
-WeTravel,Wetravel
-Medely,Medely
-Swoon,Swoon
-Nintex,Nintex
-"Kyocera Document Solutions America, Inc.",Kyocera
-Rocket Lawyer,RocketLawyer
-Konica Minolta,KonicaMinolta
-TricorBraun,tricorbraun
-Manulife Wealth & Asset Management,ManulifeInvestmentManagement
-Bolt,bolt-ou
-Xebia,xebia
-CoreStack,CoreStack
-Huawei,Huawei
-LoanPro,LoanPro
-EquipmentShare,equipmentshare
-CAST Software,CASTSoftware
-Statusphere,Statusphere
-Leonardo247,Leonardo247
-Nextiva,Nextiva
-Pactum AI,Pactum
-Modern Health,ModernHealth
-International Sports Management,InternationalSportsManagement
-GoodLeap,Goodleap
-Foley.io,Foley
-Qohash,qohash
-Lennar,Lennar
-Toucan Toco,ToucanToco
-Catalyte,Catalyte
-Mentor Collective,MentorCollective
-Bold Penguin,BoldPenguin
-Dealfront,dealfront
-Torch Dental,TorchDental
-LHH,LHH
-Marketing 360,marketing360
-Astound Business Solutions,AstoundBusinessSolutions
-Baxter Planning,baxter-planning
-Elite Listings,Addressable
-Stavvy,Stavvy
-Energage,Energage
-LeadGenius,LeadGenius
-Nigel Frank International,NigelFrankInternational
-Bonusly,Bonusly
-Hearth,Hearth
-Axians,Axians
-Secureworks,Secureworks
-JupiterOne,JupiterOne
-Netrix Global,Netrix
-RapidAI,rapidai
-Creditsafe,creditsafe
-TeamViewer,TeamViewer
-Unifyr,ZiftSolutions
-Upland Software,UplandSoftware
-TPx Communications,TPx
-Beyond Identity,BeyondIdentity
-BlueCargo,bluecargo
-Elastic Path,ElasticPath
-Fishbowl Inventory,Fishbowl
-Astound Digital,AstoundCommerce
-Defy Security,DefySecurity
-Gloo,Gloo
-Xenon Arc,Xenonarc
-Wind River,WindRiver
-Sully.ai,sully-ai
-Handle,Handle
-Varsity Tutors,VarsityTutors
-ReversingLabs,ReversingLabs
-Freedom Mortgage,FreedomMortgage
-QA Learning,QAlearning
-Esendex,EsendexUSA
-"RXO, Inc.",rxo
-Catalina Marketing,CatalinaMarketing
-The Select Group,TheSelectGroup
-Eptura,Eptura
-Eftsure,eftsure
+Company,Slug,Score
+Mistral AI,mistral-ai,102.65
+Rebar,rebar,102.17
+Siro,siro,101.46
+Getguru.com,getgurucom,101.06
+ProsperOps,ProsperOps,101.03
+Associated,associated,100.69
+Champify,champify,100.63
+ASAP inc,asap-inc,100.12
+Rilla,rillavoice,100.09
+Auth0,auth0,100.00
+Giga,giga,99.89
+Mangomint,mangomint-70c1594b-36a3-4933-8390-bbd76919a157,99.30
+Raymond West,RaymondWest,98.97
+January,january,98.85
+Solidgate,Solidgate,98.77
+Wistia,Wistia,98.71
+Ivo,ivo,98.60
+Cursor,cursor,98.32
+Whatnot,whatnot,98.16
+LettrLabs,lettrlabs,98.05
+Jetty,Jetty,97.97
+Campfire,Campfire,97.90
+Opus Technology,agilethought,97.64
+Thread HCM,threadhcm,97.61
+Rootly,rootly,97.57
+Everstage,everstage,97.44
+BreachRx,breachrx,97.39
+Prolifiq.ai,Prolifiqai,97.36
+The N2 Company,N2Publishing,97.31
+Maestra.io,maestra,97.27
+Unframe AI,unframe-ai,97.24
+SourceWhale,SourceWhale,97.15
+Triple Whale,TripleWhale,97.09
+Linear,linear,97.01
+Comply Pro,ComplyPro,96.94
+Anagram,Anagram,96.91
+Wiza,Wiza,96.90
+Eve Legal,eve-legal,96.88
+Energy CX,energy-cx,96.81
+News Corp.,NewsCorp,96.69
+Dedrone,Dedrone,96.62
+Omnea,omnea,96.59
+Blue J,BlueJLegal,96.56
+Triumvirate Environmental,triumvirate-environmental,96.55
+Vendelux,vendelux,96.50
+CompanyCam,CompanyCam,96.33
+AI Clearing,ai-clearing,96.29
+ScaleOps,scaleops,96.20
+Asurint,Asurint,96.11
+Accord,Accord,96.11
+TA Instruments,TAInstruments,96.09
+SewerAI,sewerai,96.08
+Deepgram,Deepgram,95.98
+Amplemarket,Amplemarket,95.97
+CloudTalk,cloudtalk,95.90
+Actively AI,actively-ai,95.88
+RemoFirst,remofirst,95.84
+Nooks,nooks,95.75
+Interseller,Interseller,95.75
+Juro,Juro,95.68
+2B Talent Solutions,2b-talent-solutions,95.67
+Xygeni,xygeni,95.67
+Oak Street Health,Oakstreethealth,95.54
+JobTread,jobtread,95.51
+RT Specialty,RTSpecialty,95.47
+Clazar,clazar,95.40
+Omni,omni-analytics,95.32
+Force Management,ForceManagement,95.26
+AIHR,AIHR,95.25
+Rockerbox,rockerbox,95.23
+Maxwell,Maxwell,95.17
+QuotaPath,QuotaPath,95.16
+Jack Henry,JackHenry,95.08
+Ionic,Ionic,95.08
+Scytale,scytale,95.04
+Okteto,okteto,95.03
+Meter,meter,95.01
+Popl,popl,94.93
+Americor,Americor,94.89
+ProfitWell,ProfitWell,94.80
+Landytech,landytech,94.79
+Temporal Technologies,temporal,94.71
+ROLLER Software,roller-software,94.67
+QA Wolf,QAWolf,94.63
+MutinyHQ,MutinyHQ,94.63
+NuVasive,NuVasive,94.58
+SafeSend,SafeSend,94.56
+Freshpaint,freshpaint,94.55
+TraceAir,TraceAir,94.54
+Socket,socket-dev,94.54
+Adaptive Security,adaptive-security,94.51
+HighByte,HighByte,94.48
+IMPLAN,IMPLAN,94.47
+Topline Pro,topline-pro,94.45
+TitanX,titanx,94.42
+Guidewire Software,GuidewireSoftware,94.40
+LPT Realty,lpt-realty,94.38
+UserGems,Usergems,94.37
+Mercury,Mercury,94.35
+Nvidia,Nvidia,94.32
+Lane Four,lanefour,94.28
+Pacvue,pacvue,94.25
+Ressio Software,ressio-software,94.23
+Modo Energy,modo-energy,94.21
+"Elucent Medical, Inc.",ElucentMedicalInc,94.19
+BW Events Tech,bw-events-tech,94.12
+Dagster Labs,dagster,94.04
+Lawpath,lawpah,93.96
+Acceldata,acceldata,93.96
+Sales Talent Agency,SalesTalentAgency,93.96
+Wiser Elite,WiserElite,93.94
+Cirium,Cirium,93.91
+commonsku,commonsku,93.91
+KLS Martin Group,kls,93.86
+Raptor Maps,raptormaps,93.85
+MEDDICC,meddicc,93.84
+SpotHero,SpotHero,93.73
+AMAROK,AMAROK,93.70
+Salesfinity,salesfinity,93.69
+Karbon,Karbon,93.66
+Skip fka SkipTheDishes,SkipTheDishes,93.64
+Element451,Element451,93.59
+Ramp,Ramp,93.59
+SiriusXM,siriusxm,93.58
+Groundcover,groundcover,93.57
+Connecteam,connecteam,93.56
+Sublime Security,sublime-security,93.54
+Trullion,trullion,93.54
+Revenoid,revenoid,93.49
+Vicarius,vicarius,93.48
+Acumatica,Acumatica,93.48
+SoFi,Sofi,93.43
+Skio,skio,93.37
+Shopmonkey,shopmonkey,93.36
+Zinc,zinc,93.32
+Gilead Sciences,GileadSciences,93.31
+Betts,Betts,93.28
+Orb,withorb-com,93.26
+Virtru,Virtru,93.25
+Strider Technologies,strider-intelligence,93.24
+Censys,Censys,93.23
+InsideSales,InsideSales,93.21
+eMoney Advisor,eMoneyAdvisor,93.16
+Tremendous,tremendous,93.16
+Cycode,cycode,93.04
+Pipedrive,Pipedrive,93.04
+Brellium,brellium,92.99
+Roofr,roofr,92.97
+Victory Home Remodeling,victory-home-remodeling,92.92
+Texas Instruments,TexasInstruments,92.92
+OpenAI,openai,92.89
+Pento,Pento,92.88
+DX,dx,92.87
+Rainforest QA,RainforestQA,92.84
+National General,NationalGeneral,92.83
+Owner.com,Ownercom,92.82
+NetBox Labs,netbox-labs,92.79
+Beck Technology,BeckTechnology,92.77
+Hiver,Hiver,92.73
+Lightyear,Lightyear,92.73
+LTK,LTK,92.73
+Luzmo,luzmo,92.71
+Rocketlane,rocketlane,92.69
+Cambridge Spark,cambridge-spark,92.69
+Roboflow,roboflow,92.66
+Thread,thread,92.62
+Telenor,Telenor,92.58
+Dexcom,Dexcom,92.55
+Arch,arch,92.54
+Qwiet AI,ShiftLeft,92.52
+Hex,hex,92.51
+SafeBase,safebase,92.50
+simpleclub,simpleclub,92.48
+Mosaic.tech,mosaictech,92.42
+Byte,Byte,92.39
+Edgescan,Edgescan,92.34
+Platform9,Platform9,92.30
+Skedda,skedda,92.30
+PatientPoint,PatientPoint,92.28
+OnLogic,OnLogic,92.27
+Jobscan,jobscan,92.25
+Stellar Health,stellar-health,92.24
+Seequent,Seequent,92.20
+Sims Lifecycle Services,SimsLifecycleServices,92.16
+Perry Weather,perry-weather,92.13
+Contra,contra,92.12
+UserVoice,Uservoice,92.11
+Chorus,Chorus,92.11
+Growthspace,Growthspace,92.08
+Coder,coder-technology,92.02
+Metaview,metaview,92.02
+Advisory Board,AdvisoryBoard,92.01
+InsideView (owned by Demandbase),InsideView,91.99
+Pie Insurance,pieinsurance,91.97
+Omnisend,Omnisend,91.94
+Myriad360,Myriad360,91.94
+Vitally.io,Vitallyio,91.86
+WhatConverts,whatconverts,91.84
+Xnurta,xnurta,91.75
+Check Point SASE,Perimeter81,91.74
+Casetext,Casetext,91.69
+Boostlingo,boostlingo,91.69
+Lightico,Lightico,91.68
+Braintrust.dev,braintrust-dev,91.68
+Skydio,Skydio,91.66
+HockeyStack,hockeystack,91.65
+Regie.ai,Regieai,91.65
+Hearsay Systems,HearsaySystems,91.61
+iManage,imanage,91.61
+Workshop,Workshop,91.60
+IntelAgree,IntelAgree,91.57
+AtriCure,Atricure,91.56
+Windsurf,codeium,91.55
+Phillips 66,Phillips66,91.52
+Big Think Capital,bigthinkcapital,91.51
+EliseAI,Eliseai,91.45
+Owl Labs,OwlLabs,91.43
+Feathr,Feathr,91.41
+Go Sales,go-sales,91.41
+Kiavi,Kiavi,91.40
+Convoy,Convoy,91.37
+Capitol Canary,Phone2Action,91.36
+Oscilar,Oscilar,91.34
+Savvas,Savvas,91.34
+Squeeze Media,squeeze-media,91.31
+Wrapbook,Wrapbook,91.31
+Booster Enterprises,BoosterEnterprises,91.30
+Orama Solutions,OramaSolutions,91.30
+Saepio Information Security,SaepioInformationSecurity,91.29
+MaintainX,MaintainX,91.29
+SEWELL,SEWELL,91.27
+Field Materials,field-materials,91.26
+Rebuy Engine,RebuyEngine,91.24
+BrandBastion,BrandBastion,91.18
+Trucker Tools,truckertools,91.18
+Scribe,scribe,91.16
+Descope,descope,91.16
+Jellyfish Co,jellyfish-co,91.15
+Prompt Health,prompt-therapy-solutions,91.12
+Access Systems,AccessSystems,91.12
+Packsize,Packsize,91.12
+Influ2,Influ2,91.11
+Dow,DowChemical,91.09
+incident.io,incidentio,91.08
+Sitemate,Sitemate,91.07
+Giatec,Giatec,91.05
+Armory,armory,91.04
+Alkira,Alkira,91.03
+Cognition,cognition,90.99
+BUCHI Laboratory Equipment,BUCHICorporation,90.97
+Swiftly,Swiftly,90.97
+"Applied Medical Technology, Inc. (AMT)",AppliedMedicalTechnologyIncAMT,90.96
+Savant Labs,savant-labs,90.96
+M-Files,MFiles,90.95
+DemandJump,DemandJump,90.94
+Salesforce Maps,SalesforceMaps,90.93
+Hightouch,Hightouch,90.93
+Outbuild,outbuild,90.91
+Kallidus,Sapling,90.91
+Ideals,ideals,90.85
+Inky,Inky,90.80
+Cisco Meraki,Meraki,90.79
+Ashby,Ashby,90.79
+RudderStack,RudderStack,90.78
+Tailscale,tailscale,90.74
+Consensus,Consensus,90.71
+RevenueCat,Revenuecat,90.69
+Reddit,Reddit,90.68
+Proliant,Proliant,90.66
+Cyberhaven,Cyberhaven,90.66
+Masergy,Masergy,90.65
+Rhino,Rhino,90.65
+Fox Pest Control,Foxpestcontrol,90.64
+Plaid,Plaid,90.63
+Kuebix By FreightWise,Kuebix,90.62
+Loop Returns,LoopReturns,90.61
+ZenQMS,zenqms,90.59
+Brainshark,Brainshark,90.57
+Ketch,Ketch,90.57
+Pulley,Pulley,90.56
+Verusen,Verusen,90.51
+Cycle Labs,cycle-labs,90.50
+AirGarage,airgarage,90.46
+Tive Inc,TiveInc,90.44
+Azuga Inc,AzugaInc,90.43
+Cyera,cyera,90.39
+Strive,StriveSales,90.38
+Armis Security,ArmisSecurity,90.38
+Sprig,Sprig,90.37
+Endpoint Protector,EndpointProtection,90.35
+Flash,FLASH,90.33
+Leadium,leadium,90.33
+Steno,steno,90.31
+Fairway Independent Mortgage Corp,FairwayIndependentMortgageCorp,90.31
+Verinext,verinext,90.31
+Returnly,Returnly,90.30
+FireHydrant,FireHydrant,90.30
+TestMu AI,LambdaTestinc,90.23
+Dscout,Dscout,90.21
+Hoxhunt,Hoxhunt,90.20
+quantilope,quantilope,90.18
+HCSS,HCSS,90.14
+LinearB,linearb,90.14
+Veterans United Home Loans,VeteransUnitedHomeLoans,90.13
+Warmly,warmly,90.12
+Garner Health,garner-health,90.11
+Toro TMS,torotms,90.10
+Basware,Basware,90.08
+Jasper,jasper-ai,90.00
+Google,Google,89.94
+Anduin Transactions,AnduinTransactions,89.93
+Mews,Mews,89.93
+General Assembly,GeneralAssembly,89.92
+Rillet,rillet,89.92
+Unum Group,UnumGroup,89.91
+Xe.com,xe-com,89.89
+Insider One,Insider,89.89
+Raymond James Financial,RaymondJamesFinancial,89.84
+Pocus,pocus,89.83
+Huntress,Huntress,89.82
+Ritten,Ritten,89.82
+Winning by Design,winningbydesign,89.81
+Persona,persona-identities,89.81
+Middesk,Middesk,89.79
+Capital Group,Capitalgroup,89.79
+Pigment,pigment,89.78
+Insulet corporation,Insuletcorporation,89.76
+Quantum,Quantum,89.76
+Homebot,Homebot,89.76
+Pythian,Pythian,89.74
+Hach,Hach,89.72
+Procter & Gamble,ProcterGamble,89.69
+Bennie,Bennie,89.65
+OnRamp,onramp,89.58
+Buyers Edge Platform,BuyersEdgePlatform,89.57
+Torq,torq,89.57
+Horizon3.ai,Horizon3ai,89.56
+OneSignal,OneSignal,89.56
+Reply.io,Replyio,89.55
+NEC Corporation of America,NECCorporationofAmerica,89.53
+Mudflap,MudflapInc,89.53
+NeuraFlash,neuraflash,89.52
+Intercontinental Exchange (ICE),IntercontinentalExchange,89.51
+Enjoy Technology Inc,EnjoyTechnologyInc,89.50
+Postscript.io,Postscriptio,89.49
+Axos Bank,Axosbank,89.49
+Medius,Medius,89.48
+Sprinto,sprinto,89.48
+AMD,AMD,89.47
+Prisma SD-WAN,Prisma,89.47
+CobbleStone Software,CobblestoneSoftware,89.46
+Stedi,stedi,89.46
+CompStak,CompStak,89.44
+Air Liquide,AirLiquide,89.43
+Alliant Insurance Services,Alliant,89.43
+Cresta,Cresta,89.42
+GreyCastle Security,GreyCastleSecurity,89.39
+ActionIQ,ActionIQ,89.39
+XenTegra,XenTegra,89.38
+Natera,Natera,89.38
+aytm,Aytm,89.37
+Spok,Spok,89.37
+Insurity,Insurity,89.34
+ClockShark,ClockShark,89.34
+TripleTen,tripleten,89.33
+CertifID,certifid,89.32
+Playground,playground,89.31
+Goldman Sachs Group,GoldmanSachsGroup,89.31
+Kings III Emergency Communications,KingsIII,89.30
+Summize,summize,89.27
+LifeLoop,Lifeloop,89.25
+"Vizient, Inc",Vizient,89.25
+Parker Hannifin,Parkerhannifin,89.25
+Promoboxx,Promoboxx,89.24
+Aftership,Aftership,89.24
+RevolutionParts,RevolutionParts,89.24
+Persefoni,Persefoni,89.24
+Brivity,Brivity,89.23
+FICO,FICO,89.23
+Sedna,Sednasystem,89.23
+Fireblocks,Fireblocks,89.22
+ThumbStopper,thumbstopper,89.22
+Everpure,everpure,89.20
+UserEvidence,userevidence,89.20
+Beazer Homes,BeazerHomes,89.18
+Frontify,Frontify,89.17
+SecurityScorecard,Securityscorecard,89.15
+Glia,Glia,89.15
+Traction on Demand (Salesforce),TractiononDemand,89.14
+Semperis,Semperis,89.13
+AppSumo,AppSumo,89.09
+RCN Technologies,RCNTechnologies,89.09
+Trella Health,TrellaHealth,89.08
+ClientSuccess,ClientSuccess,89.08
+Evolve Security,Evolve,89.05
+Tekmetric,tekmetric,89.02
+FMX,FMX,89.01
+PerkSpot,perkspot,89.01
+Ermetic,Ermetic,89.01
+Thousandeyes,Thousandeyes,88.95
+Machinio,machinio,88.94
+Orum,Orum,88.94
+Balto,Balto,88.93
+Dyson,Dyson,88.90
+Groove,Groove,88.89
+Schneider Electric,SchneiderElectric,88.89
+Doxel,Doxel,88.88
+Sales Impact Academy,SalesImpactAcademy,88.87
+LiveVox,LiveVox,88.86
+Databricks,Databricks,88.85
+Jotform,jotform,88.84
+Collective,collective,88.83
+Airkit,Airkit,88.81
+Metrohm USA,MetrohmUSA,88.78
+Careerist,Careerist,88.78
+PocketHealth,PocketHealth,88.78
+Tabnine,tabnine,88.78
+Gatekeeper,Gatekeeper,88.78
+"InfoSight, Inc.",infosight,88.77
+Docyt,Docyt,88.76
+WorkRamp,WorkRamp,88.75
+Warner Bros. Discovery,DiscoveryCommunications,88.74
+Woven Teams,WovenTeams,88.74
+Snappy Kraken,snappy-kraken,88.71
+Fullcast,fullcast,88.71
+Tenna,Tenna,88.70
+PetDesk,PetDesk,88.70
+Ordergroove,Ordergroove,88.70
+McAfee,McAfee,88.69
+Merck,Merck,88.69
+Valid8 Financial,Valid8Financial,88.69
+Take Command Health,TakeCommandHealth,88.69
+"Tecsys, Inc.",TecsysInc,88.67
+Litmus,Litmus,88.66
+WebEx,WebEx,88.64
+SambaSafety,SambaSafety,88.64
+Apple,Apple,88.64
+Cloudpermit,cloudpermit,88.63
+VEGA Americas,VEGAAmericas,88.63
+Sherweb,Sherweb,88.62
+Panther,Panther,88.61
+Lockton,Lockton,88.61
+Megaport,Megaport,88.60
+Paperless Parts,PaperlessParts,88.60
+eXp Realty,Exprealty,88.60
+Agilent Technologies,AgilentTechnologies,88.60
+Century Consulting Services,CenturyServices,88.60
+Intuitive,Intuitive,88.59
+SalesAi,Kennected,88.59
+airfocus,airfocus,88.59
+Scotiabank,Scotiabank,88.59
+SiteZeus,SiteZeus,88.57
+GitHub,Github,88.57
+Aquera,aquera,88.57
+GRAPHISOFT,GRAPHISOFT,88.54
+Melio,Melio,88.54
+Macabacus,Macabacus,88.54
+Nava Benefits,NavaBenefits,88.53
+Lexion,Lexion,88.53
+ISI Enterprises,IsIenterprises,88.51
+Mailshake,Mailshake,88.49
+Kibo,Kibo,88.48
+Boston Scientific,BostonScientific,88.48
+Wiz,Wiz,88.46
+Marqii,Marqii,88.46
+Finch,FinchSoftware,88.44
+Chewy,chewy,88.44
+Ryan Homes,Ryanhomes,88.43
+HSO,HSO,88.42
+Trifacta,Trifacta,88.42
+Buildium,Buildium,88.41
+Anvilogic,anvilogic,88.40
+Noesis,noesis,88.40
+Cato Networks,CatoNetworks,88.38
+ZOLL Data Systems,ZOLLDATA,88.37
+Aligned,aligned,88.37
+Radar Labs,radar-labs,88.37
+Appspace,Appspace,88.35
+Dooly,Dooly,88.35
+Premium Merchant Funding,premiummerchantfunding,88.34
+Reachdesk,Reachdesk,88.32
+Origin,Origin,88.32
+Panorays,Panorays,88.32
+Casebook PBC,CasebookPBC,88.30
+Coca-Cola,CocaCola,88.29
+Nsight Health,nsight,88.28
+Workvivo,Workvivo,88.28
+Gong.io,Gongio,88.28
+Augment Code,augment,88.26
+Global-e,Globale,88.26
+CaptiveAire Systems,CaptiveAire,88.26
+Sensor Tower,SensorTower,88.25
+PayJunction,PayJunction,88.25
+AlphaSense,AlphaSense,88.24
+Nozomi Networks,nozomi-networks,88.24
+Snowflake,Snowflake,88.24
+Air Charter Service,Aircharterservice,88.24
+Quilt Software,quilt,88.24
+Rheaply,Rheaply,88.23
+Flockjay,Flockjay,88.22
+Lightspeed DMS,lightspeed-dms,88.19
+Grip Security,grip-security,88.18
+Waites,waites,88.18
+RIB Software,rib-sof,88.17
+AtoB,AtoB,88.17
+Waterworth,waterworth,88.16
+AAPC,AAPC,88.15
+The Predictive Index,ThePredictiveIndex,88.11
+IntelyCare,Intelycare,88.11
+Corti,Corti,88.11
+CodeHS,CodeHS,88.10
+Luminovo,luminovo,88.10
+Grafana Labs,GrafanaLabs,88.08
+Videojet Technologies,Videojet,88.08
+SkySlope,SkySlope,88.08
+Pattern,Pattern,88.08
+Apono,apono,88.08
+Shapr3D,shapr3d,88.07
+HelmsBriscoe,HelmsBriscoe,88.04
+Kipi.ai,kipi-bi,88.04
+Helion,Helion,88.04
+Temelio,temelio,88.02
+Andmore,JuniperbyIMC,88.02
+Atlan,Atlan,88.02
+busybusy,busybusy,88.01
+Spellbook,spellbook,88.01
+Artesian Bottleless Water,ArtesianBottlelessWater,87.98
+Cribl,cribl,87.98
+EPI-USE Labs,EPIUSELabs,87.98
+CINC,CINC,87.98
+This is Growth,ThisisGrowth,87.98
+Concentric AI,concentric-ai,87.96
+Bloomreach,Bloomreach,87.96
+Applied Systems,AppliedSystems,87.96
+Cleo,Cleo,87.95
+Opkey,opkey,87.95
+Orasi Software,OrasiSoftware,87.95
+dbt Labs,dbt-labs,87.94
+Folloze,Folloze,87.94
+Vantaca,vantaca,87.93
+Teledyne Technologies,teledyne,87.93
+Synthesia,synthesia,87.93
+Epic,Epic,87.93
+GreenSky,GreenSky,87.93
+Travelers,Travelers,87.92
+Benifex,benifex,87.92
+Vortexa,Vortexa,87.90
+Vanta,Vanta,87.89
+Creatio,bpmonline,87.88
+Scale Computing,ScaleComputing,87.86
+Millennium Health,millennium-health,87.86
+IDeaS Revenue Solutions,IDeaS,87.86
+Chainguard,Chainguard,87.86
+Wayground,Quizizz,87.85
+SafetyWing,SafetyWing,87.84
+Stripe,Stripe,87.83
+Greenhouse Software,GreenhouseSoftware,87.80
+Sanity,Sanity,87.79
+"KETIV Technologies, Inc.",KetivTechnolgiesInc,87.77
+zLinq,zlinq,87.76
+Aerogen,aerogen,87.74
+X,Twitter,87.73
+Invitae,Invitae,87.73
+Propelus,propelus,87.72
+Riskonnect,Riskonnect,87.72
+ArchiveSocial,ArchiveSocial,87.71
+Alternative Payments,AlternativePayments,87.71
+Roche,Roche,87.71
+Zumper,Zumper,87.71
+MetLife,MetLife,87.69
+Snapdocs,Snapdocs,87.69
+Copper,Copper,87.67
+Triptease,Triptease,87.67
+Locus Robotics,locus-robotics,87.66
+Ignition,PracticeIgnition,87.66
+Reltio,Reltio,87.65
+Shift Technology,ShiftTechnology,87.65
+Yipitdata,Yipitdata,87.65
+Calix,Calix,87.64
+Trane Technologies,TraneTechnologies,87.64
+Luciq,Instabug,87.63
+Passport,PassportShipping,87.62
+Stensul,Stensul,87.61
+PermitFlow,permitflow,87.60
+MasterControl,MasterControl,87.59
+Instrumentl,Instrumentl,87.59
+Mission Cloud,MissionCloud,87.58
+1Huddle,1huddle,87.56
+Oliver Wyman,OliverWyman,87.54
+Parchment,Parchment,87.54
+Observe,observe,87.52
+Linxup,Linxup,87.51
+Tugboat Logic,TugboatLogic,87.50
+Fyle,fyle,87.49
+Bevi,bevi,87.48
+Cloudsmith,cloudsmith,87.47
+Achieve One,AchieveOne,87.47
+Flipp,Flipp,87.46
+Alcon,Alcon,87.46
+Digitalzone,digitalzone,87.43
+Siteline,siteline,87.42
+Interfolio,Interfolio,87.41
+Otsuka,Otsuka,87.39
+Grata,Grata,87.39
+Groove Technology Solutions,groove-technology-solutions,87.38
+Eagle Eye,EagleEye,87.38
+Wiiisdom,wiiisdom,87.37
+UXCam,UXCam,87.37
+CrowdStrike,Crowdstrike,87.36
+Laurel,laurel,87.36
+Rafay,Rafay,87.36
+OnSiteIQ,OnSiteIQ,87.36
+Endress+Hauser Group,EndressHauser,87.36
+SEON Fraud Fighters,seon-fraud-fighters,87.35
+"SBI, The Growth Advisory",SBI,87.35
+Walmart Connect,WalmartConnect,87.35
+SAP LeanIX,LeanIX,87.34
+PracticeTek,practicetek,87.34
+Caylent,Caylent,87.33
+CoderPad,CoderPad,87.32
+Piinpoint,piinpoint,87.31
+Tandems,SigFig,87.31
+Unilever,Unilever,87.28
+Tractian,Tractian,87.28
+Notion,Notion,87.27
+Pricefx,Pricefx,87.22
+Hopper,Hopper,87.22
+A-LIGN,ALIGN,87.22
+Western Digital,WesternDigital,87.21
+Servers.com,Serverscom,87.21
+Repsly,Repsly,87.20
+Better Homes and Gardens Real Estate,BetterHomesandGardensRealEstate,87.20
+Westcon Comstor,WestconComstor,87.19
+Jama Software,Jama,87.18
+PaymentWorks,PaymentWorks,87.17
+AirDNA,AirDNA,87.17
+Shiftboard,Shiftboard,87.17
+CData Software,CData,87.17
+Mutual of Omaha Mortgage,MutualofOmahaMortgage,87.15
+Duo Security (Cisco),DuoSecurity,87.14
+LendingTree,lendingtree,87.14
+emnify,emnify,87.13
+Deeto,deeto,87.12
+Automata,Automata,87.12
+Toast,Toast,87.11
+Uproar Partners,UproarPartners,87.10
+Camunda,Camunda,87.10
+Leavitt Machinery,LeavittMachinery,87.10
+Skuid,Skuid,87.10
+SimCorp,SimCorp,87.09
+Kyriba,Kyriba,87.08
+MineralTree,MineralTree,87.08
+Satori Cyber,SatoriCyber,87.08
+BI Worldwide,BIWorldwide,87.07
+SMART Technologies,SMARTTechnologies,87.07
+Ease,Ease,87.05
+Alvys,alvys,87.05
+Businessolver,Businessolver,87.05
+Singular,Singular,87.05
+strongDM,strongDM,87.05
+Maven Clinic,MavenClinic,87.03
+Henkel,Henkel,87.03
+Advanced Sterilization Products,AdvancedSterilizationProducts,87.02
+Qualia,Qualia,87.01
+Marketo,Marketo,87.00
+Everyday Speech,EverydaySpeech,87.00
+Drake Software,DrakeSoftware,86.99
+3E,Verisk3E,86.99
+Dandy,Dandy,86.99
+Sun Life,SunLife,86.98
+Redzone,redzone,86.98
+CHEQ,Cheq,86.97
+Embrace,Embrace,86.96
+Brevo,brevo,86.96
+AppFolio,AppFolio,86.95
+Passage Health,passage-health,86.94
+Pipefy,Pipefy,86.92
+People Data Labs,PeopleDataLabs,86.92
+OEC,OEConnection,86.91
+Tines,tines,86.90
+GAF,gaf,86.89
+Vivun,vivun,86.89
+Baker Hill,BakerHill,86.88
+Ometria,Ometria,86.88
+Veritext Legal Solutions,VeritextLegalSolutions,86.85
+Security Compass,security-compass,86.84
+Trax Technologies,Trax,86.84
+ExpertVoice,ExpertVoice,86.83
+Abnormal AI,abnormal-ai,86.83
+Builder.io,builder-io,86.83
+Vulcan Cyber,VulcanCyber,86.83
+Century 21,Century21,86.83
+Motive,Motive,86.81
+Almabase,Almabase,86.81
+Constructor.io,Constructorio,86.80
+Beyond Pricing,BeyondPricing,86.80
+Bridgit,Bridgit,86.79
+Beanworks,Beanworks,86.79
+Numerator,Numerator,86.78
+Liongard,Liongard,86.76
+Tennant Company,Tennant,86.75
+Onshape,Onshape,86.75
+Fellow.ai,Fellowapp,86.75
+Clariti,Clariti,86.74
+Hiya Inc.,HiyaInc,86.74
+Upstart,Upstart,86.73
+Logos,faithlife,86.73
+Forgestik,Forgestik,86.72
+The Muse,TheMuse,86.69
+Dale Carnegie Training,DaleCarnegieTraining,86.68
+Ontra,Ontra,86.67
+ACA Group,ACAGroup,86.67
+Ambition,Ambition,86.67
+Join,Join,86.66
+LiveChat,LiveChat,86.64
+FOSSA,FOSSA,86.64
+Workiva,Workiva,86.63
+Flagstar Bank,FlagstarBank,86.62
+PDQ,pdq,86.62
+CoreView,Coreview,86.61
+Pacific Energy Concepts (PEC),pec-com,86.60
+"Neudesic, an IBM Company",Neudesic,86.60
+UpGuard,UpGuard,86.60
+Prove,Prove,86.59
+Sage Publishing,sage-publishing,86.59
+Re-Leased,ReLeased,86.59
+Tabs,tabs,86.59
+Alma,alma,86.59
+Logicalis,Logicalis,86.58
+Nectar,NectarHR,86.58
+Noname Security,NonameSecurity,86.57
+ActivTrak,ActivTrak,86.56
+Outplay,Outplay,86.56
+Origina,Origina,86.55
+Aurea Software,AureaSoftware,86.55
+Cherry,cherry-technologies,86.55
+Carolina Handling,CarolinaHandling,86.53
+Superchat,superchat,86.53
+Actifio,Actifio,86.50
+AssuredPartners,assuredpartners,86.49
+Sendcloud,Sendcloud,86.48
+GoEngineer,GoEngineer,86.48
+Monte Carlo Data,MonteCarloData,86.47
+Cisco Systems,CiscoSystems,86.46
+CareAcademy,Careacademy,86.46
+"AppCard, Inc.",AppCardInc,86.46
+Commvault,Commvault,86.46
+Canopy,CanopyTax,86.45
+ClickTime,clicktime,86.44
+Coalesce.io,coalesce,86.43
+Kipu Health,Kipu,86.42
+tray.io,trayio,86.41
+Recharge,RechargePayments,86.41
+InvestNext,investnext,86.40
+Workday,Workday,86.40
+JobGet,JobGet,86.38
+XM Cyber,xm-cyber,86.38
+Domino Data Lab,DominoDataLab,86.37
+Dental Intelligence,dentalIntellegence,86.36
+"Jane Technologies, Inc.",jane-tech,86.35
+Stibo,Stibo,86.34
+Buildkite,buildkite,86.34
+HST Pathways,HSTPathways,86.34
+GuidePoint Security,GuidePointSecurity,86.33
+Action1,action1,86.32
+Daikin,Daikin,86.32
+ServiceNow,ServiceNow,86.31
+Employment Hero,Employmenthero,86.31
+YCharts,YCharts,86.31
+Upflow,Upflow,86.30
+FieldPulse,FieldPulse,86.30
+Continu,Continu,86.30
+REVGEN,REVGEN,86.30
+ComplyAdvantage,complyadvantage,86.30
+FloQast,FloQast,86.30
+The Boston Beer Company,Bostonbeercompany,86.29
+Thought Machine,ThoughtMachine,86.29
+Dremio,Dremio,86.29
+Loopio,Loopio,86.27
+Deposco,deposco,86.27
+NBCUniversal,NBCuniversal,86.27
+The Trade Desk,TheTradeDesk,86.27
+Enphase Energy,Enphase,86.27
+Seso Inc.,Seso,86.27
+Alloy,alloy,86.27
+Supio,supio,86.25
+Allego,Allego,86.24
+Box,Box,86.23
+ePayPolicy,ePayPolicy,86.22
+Takeda Pharmaceuticals,TakedaPharmaceuticals,86.22
+Samsara,Samsara,86.22
+Taulia,Taulia,86.21
+Mölnlycke Health Care,Molnlycke,86.20
+Double,keeper-app,86.19
+Pinwheel,Pinwheel,86.19
+IT Solutions,it-solutions,86.19
+Birdie,birdie,86.17
+Login VSI,loginVSI,86.17
+Nextpoint,nextpoint,86.16
+Bigeye,Bigeye,86.15
+Synthflow AI,synthflow-ai,86.15
+Finlay James,FinlayJames,86.15
+Coram AI,coram-ai,86.14
+Net Health,nethealth,86.14
+Zuddl,zuddl,86.13
+Mineral,Mineral,86.13
+Nitra,nitra,86.12
+Ten Thousand Coffees,ten-thousand-coffees,86.12
+Venminder,Venminder,86.12
+Booksy,Booksy,86.12
+FullCircl,FullCircl,86.11
+Bullhorn,Bullhorn,86.09
+Demandbase,Demandbase,86.09
+Microsoft,Microsoft,86.09
+Quantum Workplace,QuantumWorkplace,86.09
+Vizit,vizit,86.09
+Intersection Co.,Intersection,86.09
+Health & Safety Institute,HealthSafetyInstitute,86.07
+JobNimbus,JobNimbus,86.07
+Session AI,session-ai,86.05
+Certa.ai,certa,86.05
+Attio,Attio,86.04
+Corning,Corning,86.04
+Orbital,orbital-witness,86.04
+Customer.io,Customerio,86.02
+Oversight Systems,oversightsystems,86.01
+Auvik Networks,AuvikNetworks,86.00
+SalesScreen,SalesScreen,85.99
+CED,CED,85.99
+Wealthsimple,Wealthsimple,85.96
+Red Bull,RedBull,85.95
+Achieve,Achieve,85.94
+Swipeby,Swipeby,85.94
+Vic.ai,vic-ai,85.94
+Ansys,Ansys,85.93
+Webware.ai,Webwareio,85.92
+Bilin Technology,BilinTechnology,85.92
+PNI HCM,pni-hcm,85.92
+Vartana,vartana,85.91
+Digital Realty,digitalrealty,85.89
+Toolio,Toolio,85.88
+TradeWing,TradeWing,85.87
+Inmar Intelligence,InmarIntelligence,85.87
+Rubrik,rubrik,85.87
+IAR,IARSystems,85.86
+Premier Group Recruitment,PremierGroupRecruitment,85.86
+Google Cloud,GoogleCloud,85.86
+Noggin,Noggin,85.84
+Eli Lilly,EliLilly,85.84
+VMware,VMware,85.83
+Vertex Inc.,VertexInc,85.83
+Dubber,dubber,85.82
+XOi Technologies,XOiTechnologies,85.81
+Optro,Auditboard,85.81
+AlphaSights,AlphaSights,85.80
+Firefly,Firefly,85.80
+StorMagic,StorMagic,85.79
+Tyler Technologies,TylerTechnologies,85.79
+Spare Labs,SpareLabs,85.79
+Webex Events,Socio,85.78
+Braze,Braze,85.78
+Pathrise,Pathrise,85.77
+Rewind,rewind,85.77
+SailPoint,SailPoint,85.77
+DoubleVerify,DoubleVerify,85.76
+Varicent,Varicent,85.76
+Faddom,faddom,85.76
+Currencycloud,Currencycloud,85.76
+Quotient Technology,Quotient,85.74
+WebEngage,WebEngage,85.74
+Profisee,Profisee,85.74
+KONE,KONE,85.73
+Nerdio,nerdio,85.73
+Proton.ai,Protonai,85.73
+OneStream Software,OneStreamSoftware,85.72
+Ocelot,ocelot,85.72
+Unanet,Unanet,85.72
+Brex,Brex,85.71
+Amper Technologies,amper-technologies,85.71
+Ardoq,Ardoq,85.70
+Beekeeper,Beekeeper,85.69
+Bishop Fox,BishopFox,85.69
+Slice,slice,85.68
+Netskope,Netskope,85.68
+Taxfyle,Taxfyle,85.67
+Nuance Communications Inc.,NuanceCommunicationsInc,85.67
+Fidelity,Fidelity,85.67
+Rippling,RipplingInc,85.66
+Deel,Deel,85.65
+Venafi,Venafi,85.65
+Apptio,Apptio,85.65
+Axis Security,AxisSecurit,85.65
+Axon,Axon,85.64
+SciLeads,scileads,85.64
+Mixmax,Mixmax,85.62
+Citylitics Inc,citylitics-inc,85.61
+Standard Metrics,standard-metrics,85.61
+Vercel,Vercel,85.60
+ExperiencePoint,ExperiencePoint,85.59
+Regal Plastic Supply Company Inc.,RegalPlastics,85.59
+Normalyze,normalyze,85.58
+Redfin,Redfin,85.57
+Tiger Data,timescale,85.57
+Absorb Software,AbsorbSoftware,85.56
+Vena Solutions,Venasolutions,85.55
+Bizzabo,Bizzabo,85.54
+AWeber,AWeber,85.54
+Moveworks,Moveworks,85.53
+Affinity.co,Affinity,85.53
+Ingersoll Rand,IngersollRand,85.53
+EVOLVE,evolve,85.53
+SingleOps,SingleOps,85.53
+Selling.com,infotelligent,85.52
+Resonate,Resonate,85.51
+Saviynt,Saviynt,85.51
+Encapture,Encapture,85.51
+Rocket Mortgage,RocketMortgage,85.51
+CrowdRiff,CrowdRiff,85.51
+Nalco Water,NalcoWater,85.49
+Webconnex,Webconnex,85.49
+InVision,InVision,85.48
+NewsWhip,NewsWhip,85.48
+Moss,moss,85.47
+IGEL,IGEL,85.47
+Clio,Clio,85.46
+runZero,runzero,85.46
+SWEEP,sweep,85.44
+Nextdoor,Nextdoor,85.44
+DoorDash,DoorDash,85.43
+Doximity,Doximity,85.43
+Hebbia,hebbia,85.43
+Pathify,pathify,85.42
+Danaher Corporation,Danaher,85.42
+Idexx,Idexx,85.41
+Coalition,Coalition,85.41
+Drata,Drata,85.40
+Johnson & Johnson MedTech,JJ,85.39
+Signifyd,Signifyd,85.39
+Everlaw,Everlaw,85.38
+deepset,deepset,85.38
+Jumio Corporation,JumioCorporation,85.38
+Guild,guild-education,85.38
+Lessonly (owned by Seismic),Lessonly,85.37
+Gorgias,Gorgias,85.37
+World Wide Technology,Worldwidetechnology,85.36
+YouScience,YouScience,85.36
+Autodesk,Autodesk,85.36
+FactSet,FactSet,85.34
+Sweetwater Sound,SweetwaterSound,85.34
+FireMon,FireMon,85.31
+Secoda,secoda,85.31
+Built In,BuiltIn,85.30
+Luminary Cloud,luminary-cloud,85.30
+JobAdder,JobAdder,85.30
+Snappt,snappt,85.29
+Deepki,Deepki,85.29
+Arketa,arketa,85.29
+Generis Group,Generis-Group,85.28
+"Barcodes, Inc",BarcodesInc,85.28
+Organogenesis,Organogenesis,85.27
+Metadata.io,Metadataio,85.27
+RevSure.ai,revsure-ai,85.26
+Spring Health,SpringHealth,85.26
+BoomTown ROI,BoomTown,85.25
+Palo Alto Networks,PaloAltoNetworks,85.25
+Keela,Keela,85.24
+ElevenLabs,elevenlabs,85.24
+AssetWatch,assetwatch,85.24
+LeagueApps,LeagueApps,85.23
+Bausch and Lomb,bausch-and-lomb,85.23
+Sentieo (AlphaSense),Sentieo,85.22
+Bitly,Bitly,85.22
+Zenput,Zenput,85.22
+Trintech,Trintech,85.21
+GetResponse,Getresponse,85.21
+Secure Code Warrior,SecureCodeWarrior,85.21
+Siemens Energy,SiemensEnergy,85.21
+Amazon Web Services (AWS),Amazonwebservices,85.21
+eSSENTIAL Accessibility,essentialAccessibility,85.21
+Astronomer,Astronomer,85.19
+Arctic Wolf,ArcticWolf,85.18
+Help Scout,HelpScout,85.17
+Niural,niural,85.17
+POS Nation,POSNation,85.16
+"Datacor, Inc.",DatacorInc,85.16
+Pursuit Sales Solutions,PursuitSalesSolutions,85.16
+data.world,dataworld,85.14
+Pinpoint,pinpoint,85.13
+hyperexponential,hyperexponential,85.13
+Computacenter,Computacenter,85.12
+Vericel Corporation,Vericel,85.12
+AlertMedia,alertmedia,85.11
+Benepass,Benepass,85.10
+Financial Times,FinancialTimes,85.10
+Apollo.io,Apolloio,85.10
+Duro,duro,85.10
+Breezeway,Breezeway,85.09
+Securly,Securly,85.08
+Visa,Visa,85.07
+Cencora (AmerisourceBergen),cencora,85.06
+Capital on Tap,capital-on-tap,85.06
+Remesh,Remesh,85.05
+Semgrep,Semgrep,85.05
+Ecotrak Facility Management Software,EcotrakFacilityManagementSoftware,85.04
+Pathlock,Pathlock,85.04
+Guesty,Guesty,85.04
+Source Intelligence,source-intelligence,85.04
+Qualified,Qualified,85.04
+TechnoMile,technomile,85.03
+ReviewTrackers,ReviewTrackers,85.03
+DoorLoop,doorloop,85.03
+Alithya,alithya,85.03
+Skuad,skuad,85.02
+LogRocket,LogRocket,85.02
+UserZoom,UserZoom,85.02
+Fivetran,Fivetran,85.01
+Johnson & Johnson,JohnsonJohnson,85.01
+Mastercard,Mastercard,85.01
+Yardstik,Yardstik,85.01
+Juniper Square,JuniperSquare,85.00
+Policygenius,Policygenius,85.00
+Rockset,Rockset,84.99
+Zenoss,Zenoss,84.98
+Runway,runway,84.98
+Kpler,Kpler,84.96
+Textline,Textline,84.96
+Quantivate,Quantivate,84.96
+OpenAsset,OpenAsset,84.96
+n8n,n8n,84.96
+Divvy Homes,DivvyHomes,84.95
+Clarabridge,clarabridge,84.95
+Voxpopme,Voxpopme,84.95
+Edwards Lifesciences,edwards-lifesciences,84.94
+Frame.io (Adobe),Frameio,84.93
+Turquoise Health,turquoise-health,84.93
+Resolve,Resolve,84.91
+Humana,Humana,84.91
+GBG,GBG,84.91
+Jivox,Jivox,84.91
+CD Recruitment,CDRecruitment,84.91
+Jellyfish,Jellyfish,84.90
+Foleon,Foleon,84.89
+Sensera Systems,SenseraSystems,84.89
+Verifiable,Verifiable,84.88
+Playvox,Playvox,84.88
+Charted,charted,84.88
+Neat,Neat,84.87
+MathWorks,MathWorks,84.86
+TraceGains,tracegains,84.85
+VirtualPRO,Hubilo,84.85
+SimpleNexus,SimpleNexus,84.85
+Zip HQ,ZipHQ,84.85
+OUTFRONT Media,Outfront,84.84
+Endor Labs,endor-labs,84.84
+Sunbit,Sunbit,84.83
+OnBoard,onboard,84.83
+Fairwinds,Fairwinds,84.82
+Manta,MANTA,84.82
+Canto,Canto,84.82
+Algolia,Algolia,84.82
+CyberArk,CyberArkSoftware,84.81
+ATG,ATG,84.80
+NextPatient,NextPatient,84.80
+USI Insurance Services,USIInsuranceServices,84.80
+Q2,Q2,84.79
+Electrolux,Electrolux,84.79
+Soldo,Soldo,84.79
+Agora RE,AgoraRE,84.78
+Relay,relay,84.78
+Sirion,Sirion,84.77
+SAP Signavio,SAPSignavio,84.76
+Fisher Investments,fisherinvestments,84.76
+BuildOps,BuildOps,84.75
+Firebolt,Firebolt,84.75
+Salesforce,Salesforce,84.74
+Smarty,SmartyStreets,84.73
+LocalShift,localshift,84.73
+Device42,Device42,84.73
+DocuWare,Docuware,84.73
+Cin7,Cin7,84.73
+Kentik,kentik,84.72
+Agorapulse,Agorapulse,84.72
+Origami Risk,OrigamiRisk,84.72
+Greystar,Greystar,84.72
+User Interviews,UserInterviews,84.71
+Vitable Health,vitable-health,84.71
+Ricoh Imaging Americas Corporation,RicohAmericasCorporation,84.71
+Clarify,Clarify,84.70
+Panorama Education,PanoramaEducation,84.70
+Allegion,allegion,84.69
+Datasite,Datasite,84.69
+NEXA Mortgage,nexa,84.68
+Apptegy,Apptegy,84.68
+Checkmarx,checkmarx,84.67
+Solace,Solace,84.67
+Overjet,Overjet,84.67
+athenahealth,athenahealth,84.66
+Coast App,coast-app,84.66
+Nevro,Nevro,84.66
+North State Consulting,NorthStateConsulting,84.64
+KEYENCE,Keyence,84.63
+Permutive,Permutive,84.63
+Yotpo,Yotpo,84.62
+ZoomInfo,ZoomInfo,84.62
+ArmorCode,armorcode,84.62
+Crunchbase,Crunchbase,84.62
+HUB International,HubInternational,84.61
+Waystar,Waystar,84.60
+Next Technik,NextTechnik,84.60
+Valutico,Valutico,84.59
+Veracross,veracross,84.57
+Tamr,Tamr,84.57
+Blue Onion,blue-onion-labs,84.57
+FMG,fmg-suite,84.57
+Smart City Apartment Locating,SmartCityLocating,84.57
+Avoxi,Avoxi,84.56
+NFI,nfi,84.56
+Assembled,assembled,84.56
+WealthEngine,Wealthengine,84.56
+Compass Group,CompassGroup,84.55
+Booking.com,Bookingcom,84.55
+Arize AI,Arizeai,84.54
+CoLab Software,CoLabSoftware,84.53
+AcuityMD,AcuityMD,84.53
+REMAX,REMAX,84.53
+Orca Security,OrcaSecurity,84.53
+Chemsearch FE,ChemsearchFE,84.53
+PIMCO,PIMCO,84.52
+The Hershey Company,TheHersheyCompany,84.51
+SOPHiA GENETICS,sophia-genetics,84.51
+Kong,Kong,84.51
+Affirm,Affirm,84.50
+Amplify,Amplify,84.50
+BlueJeans,bluejeans,84.50
+Guideline,Guideline,84.49
+Arista,arista,84.49
+ALLDATA,ALLDATA,84.48
+Morgan Stanley,MorganStanley,84.48
+Dematic Corp,DematicCorp,84.48
+Smartling,Smartling,84.46
+Power Home Remodeling,PowerHomeRemodeling,84.46
+JLL Technologies,JLLTechnologies,84.46
+HopSkipDrive,hopskipdrive,84.46
+Atlas Copco,AtlasCopco,84.45
+RX Global,ReedExhibitions,84.45
+NS1,NS1,84.45
+SunPower,Sunpower,84.45
+Plex Systems,PlexSystems,84.44
+"Ada, Inc.",ada,84.44
+MNTN,MNTN,84.44
+Movista,Movista,84.44
+Klue,Klue,84.43
+Proposify,Proposify,84.42
+Main Street Hub,MainStreetHub,84.42
+Stryker,Stryker,84.42
+Carta,Carta,84.42
+Simetrik,simetrik,84.42
+Harvey,harvey-ai,84.41
+Nutanix,Nutanix,84.40
+AudienceView,AudienceView,84.40
+Irwin,Irwin,84.40
+AmpliFund,AmpliFund,84.40
+Rho,Rho,84.39
+Actionstep,Actionstep,84.39
+SentinelOne,SentinelOne,84.38
+Jobber,Jobber,84.36
+Berkshire Hathaway HomeServices,BerkshireHathaway,84.36
+Authentic8,AUTHENTIC8,84.36
+GHX,GHX,84.35
+Nearpod,Nearpod,84.35
+Lumar,DeepCrawl,84.35
+Totalmobile Ltd,TotalmobileLtd,84.34
+Discovery Education,DiscoveryEducation,84.34
+Edge,eyerate,84.33
+Foodpanda,Foodpanda,84.33
+SecuriThings,securithings,84.33
+ComboCurve,ComboCurve,84.33
+Zscaler,Zscaler,84.32
+ResMed,ResMed,84.32
+Builder Prime,builder-prime,84.31
+Federato,federato,84.31
+Document Crunch,document-crunch,84.31
+"American Marketing & Publishing, LLC",AmericanMarketingPublishing,84.31
+AccuLynx,AccuLynx,84.30
+Percona,Percona,84.30
+IPRO,revealipro,84.29
+Spot Freight,SpotFreight,84.29
+PartsTech,PartsTech,84.28
+PROCEPT BioRobotics,procept-biorobotics,84.27
+Pacira Biosciences,PaciraBiosciences,84.27
+Travelbank (US Bancorp),Travelbank,84.27
+PlanetScale,PlanetScale,84.27
+Hack The Box,hack-the-box,84.26
+Reckitt,reckitt,84.26
+Granular,Granular,84.26
+Penfold,penfold,84.25
+YayPay,YayPay,84.24
+"Nuvolo Technologies, Inc",NuvoloTechnologiesInc,84.24
+LiveRamp,Liveramp,84.24
+LeanTaaS,leantaas,84.23
+Virtuous,Virtuous,84.22
+StemWave,stemwave,84.22
+AtScale,AtScale,84.22
+Suralink,Suralink,84.22
+The Millennium Alliance,the-millennium-alliance,84.21
+Socure,Socure,84.21
+Vividly,vividly,84.20
+IMAGINiT Technologies,IMAGINiT,84.20
+CooperVision,CooperVision,84.19
+Cypris,Cypris,84.19
+Kahua,Kahua,84.18
+Ironclad,Ironclad,84.17
+Checkmk,checkmk,84.17
+Redgate Software,RedgateSoftware,84.17
+FlexTrades,flextrades,84.17
+Vim,Vim,84.17
+Tradify,tradify,84.16
+"Wasabi Technologies, Inc",Wasabi,84.16
+Flashtract,Flashtract,84.15
+Bloomerang,Bloomerang,84.14
+Workato,workato,84.14
+Omnipresent,Omnipresent,84.13
+Interplay Learning,InterplayLearning,84.13
+Branch App,BranchApp,84.12
+Enova International,EnovaInternational,84.12
+Bloomberg LP,Bloomberg,84.11
+Neara,neara,84.11
+Arena Solutions,ArenaSolutions,84.11
+SchoolStatus,SchoolStatus,84.11
+Syniti,SYNITI,84.11
+Rivet,Rivet,84.10
+Novata,novata,84.10
+Marq,Lucidpress,84.10
+Aptive Environmental,Aptive,84.09
+GetAccept,GetAccept,84.09
+HOVER Inc.,HOVER,84.09
+Chili Piper,ChiliPiper,84.08
+Marriott International,MarriottInternational,84.08
+Chambers and Partners,chambers-and-partners,84.06
+Georgia-Pacific LLC,georgiapacific,84.05
+Riskified,riskified,84.05
+Invesco,invesco,84.05
+Fetch,Fetch,84.05
+Backstop Solutions,BackstopSolutions,84.04
+CBRE Group,CBREGroup,84.04
+"Dragos, Inc",DragosInc,84.02
+MongoDB,MongoDB,84.01
+ThoughtExchange,ThoughtExchange,84.00
+Abstract,Abstract,84.00
+"TTI, Inc.",TTIinc,84.00
+Stax,Stax,83.99
+Faire,Faire,83.99
+UnifyApps,unifyapps,83.99
+KCF Technologies,KCFTechnologies,83.98
+Silverfort,Silverfort,83.98
+Dynatrace,Dynatrace,83.98
+SmartRecruiters,SmartRecruiters,83.97
+Clarity AI,Clarity,83.97
+Riverside.fm,riversidefm,83.97
+Smith.ai,Smithai,83.96
+Carbon Black,CarbonBlack,83.95
+Nory,Nory,83.95
+Paymerang,Paymerang,83.95
+SevenRooms,SevenRooms,83.94
+"Treace Medical Concepts, Inc.",treace-medical-concepts,83.94
+Expel,Expel,83.94
+Tableau (Salesforce),Tableau,83.93
+IHS Markit,IHSMarkit,83.93
+Gusto,Gusto,83.93
+FastSpring,Fastspring,83.91
+Merge by Merative,MergeeClinical,83.91
+Empower,empower,83.91
+hear.com,hearcom,83.90
+StructionSite,Structionsite,83.89
+Raken,Raken,83.88
+TOPdesk,TOPdesk,83.88
+Marsh McLennan,MarshMcLennan,83.88
+Bluedot Inc,bluedotinc,83.88
+Fieldwire,Fieldwire,83.87
+Ivalua,Ivalua,83.87
+LiveFlow,liveflow,83.87
+Superside,Superside,83.87
+Twilio,Twilio,83.87
+airSlate,airSlate,83.87
+Epicor,Epicor,83.87
+Wilmington plc,Wilmington,83.86
+Hollister Incorporated,HollisterIncorporated,83.85
+GoodTime.io,Goodtimeio,83.85
+7bridges,7bridges,83.85
+Flowhub,Flowhub,83.84
+GPS Trackit,GPSTrackit,83.84
+"eHealth, Inc.",Ehealth,83.84
+Backflip,backflip,83.83
+Red Sift,RedSift,83.83
+OpenTable,OpenTable,83.83
+Duck Creek Technologies,duckcreektechnologies,83.83
+Figma,Figma,83.82
+Fullbay,fullbay,83.82
+Cerby,cerby,83.82
+Beauhurst,beauhurst,83.82
+Squarespace,Squarespace,83.82
+parcelLab,parcelLab,83.81
+Adobe,Adobe,83.81
+Candid,Candid,83.81
+F5,F5,83.81
+Waterfall Security,Waterfall,83.80
+Mettler Toledo,MettlerToledo,83.80
+Autopay,Autopay,83.80
+Sapper Consulting,SapperConsulting,83.80
+Ontic,Ontic,83.80
+Sigma Computing,Sigmacomputing,83.79
+Rev.io,rev-io,83.79
+Ciena,CIENA,83.79
+"WithMe, Inc",WithMeInc,83.78
+Genesys,genesys,83.78
+Sonic.net,Sonicnet,83.78
+Zappi,Zappi,83.78
+Zapier,Zapier,83.77
+Skyflow,Skyflow,83.77
+Splunk,Splunk,83.76
+Proof,Proof,83.76
+Schlumberger,Schlumberger,83.76
+Moov Technologies,MoovTechnologies,83.75
+Adyen,Adyen,83.74
+Phocas Software,PhocasSoftware,83.72
+J.P. Morgan Chase,JPMorganChase,83.72
+Darwinian Ventures,darwinian-ventures,83.72
+Corus Entertainment,CorusEntertainment,83.72
+Esellas,Esellas,83.72
+Census,Census,83.71
+ABC Fitness,Abc,83.71
+RxVantage,RxVantage,83.70
+Factur,Factur,83.70
+Veriff,Veriff,83.70
+360Learning,360Learning,83.70
+Jobot,Jobot,83.69
+Cinch,Cinch,83.68
+Leasecake,Leasecake,83.68
+PayFit,PayFit,83.68
+Vestwell,Vestwell,83.68
+Flex Technology Group,flex-technology-group,83.67
+LaunchDarkly,LaunchDarkly,83.67
+Manhattan Associates,ManhattanAssociates,83.67
+Five9,Five9,83.67
+Traction Complete,Tractioncomplete,83.66
+Datadog,Datadog,83.65
+Guidebook,guidebook,83.65
+Chronosphere,Chronosphere,83.65
+Planet,PlanetLabs,83.65
+Kinaxis,Kinaxis,83.65
+Total Synergy,total-synergy,83.65
+Edmunds,Edmunds,83.64
+Augury,Augury,83.64
+Contentstack,Contentstack,83.61
+7shifts,7shifts,83.61
+Convergint Technologies,ConvergintTechnologies,83.61
+LodgeLink,LodgeLink,83.60
+Datch,Datch,83.60
+UJET,UJET,83.60
+Ikigai,Ikigai,83.60
+Branch,Branch,83.60
+nCino,Ncino,83.59
+Armstrong Transport Group,armstrong-transport,83.59
+Blue Mountain Quality,BlueMountainQualityLLC,83.59
+You.com,you-com,83.59
+Recurrency,Recurrency,83.58
+IntelligenceBank,IntelligenceBank,83.58
+Simpli.fi,Simplifi,83.57
+Vainu,Vainuio,83.57
+i3 Verticals,i3Verticals,83.56
+UnitedHealthcare,UnitedHealthcare,83.56
+HackerRank,HackerRank,83.55
+Vector Marketing,VectorMarketing,83.55
+Financeit,Financeit,83.55
+TrustArc,TrustArc,83.54
+Merz Aesthetics,MerzAesthetics,83.54
+Fairmarkit,Fairmarkit,83.54
+Red Ventures,RedVentures,83.54
+Placer.ai,placer,83.53
+Nusun Power,nusun-power,83.53
+Caribou,Caribou,83.53
+HammerTech,HammerTech,83.53
+Wealthbox,wealthbox,83.53
+Recast Software,recast-software,83.52
+TEAM Software,team-software,83.52
+Headway,headwayco,83.52
+HashiCorp,HashiCorp,83.51
+Degreed,Degreed,83.51
+Airtel,Airtel,83.51
+Juul Labs,JuulLabs,83.51
+Oomnitza,Oomnitza,83.50
+Incredibuild,incredibuild,83.50
+Telnyx,Telnyx,83.49
+TierPoint,TierPoint,83.48
+Ethicon,Ethicon,83.48
+Budget Dumpster,BudgetDumpster,83.48
+Vivint Smart Home,Vivint,83.48
+Inclusively,Inclusively,83.47
+ABB,ABB,83.47
+Uline,Uline,83.46
+Active Network,ActiveNetwork,83.46
+MLC CAD Systems,MLCCADSystems,83.46
+Inspire Medical Systems,inspire-medical-systems,83.45
+SeedLegals,SeedLegals,83.44
+Avature,Avature,83.43
+Claroty,claroty,83.43
+Nasdaq,Nasdaq,83.43
+"Brown & Brown, Inc.",BrownBrownInc,83.42
+CivicPlus,CivicPlus,83.42
+Rocket.Chat,RocketChat,83.42
+Nationwide,Nationwide,83.42
+Analog Devices,AnalogDevices,83.41
+"Sage Intacct, Inc.",SageIntacctInc,83.41
+DroneDeploy,DroneDeploy,83.40
+AutoVitals,AutoVitals,83.40
+GlobalVision,GlobalVision,83.38
+Second Front Systems,second-front-systems,83.37
+6sense,6sense,83.36
+Vivax Pros,vivaxpros,83.36
+Canvs AI,Canvsai,83.36
+Atlassian,Atlassian,83.35
+enVista,enVista,83.34
+Cvent,Cvent,83.34
+Dotmatics,Dotmatics,83.34
+Own Company,OwnCompany,83.34
+Charles Schwab,CharlesSchwab,83.34
+Instapage,Instapage,83.34
+Verse.ai,Verse,83.34
+Vyne Dental,VyneDental,83.34
+Resy,Resy,83.34
+DOOR,LATCH,83.33
+Principal Financial,PrincipalFinancial,83.33
+Lincoln Financial,lincoln-financial-group,83.32
+PulteGroup,PulteGroup,83.32
+Terumo Medical Corporation,Terumo,83.32
+KPN,KPN,83.31
+Crossbeam,Crossbeam,83.31
+Vision Solar,VisionSolar,83.30
+Built Technologies,Builttechnologies,83.30
+McLeod Software,mcleod-software,83.30
+EBM Software,ebm-software,83.29
+Mythics,Mythics,83.29
+Nutrient,PSPDFKit,83.28
+DraftKings,draftkings,83.28
+Sticky.io,Stickyio,83.28
+Array Behavioral Care,ArrayBehavioralCare,83.28
+Perforce Software,Perforce,83.27
+"Rezult Group, Inc.",rezultgroup,83.27
+Flowspace,Flowspace,83.26
+ResQ,ResQ,83.26
+Enel X,EnelX,83.26
+WorkForce Software,WorkforceSoftware,83.26
+Align Technology,AlignTechnology,83.25
+Widewail,Widewail,83.25
+AUGMENTT,augmentttechnologies,83.25
+Informatica,Informatica,83.25
+AgencyAnalytics,AgencyAnalytics,83.24
+Stanley Black & Decker,StanleyBlackDecker,83.24
+Bluebeam,Bluebeam6950,83.24
+Awin Global,AwinGlobal,83.23
+Redwood Software,RedwoodSoftware,83.23
+Arthrex,Arthrex,83.23
+National Academy of Sports Medicine (NASM),NationalAcademyofSportsMedicine,83.22
+Harness,Harness,83.22
+Alchemy Technology Group,AlchemyTechGroup,83.22
+XYZ Reality,xyz-reality,83.22
+Avvoka,avvoka,83.22
+Crucial Learning,CrucialLearning,83.22
+Greenix,GreenixPestControl,83.21
+Tobii,tobii,83.21
+Essity,Essity,83.21
+Looker (Google Cloud),Looker,83.21
+Fluke Health Solutions,FlukeHealthSolutions,83.20
+Procore Technologies,Procore,83.20
+Flex,Flex,83.20
+Reonomy,Reonomy,83.20
+Teleflex,Teleflex,83.20
+Barn2Door,barn2door,83.20
+VanillaSoft,Vanillasoft,83.19
+Enverus,Enverus,83.19
+Elastic,Elastic,83.19
+EngageTech,engagetech,83.19
+Morning Consult,MorningConsult,83.19
+Unique,Unique-Zurich,83.18
+Deluxe Corporation,DeluxeCorporation,83.18
+Typeform,Typeform,83.18
+Portnox,portnox,83.17
+Wysdom.ai,Wysdomai,83.17
+RSM US,RSMUS,83.17
+Inscribe,Inscribe,83.17
+Phrase,Phrase,83.17
+OpsLevel,opslevel,83.17
+DemandZEN,DemandZEN,83.16
+Obsidian Security,ObsidianSecurity,83.16
+Northrop Grumman,NorthropGrumman,83.15
+Akamai,Akamai,83.15
+EduMe,Edume,83.15
+Okta,Okta,83.14
+Datavant,Datavant,83.14
+StreetLight Data,StreetLightData,83.14
+CenterWell Home Health,KindredHealthcare,83.14
+FlexTG New York,FloTech,83.13
+Attensi,attensi,83.13
+Navan,TripActions,83.12
+BQE Software,BQESoftware,83.12
+Metronome,metronome,83.11
+Goldcast,Goldcast,83.11
+Avetta,Avetta,83.11
+HubSpot,Hubspot,83.10
+Infegy,Infegy,83.10
+TMC Transportation,TMCTransportation,83.10
+FieldRoutes,FieldRoutes,83.09
+MVF Global,MVFGlobal,83.09
+Kaspersky,Kasperskylab,83.08
+MacStadium,MacStadium,83.08
+Otter.ai,Otter,83.08
+Findem,Findem,83.08
+Intercom,Intercom,83.08
+Labatt Brewing Company,LabattBrewingCompany,83.07
+Markem-Imaje,markemimaje,83.06
+Instana,Instana,83.06
+People Inc,DotdashMeredith,83.06
+SEEK,SEEK,83.06
+Iron Bow Technologies,iron-bow-technologies,83.06
+ClickUp,ClickUp,83.06
+Market Leader,MarketLeader,83.06
+Nue.io,nue-io,83.05
+Windfall Data,WindfallData,83.04
+AO Globe Life,ao-globe-life,83.03
+Drop,Drop,83.02
+West Monroe,WestMonroe,83.02
+Motion,Motion,83.02
+Thumbtack,Thumbtack,83.01
+Perfect Venue,perfect-venue,83.01
+Mercer,Mercer,83.00
+Speexx,Speexx,83.00
+Humanitix,humanitix,83.00
+Advizex,Advizex,83.00
+W.W. Grainger,WWGrainger,83.00
+Adthena,Adthena,82.99
+Gravitee,gravitee,82.99
+Bubble,bubble-io,82.98
+Easy Metrics Inc.,EasyMetricsInc,82.98
+Tanium,Tanium,82.98
+Slang.ai,slang-ai,82.98
+GE Healthcare,GEHealthcare,82.98
+SpotDraft,SpotDraft,82.97
+Tenable,Tenable,82.96
+Workfront (owned by Adobe),Workfront,82.96
+Forma.ai,Formaai,82.95
+Hopin,Hopin,82.95
+Hivebrite,HiveBrite,82.94
+Bioventus,Bioventus,82.94
+Torch,Torch,82.94
+DataRails,DataRails,82.93
+Qobra,qobra,82.93
+Crystal Knows,CrystalKnows,82.92
+The Art of Education University,TheArtodEducationUniversity,82.91
+PerfectServe,PerfectServe,82.91
+Converge Technology Solutions,ConvergeTechnologySolutions,82.91
+Zenjob,Zenjob,82.91
+New Home Star,new-home-star,82.90
+Rise People,RisePeople,82.90
+ServiceTitan,ServiceTitan,82.90
+Xactly Corp,XactlyCorp,82.90
+Tacton,Tacton,82.89
+Doppel,doppel,82.89
+Rexel,Rexel,82.88
+Valimail,Valimail,82.88
+ControlUp,ControlUp,82.88
+BioRender,BioRender,82.88
+TIDI Products,TIDI,82.88
+Repay,Repay,82.87
+ForgeRock,Forgerock,82.87
+iCapital,iCapital,82.86
+Press Ganey Forsta,Forsta,82.86
+CreatorIQ,CreatorIQ,82.85
+Grantify US,grantify,82.84
+Wireless Zone LLC,Wirelesszone,82.84
+American Fidelity,american-fidelity,82.84
+FM:Systems,FMSystems,82.83
+Industrious,industrious,82.83
+Hexagon ALI,hexagon-ali,82.82
+Digicert,Digicert,82.81
+SafeLease,safelease,82.81
+PatientNow,PatientNow,82.81
+Tessell,tessell,82.81
+ResMan Property Management Software,resman,82.81
+Jones Software,JonesSoftware,82.80
+Eigen Technologies,EigenTechnologies,82.80
+Relativity,Relativity,82.79
+monday.com,mondaycom,82.79
+Fever,FeverLabs,82.78
+OpenSpace,OpenSpace,82.78
+Envysion,envysion,82.78
+Glean.ai,glean-ai,82.78
+BizzyCar,bizzycar,82.78
+Concentra,Concentra,82.78
+project44,project44,82.77
+Tock,Tock,82.77
+Orthofix,Orthofix,82.77
+Aqua Security,AquaSecurity,82.77
+8am,Affinipay,82.77
+Schoox,Schoox,82.77
+Moxo,moxtra,82.77
+Wagepoint,Wagepoint,82.76
+TigerConnect,TigerConnect,82.76
+QTS Data Centers,QTSDataCenters,82.76
+BeyondTrust,BeyondTrust,82.75
+SupplyPike,supplypike,82.75
+Cognex,Cognex,82.75
+Userpilot,userpilot,82.75
+ASSA ABLOY Group,ASSAABLOY,82.75
+Encompass Technologies,EncompassTechnologies,82.75
+StackAdapt,StackAdapt,82.74
+Papirfly,Papirfly,82.74
+Commerce7,commerce7,82.73
+Zuora,Zuora,82.73
+Fleetio,Fleetio,82.73
+vCita,vCita,82.73
+mabl,mabl,82.73
+Alza,alza,82.72
+Nuvo,nuvo,82.72
+Plastiq,Plastiq,82.71
+"Brainstorm, Inc",BrainstormInc,82.70
+Clari,Clari,82.70
+demandDrive,demandDrive,82.70
+Centric Software,CentricSoftware,82.70
+OpenGov,OpenGov,82.70
+CarMax,CarMax,82.69
+Supermove,Supermove,82.68
+Mendix,Mendix,82.68
+Binary Stream,BinaryStream,82.68
+McGraw Hill,McGrawHill,82.68
+Mulesoft (Salesforce),Mulesoft,82.67
+Expedia,Expedia,82.67
+Applied Medical,AppliedMedical,82.67
+Ascentis,Ascentis,82.67
+Creyos,CambridgeBrainSciences,82.66
+ITS Logistics,Itslogistics,82.66
+Amobee,Amobee,82.66
+Alchemer,Alchemer,82.65
+Twilio Segment,segment,82.64
+Sensitech,Sensitech,82.64
+Amazon Advertising,AmazonAdvertising,82.63
+Instacart,Instacart,82.63
+Feedonomics,Feedonomics,82.62
+Snyk,snyk,82.61
+Acima,Acima,82.61
+Boehringer Ingelheim,BoehringerIngelheim,82.61
+TeachTown,teachtown,82.60
+Retool,Retool,82.60
+D2IQ,d2iq,82.59
+Perpetua,perpetua,82.59
+Trace3,Trace3,82.59
+CaptivateIQ,captivateIQ,82.59
+Synopsys,Synopsys,82.59
+Triplebyte,Triplebyte,82.58
+NFP,NFP,82.58
+Accelevents,Accelevents,82.58
+Seismic,Seismic,82.57
+Oktopost,Oktopost,82.57
+Zonda,zonda,82.57
+Adjust,Adjust,82.57
+Axis Communications,AxisCommunications,82.56
+EDB (EnterpriseDB),EDB,82.56
+Legrand,Legrand,82.55
+Opentrons Labworks Inc.,Opentrons,82.55
+OnShift,OnShift,82.55
+MESH,MESH,82.55
+GUIDEcx,Guidecx,82.55
+GWI,GWI,82.54
+Vanguard,Vanguard,82.54
+Geotab,Geotab,82.54
+Paycom,Paycom,82.54
+Confluent,Confluent,82.52
+AssemblyAI,AssemblyAI,82.52
+Salt Security,SaltSecurity,82.51
+Smarsh,Smarsh,82.51
+Vatica Health,VaticaHealth,82.51
+Asana,Asana,82.50
+Experian,Experian,82.50
+BT,BT,82.50
+Devada,Devada,82.49
+Comarch,COMARCH,82.49
+Avigilon,AvigilonAltaformerlyAvaSecurity,82.49
+Peakon,Peakon,82.49
+Xfactor.io,DecisionLink,82.49
+Hologic,Hologic,82.48
+Optos,optos,82.48
+InsightSquared,InsightSquared,82.47
+Integris,Integris,82.47
+First Advantage,FirstAdvantage,82.46
+Writer,writer-ai,82.46
+UPS Supply Chain Solutions,UPSSupplyChainSolutions,82.46
+Movement Mortgage,MovementMortgage,82.46
+When I Work,WhenIWork,82.46
+Axonius,Axonius,82.46
+PennyMac Loan Services,PennymacLoanServices,82.45
+Bruker,Bruker,82.45
+AudioEye,AudioEye,82.44
+Dayforce,Ceridian,82.44
+Descartes Systems Group,DescartesSystemsGroup,82.44
+Paymentus,Paymentus,82.44
+Agicap España,Agicap,82.43
+RealWork Labs,RealWorkLabs,82.43
+Perforce Delphix,Delphix,82.42
+Integral Ad Science,IntegralAdScience,82.42
+Par Technology,Par,82.41
+Advanced Drainage Systems,AdvancedDrainageSystems,82.40
+Ambient.ai,ambient-ai,82.40
+Verathon Medical,VerathonMedical,82.39
+Hatch,Hatch,82.38
+ICON plc,icon,82.38
+Blue Yonder,Blueyonder,82.37
+Coconut Software,CoconutSoftware,82.37
+HackerOne,Hackerone,82.37
+LightStep,LightStep,82.37
+Fonoa,Fonoa,82.37
+Reprise,Reprise,82.37
+Sunnova,Sunnova,82.36
+Influitive,Influitive,82.36
+ID.me,Idme,82.36
+BackBox,BackBox,82.36
+Fieldguide,fieldguide,82.36
+Simon Data,SimonData,82.35
+Club,Brandbassador,82.35
+Metrie,Metrie,82.35
+Daloopa,Daloopa,82.34
+Anheuser-Busch,AnheuserBusch,82.34
+IMS (Investor Management Services),IMSInvestorManagementServices,82.33
+CreativeX,creativex,82.33
+Addepar,Addepar,82.33
+The Hartford,TheHartford,82.33
+VITL Power,VITLPower,82.32
+adesso SE,adesso,82.32
+Syncari,Syncari,82.32
+NinjaOne,NinjaOne,82.31
+Planful,Planful,82.31
+Kustomer,Kustomer,82.31
+LeanDNA,LeanDNA,82.30
+BillingPlatform,BillingPlatorm,82.30
+Akeneo,Akeneo,82.29
+Zipcar,Zipcar,82.29
+UiPath,UiPath,82.29
+DataSnipper,Datasnipper,82.29
+Direct Supply,DirectSupply,82.27
+Fiverr,fiverr,82.27
+Medrio,Medrio,82.27
+Maxio,Maxio,82.27
+Replicated,Replicated,82.27
+Cloudinary,Cloudinary,82.27
+Beckhoff Automation,beckhoff-automation,82.26
+Vertice,Vertice,82.26
+RightBound,Rightbound,82.26
+Humi,Humi,82.26
+Pegasystems,Pegasystems,82.25
+PwC,PWC,82.24
+SAP,SAP,82.24
+Supernus Pharmaceuticals,SupernusPharmaceuticals,82.24
+Commusoft,commusoft,82.24
+Talon.One,TalonOne,82.23
+Veeam Software,Veeam,82.23
+NetJets,NetJets,82.22
+Constant Contact,ConstantContact,82.22
+Mezmo,mezmo,82.21
+Seegrid,Seegrid,82.21
+Northspyre,Northspyre,82.21
+Praxedo,Praxedo,82.21
+West Shore Home,WestshoreHome,82.20
+Torii,Torii,82.20
+Fermat,fermat,82.19
+Nuage Consulting,nuage-consulting,82.19
+Hendrick Automotive Group,HendrickAutomotive,82.19
+Classy.org,Classyorg,82.19
+Trimble Inc.,Trimble,82.19
+Echo AI,Pathlight,82.18
+1upHealth,1upHealth,82.18
+Teleport,Teleport,82.18
+Hometap,hometap,82.18
+Red Hat,RedHat,82.17
+Teamwork,Teamwork,82.17
+Liferaft,LifeRaftInc,82.17
+LumApps,Lumapps,82.16
+Yulife,Yulife,82.16
+SimuTech,SimuTech,82.16
+Deloitte,Deloitte,82.15
+Benchling,Benchling,82.15
+Comcast Technology Solutions,ComcastTechnologySolutions,82.15
+BrightTALK,Brighttalk,82.15
+Softcat,Softcat,82.15
+Cority,Cority,82.15
+3M,3M,82.15
+Trident,TridentTransport,82.15
+Tessian,Tessian,82.14
+DirectDefense,DirectDefense,82.14
+Gem,Gem,82.13
+Hilton Grand Vacations,HiltonGrandVacations,82.13
+Pentera,Pentera,82.12
+Intelligize,Intelligize,82.12
+Fuze,Fuze,82.11
+Airbyte,airbyte,82.11
+Funding Circle,funding-circle,82.11
+Showpad,Showpad,82.11
+LevelJump,LevelJump,82.11
+RapidSOS,rapidsos,82.11
+Hayes Locums,HayesLocums,82.11
+Ovation,Ovation,82.10
+RF-SMART,RFSMART,82.10
+ServiceCore,ServiceCore,82.09
+Fox Networks Group,Fox,82.09
+CloudBolt,CloudBolt,82.09
+Capital One,CapitalOne,82.09
+Nestle,nestle,82.08
+eSentire,eSentire,82.08
+Dovetail,dovetail,82.08
+Paradox,Paradox,82.08
+PepsiCo,PepsiCo,82.07
+Cockroach Labs,CockroachLabs,82.07
+FedEx,FedEx,82.06
+Plative,Plative,82.06
+Teaching Strategies,TeachingStrategies,82.05
+InRule,inrule,82.05
+Exact,Exact,82.05
+Evisort,Evisort,82.05
+Verafin,verafin,82.04
+ClearPoint Strategy,ClearPointstrategy,82.04
+Ultimate Kronos Group UKG,UKG,82.03
+Druva,Druva,82.03
+CrossCountry Mortgage,CrossCountryMortgage,82.03
+Dialpad,Dialpad,82.02
+Intuit,Intuit,82.02
+Bank of America,BankofAmericaCorp,82.02
+Daxtra Technologies,Daxtra,82.02
+Paddle,Paddle,82.01
+College Works Painting,CollegeWorksPainting,82.01
+Monex Europe,MonexEurope,82.00
+"Boundless, Inc",boundless-inc,81.99
+Lenovo,Lenovo,81.99
+Bozzuto,Bozzuto,81.99
+"RocketReach, LLC",RocketReachLLC,81.99
+Redo,redo-tech,81.98
+Simplify Healthcare,SimplifyHealthcare,81.98
+Field Nation,fieldnation,81.98
+Devo,Devo,81.98
+Docker,Docker,81.98
+Clario,Clario,81.97
+BairesDev,BairesDev,81.96
+Fairygodboss,Fairygodboss,81.96
+Zoll,Zoll,81.96
+AddShoppers,AddShoppers,81.96
+Reyes Beverage Group,Reyes,81.96
+"IDR, Inc.",idr,81.96
+Brazen,brazen,81.95
+Thyssenkrupp Elevator,ThyssenkruppElevator,81.94
+Marqeta,Marqeta,81.94
+Edge Delta,EdgeDelta,81.94
+Crelate,crelate,81.93
+MyCase,MyCase,81.93
+Doxis,doxis,81.93
+SecureLink (Imprivata),SecureLink,81.93
+Hilti,Hilti,81.92
+CyberSaint Security,CyberSaintSecurity,81.91
+First Republic Bank,FirstRepublicBank,81.91
+Immersive Labs,immersivelabs,81.91
+Sprout Social,SproutSocial,81.90
+Device Magic,Devicemagic,81.90
+Quiq,Quiq,81.90
+LoginRadius,Loginradius,81.90
+Savills,Savills,81.90
+The Clorox Company,Clorox,81.90
+Level AI,LevelAI,81.90
+Adlumin,Adlumin,81.89
+Linnworks,Linnworks,81.89
+Clay,clay,81.89
+"Graylog, Inc.",graylog,81.88
+Qwick,gigpro,81.88
+SterlingBackCheck,Sterlingbackcheck,81.88
+Veeva Systems,VeevaSystems,81.88
+Fello,fello,81.87
+Philips,Philips,81.87
+E.W. Scripps,EWScripps,81.87
+AppDynamics (Cisco),AppDynamics,81.86
+LedCor,LedCor,81.86
+Klaviyo,Klaviyo,81.85
+Cohesity,Cohesity,81.85
+CHG Healthcare,CHG,81.85
+PolyAI,PolyAI,81.85
+DailyPay,Dailypay,81.84
+GreatAmerica Financial Services,GreatAmericaFinancialServices,81.84
+Alphatec Spine,alphatec-spine,81.84
+Personio,Personio,81.84
+1VALET,1VALET,81.84
+Metagenics,Metagenics,81.83
+Landscape Management Network,LandscapeManagementNetwork,81.83
+Carrot Fertility,CarrotFertility,81.83
+PartnerStack,Partnerstack,81.83
+FrSecure,Frsecure,81.82
+Recollective,Recollective,81.82
+Teamworks,Teamworks,81.82
+Pexip,Pexip,81.81
+BSN Sports,BSNSports,81.81
+Shakudo,shakudo,81.80
+Arcadia,Arcadia,81.80
+Kevel,Kevel,81.79
+Flock,FlockSafety,81.79
+Cherre,Cherre,81.79
+Lumos,lumos,81.78
+SAP SuccessFactors,SuccessFactors,81.78
+Synchrony Financial,SynchronyFinancial,81.78
+Availity,Availity,81.77
+Aktify,Aktify,81.77
+Pushpay,Pushpay,81.76
+Klarity,klarity,81.76
+GTreasury,GTreasury,81.76
+Mark43,Mark43,81.76
+McKesson,McKesson,81.75
+Replicant,Replicant,81.75
+Marin Software,MarinSoftware,81.75
+Abstrakt Marketing Group,AbstraktMarketingGroup,81.75
+Renewal by Andersen,RenewalbyAndersen,81.74
+Ping Identity,PingIdentity,81.74
+SpotMe,SpotMe,81.74
+North American Bancard,NorthAmericanBancard,81.74
+Netrevenue,netrevenue-io,81.74
+ClearGov,Cleargov,81.74
+GoCardless,GoCardless,81.73
+IBM,IBM,81.73
+Skello,Skello,81.72
+Syndigo,Syndigo,81.72
+impact.com,Impact,81.71
+Willis Towers Watson,willistowerswatson,81.70
+Wells Fargo,WellsFargo,81.69
+Billd,billd,81.69
+FormAssembly,FormAssembly,81.68
+Upwind Security,upwind,81.68
+Marcura,marcura,81.68
+CBORD,CBORDHerizonsoftware,81.68
+Siemens-Healthineers,SiemensHealthineers,81.67
+Traackr,Traackr,81.67
+Rent,RentPath,81.67
+Lendzi,Lendzi,81.67
+PTC,PTC,81.66
+Charthop,Charthop,81.65
+Swap,swap,81.65
+Fractal,fractal-analytics,81.65
+"Lotlinx, Inc.",LotLinx,81.65
+AllianceHCM,AllianceHCM,81.64
+GoFormz,GoFormz,81.64
+Moxie Pest Control,MoxiePestControl,81.64
+Redis,redis,81.64
+Henry Schein,HenrySchein,81.64
+Lamar Advertising Company,Lamar,81.63
+Narmi,narmi,81.63
+Syntellis,Syntellis,81.63
+WorkStep,WorkStep,81.63
+Softdocs,Softdocs,81.62
+Boulevard,Boulevard,81.62
+Datanomix,Datanomix,81.62
+Bud,Bud,81.61
+Checkr,checkr,81.61
+Monsido (CivicPlus),Monsido,81.61
+Performio,Performio,81.61
+Upserve,Upserve,81.60
+Hawx Pest Control,hawx,81.60
+Apartment List,apartmentlist,81.60
+Grace Hill,GraceHill,81.59
+CarGurus,Cargurus,81.59
+Slack (Salesforce),Slack,81.59
+Lokalise,Lokalise,81.58
+Holman,holman,81.58
+PadSplit,PadSplit,81.58
+Next Glass,NextGlass,81.58
+Multi-Health Systems Inc (MHS),MHS,81.57
+Serrala,Serrala,81.57
+MiMedx,Mimedx,81.57
+Onelogin by One Identity,Onelogin,81.57
+Ultimate.ai,Ultimateai,81.57
+Huron,HuronConsultingGroup,81.57
+Purple,purple-com,81.57
+Solink,Solink,81.56
+Clearbit,clearbit,81.56
+Enterprise Holdings,Enterprise,81.55
+CarbonCure Technologies,CarbonCure,81.55
+PointClickCare,Pointclickcare,81.54
+Explorium,Explorium,81.54
+Verily Life Sciences,verily-life-sciences,81.54
+Alarm.com,Alarmcom,81.54
+Google Fiber,GoogleFiber,81.53
+Code42,Code42,81.53
+Rally UXR,rally-uxr,81.53
+Xref,Xref,81.53
+Ataccama,Ataccama,81.52
+Vouch Insurance,VouchInsurance,81.52
+Workera,workera,81.52
+Vercara,vercara,81.52
+Presidio,Presidio,81.51
+Jaggaer,Jaggaer,81.51
+Moogsoft,Moogsoft,81.50
+Assurant,Assurant,81.50
+Zego,zego,81.49
+National Instruments (NI),NationalInstruments,81.49
+Challenger,Challenger,81.49
+EAB,eab,81.48
+Dandelion Energy,DandelionEnergy,81.48
+CEO Coaching International,ceo-coaching-international,81.48
+Common Room,common-room,81.47
+igus,igus,81.47
+ABC Glofox,ABCGlofox,81.46
+Provenir,provenir,81.46
+Sana Benefits,SanaBenefits,81.46
+BGSF (BG Staffing),bgstaffing,81.46
+CoSchedule,CoSchedule,81.46
+Breakthru Beverage,BreakthruBeverage,81.45
+mPulse Mobile,mPulseMobile,81.45
+Funnel,Funnel,81.44
+Revvity,revvity,81.44
+CipherHealth,CipherHealth,81.44
+Pindrop Security,PindropSecurity,81.44
+Verified First,VerifiedFirst,81.44
+Brink’s Inc,BrinksMoney,81.44
+Bitwarden,bitwarden,81.43
+Maltego Technologies,Maltego,81.43
+QGenda,QGenda,81.43
+Fitch Solutions,FitchSolutions,81.43
+Ncontracts,Ncontracts,81.42
+Rossum,Rossum,81.42
+Skillable,Skillable,81.41
+Qwilr,Qwilr,81.40
+Skill Dynamics,SkillDynamics,81.40
+ContactMonkey,ContactMonkey,81.40
+Currax Pharmaceuticals,currax,81.39
+Living Security,Livingsecurity,81.39
+Noibu,Noibu,81.39
+Compass,Compass,81.39
+General Dynamics,GeneralDynamics,81.39
+Perceptyx,Perceptyx,81.39
+The Baldwin Group,TheBaldwinGroup,81.38
+WatchGuard Technologies Inc,WatchGuardTechnologiesInc,81.38
+"ServiceMax, Inc.",ServiceMaxInc,81.37
+Camms,Camms,81.36
+LearnUpon,LearnUpon,81.36
+WalkMe,Walkme,81.36
+Valet Living,Valetliving,81.36
+Ethico,Ethico,81.36
+"Chetu, Inc.",Chetu,81.36
+Aramark,Aramark,81.36
+Canoe Intelligence,canoe-intelligence,81.35
+Enterprise Fleet Management,EnterpriseFleetManagement,81.35
+Halcyon,Halcyon,81.35
+DTEN,DTEN,81.34
+Dell EMC,DellEMC,81.34
+Afterpay,Afterpay,81.33
+Readymode,ReadyMode,81.33
+SS&C,SSC,81.32
+Kelly Services,KellyServices,81.32
+Marigold,marigold,81.32
+Pylon,pylon,81.31
+ELB Learning,ELBLearning,81.31
+GoSite,GoSite,81.31
+Agent Elite,Agentelite,81.31
+"Cellular Sales, Inc.",CellularSalesInc,81.31
+Allegis Global Solutions,AllegisGlobalSolutions,81.30
+Klevu,Klevu,81.30
+Accesso,Accesso,81.30
+Modern Campus,ModernCampus,81.30
+Eleos Health,eleos-health,81.30
+JG Wentworth,Jgwentworth16468,81.29
+Lattice,Lattice,81.28
+Bravely,Bravely,81.28
+Lennox,Lennox,81.28
+LiveAction Software,LiveAction,81.28
+TeamDynamix,TeamDynamix,81.28
+Kiteworks,Kiteworks,81.27
+HubHead,hubhead,81.27
+Firstbase,Firstbase,81.27
+Gravity IT,GravityIT,81.27
+HiBob,Hibob,81.27
+BambooHR,BambooHR,81.26
+Leads.io,leads-io,81.26
+Experity Health,ExperityHealth,81.26
+Registrar Corp,RegistrarCorp,81.25
+Cintas,Cintas,81.25
+Shopify,Shopify,81.25
+Opendoor,Opendoor,81.25
+Discover Financial Services,DiscoverFinancialServices,81.24
+Semrush,semrush,81.24
+Fortinet,Fortinet,81.24
+Mattress Firm,MattressFirm,81.23
+Osano,Osano,81.23
+ITsavvy,ITsavvy,81.23
+Macmillan Learning,MacmillanLearning,81.22
+LinkedIn,LinkedIn,81.22
+Robert Walters,RobertWalters,81.22
+Tropic,Tropic,81.21
+"Watershed, Inc.",watershed-inc,81.21
+Progress Sharefile,CitrixSharefile,81.21
+Coveo,Coveo,81.21
+Leapwork,Leapwork,81.20
+Pondurance,Pondurance,81.20
+Coloplast,Coloplast,81.20
+Questrade Financial Group,questrade,81.19
+Bausch Health,BauschHealth,81.19
+KX,Kx,81.19
+CC3 Solutions,CustomCommunicationsIII,81.19
+Pepper,pepper,81.19
+Fortem International,FortemInternational,81.19
+ReliaQuest,ReliaQuest,81.18
+Secure24,Secure24Alarmsystems,81.18
+OneSource Virtual,OneSourceVirtual,81.17
+Hippo Insurance,HippoInsurance,81.17
+Equinix,Equinix,81.17
+Menlo Security,MenloSecurity,81.17
+Coastal,coastal-cloud,81.16
+Fisher & Paykel Healthcare,FisherPaykelHealthcare,81.16
+OpenSesame,OpenSesame,81.16
+Automox,Automox,81.16
+ACCESS Newswire,issuerdirect,81.15
+Arango,ArangoDB,81.15
+Overhaul,Overhaul,81.15
+Planview,Planview4560,81.14
+Rokt,rokt,81.14
+Pilot Company,pilot-company,81.14
+Raptor Technologies,RAPTORTECHNOLOGIES,81.14
+Interval International,Interval,81.14
+CloudPay,CloudPay,81.13
+Traction,ProQuoAI,81.13
+Boostability,Boostability,81.13
+Xero,Xero,81.13
+Abacum,Abacum,81.13
+Bill.com,Billcom,81.12
+ScyllaDB,ScyllaDB,81.11
+Glassdoor,Glassdoor,81.10
+Spring Venture Group,SpringVentureGroup,81.09
+Ambry Genetics,AmbryGenetics,81.09
+BazaarVoice,BazaarVoice,81.09
+Surgical Product Solutions,surgical-product-solutions,81.08
+Umbrella,Anodot,81.07
+Long View Systems,LongViewSystems,81.07
+Innovative Systems,InnovativeSystem,81.07
+MyCarrier,mycarrier,81.06
+Justworks,Justworks,81.06
+Unacast,Unacast,81.05
+"Axonics, Inc.",axonics,81.04
+Amgen,Amgen,81.04
+Humaans,humaans,81.04
+Revinate,Revinate,81.04
+InfoTrack AU,InfoTrackAU,81.04
+Perk,TravelPerk,81.04
+Nasuni,Nasuni,81.03
+Articulate Global,ArticulateGlobal,81.03
+Maze,maze,81.03
+Drizly,Drizly,81.03
+TextMyGov,textmygov,81.02
+Easygenerator,Easygenerator,81.02
+Davisware,davisware,81.02
+Fusion Risk Management,FusionRiskManagement,81.02
+Parloa,parloa,81.02
+Corelight,corelight,81.02
+Briq,briq1999,81.02
+Infinity,infinity,81.02
+Heap,Heap,81.01
+Kojo,Kojo,81.01
+IPQS,ipqs,81.01
+Expedient,Expedient,81.01
+Sentry,Sentry,81.01
+RangeForce,RangeForce,81.00
+Symantec (Broadcom),Symantec,81.00
+Airwallex,Airwallex,81.00
+RevSpring,RevSpring,80.99
+Mirakl,Mirakl,80.99
+NetApp,NetApp,80.99
+Verkada,Verkada,80.98
+AlayaCare,AlayaCare,80.96
+Doctor.com,Doctorcom,80.96
+Proofpoint,Proofpoint,80.96
+Diversatek Healthcare,DiversatekHealthcare,80.95
+OnlineMedEd,OnlineMedEd,80.95
+PureSpectrum,PureSpectrum,80.94
+Gartner,Gartner,80.94
+Hillrom,Hillrom,80.94
+ReminderMedia,ReminderMedia,80.94
+Telstra,Telstra,80.94
+Workfusion,Workfusion,80.94
+Tango Analytics,TangoAnalytics,80.94
+Employsure,Employsure,80.93
+Cortex,cortex,80.93
+Bandwidth,Bandwidth,80.93
+Milestone Systems,MilestoneSystems,80.93
+"Accela, Inc.",AccelaInc,80.93
+OTR Solutions,OTRSolutions,80.93
+Kontakt.io,kontakt-io,80.93
+Belvo,belvo,80.92
+Alchemy Cloud,alchemy-cloud,80.92
+Bynder,Bynder,80.92
+Avtech Capital,avtech-capital,80.91
+Deltek,Deltek,80.91
+Northpass,Northpass,80.90
+Intapp,Intapp,80.90
+Bechtle,Bechtle,80.89
+Keepit,KeepitAS,80.89
+Fuel50,Fuel50,80.89
+Invoca,DialogTech,80.89
+Green Key Resources,green-key-resources,80.88
+aPriori,aPriori,80.88
+Envoy Global,EnvoyGlobal,80.88
+Arbon Equipment Corporation,ArbonEquipmentCorporation,80.87
+Uncountable Inc.,uncountable,80.87
+Salus,Salus,80.87
+Coldwell Banker,ColdwellBanker,80.86
+Fundraise Up,FundraiseUp,80.86
+Veo Technologies,veo-technologies,80.86
+BigTime Software,BigTimeSoftware,80.86
+Wonolo,Wonolo,80.85
+Watermark,WatermarkInsights,80.85
+"Tellius, Inc.",TelliusInc,80.85
+CoEnterprise,CoEnterprise,80.85
+OneCause,OneCause,80.84
+Bill360,Bill360,80.83
+TheyDo - Journey Management,theydo,80.83
+Fluent Commerce,fluent-commerce,80.83
+VideaHealth,videahealth,80.83
+Alvéole,Alvéole,80.83
+Paubox,Paubox,80.83
+Backblaze,Backblaze,80.83
+Roofstock,roofstock,80.83
+11:11 Systems,11-11-systems,80.82
+TrueAccord,TrueAccord,80.82
+New York Mets,NewYorkMets,80.81
+Ntirety,ntirety,80.81
+Tripadvisor,Tripadvisor,80.80
+Namely,Namely,80.80
+Upright,Upright,80.80
+ICU Medical,ICUMedical,80.80
+Blackboard,Blackboard,80.80
+Juniper Networks,JuniperNetworks,80.80
+DaySmart,daysmart,80.80
+Gurobi Optimization,GurobiOptimizationLLC,80.80
+Weights & Biases,WeightsBiases,80.79
+Rose Rocket,Roserocket,80.79
+Vivian Health,VivianHealth,80.79
+Netsertive,Netsertive,80.79
+Upside,Upside,80.77
+Love's Travel Stops,love-s,80.76
+SI-Bone,SIBone,80.76
+Yokoy,Yokoy,80.76
+Intelerad Medical Systems,Intelerad,80.75
+Versapay,Versapay,80.75
+Planswell,Planswell,80.74
+Ergotron,Ergotron,80.74
+Abbott Laboratories,abbott,80.74
+Klarna,Klarna,80.73
+Rescale,rescale,80.73
+ConstructConnect,ConstructConnect,80.72
+Apex Revenue,ApexRevenue,80.72
+BlackLine,BlackLine,80.72
+AgentSync,Agentsync,80.72
+LiveIntent,liveintent,80.72
+Amazon,Amazon,80.71
+Reveneer,Reveneer,80.71
+Dixa,Dixa,80.71
+Asurion,Asurion,80.71
+Getty Images,GettyImages,80.71
+Guidance Residential,GuidanceResidential,80.71
+Headspace,Headspace,80.70
+American Express Global Business Travel,american-express-global-business-travel,80.70
+Sandler Training,SandlerTraining,80.70
+Dialectica,Dialectica,80.70
+Vital.io,vital,80.69
+Docebo,Docebo,80.68
+Attest,Attest,80.68
+Later,Mavrck,80.67
+Magnit,magnit,80.67
+CloudZero,CloudZero,80.66
+Esker,Esker,80.66
+ADP,ADP,80.66
+Rapid7,rapid7,80.66
+Cotality,CoreLogic,80.65
+Iru,Kandji,80.65
+Zylo,Zylo,80.65
+Salelytics,Salelytics,80.64
+Workday Strategic Sourcing,ScoutRFPaWorkdaycompany,80.64
+Revenue.io,revenueio,80.64
+CDK Global,CDKGlobal,80.64
+Neon One,Neonone,80.63
+Busuu,busuu,80.63
+Mansfield Energy,MansfieldEnergy,80.62
+EagleView,Eagleview,80.62
+Sales Focus Inc.,SalesFocus,80.62
+Zoetis,Zoetis,80.62
+Flexential,Flexential,80.61
+SalesRabbit,SalesRabbit,80.61
+AppsFlyer,AppsFlyer,80.61
+IXL Learning,ixl-learning,80.61
+"Cavco Industries, Inc.",cavco,80.61
+PX Inc,PX,80.60
+Vial,Vial,80.60
+TeamSupport,TeamSupport,80.60
+Propeller Aero,PropellerAero,80.59
+Kin + Carta,KinCarta,80.59
+SV Academy,SVAcademy,80.59
+Avalara,Avalara,80.59
+Sybill,Sybill,80.59
+Flywheel Digital,FlywheelDigital,80.59
+SaaS Labs,SaaSLabs,80.58
+SiteDocs,SiteDocs,80.58
+OutSystems,OutSystems,80.58
+Second Nature,SecondNature,80.57
+CentralSquare Technologies,CentralSquareTechnologies,80.57
+Fotona USA,fotona,80.57
+Domo,Domo,80.57
+Dash Social,DashHudson,80.57
+Clozd,Clozd,80.57
+Henry Schein One,HenryScheinOne,80.56
+Snorkel AI,SnorkelAI,80.56
+EDICOM,edicom,80.56
+GE Vernova,GEdigital,80.56
+PacBio,PacBio,80.56
+Impartner,Impartner,80.56
+RingCentral,RingCentral,80.55
+D2L,D2L,80.55
+WM,WasteManagement,80.55
+Gordian,Gordian,80.55
+Finite State,FiniteState,80.54
+Liftoff Mobile,liftoff,80.54
+Blueboard,Blueboard,80.54
+BookNook,BookNook,80.53
+Visier,Visier,80.52
+Eaton,Eaton,80.52
+"Xyleme, Inc",XylemeInc,80.51
+TransUnion,TransUnion,80.51
+DataGrail,Datagrail,80.51
+ShipBob,shipbob,80.50
+Anyscale,anyscale,80.50
+SS&C Intralinks,SSCIntralinks,80.50
+LucidLink,LucidLink,80.50
+Cushman & Wakefield,Cushman,80.50
+OysterHR,OysterHR,80.50
+Retention.com,retention,80.49
+Sunbelt Staffing,Sunbeltstaffing,80.49
+BigHand,BigHand,80.49
+Sage,Sage,80.48
+Sendbird,Sendbird,80.48
+Logz.io,logz,80.48
+Dotdigital,Dotdigital,80.47
+BTL Industries,BTLIndustries,80.47
+Veoci,Veoci,80.47
+FacilityOS,iLobby,80.46
+Axle Logistics,AxleLogistics,80.46
+Advance Local,advancelocal,80.46
+UpSlide,UpSlide,80.46
+Glean,Glean2,80.46
+Hummingbird,Hummingbird,80.46
+Attentive,Attentive,80.46
+Staffbase,Staffbase,80.45
+Flywire,Flywire,80.45
+Mad City Windows & Baths,mad-city-windows-baths,80.45
+Beqom,Beqom,80.45
+Slashdot Media,SlashdotMedia,80.44
+ShipHawk,ShipHawk,80.44
+Lavu,lavu,80.44
+Relex Solutions,Relex,80.44
+PitchBook Data,PItchBook,80.44
+The Alexander Group,Alexandergroup,80.43
+Barrington James,BarringtonJames,80.43
+Bamboo Health,BambooHealth,80.43
+Xceptor,Xceptor,80.42
+Block,Square,80.42
+Demandforce,Demandforce,80.42
+"xMatters, inc",xMatters,80.42
+ForUsAll,forusall,80.41
+Rock Content,RockContent,80.41
+Lucid Software,LucidSoftware,80.41
+Medallion,Medallion,80.40
+Keelvar,Keelvar,80.40
+Blue Horizons Group,the-blue-horizons-group,80.39
+CareRev,Carerev,80.39
+Morningstar,Morningstar,80.39
+ProcessUnity,ProcessUnity,80.39
+Stukent,Stukent,80.38
+CentralReach,CentralReach,80.38
+GitLab,GitLab,80.38
+Axcient,axcient,80.38
+Qualifacts,Qualifacts,80.37
+Homeward,Homeward,80.36
+Fresha,Fresha,80.36
+Talkwalker,talkwalker,80.36
+AODocs,AODocs,80.36
+HP Poly,poly,80.35
+Cognism,Cognism,80.34
+Oticon,Oticon,80.34
+Generac,Generac,80.34
+Netsmart,Netsmart,80.34
+NetDocuments,netdocuments,80.34
+Sharebite,Sharebite,80.34
+TestGorilla,TestGorilla,80.33
+Abacus.AI,Abacusai,80.33
+Polly,Polly,80.33
+KickUp,KickUp,80.33
+Levitate,RealMagicLevitate,80.33
+Trimble Viewpoint,ViewpointConstructionSoftware,80.32
+Airbase,Airbase,80.32
+T-Mobile,TMobile,80.32
+AgencyBloc,agencybloc,80.31
+Leanplum,Leanplum,80.31
+Conquer,Conquer,80.31
+Najar,najar,80.31
+Agiloft,Agiloft,80.31
+Quantum Metric,Quantummetric,80.31
+Clearwave Corporation,Clearwave,80.30
+Omnicell,Omnicell,80.30
+Thriver,Platterz,80.30
+Atera,atera,80.29
+CapIntel,Capintel,80.29
+Celero Commerce,celero-commerce,80.29
+Panopto,Panopto,80.29
+SAP Ariba,SAPAriba,80.29
+UpKeep,UpKeep,80.28
+Hootsuite,Hootsuite,80.28
+SportsEngine,SportsEngine,80.27
+Tesorio,Tesorio,80.27
+Craftable,craftable,80.27
+Trustpilot,Trustpilot,80.27
+GrowthLoop,growthloop,80.26
+Intenseye,intenseye,80.26
+Lendio,Lendio,80.26
+Webflow,Webflow,80.25
+ConnectAndSell,ConnectAndSell,80.25
+Quantexa,quantexa,80.25
+CARTO,CARTO,80.25
+DLT Solutions,DLT,80.25
+VergeSense,Vergesense,80.24
+Payhawk,Payhawk,80.24
+Quest Diagnostics,QuestDiagnostics,80.24
+Intellimize,intellimize,80.23
+SonicWall,Sonicwall,80.23
+Tenth Revolution Group,FrankRecruitmentGroup,80.23
+IQVIA,IQVIA,80.23
+MedBridge,MedBridge,80.23
+Softchoice,Softchoice,80.23
+Newfold Digital,newfold-digital,80.23
+Flexport,Flexport,80.22
+Pilot,Pilot,80.22
+Surglogs,Surglogs,80.22
+SuperOrder (Forward Kitchens),SuperOrder,80.22
+Foundever,Sitel,80.22
+Resolve Systems,ResolveSystems,80.22
+Pendo.io,Pendoio,80.22
+Broadridge,Broadridge,80.21
+TaskUs,TaskUs,80.21
+SafeBreach,SafeBreach,80.21
+"Workspot, Inc",workspot,80.21
+Rula,rula,80.21
+Industry Dive,IndustryDive,80.20
+Hawkes Learning,HawkesLearning,80.20
+Carrier,Carrier,80.20
+ATOSS Software SE,ATOSSSoftwareSE,80.19
+Xometry,Xometry,80.18
+GAINS,gainsystems,80.17
+Weaveworks,Weaveworks,80.17
+Selectquote,Selectquote,80.17
+Stax Payments,staxpayments,80.17
+ROI Hunter,ROIHunter,80.17
+Cloudera,Cloudera,80.17
+Gallup,Gallup,80.17
+AVEVA,AVEVA,80.17
+DataBank IMX,Databankimx,80.16
+Varonis,Varonis,80.16
+White Cup,white-cup,80.16
+Nesco Resource,Nescoresource,80.15
+Compliance & Risks,ComplianceandRisks,80.15
+Esper Regulatory Technologies,esper-regulatory-technologies,80.15
+PosiGen,PosiGen,80.15
+DHI,DHI,80.14
+FranConnect,FranConnect,80.14
+Blue Orange Digital,BlueOrangeDigital,80.14
+Choco,Choco,80.13
+Great Place to Work,GreatPlacetoWork,80.13
+OutboundEngine,OutboundEngine,80.13
+SkyKick,SkyKick,80.13
+Brightflag,Brightflag,80.12
+Intellum,Intellum,80.12
+BigID,BigID,80.12
+VasoHealthcare,VasoHealthcare,80.11
+American Express,AmericanExpress,80.11
+AB Tasty,ab-tasty,80.11
+Smith & Nephew,SmithandNephew,80.10
+Highlight,highlight,80.10
+Yooz,yooz,80.10
+Medtronic,Medtronic,80.10
+Cynet Security,CynetSecurity,80.09
+NetSPI,NetSPI,80.09
+Yardi,Yardi,80.09
+Supermetrics,Supermetrics,80.08
+OpenComp,OpenComp,80.08
+Siemens,Siemens,80.08
+Haas Alert,HaasAlert,80.08
+MariaDB,MariaDB,80.08
+Taboola,Taboola,80.07
+Allied Universal Technology Services,AlliedUniversalTechnologyServices,80.07
+Coda,Coda,80.07
+Dataprise,Dataprise,80.07
+InfluxData,influxdata,80.07
+GOVX,govx,80.06
+Unify GTM,unify-gtm,80.06
+Axion,axion-ray,80.06
+Sendoso,Sendoso,80.06
+ParkMobile,ParkMobile,80.06
+Sitation,Sitation,80.06
+Pave,Pave,80.05
+Infor,infor,80.05
+DocuSign,Docusign,80.05
+Get Beyond,GetBeyond,80.05
+Learning Tree International,LearningTreeInternational,80.04
+DataDome,DataDome,80.04
+Sirius Computer Solutions,Siriuscomputersolutions,80.04
+Nextep,Nextep,80.03
+Komprise,Komprise,80.03
+Comodo,Comodo,80.03
+Hewlett Packard Enterprise (HPE),HewlettPackardEnterprise,80.03
+HYPR,HYPR,80.02
+DLL,DLL,80.02
+Medical Solutions,MedicalSolutions,80.01
+PandaDoc,Pandadoc,80.01
+Grimco,Grimco,80.00
+Critical Start,CriticalStart,80.00
+Prophix Software,ProphixSoftware,80.00
+Egnyte,Egnyte,80.00
+ChurnZero,churnzero,80.00
+Flosum,Flosum,79.98
+EasyMovie,EasyMovie,79.98
+Huntington National Bank,TCFBank,79.97
+Natus,Natus,79.97
+Ellucian,Ellucian,79.97
+Pinecone,pinecone,79.97
+Wrapify,Wrapify,79.96
+SuperOps,superops,79.96
+Aptum,Aptum,79.96
+Delinea,Thycotic,79.96
+Puzzel,Puzzel,79.96
+BMC Helix,bmc-helix,79.96
+Belkin,Belkin,79.95
+Fusion5,Fusion5,79.95
+Beckman Coulter,BeckmanCoulter,79.95
+Intellect,Intellect,79.93
+Quora,Quora,79.92
+Deel IT,Hofy,79.92
+NielsenIQ,NielsenIQ,79.92
+3Play Media,3play-media,79.91
+Ditto,ditto,79.91
+Copperleaf,Copperleaf,79.91
+Polaris Inc.,PolarisIndustries,79.91
+UST,UST14258,79.91
+Subsplash,Subsplash,79.90
+Catalant Technologies,CatalantTechnologies,79.90
+Capgemini,Capgemini,79.90
+Smart Communications,SmartCommunications,79.90
+Assent Compliance Inc.,AssentComplianceInc,79.90
+Formative Search Partners,CloserIQ,79.89
+simPRO,simPRO,79.89
+Discuss,Discuss,79.89
+Dext,Dext,79.89
+Magnet Forensics,MagnetForensics,79.88
+Keller Williams Realty,KellerWillliams,79.88
+VWO,VWO,79.88
+Wavestone,wavestone,79.88
+LEAP Legal Software,LeaplegalsoftwareUS,79.87
+Deliveroo,Deliveroo,79.87
+Vixio Regulatory Intelligence,vixio-gamblingcompliance,79.86
+Komodor,komodor,79.86
+LEARFIELD,Learfield,79.86
+Float,Float,79.86
+HD Supply Holdings,HDSupplyHoldings,79.85
+Versa Networks,VersaNetworks,79.85
+Neodent,Neodent,79.85
+Peppr,peppr,79.84
+Motorola Solutions,MotorolaSolutions,79.84
+MFour Mobile Research,mfour-mobile-research,79.84
+LogicGate,Logicgate,79.83
+SaaS Academy,SaaSAcademy,79.83
+Nitrogen,Nitrogen,79.83
+LogicMonitor,LogicMonitor,79.83
+Altrata,altrata,79.83
+AbsenceSoft,AbsenceSoft,79.82
+Sayari Labs,SayariLabs,79.82
+Ottimate,ottimate,79.82
+Verisk,Verisk,79.81
+Illumio,Illumio,79.81
+AppNeta,AppNeta,79.81
+HSBC,Hsbc,79.81
+Altria Group,AltriaGroup,79.81
+HP Inc.,HPInc,79.80
+Obligo,obligo,79.80
+BlastPoint,BlastPoint,79.80
+Mynd,Mynd,79.80
+FiberLight,fiberlight,79.79
+MyCISO,myciso,79.79
+Honeycomb,Honeycomb,79.79
+Pulsar,pulsar,79.78
+Tulip,Tulip,79.77
+Vidyard,vidyard,79.77
+ConRes,Continentalresourcesinc,79.77
+SPS Commerce,SPSCommerce,79.76
+Procare Solutions,procare,79.76
+Acquirent,Acquirent,79.76
+Erudit,EruditAI,79.76
+Rehab Medical,Rehabmedical,79.75
+Mitchell1,mitchell-1,79.75
+Red Points,RedPointsSoftware,79.75
+Draup,draup,79.74
+Optimizely,Optimizely,79.74
+SAP Concur,SAPConcur,79.74
+Ferguson Enterprises,FergusonEnterprises,79.72
+JMP,jmp,79.72
+Ekos,Ekos,79.72
+Dealpath,Dealpath,79.72
+Smith & Associates,SmithAssociates,79.71
+Incredible Health,IncredibleHealth,79.71
+Freight Club,FreightClub,79.71
+Equifax,EquifaxCorporation,79.71
+Thnks,Thnks,79.70
+Wintrust Mortgage,WintrustMortgage,79.70
+Arovy,arovy,79.70
+Hanwha Vision,HanwhaVision,79.70
+Zebra Technologies,ZebraTechnologies,79.70
+PlanSource,Plansource,79.70
+NextGen Healthcare,NextGen,79.70
+Logi Analytics,LogiAnalytics,79.69
+CallRail,CallRail,79.69
+Bay Alarm,BayAlarm,79.68
+FreeWill,freewill,79.68
+Gremlin,Gremlin,79.68
+Secureframe,Secureframe,79.68
+Front,front,79.68
+DaBella,Dabella,79.67
+Gembah,Gembah,79.67
+Cardinal Financial Company,cardinalfinancial,79.67
+Dataiku,dataiku,79.67
+Medline,Medline,79.67
+Aesculap,Aesculap,79.66
+Lilt,Lilt,79.66
+White Cap Construction Supply,WhiteCapConstructionSupply,79.65
+Board International,BOARDINTERNATIONAL,79.65
+Ascent Cloud,AscentCloudio,79.65
+EvenUp,EvenUp,79.64
+Virtuagym,Virtuagym,79.64
+Shippo,Shippo,79.64
+Planhat,Planhat,79.64
+Ecolab,Ecolab,79.64
+Evaluate,Evaluate,79.63
+phData,phdata,79.63
+AIQ.com,alpine-iq,79.63
+FRONTSTEPS,FRONTSTEPS,79.63
+AngioDynamics,AngioDynamics,79.62
+Spekit,Spekit,79.62
+Klara,Klara,79.62
+Sectigo,Sectigo,79.62
+PowerDMS,PowerDMS,79.62
+Mimecast,Mimecast,79.61
+Criteo,Criteo,79.61
+Comcast,Comcast,79.61
+Contractbook,Contractbook,79.61
+iMocha,iMocha,79.61
+Hone,Hone,79.61
+LASSO,LASSO,79.60
+Samsung Electronics,Samsung,79.60
+Crown Castle,CrownCastle,79.60
+Suse,Suse,79.60
+BSI,BSI,79.60
+Vector Solutions,VectorSolutions,79.59
+LiveSwitch,liveswitch,79.59
+Shutterstock,Shutterstock,79.59
+Unily,unily,79.59
+D.R. Horton,DRHorton,79.59
+Gladly,Gladly,79.59
+Crunchtime,Crunchtime,79.59
+Relyance AI,RelyanceAI,79.59
+Colt Technology Services,Colttechnologyservices,79.58
+Rydoo,Rydoo,79.58
+LexisNexis Risk Solutions,lexisnexisrisksolutions,79.58
+FreightWaves,FreightWaves,79.57
+Array,Array,79.57
+10x Genomics,10XGenomics,79.57
+ShiftCare,shiftcare,79.57
+Lendingclub,Lendingclub,79.57
+Worldwide Business Research (WBR),WorldwideBusinessResearch,79.57
+CONMED Corporation,ConMedCorp,79.57
+Capsule,Capsule,79.56
+Saluda Medical,SaludaMedical,79.56
+Straumann Group,StraumannGroup,79.56
+Airia,airia,79.55
+Verizon,Verizon,79.55
+Dow Jones,DowJones,79.55
+Human Bees,HumanBees,79.55
+Fluke,Fluke,79.55
+Formic,formic,79.55
+TrueLayer,Truelayer,79.54
+Seesaw Learning,seesaw-learning,79.54
+CodeRabbit,coderabbit,79.54
+WeWork,WeWork,79.54
+HighLevel,HighLevel,79.53
+Dolead,Dolead,79.53
+SecurityPal,SecurityPal,79.53
+Videate,videate,79.53
+Yubico,Yubico,79.52
+Sysco,Sysco,79.52
+Tipalti,Tipalti,79.52
+Sazerac Company,SazeracCompany,79.52
+Aviso AI,AvisoAI,79.51
+Planet DDS,PlanetDDS,79.51
+ITILITE,ITILITE,79.50
+Service Express,ServiceExpress,79.50
+Laserfiche,Laserfiche,79.50
+talent.io,talentio,79.50
+NBC Sports Next,NBCSportsNext,79.49
+Backstory,backstory,79.48
+Scoro,Scoro,79.48
+Zywave,zywave,79.48
+Mitiga,Mitiga,79.47
+Olympus,Olympus,79.47
+Stratascale,stratascale,79.46
+Carbon,CarbonInc,79.46
+Trinity Solar,TrinitySolar,79.46
+Custom Ink,CustomInk,79.46
+PlexTrac,Plextrac,79.46
+Packback,Packback,79.46
+Anaplan,Anaplan,79.46
+BluSky Restoration Contractors,Bluskyrestorationcontractors,79.46
+Lyra Health,LyraHealth,79.46
+C Spire,CSpire,79.45
+Fiix Software,FiixSoftware,79.45
+PR Newswire,pr-newswire,79.45
+Octus,Reorg,79.45
+Wise,wise,79.45
+Latchel,Latchel,79.44
+Intel,Intel5385,79.44
+Sherwin-Williams,SherwinWilliams,79.44
+Iterable,Iterable,79.44
+GLENTEL,GLENTEL,79.44
+Leadr,Leadr,79.44
+Goodshuffle,Goodshuffle,79.43
+LabCorp,LabCorp,79.43
+Lifetouch,lifetouch-photography,79.43
+Cutover,Cutover,79.43
+Wunderkind,Wunderkind,79.42
+SpotHopper,SpotHopper,79.42
+Fusion Worldwide,fusion-worldwide,79.42
+Commerce.com,bigcommerce,79.42
+Redox,Redox,79.42
+Udemy Business,UdemyBusiness,79.41
+OneNeck IT Solutions,OneNeckITSolutions,79.41
+Hub Group,HubGroup,79.41
+Rival Technologies,RivalTechnologies,79.40
+Amazon Business,AmazonBusiness,79.40
+Material Security,material-security,79.40
+Xello,Xello,79.39
+Airtable,Airtable,79.39
+Mitratech,Mitratech,79.39
+EVERFI,EVERFI,79.39
+DoctorLogic,DoctorLogic,79.39
+Iland,Iland,79.38
+Cube,Cube,79.38
+Aya Healthcare,AyaHealthcare,79.37
+BrightHire,BrightHire,79.37
+Rhythm Software,rhythm-software,79.36
+Miro,Miro,79.36
+altafiber,altafiber,79.36
+Trovata,Trovata,79.36
+Hostaway,Hostaway,79.36
+Black Duck,black-duck,79.35
+McClatchy,McClatchy,79.35
+Mr. Cooper,MrCooper,79.35
+Rinsed,rinsed,79.35
+MX,MX,79.34
+Onset Financial,OnsetFinancial,79.34
+CircleCI,CircleCI,79.34
+OnDeck,OnDeck,79.33
+Scrive,Scrive,79.33
+Porch,Porchcom,79.33
+Nextraq,Nextraq,79.33
+ON24,ON24,79.32
+TikTok,TikTok,79.32
+Becton Dickinson,BectonDickinson,79.31
+Weatherby Healthcare,Weatherbyhealthcare,79.31
+The Stepstone Group,the-stepstone-group,79.31
+Exabeam,Exabeam,79.31
+Egress,Egress,79.31
+Dozuki,Dozuki,79.30
+Tactile Medical,tactile-medical,79.30
+Cyncly,cyncly,79.30
+Adventfs,Adventfs,79.30
+Brivo,Brivo,79.29
+DAT Freight & Analytics,Datfreightandanalytics,79.29
+Netchex,Netchex,79.28
+Instabase,Instabase,79.28
+Black Knight,BlackKnight,79.28
+Keysight Technologies,KeysightTechnologies,79.28
+Facet Wealth,facetwealth,79.28
+Horizons,horizons,79.27
+TrueCommerce,TrueCommerce,79.27
+Imperial Dade,imperial-dade,79.27
+Fluence Technologies,FluenceTechnologies,79.27
+Imperva,Imperva,79.26
+Akkodis,akkodis,79.26
+RavenPack,RavenPack,79.26
+Zeni,Zeni,79.26
+Vitas healthcare,VitasHealthcare,79.26
+Thoropass,Laika,79.26
+Xerox,Xerox,79.25
+CloudFlare,CloudFlare,79.24
+"Veritone, Inc.",VeritoneInc,79.24
+TapGoods,TapGoods,79.24
+Postmates (Uber),Postmates,79.23
+Equinox,Equinox,79.23
+JumpCloud,JumpCloud,79.23
+Omada Health,OmadaHealth,79.23
+Whistic,Whistic,79.23
+Storyly,Storyly,79.22
+Altana,altana,79.22
+Prezent.ai,Prezentai,79.22
+Albiware,Albiware,79.21
+Partoo,Partoo,79.21
+U.S. Bank,USBancorp,79.21
+Avis Budget Group,AvisBudgetGroup,79.20
+STANLEY Healthcare,STANLEYHealthcare,79.19
+SpyCloud,spycloud,79.19
+Wonderlic,Wonderlic,79.18
+LeadIQ,LeadIQ,79.18
+RevenueWell,RevenueWell,79.18
+Iodine Software,IodineSoftware,79.17
+Rent Dynamics,rentdynamics,79.17
+Kforce,Kforce,79.17
+Privacera,Privacera,79.17
+Recorded Future,recordedfuture,79.17
+"Crisp, Inc.",CrispInc,79.17
+4M Analytics,4m-analytics,79.17
+Ritchie Bros,RitchieBros,79.16
+Nobel Biocare,NobelBiocare,79.16
+Seerist,Seerist,79.16
+Esri,Esri,79.15
+SiteMinder,Siteminder,79.14
+Lusha Systems Inc,Lushasystemsinc,79.14
+Pfizer Inc,PfizerInc,79.13
+Nuspire,Nuspire,79.13
+PeerSpot,PeerSpot,79.13
+LRN,LRN,79.13
+HG Insights,HGInsights,79.13
+Hudl,Hudl,79.12
+Dashlane,Dashlane,79.12
+Spectrum Reach,SpectrumReach,79.12
+MarginEdge,MarginEdge,79.12
+AlgoSec,Algosec,79.12
+Solventum,solventum,79.11
+Mailgun by Sinch,Pathwire,79.11
+Ascend Fundraising Solutions,AscendFundraisingSolutions,79.11
+Diligent,Diligent,79.11
+Foundation Medicine,FoundationMedicine,79.11
+Studytube,studytube,79.10
+LeanData,LeanData,79.10
+LiquidPlanner,LiquidPlanner,79.09
+CyberCoders,CyberCoders,79.09
+Inari Medical,InariMedical,79.09
+Citigroup,Citigroup,79.09
+Weka,WekaIO,79.09
+Recurly,Recurly,79.08
+Bluesnap,Bluesnap,79.08
+Seamless.ai,Seamlessai,79.08
+Tegus,Tegus,79.08
+Closinglock,closinglock,79.08
+CyberCube,CyberCube,79.07
+Get Bridge,GetBridge,79.07
+Jive Software,JiveSoftware,79.07
+MSC Industrial Supply,MSCIndustrialSupply,79.07
+ACI Worldwide,ACIWorldwide,79.07
+ActiveCampaign,ActiveCampaign,79.07
+Grab,Grab,79.05
+Jefferson Frank,JeffersonFrank,79.04
+Binary Defense,BinaryDefense,79.03
+Charter Communications,CharterCommunications,79.03
+Multiverse,Multiverse,79.03
+Rivery.io,Riveryio,79.03
+Kainos,Kainos,79.03
+Spiff,Spiff,79.02
+Zoom Video Communications,ZoomVideoCommunications,79.02
+LogRhythm,LogRhythm,79.02
+EverCommerce,EverComerce,79.01
+Flashpoint,FlashpointIntelligence,79.01
+Cranial Technologies,cranial-technologies,79.01
+The SpyGlass Group LLC,TheSpyGlassGroupLLC,79.01
+Citrix,Citrix,79.00
+Southern Glazers Wine and Spirits,Southernglazerswineandspirits,79.00
+Cymax Group Technologies,CymaxGroupTechnologies,79.00
+Redpanda Data,redpanda-data,78.99
+NexHealth,NexHealth,78.99
+GetScale,Getsales,78.98
+AtriumHQ,AtriumHQ,78.98
+Paylocity,Paylocity,78.98
+GoCanvas,GoCanvas,78.98
+Submittable,Submittable,78.98
+Muck Rack,MuckRack,78.97
+N-able,Nable,78.97
+Litify,Litify,78.97
+V7,V7,78.97
+CyberCX,CyberCX,78.96
+Babbel,Babbel,78.96
+Fulcrum,FulcrumData,78.96
+Ascend Learning,ASCENDLearningATI,78.96
+Sabre Corporation,Sabre,78.96
+KPA,Kpa,78.96
+Pacaso,Pacaso,78.95
+A Cloud Guru,ACloudGuru,78.95
+BlueCat,BlueCat,78.95
+Instructure,Instructure,78.95
+Thermo Fisher Scientific,ThermoFisherScientific,78.94
+Pacific Office Automation,PacificOfficeAutomation,78.94
+BYJU'S,Byjus,78.94
+Sastrify,Sastrify,78.94
+Thunkable,Thunkable,78.94
+HMS Networks,HMSIndustrialNetworks,78.94
+Achievers,Achievers,78.93
+Coleman Research Group,ColemanResearchGroup,78.93
+Sherpany,Sherpany,78.93
+Best Buy,BestBuy,78.93
+Knotch,Knotch,78.92
+Lavender,Lavender,78.92
+Command Alkon,CommandAlkon,78.92
+Jiminny,jiminny,78.91
+Posit,Posit,78.91
+Momence,Momence,78.91
+DeepSeas,DeepSeas,78.90
+Innovation Refunds,innovation-refunds,78.90
+TrustRadius,TrustRadius,78.89
+SEIDOR,SEIDOR,78.88
+Unite Us,UniteUs12326,78.88
+Signiant,Signiant,78.88
+Skilljar,Skilljar,78.88
+ObservePoint,ObservePoint,78.87
+Appomni,Appomni,78.87
+Orange Cyberdefense,OrangeCyberdefense,78.86
+Monograph,monograph,78.86
+Rockwell Automation,RockwellAutomation,78.86
+Transcend,transcend,78.86
+Arcade,Arcade,78.85
+Basis Technologies,BasisTechnologies12337,78.85
+Depuy Synthes,DepuySynthesCMF,78.84
+Anrok,Anrok,78.84
+Extend,Extend,78.84
+Convex,Convex,78.84
+Dash.fi,dash-fi,78.84
+QOMPLX,QOMPLX,78.83
+Rhombus Systems,RhombusSystems,78.83
+ExtraHop,extrahop,78.83
+Lumio,Lumio,78.83
+With Intelligence,withintelligence,78.82
+Morphisec,Morphisec,78.82
+Rocket Software,RocketSoftware,78.82
+Engine,engine,78.82
+Swimlane,Swimlane,78.82
+Paragon,Paragon,78.82
+Comet,Comet,78.81
+Sandhills Global,SandhillsGlobal,78.81
+Milwaukee Tool,MilwaukeeTool,78.81
+Limble CMMS,LimbleCMMS,78.81
+RapidRatings,RapidRatings,78.81
+Aircall,Aircall,78.80
+ThoughtSpot,Thoughtspot,78.80
+Squire,Squire,78.80
+Exterro,Exterro,78.80
+Dataguard,dataguard,78.79
+Naylor Association Solutions,Naylor,78.79
+Veryfi,Veryfi,78.79
+Window Nation,Windownation,78.79
+Deepl,deepl,78.79
+Side inc,sideinc,78.79
+PrimeRevenue,PrimeRevenue,78.78
+Center,Center,78.78
+Capgemini Engineering,CapgeminiEngineering,78.78
+RealPage,Realpage,78.77
+Contently,Contently,78.77
+Altus Group,Altus,78.77
+Convatec,ConvaTec,78.77
+StackHawk,StackHawk,78.77
+Intelligo,Intelligo,78.76
+Aerotek,Aerotek,78.76
+IDBS,IDBSInc,78.76
+FortifyData,FortifyData,78.76
+Case Status,case-status,78.76
+World Kinect,world-kinect,78.75
+Dell Technologies,DellTechnologies,78.75
+Pinterest,Pinterest,78.75
+Capchase,capchase,78.75
+Amplitude,Amplitude,78.75
+Emerson,EmersonElectric,78.74
+Encore,Encore,78.74
+Neogov,Neogov,78.74
+2X,2x,78.74
+iCIMS,iCIMS,78.74
+Gradle Inc.,gradle,78.73
+Kluster,Kluster,78.73
+Scale AI,Scale,78.73
+Studies Weekly,StudiesWeekly,78.73
+Modernizing Medicine,modernizingmedicine,78.73
+AspenTech,AspenTech,78.73
+Tulip Interfaces,TulipInterfaces,78.73
+smartShift,smartShift,78.73
+EverQuote,Everquote,78.72
+Interact Software,interact-software,78.72
+Beacon Hill,BeaconHillStaffingGroup,78.71
+The Mom Project,TheMomProject,78.71
+Movable Ink,movableink,78.71
+FinQuery,FinQuery,78.71
+GoTu,gotu,78.71
+Catapult,Catapult,78.70
+Thought Industries,ThoughtIndustries,78.70
+HR Acuity,Hracuity,78.69
+Flare,flarehr,78.69
+Oracle Marketing Cloud,OracleMarketingCloud,78.69
+Follett,FollettSchoolSolutions,78.69
+Teads,teads,78.68
+Politico,Politico,78.68
+Intelex,Intelex,78.68
+Merrill Edge,MerrillEdge,78.68
+AppDirect,AppDirect,78.67
+Fujitsu,Fujitsu,78.67
+Everest Group,EverestGroup,78.66
+Preqin,Preqin,78.66
+iSolved HCM,iSolvedHCM,78.66
+twentyAI,Twentyai,78.65
+Thales,ThalesGroup,78.65
+Awardco,Awardco,78.65
+Transmit Security,TransmitSecurity,78.64
+Beanfield,beanfield,78.64
+Youreka,Youreka,78.64
+Codefresh,Codefresh,78.64
+Merrill Lynch,MerrillLynch,78.64
+Salsify,Salsify,78.64
+Droplet,droplet,78.64
+Contentful,Contentful,78.63
+Labelbox,labelbox,78.63
+Tecton,tecton,78.63
+Call Box,CallBox,78.63
+Eagle Eye Networks,EagleEyeNetworks,78.63
+Greenlight,greenlight,78.63
+Wayflyer,wayflyer,78.63
+JazzHR,JazzHR,78.62
+Quorum Analytics,QuorumAnalytics,78.62
+Kargo,Kargo,78.62
+Axonify,Axonify,78.62
+Accushield,Accushield,78.61
+CREXi,CREXi,78.61
+New Relic,NewRelic,78.61
+DATIS HR Cloud,DATISHRCloud,78.61
+Workable,Workable,78.61
+Netscout,Netscout,78.61
+Lexia Learning,lexia,78.61
+TechnologyAdvice,Technologyadvice,78.60
+Visible Alpha,VisibleAlpha,78.58
+Prezi,Prezi,78.58
+Restaurant365,Restaurant365,78.58
+ProcessMap,processmap,78.58
+GRAIL,Grail,78.57
+Ryerson Inc,RyersonInc,78.57
+Maven AGI,maven-agi,78.57
+"AvidXchange, Inc.",AvidXchange,78.57
+Apartments.com,Apartmentscom,78.56
+Qualio,Qualio,78.56
+FreshBooks,FreshBooks,78.55
+MuteSix,MuteSix,78.55
+Ketryx,ketryx,78.55
+Bigtincan,bigtincan,78.54
+Propel,PropelPLM,78.54
+CSG,CSG,78.54
+Winebow,Winebow,78.53
+Quandri,quandri,78.53
+Human Interest,HumanInterest,78.53
+Proper AI,proper-ai,78.52
+VisibleThread,VisibleThread,78.52
+LoopMe,LoopMe,78.52
+MediaValet,mediavalet,78.52
+GoLinks,GoLinks,78.51
+FullStory,FullStory,78.51
+Wyndham Capital Mortgage,WyndhamCapitalMortgage,78.51
+Quorum Software,QuorumSoftware,78.51
+Design Pickle,DesignPickle,78.51
+Lutron Electronics,Lutron,78.51
+GoBolt,GoBolt,78.51
+Jirav,Jirav,78.50
+Sovra,sovra,78.50
+Fleet Complete,FleetComplete,78.49
+Graphite,Graphite,78.49
+Worldwide Express,WorldwideExpress,78.49
+Siemens DISW,SiemensDISW,78.48
+CSC,Csc,78.48
+ClearCompany Talent Management,ClearCompany,78.48
+AskNicely,AskNicely,78.48
+AHEAD,AHEAD,78.48
+Whip Around,whip-around,78.48
+Hubs,Hubs,78.47
+Pontera,Pontera,78.47
+Veritas,Veritas,78.47
+Roku,Roku,78.47
+MoEngage,Moengage,78.46
+MadKudu,MadKudu,78.46
+Yello,Yello,78.46
+Betterworks,BetterworkssystemsInc,78.46
+State Farm Insurance,StateFarmInsurance,78.46
+Make,make-com,78.45
+StartEngine,StartEngine,78.45
+MindBridge,MindBridge,78.45
+Allianz,Allianz,78.45
+Behr Paint Company,BehrPaintCompany,78.45
+PROS,Pros,78.45
+Payoneer,Payoneer,78.45
+SurePoint,Surepoint,78.44
+rater8,rater8,78.44
+Superhuman,superhuman,78.43
+Pavilion,Pavilion,78.43
+Boast,Boast,78.43
+SmartBiz,smartbiz,78.43
+Avionte Staffing Software,Avionte,78.43
+Rentable,Rentable,78.43
+Kobiton,Kobiton,78.42
+Informa TechTarget,TechTarget,78.42
+Commure,commure,78.41
+Lob,Lob,78.41
+LexisNexis,lexisnexis,78.41
+Liquibase,liquibase,78.41
+Siteimprove,Siteimprove,78.40
+weavix,weavix,78.40
+Forter,Forter,78.40
+Cynosure,Cynosure,78.40
+Botpress,Botpress,78.40
+Q4,Q4,78.40
+Nexthink,Nexthink,78.40
+OpenEye,OpenEye,78.39
+Assurance IQ,AssuranceIQ,78.39
+Model N,ModelN,78.39
+ViB,ViB,78.39
+Thomson Reuters,ThomsonReuters,78.39
+Alteryx,Alteryx,78.38
+Brightly,DudeSolutions,78.38
+Cirrus Insight,CirrusInsight,78.38
+"o9 Solutions, Inc.",o9,78.38
+TTEC,Ttec,78.38
+eFinancial,Efinancial,78.37
+Plivo,Plivo,78.37
+InXpress,InXpress,78.37
+Legends Global,Legends,78.37
+Gamma,Gamma,78.37
+Virtuoso,Virtuoso,78.36
+360insights,360insights,78.36
+LGCY Power,Lgcy,78.36
+Hyperscience,HyperScience,78.35
+eBay,eBay,78.35
+Cobalt.io,Cobalt,78.35
+Cengage Group,cengage,78.34
+Remote,Remote,78.34
+Hanson Wade Group,hanson-wade,78.34
+Paycor,Paycor,78.34
+Beautiful.ai,beautiful-ai,78.33
+Kudos,Kudos,78.33
+NOW CFO,NOWCFO,78.33
+Imgix,imgix,78.32
+US Foods Holding,USFoodsHolding,78.32
+Affirma,Affirma,78.32
+Industrial Scientific,IndustrialScientific,78.31
+Prewave,prewave,78.31
+FlexTG,flextg,78.31
+Skeepers,skeepers,78.31
+PlayPlay,PlayPlay,78.31
+"LEAF Commercial Capital, Inc.",LEAFCommercialCapital,78.31
+Tackle.io,Tackle,78.31
+NiCE,NICE,78.30
+Yousign,Yousign,78.30
+Manifest Climate,ManifestClimate,78.30
+Linewize,Linewize,78.29
+Doma,Doma,78.29
+Tonic Ai,TonicAi,78.28
+Credit Acceptance,Creditacceptance,78.28
+ICIS,icis,78.28
+Royal United Mortgage,RoyalUnitedMortgage,78.28
+FullFunnel,FullFunnel,78.28
+Turbonomic,Turbonomic,78.27
+6 River Systems,6Riversystems,78.27
+Comparably,Comparably,78.27
+StretchLab,StretchLab,78.27
+Alation,Alation,78.26
+Zeplin,Zeplin,78.26
+Gordon Food Service,GordonFoodService,78.26
+Intentsify,Intentsify,78.26
+proSapient,proSapient,78.25
+Kimball Midwest,kimball-midwest,78.25
+eloomi,EloomiAS,78.25
+Hexagon AB,Hexagon,78.25
+TradePending,TradePending,78.25
+LHC Group,LHCGroup,78.24
+IFS,IFS,78.24
+Imply,Imply,78.24
+PathFactory,Pathfactory,78.24
+Renaissance Learning,Renaissance,78.23
+Fortra,Fortra,78.23
+Impact Networking,ImpactNetworking,78.23
+Indeed.com,Indeed,78.22
+Zillow,Zillow,78.22
+Object First,object-first,78.22
+Hawk,Hawk,78.22
+Signal AI,SignalAI,78.21
+Weave,Weave,78.21
+Grow.com,Grow,78.21
+Sophos,Sophos,78.21
+Phreesia,Phreesia,78.20
+Cook Medical,CookMedical,78.20
+DHL Express,DHLExpress13551,78.20
+Finalsite,Finalsite,78.20
+Unibuddy,Unibuddy,78.19
+apexanalytix,apexanalytix,78.19
+hackajob,hackajob,78.19
+Biofourmis,Biofourmis,78.18
+OPSWAT,OPSWAT,78.18
+RLDatix,RLDatix,78.18
+Boomi,Boomi,78.18
+Birdeye,Birdeye,78.18
+Guardant Health,GuardantHealth,78.17
+Coupa Software,CoupaSoftware,78.17
+CareerStep,Careerstep,78.17
+TUNE,Tune,78.17
+FTSE Russell,ftse-russell,78.17
+Upgrad,Upgrad,78.17
+Logicbroker,logicbroker,78.16
+Oracle Netsuite,Netsuite,78.16
+Social Solutions,SocialSolutions,78.15
+Island,Island,78.15
+Snowplow,Snowplow,78.15
+AppViewX,AppViewX,78.15
+Constellation Software,ConstellationSoftware,78.15
+Toptal,Toptal,78.14
+Jungle Scout,JungleScout,78.14
+Calendly,Calendly,78.14
+Heartland Business Systems,HeartlandBusinessSystems,78.14
+Staffmark,Staffmark,78.13
+WorkEasy Software,WorkEasySoftware,78.13
+Matterport,Matterport,78.13
+Research Solutions,research-solutions,78.12
+Malt,malt,78.12
+TRG Screen,trg-screen,78.12
+Collibra,Collibra,78.12
+Zilliant,Zilliant,78.12
+ABBYY,ABBYY,78.12
+Case IQ,iSight,78.12
+Cardlytics,Cardlytics,78.11
+Traceable.ai,traceable-ai,78.10
+EdgeTier,edgetier,78.10
+Anteriad,Anteriad,78.10
+Bridgepointe Technologies,bridgepointe-technologies,78.10
+Finally,finally,78.10
+"Kerecis, LLC",KerecisLLC,78.10
+NWN,NWNCarousel,78.10
+Aurora Solar,AuroraSolar,78.10
+"HireVue, Inc.",HireVueInc,78.10
+Brinqa,Brinqa,78.09
+Fresenius Medical Care,FreseniusMedicalCare,78.09
+Lux Research,LuxResearch,78.08
+Ziff Davis,ZiffDavis,78.08
+Civitas Learning,CivitasLearning,78.08
+Quartile,Sidecar,78.08
+Routable,Routable,78.08
+Book4time,Book4time,78.07
+Northstar,Northstar,78.07
+Resulticks,resulticks,78.07
+Doctolib,Doctolib,78.07
+Speechmatics,Speechmatics,78.06
+BigPanda,BigPanda,78.06
+Kin Insurance,KinInsurance,78.06
+It Glue,ItGlue,78.06
+Transporeon,Transporeon,78.05
+Sunrun,Sunrun,78.05
+IQPC,IQPC,78.05
+Lytics,Lytics,78.04
+Vivi,vivi,78.04
+Agicap,agicap,78.04
+Swapcard,Swapcard,78.04
+Uberall,MomentFeed,78.04
+Meltwater,Meltwater,78.04
+Synup,Synup,78.04
+Voltus,Voltus,78.04
+TravelNet Solutions,TravelnetSolutions,78.04
+Sprinklr,Sprinklr,78.04
+Liberty Mutual Insurance Group,LibertyMutualInsuranceGroup,78.04
+NewDay USA,NewdayUSA,78.03
+Quisitive,Quisitive,78.03
+Sciencelogic,Sciencelogic,78.03
+Talkdesk,Talkdesk,78.03
+Spiceworks Ziff Davis,SpiceworksZiffDavis,78.02
+Kaltura,kaltura,78.02
+Levelpath,levelpath,78.02
+LocumTenens.com,LocumTenenscom,78.01
+One Medical,OneMedical,78.01
+Qstream,Qstream,78.01
+Canibuild,Canibuild,78.01
+Flight Centre Travel Group,FlightCentreTravelGroup,78.01
+SundaySky,SundaySky,78.00
+Landtech,Landtech,78.00
+Comcast Business,ComcastBusiness,77.99
+Uptempo,Uptempo,77.99
+MPLC,mplc,77.99
+KPMG,Kpmg,77.99
+Televerde,Televerde,77.99
+Textio,Textio,77.98
+Florence Healthcare,FlorenceHealthcareInc,77.98
+DataRobot,DataRobot,77.98
+GoCo,GoCo,77.98
+"Spreedly, Inc.",SpreedlyInc,77.98
+BMC Software,BMCSoftwareInc,77.97
+"WOW! Internet, TV, & Phone",wow,77.97
+Bushel,Bushel,77.97
+Wildix,wildix,77.97
+All Covered,Allcovered,77.97
+Formlabs,Formlabs,77.97
+J.J. Keller,JJKeller,77.96
+ETQ,ETQ,77.96
+Incident IQ,incident-iq,77.95
+Eightfold,Eightfold,77.95
+NextLot,nextlot,77.95
+MountainSeed,mountainseed,77.94
+COMPLY,COMPLY,77.94
+MARKT-PILOT,markt-pilot,77.94
+Sitetracker,Sitetracker,77.93
+Amergis,maxim-healthcare-staffing,77.93
+Sunbelt Rentals,sunbeltrentals,77.93
+Xeneta,xeneta,77.93
+Clevry,Clevry,77.92
+Tesla,Tesla,77.92
+Gainsight,Gainsight,77.91
+ZenGRC,Reciprocity,77.91
+Safe Security,safe-security,77.91
+EdCast,EdCast,77.91
+Jabra,Jabra,77.91
+Cloudbeds,Cloudbeds,77.90
+Gallagher,ArthurJGallagher,77.89
+SearchStax,searchstax,77.89
+Realtor.com,realtorcom,77.89
+CB Insights,CBInsights,77.88
+Dallas Stars,DallasStars,77.88
+120Water,120Water,77.88
+AutoTrader.ca,TraderCorporation,77.88
+LG Electronics,LG,77.87
+STORD,STORD,77.87
+Audicus,audicus,77.87
+VC3,VC3,77.87
+Caspio,caspio,77.87
+Maropost,Maropost,77.86
+Fundera,Fundera,77.86
+Chicago Fire FC,ChicagoFireFC,77.86
+SAS,SASincludingJMP,77.85
+SmartRent,SmartRent,77.85
+Electric,Electric,77.85
+C.H. Robinson Worldwide,CHRobinsonWorldwide,77.85
+Wrike,Wrike,77.85
+Rev,Rev,77.84
+Fingerprint,Fingerprint,77.84
+Reuters,reuters-events,77.84
+InterSystems,InterSystems,77.84
+Dustin,Dustin,77.84
+Stack Sports,StackSports,77.84
+OrderMyGear,OrderMyGear,77.83
+MSP360,MSP360,77.83
+Globalization Partners,GlobalizationPartners,77.82
+Boostly,boostly,77.82
+Squiz,Squiz,77.82
+Chaos Cylindo,Cylindo,77.82
+Deputy,Deputy,77.82
+Glovo,Glovo,77.82
+Southwest Airlines,SouthwestAirlines,77.81
+Midaxo,Midaxo,77.81
+Pequity,pequity,77.80
+Spendesk,Spendesk,77.79
+GroupBy,GroupBy,77.79
+Bounteous,bounteous,77.79
+Peloton,Peloton,77.79
+Coalfire,Coalfire,77.79
+Texas First Rentals,TexasFirstRentals,77.79
+Atmosphere,Atmosphere,77.79
+Mouseflow,mouseflow,77.78
+First AML,FirstAML,77.78
+PerformYard,PerformYard,77.78
+PagerDuty,PagerDuty,77.78
+Gryphon.Ai,GryphonAi,77.77
+efficy,efficy,77.77
+Sonrai Security,SonraiSecurity,77.77
+PowerSchool,PowerSchool,77.77
+PatientPop,PatientPop,77.77
+Vehlo,Vehlo,77.77
+GoDaddy,GoDaddy,77.76
+Dusty Robotics,dusty-robotics,77.76
+Shogun,Shogun,77.76
+PEI,pei,77.75
+Vonage,Vonage,77.75
+BMO,BMO,77.75
+SourceScrub,SourceScrub,77.75
+PeopleFluent,PeopleFluent,77.75
+Coralogix,Coralogix,77.75
+Keyfactor,Keyfactor,77.75
+Relay Payments,RelayPayments,77.74
+Actalent,Actalent,77.74
+Tripleseat,Tripleseat,77.74
+OrderProtection,orderprotection,77.74
+Happeo,happeo,77.73
+Backbase,Backbase,77.73
+Bench Accounting,BenchAccounting,77.73
+Devoteam,Devoteam,77.73
+Innovative Solutions,InnovativeSolutions,77.73
+Forescout,Forescout,77.73
+Precisely,Precisely,77.72
+University of Phoenix,university-of-phoenix,77.72
+Wayvia,Pricespider,77.71
+Yellowfin BI,yellowfinbi,77.71
+Livestorm,Livestorm,77.70
+Abrigo,AbrigoSageworks,77.70
+ETRADE by Morgan Stanley,ETRADE,77.70
+Monetate,Monetate,77.69
+Vultr,vultr,77.69
+Network for Good,NetworkforGood,77.69
+Blue Bite,BlueBite,77.69
+Applause,Applause,77.69
+Technology Associates,TechnologyAssociates,77.69
+Sonatype,Sonatype,77.68
+Vertafore,Vertafore,77.68
+Mitel,Mitel,77.68
+Amboss,Amboss,77.68
+Dayshape,dayshape,77.68
+Trulioo,trulioo,77.67
+eBacon,eBacon,77.67
+ClearOne Advantage,ClearOneAdvantage,77.67
+United Rentals,UnitedRentals,77.67
+Stack Overflow,StackOverflow,77.67
+Cox Media,CoxMedia,77.67
+Restaurant Technologies,RestaurantTechnologies,77.66
+DuploCloud,DuploCloud,77.66
+Cox Automotive,Coxautomotive,77.66
+Clarifai,clarifi,77.66
+Nanonets,Nanonets,77.65
+Uber,Uber,77.65
+BoomCloud,BoomCloud,77.65
+Digital.ai,digitalai,77.65
+Alight,Alight15800,77.64
+Airgas,Airgas,77.64
+Univar Solutions,Univar,77.64
+Auctane,Auctane,77.64
+Omnissa,omnissa,77.63
+EveryoneSocial,EveryoneSocial,77.63
+Linq App,linq,77.62
+Snap,Snap,77.62
+Blend,Blend,77.62
+Vaco,Vaco,77.62
+Zendesk,Zendesk,77.61
+SPINS,SPINS,77.61
+Planday,Planday,77.60
+JWX,JWPlayer,77.60
+LoyaltyLion,LoyaltyLion,77.60
+Ingram Micro,IngramMicro,77.60
+OfficeSpace Software,OfficeSpaceSoftware,77.60
+Springbuk,springbuk,77.59
+Gloat,Gloat,77.59
+TD Synnex,TechData,77.59
+Intermedia,Intermedia,77.58
+Pandora,Pandora,77.58
+Particular Audience,ParticularAudience,77.58
+BrowserStack,BrowserStack,77.58
+Plauti,Plauti,77.57
+"RQI Partners, LLC",RQIPartnersLLC,77.57
+Chargebee,Chargebee,77.57
+Avochato,Avochato,77.56
+Edward Jones,JonesFinancialEdwardJones,77.56
+Rand Worldwide,RandWorldwide,77.55
+Decisions,Decisions,77.55
+Agility Recovery,AgilityRecovery,77.55
+Extreme Networks,ExtremeNetworks,77.54
+Frends,frends,77.54
+GoComet,gocomet,77.54
+Causeway Technologies,Causeway,77.54
+MURAL,MURAL,77.54
+Denim,denim,77.54
+Compliancy Group,CompliancyGroup,77.54
+Vasion,Vasion,77.53
+OSF Digital,OSFDigital,77.53
+Housecall Pro,HousecallPro,77.53
+Karl Storz,Karlstorz,77.53
+Temenos,Temenos,77.53
+LivaNova,LivaNova,77.53
+Shamrock Trading Corporation,ShamrockTradingCorporation,77.52
+Knak,Knak,77.52
+ArcBest,Arcbest,77.52
+Shaw Business,ShawBusiness,77.52
+Wandz.ai,Namogoo,77.51
+Spark Hire,sparkhire,77.51
+Logitech,Logitech,77.51
+GrammaTech,GrammaTech,77.51
+Zimmer Biomet,ZimmerBiomet,77.51
+"CoStar Group, Inc.",CoStarGroupInc,77.51
+"AdRoll ABM, a brand of NextRoll",RollWorksadivisionofNextRoll,77.50
+Zycus,zycus,77.50
+Reputation.com,Reputationcom,77.50
+Aruza Marketing,AruzaMarketing,77.50
+Mollie,mollie,77.50
+Comdata,Comdata,77.50
+ServPro,ServPro,77.49
+Clinisys,clinisys,77.49
+BENlabs,benlabs,77.49
+Bosch,Bosch,77.48
+Bambee,Bambee,77.48
+onPhase,DocuPhase,77.47
+Clyde,Clyde,77.47
+Myriad Genetics,myriad-genetics,77.46
+Enhesa,Enhesa,77.46
+Design Collective by Cintas,design-collective-by-cintas,77.45
+Betterment,Betterment,77.45
+"Safe Haven Security Services, LLC.",SafeHavenSecurity,77.45
+Knowde,Knowde,77.45
+Rapid Finance,RapidFinance,77.44
+Clearlink,Clearlink,77.44
+Pagefreezer,Pagefreezer,77.43
+IANS,IANS,77.42
+"EVO Payments, Inc.",EVO,77.42
+Altair,Altair,77.42
+GlobalTranz,GlobalTranz,77.42
+Black Kite,BlackKite,77.42
+Beeline,Beeline,77.41
+BrightEdge,BrightEdge,77.41
+Clumio,Clumio,77.41
+Apollo GraphQL,ApolloGraphQL,77.41
+Wood Mackenzie,WoodMackenzie,77.41
+Exact Sciences,ExactSciences,77.40
+Bringg,Bringg,77.40
+Republic National Distributing Company,Republicnationaldistributingcompany,77.40
+Reyes Coca-Cola Bottling,ReyesCocaColabottling,77.39
+Neo4j,Neo4j,77.39
+QuidelOrtho,Quidel,77.39
+Fenergo,Fenergo,77.39
+Strategic Financial Solutions,StrategicFinancialSolutions,77.39
+Artlist,artlist,77.39
+Sora.co,Soraco,77.39
+Ibotta,Ibotta,77.38
+Advertise Purple,AdvertisePurple,77.38
+Matillion,Matillion,77.38
+Operatix,Operatix,77.37
+Synerfac Technical Staffing,SynerfacTechnicalStaffing,77.37
+Syncfusion,syncfusion,77.37
+Rectangle Health,Rectanglehealth,77.37
+Parabola,parabola,77.37
+ContactOut,contactout,77.37
+Smartsheet,Smartsheet,77.37
+Circa,Circa,77.36
+Avantor,Avantor,77.36
+Storyblok,Storyblok,77.36
+Oracle,Oracle,77.36
+Red Canary,RedCanary,77.36
+Lumenis,Lumenis,77.35
+ZocDoc,ZocDoc,77.35
+Nextworld,Nextworld,77.35
+Poka,Poka,77.35
+ThinScale Technology,ThinScaleTechnology,77.35
+Logical Position,LogicalPosition,77.35
+Pearl,pearl,77.34
+Rock Solid Technologies,RockSolidTechnologies,77.34
+GTT,GTT,77.33
+Fresh Relevance,FreshRelevance,77.33
+Codility,Codility,77.32
+Ethos Systems,LearntoWin,77.32
+Simpplr,Simpplr,77.32
+Mesh Payments,mesh-payments,77.32
+CharterUP,charterup,77.32
+Leverage,Leverage,77.31
+Mutual of America Financial Group,MutualofAmerica,77.31
+Orgvue,Orgvue,77.31
+Go1,go1,77.31
+Mapp Digital,MappDigital,77.31
+NerdWallet,NerdWallet,77.30
+Fortive,Fortive,77.30
+Victra,Victra,77.30
+Apprentice.io,Apprenticeio,77.29
+Accurate Background,Accurate,77.29
+CIBC,CIBC,77.29
+Global Industrial Company,GlobalIndustrialCompany,77.29
+Kahoot,Kahoot,77.28
+iSpot.tv,iSpottv,77.28
+Brandlive,Brandlive,77.28
+Farmers Insurance Exchange,FarmersInsuranceExchange,77.27
+Revity,revity,77.27
+ArcSite,ArcSite,77.27
+Visual Lease,VisualLease,77.26
+Strike Graph,StrikeGraph,77.26
+Contruent,contruent,77.26
+Unmind,Unmind,77.26
+MRI Software,MRISoftware,77.26
+Zerto,Zerto,77.25
+Pluralsight,Pluralsight,77.25
+TicketManager,TicketManager,77.25
+Bandalier,Bandalier,77.25
+Service Fusion,ServiceFusion,77.24
+Itential,Itential,77.24
+Big Ass Fans,BigAssFans,77.24
+Malomo,Malomo,77.24
+Landing,Landing,77.23
+Impetus,Impetus,77.23
+Funraise,Funraise,77.22
+Rattle,Rattle,77.22
+PrimeRx.io,PrimeRxio,77.22
+TextExpander,textexpander,77.21
+Ambu,Ambu,77.21
+JungleWorks,Jungleworks,77.21
+Very Good Security,VeryGoodSecurity,77.21
+KNIME,knime,77.21
+VMware Tanzu,vmwaretanzu,77.20
+Vacasa,Vacasa,77.20
+Horizontal Digital,HorizontalDigital,77.20
+Lev Capital,Lev,77.19
+Hive.co,Hiveco,77.19
+Swell,Swell,77.19
+Fastly,Fastly,77.19
+Refinitiv,Refinitiv,77.18
+Potloc,Potloc,77.17
+Gray Media,Gray,77.17
+National Debt Relief,NationalDebtRelief,77.17
+EasyKnock,EasyKnock,77.17
+Beacon,Beacon,77.17
+UniFirst Corporation,Unifirst,77.16
+Juvare,juvare,77.16
+VAST Data,vast-data,77.16
+Fifth Wheel Freight,FifthWheelFreight,77.16
+Andela,Andela,77.16
+Hologram,Hologram,77.15
+Tinuiti,tinuiti,77.15
+Nearmap,Nearmap,77.15
+Cars.com,Carscom,77.15
+Courier,Courier,77.15
+Baker Tilly US,BakerTillyUS,77.15
+Komodo Health,komodohealth,77.14
+NAVEX,NAVEX,77.14
+Applitools,Applitools,77.14
+CDW,CDW,77.14
+Arcoro,Arcoro,77.14
+Catalyst,Catalyst,77.13
+Anthology inc,Anthologyinc,77.13
+DataCamp,DataCamp,77.13
+Alasco GmbH,AlascoGmbH,77.13
+DISQO,DISQO,77.13
+ThreatLocker,Threatlocker,77.13
+FritoLay,FritoLay,77.13
+Kaplan,Kaplan,77.12
+Ware2Go,Ware2Go,77.12
+Sequoia,Sequoia,77.12
+Lacework,Lacework,77.12
+ALKU,ALKU,77.12
+Unqork,unqork,77.11
+Sunlight Financial,SunlightFinancial,77.11
+Paytm,Paytm,77.10
+American Heart Association,AmericanHeartAssociation,77.10
+Aptos Retail,Aptos,77.09
+SOCi inc,SOCiinc,77.09
+Corpay,Corpay,77.09
+Wex,Wex,77.09
+Olo,Olo,77.09
+Mothership,mothership-technologies,77.09
+Acquire.io,Acquireio,77.09
+edX,edX,77.08
+MINDBODY,MINDBODY,77.08
+Ouster,Ouster,77.08
+Diversified,Diversified,77.08
+Splash,Splash,77.08
+Broadcom Inc.,broadcom,77.08
+Anecdotes,anecdotes,77.08
+Salesloft,SalesLoft,77.07
+Databook,Databook,77.07
+"TiDB, Powered by PingCAP",pingcap,77.06
+Worldpay,Worldpay,77.06
+Hyland,Hyland,77.05
+SADA,SADASystems,77.05
+Unity Technologies,UnityTechnologies,77.05
+Cleveland Browns,cleveland-browns,77.05
+Amperity,Amperity,77.05
+Ryder System,RyderSystem,77.04
+Raintree Systems,raintree-systems,77.04
+Scorpion,Scorpion,77.04
+Rave Mobile Safety,RaveMobileSafety,77.04
+Studeo,Studeo,77.03
+TriMech,TriMech,77.03
+1build,1build,77.02
+Skai,Skai,77.01
+Flashbay,Flashbay,77.01
+think-cell,think-cell,77.01
+Cyolo,Cyolo,77.00
+Verizon Connect,Verizonconnect,77.00
+Hippo Video,HippoVideo,76.99
+Govini,govini,76.98
+TEKsystems,TEKsystems,76.98
+Schindler Elevator,SchindlerElevator,76.98
+Covideo,covideo,76.98
+BHG Financial,BHGFinancial,76.97
+Pebl,pebl,76.97
+Encamp,Encamp,76.97
+RJ Young,RJYoung,76.96
+ZeroFox,ZeroFox,76.96
+Integra LifeSciences,IntegraLifeSciences,76.96
+Netcracker Technology,Netcracker,76.96
+JobVite,JobVite,76.96
+SP Data Digital,SPData,76.95
+TeleTracking,TeleTracking,76.95
+DataStax,DataStax,76.94
+Lawrence Harvey,lawrence-harvey,76.94
+Varnish Software,varnish-software,76.94
+Fusion Growth Partners,FusionGrowthPartners,76.94
+HiveMQ,HiveMQ,76.94
+RippleMatch,RippleMatch,76.93
+Stream,Stream,76.93
+Emburse,Emburse,76.93
+Rentokil Initial,RentokilInitial,76.93
+SDL,spatial-data-logic,76.93
+Bryter,Bryter,76.93
+Pareto,pareto,76.93
+GEP Worldwide,GEPWorldwide,76.93
+YouGov,YouGov,76.92
+Infobip,Infobip,76.92
+Greenshades Software,greenshades,76.92
+Odoo,Odoo,76.91
+JFrog,JFrog,76.91
+INFUSE,INFUSEmedia,76.91
+Embat,embat,76.91
+Agiliti,Agiliti,76.90
+GEICO,GEICO,76.90
+Mintel Group Ltd,MintelGroupLtd,76.90
+Axiom,Axiom,76.90
+Dropbox,DropBox,76.90
+Activated Insights,HomeCarePulse,76.89
+Hireology,Hireology,76.89
+Corporate Visions,CorporateVisions,76.88
+Buildots,Buildots,76.88
+Appstar,Appstar,76.88
+Entrata,Entrata,76.88
+ServiceTrade,ServiceTrade,76.87
+Nextech,Nextech,76.87
+Infoblox,infoblox,76.87
+Eye Security,eye-security,76.86
+Trakstar,Trakstar,76.86
+Stova,stova,76.86
+Qualtrics,Qualtrics,76.86
+Invicti Security,InvictiSecurity,76.85
+Newchip Accelerator,NewchipAccelerator,76.84
+H2O.ai,H2Oai,76.82
+Singlewire Software,SinglewireSoftware,76.82
+Kount,Kount,76.82
+Nextbite,Nextbite,76.81
+TruGreen,TruGreen,76.80
+Leap LLC,LeapLLC,76.80
+NexusTek,Nexustek,76.80
+Infosys,Infosys,76.80
+ePlus Technology,ePlusTechnology,76.80
+Globe Life,GlobeLife,76.80
+Group 1 Automotive,Group1Automotive,76.80
+Clipboard,ClipboardHealth,76.79
+The Arbinger Institute,TheArbingerInstitute,76.79
+12twenty,12twenty,76.78
+Esko,Esko,76.78
+AVI-SPL,Avispl,76.78
+Frontier Business Products,frontier-business-products,76.78
+Veson Nautical,VesonNautical,76.77
+EnlivenHealth,enlivenhealth,76.77
+Appcues,Appcues,76.77
+Polar Analytics,polar-analytics,76.77
+PaySimple,PaySimple,76.76
+Wireless Vision,WirelessVision,76.76
+Data Axle,DataAxle,76.76
+Bentley Systems,BentleySystems,76.75
+Touchbistro,Touchbistro,76.75
+Genius Sports,GeniusSports,76.75
+Localyze,Localyze,76.75
+Enboarder,Enboarder,76.75
+Lumistry,DigitalPharmacist,76.75
+Syncron,Syncron,76.75
+EasyPost,Easypost,76.75
+Staples Business Advantage,StaplesBusinessAdvantage,76.75
+Celonis,Celonis,76.74
+Better Earth,BetterEarthSolar,76.74
+Apex Systems,ApexSystems,76.74
+Panasonic,Panasonic,76.74
+Omron Automation,OmronAutomation,76.74
+DHL,DHLExpress,76.74
+Marketstar,Marketstar,76.73
+Insperity,Insperity,76.73
+Aisera,Aisera,76.73
+Circle K Pro,circle-k,76.73
+IEWC,Iewc,76.73
+Quinyx,Quinyx,76.73
+Pubnub,Pubnub,76.72
+Management Events,management-events,76.72
+Springer Nature,SpringerNature,76.72
+1E,1e,76.72
+Responsive,Rfpio,76.72
+"Prism Medical Products, LLC",prism-medical-products,76.71
+Guidewheel,Guidewheel,76.71
+Akeyless Security,akeyless,76.71
+Springbot,Springbot,76.71
+Havertys Furniture,HavertysFurniture,76.70
+Funnel Leasing,FunnelLeasingInc,76.70
+Blackberry,Blackberry,76.70
+Agilysys,Agilysys,76.70
+Deliverect,Deliverect,76.70
+TeamSnap,TeamSnap,76.70
+iXsystems,ixsystems,76.70
+Conga,Conga,76.70
+PNC Financial Services Group,PNCFinancialServicesGroup,76.69
+Vention,Vention,76.69
+DeleteMe,DeleteMe,76.69
+RedTeam Software,RedTeamSoftware,76.69
+Canary Technologies,CanaryTechnologies,76.68
+Workwave,Workwave,76.67
+Harte Hanks,HarteHanks,76.67
+Office1,Office1,76.67
+Aibidia,Aibidia,76.66
+Momentum Telecom,MomentumTelecom,76.66
+Trek Health,trek-health,76.66
+Codat,Codat,76.65
+Sana,Sana,76.65
+Applied Intuition,AppliedIntuition,76.65
+HealthTrackRx,HealthTrack,76.65
+Hyperproof.io,Hyperproofio,76.64
+Expeditors,Expeditors,76.64
+Zenefits,Zenefits,76.64
+Burtch Works,burtch-works,76.63
+HealthJoy,HealthJoya,76.63
+UserTesting,UserTesting,76.63
+TRAFFIX,TRAFFIX,76.63
+EF Education First,EF,76.63
+ARKK,arkk,76.62
+Fiserv,FirstData,76.62
+TetraScience,TetraScience,76.61
+Lexipol,Lexipol,76.61
+InvoiceCloud,InvoiceCloud,76.61
+WordPress VIP,WordPressVIP,76.60
+SysAid Technologies Ltd,SysAidTechnologiesLtd,76.60
+WorkBoard,WorkBoard,76.60
+Otis Elevator Co.,OtisElevatorCo,76.60
+Ribbon Health,ribbon-health,76.59
+MixPanel,MixPanel,76.58
+Allstream,allstream,76.58
+Brokerlink,Brokerlink,76.58
+Hona,hona,76.58
+FARO Technologies,FAROTechnologies,76.57
+Lumafield,lumafield,76.57
+American Financial Network,AmericanFinancialNetwork,76.57
+Northwestern Mutual,NorthwesternMutual,76.57
+Cutera,Cutera,76.57
+Sisense,Sisense,76.57
+Beacon Platform,BeaconPlatform,76.56
+Quantive,gtmhub,76.55
+Paragon 28,Paragon28,76.55
+Hitachi Energy,hitachi-energy,76.55
+BetterComp,bettercomp,76.54
+DigitalOcean,DigitalOcean,76.54
+Dstillery,Dstillery,76.54
+"QAD, Inc",QADInc,76.54
+Press Ganey,PressGaney,76.53
+Sumo Logic,SumoLogic,76.53
+Lucidworks,Lucidworks,76.52
+Moody’s Analytics,MoodysAnalytics,76.52
+Ambassador Labs,AmbassadorLabs,76.52
+Winmo,Winmo,76.51
+EverTrue,EverTrue,76.50
+Zonar,Zonar,76.50
+Future Family,future-family,76.50
+PhotoShelter,PhotoShelter,76.50
+Equitable Advisors,EquitableAdvisors,76.50
+Travel + Leisure Co.,Wyndhamdestinations,76.50
+Check Point Software,checkpointsoftware,76.50
+Business Talent Group,BusinessTalentGroup,76.49
+Levelset,Levelset,76.49
+Panduit,Panduit,76.49
+Feenyx,Filteredai,76.49
+Acquia,Acquia,76.49
+Innova Solutions,InnovaSolutions,76.49
+Bluecore,Bluecore,76.49
+Spirent Communications,SpirentCommunications,76.49
+Cognite,cognite,76.48
+VMRay,VMRay,76.48
+Onfido,Onfido,76.48
+Informa,Informa,76.48
+Scandit,Scandit,76.48
+Tapcheck,Tapcheck,76.48
+ThreatConnect,ThreatConnect,76.47
+Greenlight Guru,GreenlightGuru,76.47
+Cognizant Technology Solutions,CognizantTechnologySolutions,76.47
+Randstad Enterprise,RandstadSourceright,76.47
+Publicis,Publicis,76.47
+Solo.io,solo-io,76.46
+H1,H1,76.46
+Zenoti,Zenoti,76.46
+Strata Identity,strata-identity,76.46
+Sana Commerce,SanaCommerce,76.46
+VideoAmp,videoamp,76.46
+Kraft Heinz,KraftHeinz,76.46
+Kentico,kentico,76.45
+Apptentive,Apptentive,76.45
+EfficientIP,EfficientIP,76.45
+Hanzo,Hanzo,76.45
+Syncle,syncle,76.45
+Anomalo,anomalo,76.45
+Techtronic Industries - TTI,TechtronicIndustries,76.45
+Optimove,Optimove,76.44
+Welcome to the Jungle,welcome-to-the-jungle-uk,76.44
+Tundra Technical Solutions,TundraTechnicalSolutions,76.44
+NCS Group,NCS,76.44
+TriNet,TriNet,76.44
+Seeq Corporation,seeq,76.44
+Swoogo,Swoogo,76.43
+Absolute Software,Absolute,76.43
+Lightspeed HQ,Lightspeed,76.42
+Exasol,Exasol,76.42
+Purolator,Purolator,76.42
+Proquest,Proquest,76.42
+SeekOut.io,Seekoutio,76.42
+Pax8,Pax8,76.42
+CloudFactory,CloudFactory,76.41
+Verse Medical,VerseMedical,76.41
+Payzer,Payzer,76.41
+Verizon Business,VerizonWireless,76.41
+Yandex,yandex,76.41
+Sentinel Technologies,SentinelTechnologies,76.40
+RobCo,robco,76.40
+Express Employment Professionals,ExpressEmploymentProfessionals,76.40
+SRS Distribution,SRSDistribution,76.39
+The Conference Board,the-conference-board,76.39
+Kantata,Kantata,76.39
+Euna Solutions,euna-solutions,76.39
+Sourcegraph,Sourcegraph,76.38
+Qlik,Qlik,76.38
+Niche,Niche,76.38
+Moneris,Moneris,76.37
+Accredible,Accredible,76.37
+Brightcove,Brightcove,76.37
+Qvinci Software,qvinci-software,76.37
+New Western,NewWestern,76.37
+Amdocs,Amdocs,76.36
+Danone,Danone,76.36
+Blackbaud,Blackbaud,76.36
+Reward Gateway,RewardGateway,76.36
+Approve Payments,approve-payments,76.35
+Donnelley Financial Solutions (DFIN),DFIN,76.34
+GoTo,LogMeIn,76.34
+Litmos,Saplitmos,76.34
+ServiceChannel,ServiceChannel,76.34
+Veracode,Veracode,76.34
+Suzy,Suzy,76.33
+Progress Software,ProgressSoftware,76.33
+Veritiv,veritiv,76.33
+Sungard Availability Services,SungardAvailabilityServices,76.33
+ContractPodAi,ContractPodAi,76.32
+"Broadcast Music, Inc (BMI)",BMI,76.32
+Service Pro by MSI Data,MSIData,76.32
+MachineMetrics,MachineMetrics,76.32
+Orum.io,orum-io,76.32
+Culture Amp,CultureAmp,76.32
+Board.org,Boardorg,76.32
+Workrise formerly RigUp,Workrise,76.31
+Contentsquare,Contentsquare,76.31
+Aveanna Healthcare,AveannaHealthcare,76.31
+Bevy,Bevy,76.31
+iWave,iWave,76.31
+Simply NUC,SimplyNUC,76.30
+SThree,Sthree,76.30
+Herc Rentals,HercRentals,76.29
+Humanscale,Humanscale,76.29
+Huq,huq,76.29
+Quadient,Quadient,76.29
+Topgolf,topgolf,76.29
+8x8,8x8,76.29
+Ricoh,Ricoh,76.29
+EIMS,EIMS,76.28
+Aegis Sciences Corporation,AegisSciencesCorporation,76.27
+CoAdvantage,CoAdvantage,76.27
+Rapid Medical,RapidMedical,76.27
+DISYS,DISYS,76.25
+British American Tobacco,BritishAmericanTobacco,76.25
+Yellow.ai,Yellowai,76.25
+Mondo,Mondo,76.24
+TapMango,Tapmango,76.24
+VRBO,VRBO,76.24
+OneDigital Advanced Health,OneDigital,76.23
+Mimeo,Mimeo,76.23
+Definitive Healthcare,DefinitiveHealthcare,76.23
+Green Street,GreenStreet,76.23
+NetLine,netline,76.22
+SurveySparrow,surveysparrow,76.22
+Momentum Solar,MomentumSolar,76.22
+"Zep, Inc.",Zep,76.21
+Wipro,Wipro,76.21
+scaleMatters,scaleMatters,76.20
+Jigsaw,jigsaw-ltd,76.20
+PatSnap,Patsnap,76.20
+Tungsten Automation,TungstenAutomation,76.20
+Anton Paar,AntonPaar,76.20
+Equilar,equilar,76.19
+Houzz,Houzz,76.19
+CGI,Cgi,76.19
+Cardinal Health,CardinalHealth,76.18
+Pion,student-beans,76.18
+Mavenoid,Mavenoid,76.18
+HERE Technologies,Heretechnologies,76.17
+Riipen,Riipen,76.17
+Pypestream,pypestream,76.17
+AIG,AIG,76.17
+Penske Automotive Group,PenskeAutomotiveGroup,76.16
+Loxo,loxo,76.16
+Critical Mention,CriticalMentionInc,76.16
+ImageTrend,imagetrend,76.16
+Open Systems,OpenSystems,76.16
+IMG Academy,IMGAcademy,76.15
+Viventium,Viventium,76.15
+Daniels Health,DanielsHealth,76.15
+AutoLeap,AutoLeap,76.15
+Accrisoft Corporation,Accrisoft,76.15
+Revance,revance,76.15
+Perforce Puppet,Puppet,76.14
+Forward Financing,Forwardfinancing,76.14
+Cradlepoint,Cradlepoint,76.14
+Dutchie,Dutchie,76.13
+Kroll,Kroll,76.13
+Learnexus,Learnexus,76.13
+OneTrust,OneTrust,76.13
+Drift,Drift,76.13
+Netwrix,Netwrix,76.13
+Coyote Logistics,CoyoteLogistics,76.12
+Sierra Interactive,SierraInteractive,76.12
+Spotify,Spotify,76.12
+Chainalysis,Chainalysis,76.11
+Aware,Aware,76.10
+Authenticx,Authenticx,76.10
+TLC Worldwide,tlc-worldwide,76.10
+Taylor Corporation,TaylorCorporation,76.10
+Boats Group,BoatsGroup,76.10
+WordStream,WordStream,76.09
+Oneflow,oneflow,76.09
+Epiq Global,EpiqGlobal,76.09
+Pella Windows and Doors,PellaWindowsandDoors,76.09
+Martal Group,martal-group,76.09
+Elsevier,Elsevier,76.09
+Observe.ai,Observeai,76.08
+Ocrolus,Ocrolus,76.08
+Conductor,ConductorInc,76.07
+GHGSat,ghgsat,76.07
+Apisero Inc.,Apisero,76.07
+Eide Bailly,EideBailly,76.07
+Eargo,Eargo,76.07
+Constrafor,constrafor,76.06
+Neustar,Neustar,76.06
+Sterling,Sterlingcheck,76.05
+ESO,ESO,76.05
+Matrix42,matrix42,76.05
+Kolena,Kolena,76.05
+GigaOm,Gigaom,76.04
+Inside Real Estate,InsideRealEstate,76.04
+Blue Raven Solar,BlueRavenSolar,76.04
+Keeper Security,KeeperSecurity,76.04
+Blue Mantis,bluemantis,76.04
+SamCart,SamCart,76.03
+"AdDaptive Intelligence, Inc.",addaptive-intelligence,76.03
+CMiC,CMiC,76.03
+Snap! Mobile,SnapRaise,76.03
+UBEO,Ubeo,76.03
+Sezzle,Sezzle,76.02
+Medasource,Medasource,76.02
+BlueConic,blueconic,76.02
+Ziflow,Ziflow,76.02
+NetBrain Technologies,NetBrainTechnologies,76.01
+SKNV,SKNV,76.00
+Port.io,port-io,76.00
+Checkout,Checkout,76.00

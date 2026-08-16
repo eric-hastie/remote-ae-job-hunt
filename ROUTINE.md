@@ -24,12 +24,18 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 - **`data/claude_universe.csv`** — the MEMORY: *every company ever evaluated*, win or not. Columns:
   `Company,Source,RepVue Score,Last Checked,Currently Open,Notes`. This is the dedup set so we never
   re-discover a company we've already considered. **It must grow every run** (see Job 2, step 4).
-- **`data/scan_queue.csv`** — the DISCOVERY QUEUE: RepVue companies with score ≥ 78, best-score-first,
-  minus everything already in `claude_universe.csv` at build time (rebuilt 2026-07-15 at ≥78: 745
-  companies; the original ≥80 queue was exhausted). Refilled locally from `repvue_universe.csv`.
-  Columns: `Company,Slug` (Slug = starting guess for the ATS board token). The queue file itself is
-  never edited by the routine — progress is tracked by recording checked companies into
-  `claude_universe.csv`, so "next up" = first N queue rows not yet in the universe.
+- **`data/scan_queue.csv`** — the SCAN RING: every RepVue company at score **≥ 76**, best-score-first
+  (4,075 companies). Columns: `Company,Slug,Score` (Slug = starting guess for the ATS board token).
+  It is a ring, not a well: Job 2 walks it 50 per run, and on reaching the bottom it starts a new
+  cycle **from the top, at the highest scores**. It never goes dry. A full cycle is ~16 days at 250
+  companies/day, which is the right re-check cadence anyway (roles churn on a monthly scale; a
+  re-check inside 3-4 weeks yields almost nothing).
+  **The score floor is 76.** Below that the yield turns Enterprise-heavy and the sales orgs are weak
+  — MM density is concentrated in the top score ranks. `scripts/refill_queue.py` refuses a lower
+  floor. Lowering it is Eric's decision, never the routine's.
+- **`data/queue_cycle.txt`** — the ring CURSOR: the date the current cycle opened. A queue row is
+  eligible when its `Last Checked` in `claude_universe.csv` is earlier than that date (or absent).
+  Never edit it by hand; `scripts/next_batch.py` reads it, advances it, and reports position.
 - `data/repvue_universe.csv` — gitignored/local-only (RepVue's proprietary data; not in cloud clones).
 - `data/YYYY-MM-DD.csv` — dated snapshot of `latest.csv`, refreshed each run.
 
@@ -37,7 +43,8 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 
 - **WebFetch / WebSearch ONLY for web access.** NEVER curl/wget/Bash to fetch URLs.
 - Bash is allowed ONLY for git, `python3 build.py`, `python3 scripts/verify_links.py`,
-  `python3 scripts/backfill_comp.py`, `python3 scripts/enrich_repvue.py`, `date`, and file ops — not for open-ended research.
+  `python3 scripts/next_batch.py`, `python3 scripts/backfill_comp.py`, `python3 scripts/enrich_repvue.py`,
+  `date`, and file ops — not for open-ended research.
 - **Work inline — do NOT spawn subagents.** Be token-conscious (this draws on a subscription quota):
   don't over-fan-out; stop a vertical as soon as it's dry (see loop rule).
 
@@ -156,26 +163,40 @@ Then act on the verify script's output:
 Get `H=$(date -u +%H)` (runs fire at 03/08/13/18/23) and `D=$(date -u +%u)` (1 = Monday):
 
 1. **Monday 18:00 UTC run** (`D==1 && H==18`) → **Job F — weekly fresh-startup sweep**.
-2. Else, if `data/scan_queue.csv` still has companies not in `claude_universe.csv` → **Job 2 — queue scan**.
-3. Else (queue dry): `H` in {13, 18, 23} → **Job 3 — ATS-native search** (3 discovery slots/day, the
-   primary net-new engine once the queue is dry); `H` in {03, 08} → **Job 4 — re-check rotation**.
+2. **Every other run** → **Job 2 — ring scan**. The ring never goes dry; when it wraps it re-checks
+   from the highest scores down, so there is no "queue dry" branch any more.
+
+**Jobs 3 and 4 therefore have no slot right now, and that is a live decision for Eric, not for a
+run to improvise.** It matters because the ring is entirely RepVue companies and RepVue has no
+net-new left for us, so with Job 2 on every slot, Job F (Mondays) is this routine's only source of
+never-before-seen companies. Job 4's purpose is now served better by the ring's own wrap-around
+(score-ordered, wider coverage). Do not reassign slots inside a run; leave the schedule as written.
 
 One job per run (plus Job 1). Do not combine or improvise beyond the selected job's budget.
 
-## Job 2 — Scan the next 50 queue companies
+## Job 2 — Scan the next 50 ring companies
 
-1. Compute this run's batch: read `data/scan_queue.csv` top-to-bottom and take the **first 50 rows
-   whose Company is NOT yet in `data/claude_universe.csv`** (match on the lowercased name before any
-   " (" suffix — e.g. `Tableau (Salesforce)` matches `tableau`).
+1. Compute this run's batch with **`python3 scripts/next_batch.py 50`** — do NOT pick rows by eye.
+   It prints the 50 highest-scored companies not yet visited in this cycle, advances the cycle
+   marker when the ring wraps, and reports ring position on stderr. If its stderr says `WRAPPED`,
+   say so in the commit summary: the ring restarted at the top scores and this run is re-checking
+   companies rather than seeing them for the first time.
 2. For each company, check for an open qualifying role (see The bar) via the ATS reference below —
    JSON endpoints first, `Slug` as the first board-token guess, then obvious variants, then ONE
    WebSearch (`{company} careers account executive`) to find the real board. Cap ~5 fetches + 1 search
    per company; unresolved after that = record as N / "ATS unresolved". Follow the URL-capture rules.
 3. **Record EVERY company checked into `data/claude_universe.csv`** — winners AND losers:
-   - qualifying role → add row `Currently Open = Y`, Notes = role/segment; add to `latest.csv`.
-   - no qualifying role → add row `Currently Open = N`, Notes = the reason
+   - qualifying role → `Currently Open = Y`, Notes = role/segment; add to `latest.csv`.
+   - no qualifying role → `Currently Open = N`, Notes = the reason
      (no AE / not remote / wrong segment / senior-only / not B2B SaaS / ATS unresolved).
-   - `Source = repvue`, `Last Checked` = today. This recording IS the queue's progress marker.
+   - `Source = repvue`, `Last Checked` = today. **`Last Checked` is the ring's progress marker** —
+     a company is done for this cycle once its date is on or after `data/queue_cycle.txt`.
+   - **The ring re-checks companies that are already in the universe, so UPDATE the existing row in
+     place (`Last Checked`, `Currently Open`, Notes) — never append a second row for a company that
+     is already there.** One row per company, always. Preserve the original `Source`.
+   - **Quote fields when you write CSV.** Company names contain commas (`Tellius, Inc.`) and an
+     unquoted write shifts every later column: three universe rows carry corrupted data from exactly
+     this. Write with a CSV writer, not string concatenation.
 4. **Be terse per company** — fetch, decide against the bar, record one line, move on. No JD dumps in
    your working notes. If the session can't finish all 50, stop cleanly at a smaller number: every
    company actually checked must be recorded, and files must never be left half-updated.
@@ -314,6 +335,9 @@ new rows simply stay blank until the next local run backfills them.
 
 `python3 build.py` (regenerates `index.html` + `history.html` + `discards.html` — NEVER hand-edit those; `discards.html` lists every `Currently Open = N` universe row with its Notes as the discard reason) → copy
 `latest.csv` to `data/$(date -u +%F).csv` → `git add -A` → commit
-`Refresh <UTC date+hour>: +<added> -<dropped> ~<links fixed> | checked <n> (queue <remaining>)`
+`Refresh <UTC date+hour>: +<added> -<dropped> ~<links fixed> | checked <n> (ring <walked>/<size>)`
+where `<walked>/<size>` is the cycle position from `scripts/next_batch.py` stderr; append ` WRAPPED`
+when this run started a new cycle. The subject line is the health diagnostic — `git log --oneline`
+alone should show whether the ring is advancing, so never omit the position.
 → `git push origin main` (if rejected: `git pull --rebase` then push; **never force-push**) → print a
-short summary: added, dropped, link fixes, companies checked, queue remaining, new total, universe size.
+short summary: added, dropped, link fixes, companies checked, ring position, new total, universe size.
