@@ -2714,7 +2714,7 @@ Bluesight,ats-search,,2026-08-11,N,AE posting dead 2026-08-11; no qualifying rep
 BriteCore,ats-search,,2026-08-03,Y,Enterprise AE; US-remote; P&C insurance SaaS
 Roebling,ats-search,,2026-08-06,N,Ashby board still 404; ATS unresolved 2026-08-06
 9fin,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE NYC, Ashby, $150-175K base, pub 2025-09-29)"
-GaggleAMP,ats-search,,2026-07-10,Y,MM AE; US-remote; OTE $160K+; employee advocacy SaaS
+GaggleAMP,ats-search,,2026-08-17,N,no AE open; board empty 2026-08-17
 SPOTIO,ats-search,66,2026-08-05,N,hybrid (Tues/Wed office in Addison TX); not remote
 Oversee,ats-search,,2026-08-03,Y,Enterprise AE; TX/FL remote; OTE $180-220K; travel spend SaaS
 TalentPluto,ats-search,,2026-08-07,N,staffing firm posting client co roles; not a SaaS company
@@ -4745,7 +4745,7 @@ Plural,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | NYC
 Raindrop,aggregator-verify,,2026-08-15,Y,Founding Account Executive | Unspec | SF
 Sanas,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Boston
 Symplicity,aggregator-verify,68,2026-08-15,Y,Account Executive - Western US | Unspec | Remote
-Truemed,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | Austin
+Truemed,aggregator-verify,,2026-08-17,N,no AE open; no AE on Ashby board 2026-08-17
 Veryon,aggregator-verify,69,2026-08-15,Y,Business Aviation Account Executive (MRO) | Unspec | Remote
 Aily Labs,aggregator-verify,,2026-08-15,Y,Account Executive - Sales - NYC | Ent | NYC
 Blossom,aggregator-verify,,2026-08-15,Y,Website Solutions Account Executive | SMB | Remote
@@ -5188,3 +5188,8 @@ Fibr AI,yc,,2026-08-17,N,India-based company; no US AE
 Naïve,yc,,2026-08-17,N,no AE posting found
 Kyber,yc,,2026-08-17,N,YC-only job board; no accessible ATS board; YC posting URLs return 404
 Taplytics,yc,,2026-08-17,N,acquired by Cheetah Digital 2022 then Marigold 2023; Lever posting stale; Canada-only
+Roboto AI,ats-physical-ai,,2026-08-17,Y,Founding AE | US-remote | Physical AI robotics data analytics | Lever via Unusual Ventures board
+Kastle,ats-physical-ai,,2026-08-17,Y,Enterprise AE | SF on-site | Physical AI smart infrastructure (AI building security)
+Gather AI,ats-physical-ai,,2026-08-17,N,No AE roles; Greenhouse board has engineering/ML/operations only; Physical AI drone inventory
+Outrider,ats-physical-ai,,2026-08-17,N,No AE roles; Greenhouse board has engineering/hardware only; autonomous yard trucks
+Avidbots,ats-physical-ai,,2026-08-17,N,ATS unresolved; Ashby+GH both 404; autonomous floor cleaning robots
