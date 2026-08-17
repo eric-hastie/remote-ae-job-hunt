@@ -2617,7 +2617,7 @@ Egnyte,repvue,80,2026-08-03,N,no US-remote AE (Jobvite: EMEA + Raleigh NC office
 ChurnZero,repvue,80,2026-08-03,N,no AE found on ATS boards (GH/Ashby/Lever all 404); re-checked 2026-08-03
 Finix,ats-search,,2026-08-03,Y,Enterprise AE; Remote US; OTE $200K-$300K; payments infrastructure SaaS
 SentiLink,ats-search,,2026-07-07,Y,MM AE (FinTech); Remote US; OTE $200K-$250K; identity verification SaaS
-Teramind,ats-search,76,2026-07-07,Y,MM AE + Enterprise AE; Remote US; no listed OTE; cybersecurity/employee monitoring SaaS
+Teramind,ats-search,76,2026-08-17,N,MM AE + Enterprise AE; Remote US; no listed OTE; cybersecurity/employee monitoring SaaS
 Mimica,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; process automation / task mining SaaS
 Coupa,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; spend management SaaS
 Restaurant365,ats-search,79,2026-07-07,Y,MM AE; Remote US; no listed OTE; restaurant management SaaS
@@ -5173,3 +5173,18 @@ Zeller,ats-fintech,,2026-08-17,N,Australian fintech (payments for AU businesses)
 EML Payments,ats-fintech,,2026-08-17,N,Australian fintech; Rippling posting appears EU/non-US focused (pl-PL URL)
 Titan Cloud,ats-fintech,,2026-08-17,N,Fuel asset optimization software; not fintech/payments vertical
 Cardiff,ats-fintech,,2026-08-17,N,Not B2B SaaS; MCA/small business lending company
+Millennium Systems International,unknown,,2026-08-17,N,dead posting; salon/spa software - not B2B SaaS
+BrainStation,unknown,,2026-08-17,N,dead posting; coding bootcamp - no US-remote AE
+MintMCP,ats-ai-infra,,2026-08-17,N,dead posting; no replacement found
+CIQ,unknown,,2026-08-17,N,dead posting; no replacement found
+Protex AI,yc,,2026-08-17,Y,Enterprise AE Boston; Physical AI - computer vision for workplace safety; Ashby
+Pirros,yc,,2026-08-17,N,no AE role open on Ashby board
+Escape Technologies,yc,,2026-08-17,N,AE roles Nordics/UK only; no US posting
+Conveo,yc,,2026-08-17,N,no AE role open; only BDR/Designer/other roles
+Arva AI,yc,,2026-08-17,N,no AE posting found on Ashby or Lever
+Passionfroot,yc,,2026-08-17,N,no AE posting found
+inforcer,yc,,2026-08-17,N,UK company; no US AE found
+Fibr AI,yc,,2026-08-17,N,India-based company; no US AE
+Naïve,yc,,2026-08-17,N,no AE posting found
+Kyber,yc,,2026-08-17,N,YC-only job board; no accessible ATS board; YC posting URLs return 404
+Taplytics,yc,,2026-08-17,N,acquired by Cheetah Digital 2022 then Marigold 2023; Lever posting stale; Canada-only
