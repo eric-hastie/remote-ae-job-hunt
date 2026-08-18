@@ -129,11 +129,30 @@ LOCATIONS = [
      "Hand-verified <b>Account Executive</b> openings based in <b>Austin</b> - a fast-growing <b>physical-AI</b> + B2B SaaS hub (Apptronik, Diligent Robotics, and a deep SaaS scene)."),
 ]
 
+LOCATION_NAV = [("index.html", "Remote", "remote"), ("nyc.html", "NYC", "nyc"),
+                ("sf.html", "SF", "sf"), ("denver.html", "Denver", "denver"),
+                ("boston.html", "Boston", "boston"), ("austin.html", "Austin", "austin")]
+
+def loc_nav_html(active):
+    """The location switcher, rendered as a filter group rather than a header
+    link list. Location is the single most consequential filter on the page -
+    a role only ever appears on one location page - and while it sat in the
+    header byline it read as site chrome, so roles on the other five pages
+    went unseen. It lives with the other filters now."""
+    out = ['<span class="seglabel">Location</span>']
+    for href, label, key in LOCATION_NAV:
+        cls = ' class="on"' if key == active else ""
+        # #board keeps the reader at the filter bar instead of throwing them
+        # back to the masthead, so switching location reads as filtering rather
+        # than as leaving the page.
+        out.append(f'<a href="{href}#board"{cls}>{label}</a>')
+    return f'<div class="seg locseg">{"".join(out)}</div>'
+
 def nav_html(active):
-    items = [("index.html","Remote","remote"),("nyc.html","NYC","nyc"),("sf.html","SF","sf"),
-             ("denver.html","Denver","denver"),("boston.html","Boston","boston"),
-             ("austin.html","Austin","austin"),("unverified.html","Unverified Leads",None),
-             ("history.html","History &amp; Trends",None),("discards.html","Discards",None)]
+    """Header nav: the pages that are not a location view of the same dataset."""
+    items = [("unverified.html", "Unverified Leads", None),
+             ("history.html", "History &amp; Trends", None),
+             ("discards.html", "Discards", None)]
     out = []
     for href, label, key in items:
         out.append(f"<b>{label}</b>" if key == active and key else f'<a href="{href}">{label}</a>')
@@ -186,6 +205,16 @@ h2{font-size:22px;margin:0 0 14px;letter-spacing:-.01em}
 .seg{display:flex;gap:6px;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:4px}
 .seg button{background:transparent;border:0;color:var(--muted);padding:7px 14px;border-radius:7px;cursor:pointer;font-size:13px;font-weight:600}
 .seg button.on{background:var(--accent);color:#0b0d12}
+/* The location switcher is a group of links, not buttons, because each option
+   is a separate page. It is styled to match the button groups beside it. */
+.controls{scroll-margin-top:0}
+.locseg{align-items:center}
+.locseg a{display:inline-block;text-decoration:none;color:var(--muted);padding:7px 14px;
+  border-radius:7px;font-size:13px;font-weight:600}
+.locseg a:hover{color:var(--txt)}
+.locseg a.on{background:var(--accent);color:#0b0d12}
+.seglabel{color:var(--muted);font-size:11px;font-weight:700;letter-spacing:.06em;
+  text-transform:uppercase;padding:0 8px 0 6px}
 .count{color:var(--muted);font-size:13px;white-space:nowrap}
 .tablewrap{overflow-x:auto;margin:18px 0 60px;border:1px solid var(--line);border-radius:12px}
 table{width:100%;border-collapse:collapse;font-size:14px;min-width:900px}
@@ -251,8 +280,9 @@ footer .wrap{max-width:760px}
   <div class="note">Filter and search the full dataset below. Every <b>Apply</b> link points to the live job posting that was verified during research. Mid-market roles are flagged in green.</div>
 </div></section>
 <div class="wrap">
-  <div class="controls">
+  <div class="controls" id="board">
     <input id="q" type="search" placeholder="Search company, industry, or location…" autocomplete="off">
+    __LOCNAV__
     <div class="seg" id="seg">
       <button data-seg="all" class="on">All</button>
       <button data-seg="mm">Mid-market</button>
@@ -711,6 +741,7 @@ def main():
                .replace("__PAGE_H1__", h1)
                .replace("__SUBLEAD__", sublead)
                .replace("__NAV__", nav_html(key))
+               .replace("__LOCNAV__", loc_nav_html(key))
                .replace("__TOTAL__", str(total))
                .replace("__MM__", str(mm))
                .replace("__BUILDDATE__", today.isoformat())

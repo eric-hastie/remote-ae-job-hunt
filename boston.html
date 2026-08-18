@@ -45,6 +45,16 @@ h2{font-size:22px;margin:0 0 14px;letter-spacing:-.01em}
 .seg{display:flex;gap:6px;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:4px}
 .seg button{background:transparent;border:0;color:var(--muted);padding:7px 14px;border-radius:7px;cursor:pointer;font-size:13px;font-weight:600}
 .seg button.on{background:var(--accent);color:#0b0d12}
+/* The location switcher is a group of links, not buttons, because each option
+   is a separate page. It is styled to match the button groups beside it. */
+.controls{scroll-margin-top:0}
+.locseg{align-items:center}
+.locseg a{display:inline-block;text-decoration:none;color:var(--muted);padding:7px 14px;
+  border-radius:7px;font-size:13px;font-weight:600}
+.locseg a:hover{color:var(--txt)}
+.locseg a.on{background:var(--accent);color:#0b0d12}
+.seglabel{color:var(--muted);font-size:11px;font-weight:700;letter-spacing:.06em;
+  text-transform:uppercase;padding:0 8px 0 6px}
 .count{color:var(--muted);font-size:13px;white-space:nowrap}
 .tablewrap{overflow-x:auto;margin:18px 0 60px;border:1px solid var(--line);border-radius:12px}
 table{width:100%;border-collapse:collapse;font-size:14px;min-width:900px}
@@ -85,7 +95,7 @@ footer .wrap{max-width:760px}
   <h1>Boston AE Market Map</h1>
   <p class="sub">Hand-verified <b>Account Executive</b> openings based in <b>Boston</b> - a major <b>physical-AI / robotics</b> hub (Boston Dynamics, Amazon Robotics, Symbotic, Locus) plus B2B SaaS.</p>
   <p class="byline">Compiled by <b>Eric Hastie</b> · Data verified August 18, 2026 · <span class="muted">a portfolio project</span></p>
-  <p class="byline" style="margin-top:6px"><a href="index.html">Remote</a> &nbsp;·&nbsp; <a href="nyc.html">NYC</a> &nbsp;·&nbsp; <a href="sf.html">SF</a> &nbsp;·&nbsp; <a href="denver.html">Denver</a> &nbsp;·&nbsp; <b>Boston</b> &nbsp;·&nbsp; <a href="austin.html">Austin</a> &nbsp;·&nbsp; <a href="unverified.html">Unverified Leads</a> &nbsp;·&nbsp; <a href="history.html">History &amp; Trends</a> &nbsp;·&nbsp; <a href="discards.html">Discards</a></p>
+  <p class="byline" style="margin-top:6px"><a href="unverified.html">Unverified Leads</a> &nbsp;·&nbsp; <a href="history.html">History &amp; Trends</a> &nbsp;·&nbsp; <a href="discards.html">Discards</a></p>
   <div class="stats">
     <div class="stat"><div class="n">26</div><div class="l">verified, qualified roles</div></div>
     <div class="stat"><div class="n">7</div><div class="l">mid-market-friendly</div></div>
@@ -110,8 +120,9 @@ footer .wrap{max-width:760px}
   <div class="note">Filter and search the full dataset below. Every <b>Apply</b> link points to the live job posting that was verified during research. Mid-market roles are flagged in green.</div>
 </div></section>
 <div class="wrap">
-  <div class="controls">
+  <div class="controls" id="board">
     <input id="q" type="search" placeholder="Search company, industry, or location…" autocomplete="off">
+    <div class="seg locseg"><span class="seglabel">Location</span><a href="index.html#board">Remote</a><a href="nyc.html#board">NYC</a><a href="sf.html#board">SF</a><a href="denver.html#board">Denver</a><a href="boston.html#board" class="on">Boston</a><a href="austin.html#board">Austin</a></div>
     <div class="seg" id="seg">
       <button data-seg="all" class="on">All</button>
       <button data-seg="mm">Mid-market</button>
