@@ -375,7 +375,7 @@ Sitemate,repvue,91.07,2026-08-04,N,"re-check: Ashby board found, no US-remote AE
 Giatec,repvue,91.05,2026-08-04,N,ATS unresolved (GH/Ashby 404)
 Armory,repvue,91.04,2026-08-04,N,"re-check: Ashby board found, no AE roles (NYC in-office tech only)"
 Alkira,repvue,91.03,2026-08-04,N,ATS unresolved (GH/Ashby/Lever all 404; careers page 403)
-Cognition,repvue,90.99,2026-08-04,N,"re-check: Ashby board found, only Account Director titles (not IC AE)"
+Cognition,repvue,90.99,2026-08-18,N,"7 Account Directors, all office-based or non-US; Devin"
 BUCHI Laboratory Equipment,repvue,90.97,2026-07-09,N,re-check: not B2B SaaS (lab equipment)
 Swiftly,repvue,90.97,2026-08-04,N,"re-check: Lever board found (transit platform), no AE roles"
 "Applied Medical Technology, Inc. (AMT)",repvue,90.96,2026-07-09,N,re-check: not B2B SaaS (medical devices)
@@ -389,7 +389,7 @@ Ideals,repvue,90.85,2026-08-04,Y,Enterprise AE hybrid Boston; $130K-$160K OTE; A
 Inky,repvue,90.80,2026-08-04,N,ATS unresolved (GH/Ashby 404; careers page no ATS link visible)
 Cisco Meraki,repvue,90.79,2026-08-04,N,re-check: not standalone (Cisco division)
 RudderStack,repvue,90.78,2026-08-04,N,re-check: ATS unresolved
-Tailscale,repvue,90.74,2026-08-04,Y,Customer AE Denver hybrid; GH 4715169005; published 2026-07-14
+Tailscale,repvue,90.74,2026-08-18,N,"7 AE reqs, all hybrid Denver or Vancouver"
 Consensus,repvue,90.71,2026-08-03,N,"recheck-B 2026-08-03: Confirmed via the live Rippling board (ats.rippling.com/consensus/jobs): exactly one open role total company-wide, 'Senior Executive Assistant.' No Ac"
 RevenueCat,repvue,90.69,2026-07-21,Y,MM AE (EST/CST remote); replacement posting found 2026-07-21
 Reddit,repvue,90.68,2026-07-09,N,re-check: not B2B SaaS (consumer social)
@@ -996,7 +996,7 @@ SciLeads,repvue,85.64,2026-07-24,N,ATS unresolved
 Mixmax,repvue,85.62,2026-07-24,N,"ATS unresolved (Ashby 404, Lever 404)"
 Citylitics Inc,repvue,85.61,2026-07-24,N,ATS unresolved
 Standard Metrics,repvue,85.61,2026-07-24,N,ATS unresolved
-Vercel,repvue,85.60,2026-08-03,Y,"no active AE roles (Ashby board empty, Lever 404)"
+Vercel,repvue,85.60,2026-08-18,N,"10 AE reqs, every one hybrid SF/NYC/London/Sydney"
 ExperiencePoint,repvue,85.59,2026-07-24,N,not B2B SaaS (leadership development consulting); permanent skip
 Regal Plastic Supply Company Inc.,repvue,85.59,2026-07-24,N,not B2B SaaS (industrial supply); permanent skip
 Normalyze,repvue,85.58,2026-07-24,N,acquired by Palo Alto Networks 2023
@@ -1282,7 +1282,7 @@ PartsTech,repvue,84.28,2026-07-25,N,automotive parts B2B SaaS (very niche auto v
 PROCEPT BioRobotics,repvue,84.27,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 Pacira Biosciences,repvue,84.27,2026-07-25,N,not B2B SaaS (pharmaceutical manufacturer)
 Travelbank (US Bancorp),repvue,84.27,2026-07-25,N,acquired by US Bancorp; brand integrated
-PlanetScale,repvue,84.27,2026-07-25,N,no AE roles on Greenhouse; only technical roles
+PlanetScale,repvue,84.27,2026-08-18,N,"10 reqs, no sales roles"
 Hack The Box,repvue,84.26,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 Reckitt,repvue,84.26,2026-07-25,N,not B2B SaaS (consumer goods manufacturer)
 Granular,repvue,84.26,2026-07-25,N,acquired by CNH Industrial; brand integrated into CNH
@@ -2529,7 +2529,7 @@ Industry Dive,repvue,80,2026-07-06,N,not B2B SaaS (B2B media company)
 Hawkes Learning,repvue,80,2026-08-08,N,ATS unresolved (GH/Ashby/Lever all 404)
 Carrier,repvue,80,2026-07-06,N,not B2B SaaS (HVAC/building systems manufacturer)
 ATOSS Software SE,repvue,80,2026-08-03,N,AE found but Germany only; no US remote
-Together AI,funding-news,,2026-08-03,N,no AE role (AI infrastructure; only TAM and engineers on Greenhouse)
+Together AI,funding-news,,2026-08-18,N,"Strategic AE open but hybrid SF/NYC, 7+ yrs; 62 reqs, no remote-US AE"
 Twelve Labs,funding-news,,2026-08-03,N,no AE on Ashby board (engineering/Solutions Architect only; video AI)
 Higharc,funding-news,,2026-08-03,N,no AE (Territory Account Managers only; vertical homebuilding SaaS)
 8090 Solutions,funding-news,,2026-08-03,N,ATS unresolved (Ashby 404; website shows loading roles; lean early team)
@@ -2537,11 +2537,11 @@ Chronograph,funding-news,,2026-08-03,N,ATS unresolved (Workable 404; no AE roles
 Interchecks,funding-news,,2026-08-03,N,ATS unresolved (no board found; payments API platform)
 LeapXpert,funding-news,,2026-08-03,N,no qualifying AE found (all ATS platforms 404; enterprise comms compliance)
 Bland AI,funding-news,,2026-08-03,N,MM AE + Ent AE both SF only (no remote); still N
-Baseten,funding-news,,2026-08-18,Y,"Account Executive - AI Native | Remote | AI infra - ML inference platform | OTE $180-230K (Ashby API)"
+Baseten,funding-news,,2026-08-18,Y,Account Executive - AI Native | Remote | AI infra - ML inference platform | OTE $180-230K (Ashby API)
 Quantifind,funding-news,,2026-08-03,N,ATS unresolved (risk intelligence platform; no ATS board found)
 Exa,funding-news,,2026-08-03,N,developer AI search infrastructure; no B2B SaaS AE motion
 Armada,funding-news,,2026-07-06,N,not B2B SaaS (edge computing hardware for industrial/defense)
-Modal Labs,funding-news,,2026-08-03,N,developer-tool serverless GPU infrastructure; no enterprise AE motion
+Modal Labs,funding-news,,2026-08-18,N,"AE-Enterprise NYC in-office $300K; Ashby board lives on /company, not /careers"
 Workspot Inc,repvue,80,2026-08-03,N,ATS unresolved (VDI/cloud desktop B2B SaaS; no board found on standard ATS)
 Xometry,repvue,80,2026-07-07,N,not B2B SaaS (manufacturing parts marketplace)
 GAINS,repvue,80,2026-08-03,N,ATS unresolved (supply chain planning SaaS; no board found on standard ATS)
@@ -2763,7 +2763,7 @@ Cobalt,ats-search,,2026-08-03,N,recheck-B 2026-08-03: Live Greenhouse board (boa
 Collective[i],ats-search,64,2026-08-05,N,AI sales intelligence SaaS; Lever board 404 and posting page 403; no active ATS postings - ATS unresolved; ATS unresolved re-checked 2026-08-05
 Kyruus Health,ats-search,,2026-08-05,N,healthcare provider data and patient access SaaS; Lever board 404 and posting page 403; no active ATS postings - ATS unresolved; ATS unresolved re-checked 2026-08-05
 lempire,ats-search,,2026-08-05,N,Ashby lemlist Senior AE is Canada only; re-checked 2026-08-05
-Wispr Flow,ats-search,,2026-08-05,N,AI voice dictation SaaS; only Founding AE role is San Francisco-based (not remote); re-checked 2026-08-05
+Wispr Flow,ats-search,,2026-08-18,N,"AE SF in-office $250-350K, 7+ yrs"
 people.ai,ats-search,,2026-08-05,N,AI revenue intelligence SaaS (rebranding to Backstory); only Key Account Executive requiring 10+ yrs experience and $350-400K OTE - senior-only; re-checked 2026-08-05
 1Password,ats-search,72,2026-08-05,Y,AE SMB-Austin posting live (Ashby 4d30b4e9-...) - Austin location qualifies; corrected to Y 2026-08-05
 Vivun Inc.,ats-search,87,2026-08-03,N,"recheck-B 2026-08-03: Ashby board (token vivun) currently shows only two 'Future Opportunities' placeholder postings (not real open reqs), one of which explicitly states '8"
@@ -2782,7 +2782,7 @@ Norm AI,funding-news,,2026-08-03,N,recheck-B 2026-08-03: Confirmed via live Ashb
 Taktile,funding-news,,2026-08-03,Y,"recheck-B 2026-08-03: Senior Account Executive | Original rejection was for a Berlin/London-only posting - this is a DIFFERENT, newer NYC-hybrid requisition th"
 Agave,funding-news,,2026-08-05,Y,construction finance AI SaaS; $15M Series A July 2026; AE role requires 2+ yrs only (below bar); in-person primary; corrected to Y (live in latest.csv 2026-08-05)
 Auger,funding-news,,2026-08-03,N,"recheck-B 2026-08-03: Re-confirmed current Account Executive - Enterprise Supply Chain postings remain in-office only in Dallas, TX and Bellevue, WA - neither remote nor on"
-DeepInfra,funding-news,,2026-08-03,N,recheck-B 2026-08-03 UNRESOLVED: The original rejection's premise ('not enterprise SaaS sold via AEs') is now known to be wrong - a live 'Territory Account Executive | APJ' 
+DeepInfra,funding-news,,2026-08-18,N,Senior AE Palo Alto in-office; Gem board needs render
 Oxylabs,funding-news,,2026-08-03,N,"recheck-B 2026-08-03: Lever board (JSON API, fully loaded) shows only 'Account Manager' titles for US/EU (Warsaw remote, Vilnius hybrid, and now also a Bay Area/SF remote A"
 Databento,funding-news,,2026-08-03,N,"recheck-B 2026-08-03: Greenhouse board (confirmed live, 15 postings) still has zero Account Executive roles - only 'Quantitative Sales Associate' and 'Financial Data Sales "
 Lovable,funding-news,,2026-08-03,N,"recheck-C 2026-08-03 CLOSED: Posting ID ea31ce4f-b0db-448b-b3b0-a8fb4fb7fa90 is absent from the Ashby board (12 jobs currently listed, none of them AE). No Account Executive title"
@@ -3002,7 +3002,7 @@ OpenObserve,ats-search,,2026-07-15,Y,"Live IC Account Executive (SMB/Commercial)
 Read AI,ats-search,,2026-08-06,N,"Lead hint URL (Mid-Market AE, 6c60d638...) is dead/not in live Ashby board; only live AE posting is ""Growth Account Exec"
 unitQ,ats-search,69,2026-08-05,N,AE on Lever is Full Time NY office role; stale
 DevRev,ats-search,75,2026-08-05,N,Lever AE is India Remote only (Delhi NCR)
-Granola,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive, Mid Market | Originally rejected solely for being onsite/isRemote:false in San Francisco - but SF onsite/hybrid is explicit"
+Granola,ats-search,,2026-08-18,N,"3 AEs (High Velocity/MM/Ent) all SF office, isRemote false"
 Kana.ai,ats-search,,2026-07-31,N,"Live Greenhouse posting ""Founding Account Executive"" (US-remote variant, id 5254098008) confirmed via API; IC full-cycle"
 Remote People,ats-search,,2026-08-08,N,Lead job ID 4805016101 is dead (redirects to general board); live Greenhouse API shows only GTM AE - LATAM and GTM AE - 
 AvidXchange,ats-search,79,2026-08-03,N,"recheck-B 2026-08-03: Correct Greenhouse token is avidxchangeinc (not avidxchange, which 404s). Fetched all 17 live jobs directly: zero are titled Account Executive. The or"
@@ -3196,7 +3196,7 @@ Fluke,repvue,80,2026-07-16,N,not B2B SaaS (industrial test equipment hardware)
 Formic,repvue,80,2026-07-16,N,not B2B SaaS (industrial robotics/automation)
 TrueLayer,repvue,80,2026-08-07,N,UK-based open banking fintech; not US-remote
 Seesaw Learning,repvue,80,2026-08-07,N,no IC AE on Greenhouse; K-12 EdTech SaaS
-CodeRabbit,repvue,80,2026-08-03,Y,no IC AE on Ashby (engineering/pre-sales only); AI code review SaaS
+CodeRabbit,repvue,80,2026-08-18,Y,17 AE reqs; 8 US remote metro-anchored (Southeast/West/Chicago/Austin/Detroit/NE/Boston)
 WeWork,repvue,80,2026-07-16,N,not B2B SaaS (coworking/commercial real estate)
 HighLevel,repvue,80,2026-08-06,N,no AE on Lever (gohighlevel); affiliate mgr + ops only
 Dolead,repvue,80,2026-07-16,N,not B2B SaaS (lead generation service; French company)
@@ -3901,7 +3901,7 @@ Vertafore,repvue,78,2026-08-11,Y,identity/insurance software SaaS; AE role verif
 Trulioo,repvue,78,2026-08-11,Y,identity verification SaaS; AE role verified live in latest.csv
 Omnissa,repvue,78,2026-08-11,Y,digital workspace SaaS; AE role verified live in latest.csv
 Intermedia,repvue,78,2026-08-11,Y,UCaaS/cloud comms; AE role verified live in latest.csv
-Vultr,repvue,78,2026-08-11,Y,cloud infrastructure; AE role verified live in latest.csv
+Vultr,repvue,78,2026-08-18,Y,"2 AE reqs Remote-US incl. AI Infrastructure Sales; careers page Cloudflare-blocked, Ashby slug vultr"
 Nanonets,repvue,78,2026-08-11,N,MM AE posting dead 2026-08-11; only replacement is Ent AE in Palo Alto (non-qualifying city); dropped from latest.csv
 Applause,repvue,78,2026-08-11,Y,crowdtesting SaaS; MM AE remote; already in latest.csv
 SPINS / MikMak,repvue,,2026-08-11,Y,retail analytics/commerce SaaS; AE Renewals remote $135K OTE; already in latest.csv
@@ -4710,7 +4710,7 @@ Invicti,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Aus
 Lansweeper,aggregator-verify,69,2026-08-17,N,Growth Account Executive - Digital Motion - AMER | SMB | Austin
 Lyric,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Remote
 MonetizeMore,aggregator-verify,,2026-08-15,Y,Senior Account Executive - Americas | Unspec | Remote
-OpenRouter,aggregator-verify,,2026-08-15,Y,Account Executive | MM | Remote
+OpenRouter,aggregator-verify,,2026-08-18,Y,"AE + Enterprise AE both Remote-US, $280-300K; Ashby board absent from careers page (JS shell)"
 Playlist,aggregator-verify,,2026-08-15,Y,Corporate Account Executive - San Francisco | MM | SF
 Qureos,aggregator-verify,,2026-08-15,Y,Account Executive - Public Sector (SLED) | Ent | NYC
 Trellix,aggregator-verify,73,2026-08-15,Y,Majors Account Executive | Ent | Denver
@@ -4856,14 +4856,14 @@ Gelato,aggregator-verify,68,2026-08-15,N,"Current live Ashby board (jobs.ashbyhq
 IntelHouse Marketing,aggregator-verify,,2026-08-15,N,Fails the B2B SaaS company-type bar: IntelHouse Marketing is described in its own posting as 'an online advertising agency specializing in quality lead generation' - a services/lea
 Momentum CRM,aggregator-verify,,2026-08-15,N,The lead's Gusto ATS URL returned HTTP 403 on repeated attempts. The company's own official careers page (crmomentum.com/careers) was fetched successfully and currently lists no Ac
 Photon Health,aggregator-verify,,2026-08-15,N,"not checked - Photon's official careers page (photonhealth.com/careers) confirms jobs.gem.com/photon is their real ATS, but Gem's board is a client-rendered SPA that returns only a"
-Blacksmith,aggregator-verify,,2026-08-15,N,"Lead job id (a7599488...) is not in the current Ashby board. Current board has no title containing ""Account Executive""; the only sales-adjacent roles are a Solutions Engineer (conf"
+Blacksmith,aggregator-verify,,2026-08-18,N,"AE Digital Natives, SF/NYC office-based"
 Cadence Design Systems,aggregator-verify,,2026-08-15,N,"R55675 is live (confirmed via Workday cxs JSON, canApply true) but is On-site in Burlington, MA with 50% travel - not remote and not tied to NYC/SF/Denver/Boston/Austin, so it fail"
 ChatFin,aggregator-verify,,2026-08-15,N,not checked - chatfin.ai has no dedicated ATS discoverable; chatfin.ai/careers redirects but the target could not be fetched (repeated 301/blocked); WebSearch (before budget ran ou
 commercetools,aggregator-verify,73,2026-08-15,N,"Classic dead-Greenhouse trap: fetching the posting page renders a plausible ""Senior Named Account Executive"" page, but the boards-api JSON (checked twice, full job list printed) co"
 Gen Digital,aggregator-verify,,2026-08-15,N,"Lead job id (bc21dc59...) is not in the current Ashby board. Full current board (8 jobs) has zero titles containing ""Account Executive"" - only Technical Director, Financial Analyst"
 HEMAV,aggregator-verify,,2026-08-15,N,"Role is live but confirmed non-US: fully remote based in Guatemala, covering Colombia/Central America/Mexico agtech territory. Fails the US-location requirement."
 Kyocera,aggregator-verify,,2026-08-15,N,"icims served a Terms-of-Use/cookie-gate page instead of job content on every fetch attempt (direct, alternate query params, alternate job id) - could not read any Kyocera JD. Indee"
-Quo,aggregator-verify,,2026-08-15,N,"not checked - jobs.gem.com/quo/... is a client-rendered SPA; WebFetch retrieved only the bare page title (""Quo Careers"") with no embedded JSON on 2 separate attempts, including a t"
+Quo,aggregator-verify,,2026-08-18,Y,"f/k/a OpenPhone; Associate AE Remote-Chicago, $101-119K OTE, 2+ yrs; Gem board needs render"
 Softdrive,aggregator-verify,,2026-08-15,N,"not checked - Softdrive's own domain could not be located (softdrive.io resolves to a parked/for-sale page, getsoftdrive.com does not resolve); the Wellfound aggregator page 403'd "
 SuperDial,aggregator-verify,,2026-08-15,N,"Neither lead job id (e3624f2a for ""Account Executive"", d2863885 for ""Enterprise Account Executive"") is present on the current Ashby board. The only sales-adjacent role currently op"
 Travefy,aggregator-verify,,2026-08-15,N,Could not confirm either way: the BambooHR lead URL and its /list JSON endpoint both returned 403 (bot-blocked) on every attempt; the redirected travefy.com/company/careers page lo
@@ -5159,7 +5159,7 @@ Consilium Staffing,repvue,,2026-08-16,N,staffing agency; not B2B SaaS
 Tutor Intelligence,ats-physical-ai,,2026-08-16,N,Lever posting dead; no replacement AE role found
 Replit,ats-ai-infra,,2026-08-16,N,No AE on Ashby board; only engineering/field-eng roles
 Integrate,ats-ai-infra,,2026-08-16,N,Commercial AE Seattle onsite only; defense/deep tech focus; not B2B SaaS
-fal.ai,ats-ai-infra,,2026-08-16,N,GH board API disabled (404); Commercial MM AE search-indexed but could not verify via API; SF location unconfirmed
+fal.ai,ats-ai-infra,,2026-08-18,N,"AE-Enterprise SF office-based, 5+ yrs"
 Istari Digital,ats-ai-infra,,2026-08-16,N,Defense/aerospace B2G AE; not B2B SaaS
 Metaprise,ats-ai-infra,,2026-08-16,Y,NYC onsite (5 days/wk) IC AE; enterprise AI governance/infra; OTE $120K-$180K; Lever posted 2026-06-01
 Serval,ats-ai-infra,,2026-08-16,N,SF only 5 days/week in-office; IT automation AI agents; no remote option
@@ -5195,3 +5195,12 @@ Outrider,ats-physical-ai,,2026-08-17,N,No AE roles; Greenhouse board has enginee
 Avidbots,ats-physical-ai,,2026-08-17,N,ATS unresolved; Ashby+GH both 404; autonomous floor cleaning robots
 Fireworks AI,ats-ai-infra,,2026-08-18,Y,Enterprise Account Executive | Remote | AI infra - LLM inference platform | OTE $300-330K (Ashby API verified)
 WorkOS,ats-ai-infra,,2026-08-18,Y,Account Executive - AI Native | Remote | B2B SaaS - developer auth/identity infra | Needs check (Ashby posting-api blind spot)
+Higgsfield,brex-benchmark-summer-2026,,2026-08-18,N,"62 reqs; only GTM AE, based Almaty (non-US)"
+Thinking Machines Lab,brex-benchmark-summer-2026,,2026-08-18,N,"34 reqs, research-heavy; zero sales roles"
+Greptile,brex-benchmark-summer-2026,,2026-08-18,N,MM + Ent AE open ($250-340K / $280-400K) but hybrid 3 days/wk SF; self-hosted board
+Upstash,brex-benchmark-summer-2026,,2026-08-18,N,"4 reqs, no sales roles"
+Oneleet,brex-benchmark-summer-2026,,2026-08-18,N,"18 reqs; Renewals Account Manager only, not an AE"
+Firecrawl,brex-benchmark-summer-2026,,2026-08-18,N,"16 reqs; RevOps Lead and FDE-Revenue, no AE"
+Apify,brex-benchmark-summer-2026,,2026-08-18,N,"12 reqs, no sales roles"
+Daytona,brex-benchmark-summer-2026,,2026-08-18,N,"12 reqs (Notion board, rendered), zero sales roles"
+Retell AI,brex-benchmark-summer-2026,,2026-08-18,N,Ent AE SF Bay in-office $230-320K; Founding Sales Engineer

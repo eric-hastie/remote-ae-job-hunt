@@ -9,9 +9,13 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 ## Files
 
 - **`data/latest.csv`** — canonical PUBLISHED list = companies that *currently* have a qualifying open
-  role. Columns: `Company,Funding ($M),OTE,Segment,HQ,Remote,RepVue,Industry,Job Posting URL,Date Added,Posted,Location,Status`.
-  **`Location`** = `Remote` / `NYC` / `SF` / `Denver` — build.py filters this into four pages (index=Remote,
-  nyc.html, sf.html, denver.html). **`Status`** = `Verified` (posting confirmed live in an ATS API / clean
+  role. Columns: `Company,Funding ($M),OTE,Title,Segment,HQ,Remote,RepVue,Industry,Job Posting URL,Date Added,Posted,Location,Status`.
+  **`Location` is a controlled page key, not free text.** It must be exactly one of `Remote` / `NYC` /
+  `SF` / `Denver` / `Boston` / `Austin`. build.py filters it into six pages (index=Remote, nyc.html,
+  sf.html, denver.html, boston.html, austin.html); any other value renders on NO page, so the row
+  counts in the CSV while being published nowhere. A metro-anchored remote role whose city has no
+  page (Chicago, Detroit, or a region such as "Southeast") belongs on `Remote`.
+  **`Status`** = `Verified` (posting confirmed live in an ATS API / clean
   fetch) or `Needs check` (real but only corroborated via search/mirror — surfaced for manual review, not
   discarded).
   **`Date Added` rules:** every NEW row gets today's UTC date (`YYYY-MM-DD`); never change an existing

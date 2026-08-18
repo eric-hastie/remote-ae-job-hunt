@@ -747,5 +747,18 @@ def main():
         f.write(disc_html)
     print(f"built discards.html: {len(discards):,} discards of {uni_total:,} evaluated")
 
+
+# --- master company table -------------------------------------------------
+# Standing rule: every project writes its companies through to the shared
+# master table. Upsert only; never overwrites a real value, never rewrites
+# project or date_added. Failure here must not break the build.
+try:
+    import sys as _sys, os as _os
+    _sys.path.insert(0, _os.path.expanduser("~/my_applications/company-master"))
+    import sync_project as _sp
+    _sp.sync("remote-ae-job-hunt")
+except Exception as _e:
+    print(f"  master sync skipped: {_e}")
+
 if __name__ == "__main__":
     main()
