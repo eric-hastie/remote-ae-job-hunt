@@ -235,7 +235,7 @@ Nvidia,repvue,94.32,2026-08-17,N,no matching MM/Ent B2B SaaS AE roles surfaced t
 Lane Four,repvue,94.28,2026-08-18,N,ATS unresolved; no AE found after Ashby/GH/Lever checks + search
 Pacvue,repvue,94.25,2026-08-18,N,AE roles EMEA only (UK/Germany); no US-remote AE
 Ressio Software,repvue,94.23,2026-08-18,N,ATS unresolved; no board found
-Modo Energy,repvue,94.21,2026-08-18,Y,AE roles NYC and London; NYC row in latest.csv
+Modo Energy,repvue,94.21,2026-08-18,N,AE roles NYC and London; NYC row in latest.csv
 "Elucent Medical, Inc.",repvue,94.19,2026-08-18,N,Not B2B SaaS; surgical ultrasound medical device
 BW Events Tech,repvue,94.12,2026-08-18,N,ATS unresolved; no board found
 Dagster Labs,repvue,94.04,2026-08-18,N,0 jobs on Greenhouse dagsterlabs board
@@ -833,7 +833,7 @@ CoreView,repvue,86.61,2026-08-15,N,ATS unresolved; Ashby/Lever all 404
 Pacific Energy Concepts (PEC),repvue,86.60,2026-07-22,N,not B2B SaaS; energy efficiency consulting/managed services
 "Neudesic, an IBM Company",repvue,86.60,2026-07-22,N,not B2B SaaS; IBM IT services subsidiary
 UpGuard,repvue,86.60,2026-08-10,N,Lever board empty (re-confirmed 2026-08-10); no AE
-Prove,repvue,86.59,2026-08-03,Y,added to latest.csv 2026-07-11: Ent remote AE; Greenhouse prove board verified
+Prove,repvue,86.59,2026-08-18,N,added to latest.csv 2026-07-11: Ent remote AE; Greenhouse prove board verified
 Sage Publishing,repvue,86.59,2026-07-22,N,not B2B SaaS; academic/educational publisher
 Re-Leased,repvue,86.59,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
 Tabs,repvue,86.59,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
@@ -1255,7 +1255,7 @@ AudienceView,repvue,84.40,2026-07-25,N,niche ticketing SaaS for events/arts (nar
 Irwin,repvue,84.40,2026-07-25,N,"niche investor relations SaaS (capital markets, not MM/Ent B2B SaaS)"
 AmpliFund,repvue,84.40,2026-07-25,N,government grants management SaaS (public sector niche)
 Rho,repvue,84.39,2026-07-25,N,only Associate AE (excl) + city-specific SF/LA startup-banking AE; no MM/Ent remote
-Actionstep,repvue,84.39,2026-07-25,N,legal practice mgmt for small law firms (SMB niche)
+Actionstep,repvue,84.39,2026-08-18,N,legal practice mgmt for small law firms (SMB niche)
 SentinelOne,repvue,84.38,2026-07-25,Y,Large Enterprise AE: Boston/NYC/SF territories confirmed on company careers page (gh_jid)
 Jobber,repvue,84.36,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 Berkshire Hathaway HomeServices,repvue,84.36,2026-07-25,N,not B2B SaaS (real estate brokerage)
@@ -2390,7 +2390,7 @@ Domo,repvue,81,2026-08-02,N,ATS unresolved (GH board returning 404)
 Dash Social,repvue,81,2026-08-02,N,ATS unresolved (Ashby 404; not found on major boards)
 Clozd,repvue,81,2026-08-02,N,no AE role (Lever board confirmed; only Account Manager roles)
 Henry Schein One,repvue,81,2026-08-02,N,ATS unresolved (GH 404; not found on major boards)
-Snorkel AI,repvue,81,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive - Data as a Service | Was rejected as ""not US-remote"" (hybrid) - but the corrected bar explicitly allows hybrid/office in NYC and SF"
+Snorkel AI,repvue,81,2026-08-18,N,"recheck-B 2026-08-03: Account Executive - Data as a Service | Was rejected as ""not US-remote"" (hybrid) - but the corrected bar explicitly allows hybrid/office in NYC and SF"
 EDICOM,repvue,81,2026-08-02,N,ATS unresolved (European EDI company; no US board found)
 GE Vernova,repvue,81,2026-07-06,N,not B2B SaaS (energy generation equipment manufacturer)
 PacBio,repvue,81,2026-07-06,N,not B2B SaaS (genomics sequencing hardware)
@@ -5204,3 +5204,11 @@ Firecrawl,brex-benchmark-summer-2026,,2026-08-18,N,"16 reqs; RevOps Lead and FDE
 Apify,brex-benchmark-summer-2026,,2026-08-18,N,"12 reqs, no sales roles"
 Daytona,brex-benchmark-summer-2026,,2026-08-18,N,"12 reqs (Notion board, rendered), zero sales roles"
 Retell AI,brex-benchmark-summer-2026,,2026-08-18,N,Ent AE SF Bay in-office $230-320K; Founding Sales Engineer
+Sunset,ats-search,,2026-08-18,N,"NYC office required; Data Partnerships BD role, not standard AE; pivot to AI data licensing, not pure SaaS"
+Bifrost,ats-physical-ai,,2026-08-18,N,Physical AI synthetic data; Ashby AE posting dead (not in API); Singapore-based team
+DeepHow,ats-physical-ai,,2026-08-18,N,Industrial AI for manufacturing; AE job expired 6+ months ago; no active ATS link found
+remberg,ats-physical-ai,,2026-08-18,N,Industrial AI asset platform; Munich-based; German required; no US remote AE
+Miovision,ats-physical-ai,,2026-08-18,N,Traffic management AI (smart-infra physical AI); only Enterprise AE is B2G/GovTech Southeastern territory with 80% travel
+Activated Scale,ats-physical-ai,,2026-08-18,N,Staffing firm placing for unnamed industrial AI startup; role closed 6+ months; contract-to-hire
+Parallel Domain,ats-physical-ai,,2026-08-18,N,"Physical AI simulation/synthetic data; only Director-level sales roles (Enterprise Sales Director), no IC AE"
+Field AI,ats-physical-ai,,2026-08-18,N,Physical AI robotics; only AE is Construction-segment hybrid in Irvine CA; not remote US qualifying
