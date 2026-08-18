@@ -113,8 +113,11 @@ def _neg(datestr):
     m = re.match(r"\s*(\d{4})-(\d{2})-(\d{2})", datestr or "")
     return (0, -int(m.group(1)), -int(m.group(2)), -int(m.group(3))) if m else (1, 0, 0, 0)
 
-# location pages generated from the shared dataset (filter by Location)
+# location pages generated from the shared dataset (filter by Location).
+# The "all" key is the one page that does NOT filter; see main().
 LOCATIONS = [
+    ("all.html",    "all",    "All",    "AE Market Map - All Locations",
+     "Every hand-verified <b>Account Executive</b> opening on this board, remote and city-based together - same ICP and verification pipeline, with no location filter applied."),
     ("index.html",  "remote", "Remote", "Remote AE Market Map",
      "A hand-verified dataset of remote US <b>Account Executive</b> openings at B2B SaaS companies - built with an AI-assisted research pipeline that screens against a defined ICP and verifies every posting is live."),
     ("nyc.html",    "nyc",    "NYC",    "NYC AE Market Map",
@@ -129,7 +132,8 @@ LOCATIONS = [
      "Hand-verified <b>Account Executive</b> openings based in <b>Austin</b> - a fast-growing <b>physical-AI</b> + B2B SaaS hub (Apptronik, Diligent Robotics, and a deep SaaS scene)."),
 ]
 
-LOCATION_NAV = [("index.html", "Remote", "remote"), ("nyc.html", "NYC", "nyc"),
+LOCATION_NAV = [("all.html", "All", "all"),
+                ("index.html", "Remote", "remote"), ("nyc.html", "NYC", "nyc"),
                 ("sf.html", "SF", "sf"), ("denver.html", "Denver", "denver"),
                 ("boston.html", "Boston", "boston"), ("austin.html", "Austin", "austin")]
 
@@ -208,6 +212,9 @@ h2{font-size:22px;margin:0 0 14px;letter-spacing:-.01em}
 /* The location switcher is a group of links, not buttons, because each option
    is a separate page. It is styled to match the button groups beside it. */
 .controls{scroll-margin-top:0}
+.loctag{display:inline-block;text-decoration:none;color:var(--muted);background:var(--panel2);
+  border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:12px;font-weight:600}
+.loctag:hover{color:var(--txt);border-color:var(--accent)}
 .locseg{align-items:center}
 .locseg a{display:inline-block;text-decoration:none;color:var(--muted);padding:7px 14px;
   border-radius:7px;font-size:13px;font-weight:600}
@@ -312,7 +319,7 @@ footer .wrap{max-width:760px}
         <th data-k="company">Company <span class="arw"></span></th>
         <th data-k="ote">OTE <span class="arw"></span></th>
         <th data-k="segment">Segment <span class="arw"></span></th>
-        <th>Posting</th>
+__LOCTH__        <th>Posting</th>
         <th>Actions</th>
         <th data-k="status">Status <span class="arw"></span></th>
         <th data-k="repvue">RepVue <span class="arw"></span></th>
@@ -336,6 +343,11 @@ const DQ=new Set(JSON.parse(localStorage.getItem('ae_dq')||'[]'));
 function saveDQ(){localStorage.setItem('ae_dq',JSON.stringify([...DQ]));}
 const APPLIED=new Set(JSON.parse(localStorage.getItem('ae_applied')||'[]'));
 function saveApplied(){localStorage.setItem('ae_applied',JSON.stringify([...APPLIED]));}
+const SHOW_LOC=__SHOWLOC__;
+const LOCHREF={'Remote':'index.html','NYC':'nyc.html','SF':'sf.html','Denver':'denver.html','Boston':'boston.html','Austin':'austin.html'};
+// On the all-locations page the location doubles as a link into that page's view.
+function locTag(r){const l=r.location||'Remote';const h=LOCHREF[l];
+  return h?'<a class="loctag" href="'+h+'#board">'+l+'</a>':'<span class="muted">'+l+'</span>';}
 function isMM(r){return r.segment.includes('MM')}
 function segLabel(r){const cls=isMM(r)?'b-mm':'b-ent';return '<span class="badge '+cls+'">'+r.segment+'</span>';}
 function statusBadge(r){return r.status==='Needs check' ? '<span class="st st-check">Needs check</span>' : '<span class="st st-ok">Verified</span>';}
@@ -362,7 +374,7 @@ function render(){
     if(dqMode==='dqd' && !DQ.has(r.url))return false;
     if(indF==='physical-ai' && !/physical ai|robot|autonom|self-driv|drone|uav|lidar|radar|perception|sensor|embodied|world model|spatial comput|edge ai|machine vision|digital twin/i.test(r.industry||''))return false;
     if(!term)return true;
-    return (r.company+' '+r.title+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
+    return (r.company+' '+r.title+' '+r.industry+' '+r.hq+' '+r.location).toLowerCase().includes(term);
   });
   if(sortK){
     list=list.slice().sort((a,b)=>{
@@ -378,6 +390,7 @@ function render(){
       <td><div class="co">${r.company}${r.more?` <span class="more" title="${r.more} more open AE role${r.more>1?'s':''} at this company on this board - only the best-fit one is shown">+${r.more}</span>`:''}</div>${r.title?`<div class="jt">${r.title}</div>`:''}<div class="ind">${r.industry||''}</div></td>
       <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>
       <td>${segLabel(r)}</td>
+      ${SHOW_LOC?`<td style="white-space:nowrap">${locTag(r)}</td>`:''}
       <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
       <td style="white-space:nowrap"><span class="dq" data-url="${r.url}">${DQ.has(r.url)?'restore':'DQ ✕'}</span><span class="appl" data-url="${r.url}">${APPLIED.has(r.url)?'undo':'Applied ✓'}</span></td>
       <td>${statusBadge(r)}</td>
@@ -728,7 +741,10 @@ def main():
 
     rows = load()
     for fname, key, label, h1, sublead in LOCATIONS:
-        loc_rows = [r for r in rows if (r["location"] or "Remote").strip().lower() == key]
+        # "all" is the unfiltered view. Rows are already one-per-URL from
+        # drop_duplicate_urls, so nothing is double-counted across locations.
+        loc_rows = ([dict(r) for r in rows] if key == "all" else
+                    [r for r in rows if (r["location"] or "Remote").strip().lower() == key])
         before = len(loc_rows)
         loc_rows = dedupe_by_company(loc_rows)
         loc_rows.sort(key=lambda x: tier(x["segment"]))
@@ -742,6 +758,10 @@ def main():
                .replace("__SUBLEAD__", sublead)
                .replace("__NAV__", nav_html(key))
                .replace("__LOCNAV__", loc_nav_html(key))
+               # The Location column earns its width only where locations differ.
+               .replace("__LOCTH__", '        <th data-k="location">Location <span class="arw"></span></th>\n'
+                        if key == "all" else "")
+               .replace("__SHOWLOC__", "true" if key == "all" else "false")
                .replace("__TOTAL__", str(total))
                .replace("__MM__", str(mm))
                .replace("__BUILDDATE__", today.isoformat())

@@ -48,6 +48,9 @@ h2{font-size:22px;margin:0 0 14px;letter-spacing:-.01em}
 /* The location switcher is a group of links, not buttons, because each option
    is a separate page. It is styled to match the button groups beside it. */
 .controls{scroll-margin-top:0}
+.loctag{display:inline-block;text-decoration:none;color:var(--muted);background:var(--panel2);
+  border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:12px;font-weight:600}
+.loctag:hover{color:var(--txt);border-color:var(--accent)}
 .locseg{align-items:center}
 .locseg a{display:inline-block;text-decoration:none;color:var(--muted);padding:7px 14px;
   border-radius:7px;font-size:13px;font-weight:600}
@@ -122,7 +125,7 @@ footer .wrap{max-width:760px}
 <div class="wrap">
   <div class="controls" id="board">
     <input id="q" type="search" placeholder="Search company, industry, or location…" autocomplete="off">
-    <div class="seg locseg"><span class="seglabel">Location</span><a href="index.html#board">Remote</a><a href="nyc.html#board" class="on">NYC</a><a href="sf.html#board">SF</a><a href="denver.html#board">Denver</a><a href="boston.html#board">Boston</a><a href="austin.html#board">Austin</a></div>
+    <div class="seg locseg"><span class="seglabel">Location</span><a href="all.html#board">All</a><a href="index.html#board">Remote</a><a href="nyc.html#board" class="on">NYC</a><a href="sf.html#board">SF</a><a href="denver.html#board">Denver</a><a href="boston.html#board">Boston</a><a href="austin.html#board">Austin</a></div>
     <div class="seg" id="seg">
       <button data-seg="all" class="on">All</button>
       <button data-seg="mm">Mid-market</button>
@@ -176,6 +179,11 @@ const DQ=new Set(JSON.parse(localStorage.getItem('ae_dq')||'[]'));
 function saveDQ(){localStorage.setItem('ae_dq',JSON.stringify([...DQ]));}
 const APPLIED=new Set(JSON.parse(localStorage.getItem('ae_applied')||'[]'));
 function saveApplied(){localStorage.setItem('ae_applied',JSON.stringify([...APPLIED]));}
+const SHOW_LOC=false;
+const LOCHREF={'Remote':'index.html','NYC':'nyc.html','SF':'sf.html','Denver':'denver.html','Boston':'boston.html','Austin':'austin.html'};
+// On the all-locations page the location doubles as a link into that page's view.
+function locTag(r){const l=r.location||'Remote';const h=LOCHREF[l];
+  return h?'<a class="loctag" href="'+h+'#board">'+l+'</a>':'<span class="muted">'+l+'</span>';}
 function isMM(r){return r.segment.includes('MM')}
 function segLabel(r){const cls=isMM(r)?'b-mm':'b-ent';return '<span class="badge '+cls+'">'+r.segment+'</span>';}
 function statusBadge(r){return r.status==='Needs check' ? '<span class="st st-check">Needs check</span>' : '<span class="st st-ok">Verified</span>';}
@@ -202,7 +210,7 @@ function render(){
     if(dqMode==='dqd' && !DQ.has(r.url))return false;
     if(indF==='physical-ai' && !/physical ai|robot|autonom|self-driv|drone|uav|lidar|radar|perception|sensor|embodied|world model|spatial comput|edge ai|machine vision|digital twin/i.test(r.industry||''))return false;
     if(!term)return true;
-    return (r.company+' '+r.title+' '+r.industry+' '+r.hq).toLowerCase().includes(term);
+    return (r.company+' '+r.title+' '+r.industry+' '+r.hq+' '+r.location).toLowerCase().includes(term);
   });
   if(sortK){
     list=list.slice().sort((a,b)=>{
@@ -218,6 +226,7 @@ function render(){
       <td><div class="co">${r.company}${r.more?` <span class="more" title="${r.more} more open AE role${r.more>1?'s':''} at this company on this board - only the best-fit one is shown">+${r.more}</span>`:''}</div>${r.title?`<div class="jt">${r.title}</div>`:''}<div class="ind">${r.industry||''}</div></td>
       <td class="ote">${r.ote||'<span class=muted>-</span>'}</td>
       <td>${segLabel(r)}</td>
+      ${SHOW_LOC?`<td style="white-space:nowrap">${locTag(r)}</td>`:''}
       <td><a class="apply" href="${r.url}" target="_blank" rel="noopener">Apply →</a></td>
       <td style="white-space:nowrap"><span class="dq" data-url="${r.url}">${DQ.has(r.url)?'restore':'DQ ✕'}</span><span class="appl" data-url="${r.url}">${APPLIED.has(r.url)?'undo':'Applied ✓'}</span></td>
       <td>${statusBadge(r)}</td>
