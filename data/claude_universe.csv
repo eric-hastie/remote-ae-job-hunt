@@ -2537,7 +2537,7 @@ Chronograph,funding-news,,2026-08-03,N,ATS unresolved (Workable 404; no AE roles
 Interchecks,funding-news,,2026-08-03,N,ATS unresolved (no board found; payments API platform)
 LeapXpert,funding-news,,2026-08-03,N,no qualifying AE found (all ATS platforms 404; enterprise comms compliance)
 Bland AI,funding-news,,2026-08-03,N,MM AE + Ent AE both SF only (no remote); still N
-Baseten,funding-news,,2026-08-03,N,"AE for AI Native Startups, SF hybrid; still no US-remote AE"
+Baseten,funding-news,,2026-08-18,Y,"Account Executive - AI Native | Remote | AI infra - ML inference platform | OTE $180-230K (Ashby API)"
 Quantifind,funding-news,,2026-08-03,N,ATS unresolved (risk intelligence platform; no ATS board found)
 Exa,funding-news,,2026-08-03,N,developer AI search infrastructure; no B2B SaaS AE motion
 Armada,funding-news,,2026-07-06,N,not B2B SaaS (edge computing hardware for industrial/defense)
@@ -4097,7 +4097,7 @@ Swell,repvue,77,2026-08-11,N,ATS unresolved; 404 on Ashby
 Fastly,repvue,77,2026-08-11,N,no AE on Greenhouse board; CDN/edge platform
 Leverage,repvue,77,2026-08-11,N,LeverageEdu; India-based ed-tech; not B2B SaaS in scope
 ArcSite,repvue,77,2026-08-11,Y,B2B SaaS (field sales/construction drawings); Remote AE on Workable (82EBC07752)
-Unmind,repvue,77,2026-08-11,Y,"B2B SaaS (workplace mental health); Principal Ent AE, NYC hybrid (Ashby)"
+Unmind,repvue,77,2026-08-18,N,"B2B SaaS (workplace mental health); posting dead 2026-08-18 (DEAD_ID), no qualifying replacement"
 Refinitiv,repvue,77,2026-08-12,N,LSEG subsidiary; too large/enterprise; ATS unresolved
 Potloc,repvue,77,2026-08-12,N,Lever API: only 3 non-AE roles (ops/eng); no qualifying AE
 Gray Media,repvue,77,2026-08-12,N,TV broadcasting; not B2B SaaS
@@ -5193,3 +5193,5 @@ Kastle,ats-physical-ai,,2026-08-17,Y,Enterprise AE | SF on-site | Physical AI sm
 Gather AI,ats-physical-ai,,2026-08-17,N,No AE roles; Greenhouse board has engineering/ML/operations only; Physical AI drone inventory
 Outrider,ats-physical-ai,,2026-08-17,N,No AE roles; Greenhouse board has engineering/hardware only; autonomous yard trucks
 Avidbots,ats-physical-ai,,2026-08-17,N,ATS unresolved; Ashby+GH both 404; autonomous floor cleaning robots
+Fireworks AI,ats-ai-infra,,2026-08-18,Y,Enterprise Account Executive | Remote | AI infra - LLM inference platform | OTE $300-330K (Ashby API verified)
+WorkOS,ats-ai-infra,,2026-08-18,Y,Account Executive - AI Native | Remote | B2B SaaS - developer auth/identity infra | Needs check (Ashby posting-api blind spot)
