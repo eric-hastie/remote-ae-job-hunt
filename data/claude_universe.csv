@@ -1965,7 +1965,7 @@ LedCor,repvue,82,2026-07-04,N,not B2B SaaS (construction company)
 Klaviyo,repvue,82,2026-08-03,Y,AE roles NYC/SF/Denver (office-based/hybrid); added to latest.csv 2026-07-15; no US-remote AE
 Cohesity,repvue,82,2026-07-31,N,ATS unresolved (GH 404; board previously private)
 CHG Healthcare,repvue,82,2026-07-04,N,not B2B SaaS (healthcare staffing)
-PolyAI,repvue,82,2026-07-31,Y,Founding MM AE (GH EU 4932846101); US/Canada; OTE $160-180K; remote unconfirmed (Needs check)
+PolyAI,repvue,82,2026-08-19,N,"GH EU 4932846101 DEAD; board now has only Account Manager/BDM roles, no IC AE; dropped 2026-08-19"
 DailyPay,repvue,82,2026-08-03,Y,Enterprise AE US-Remote on Ashby; earned wage access / HR benefits B2B SaaS
 GreatAmerica Financial Services,repvue,82,2026-07-04,N,not B2B SaaS (equipment financing)
 Alphatec Spine,repvue,82,2026-07-04,N,not B2B SaaS (medical devices/spine implants)
@@ -3439,7 +3439,7 @@ QOMPLX,repvue,79,2026-08-08,N,GH boards found (kyber-security + qomplx); 0 jobs 
 Rhombus Systems,repvue,79,2026-08-03,Y,recheck-B 2026-08-03: Commercial Account Executive - East | Original note flagged 'segment doesn't meet MM ICP' and a 403'd NYC JD - now confirmed remote/NYC-region and c
 ExtraHop,repvue,79,2026-08-07,N,GH extrahopnetworks; no IC AE; RSM titles only; network detection SaaS; checked 2026-08-07
 FORT Robotics,robotics,75,2026-08-03,Y,robotics AE (Remote (must reside in Southeast or Central US region))
-Robust.AI,robotics,,2026-08-10,N,"Lever posting dead, no replacement found"
+Robust.AI,robotics,,2026-08-19,N,Lever board re-verified 2026-08-19: no AE roles; only engineering in San Carlos CA; still no qualifying role
 Encord,robotics,,2026-08-10,N,AE posting 8a88f55e shows title at direct URL but not in board API; Account Manager Physical AI NY not IC AE; still no qualifying IC AE 2026-08-10
 Covariant,robotics,,2026-08-03,Y,"robotics AE (New York, NY (hybrid, in-office 2-3x/week))"
 Ouster,robotics,77,2026-08-03,Y,robotics AE (Remote (US))
@@ -3855,7 +3855,7 @@ Relay Payments,repvue,78,2026-08-11,Y,Ent fleet payments AE; remote; already in 
 PatientPop (now Tebra),repvue,78,2026-08-11,Y,SMB healthcare AE; remote; already in latest.csv
 PerformYard,repvue,78,2026-08-11,Y,SMB/MM performance management AE; remote; already in latest.csv
 Atmosphere,repvue,78,2026-08-11,Y,MM streaming TV for business AE; remote; already in latest.csv
-Dusty Robotics,repvue,78,2026-08-11,Y,MM Physical AI construction robotics AE; remote; already in latest.csv
+Dusty Robotics,repvue,78,2026-08-19,N,Rippling posting 39b6cf2c DEAD; board now has only SDR; no AE; dropped 2026-08-19
 Dustin,repvue,78,2026-08-11,N,"IT product distributor (Nordic), not B2B SaaS"
 Stack Sports,repvue,78,2026-08-11,N,"ATS unresolved (Paylocity JS-only, can't verify remotely)"
 OrderMyGear,repvue,78,2026-08-11,N,AE role SMB segment only (MergeCo Rippling board); not MM/Ent
@@ -5224,3 +5224,7 @@ Bright Machines,ats-physical-ai,,2026-08-19,N,Lever board: no AE/sales posting; 
 Piaggio Fast Forward,ats-physical-ai,,2026-08-19,N,Greenhouse board: no IC AE role (only Business Development Leader); construction robotics
 Collaborative Robotics,ats-physical-ai,,2026-08-19,N,Greenhouse board 404; Cobot Ashby board no AE posting; AMR/cobot robotics
 GrayMatter Robotics,ats-physical-ai,,2026-08-19,N,Ashby board (graymatter-robotics): no AE posting currently; industrial robotics/surface treatment
+Procurify,ats-robotics,,2026-08-19,N,"Ashby board: no AE roles; only BDR and engineering (procurement automation SaaS, B2B)"
+CADDi,ats-robotics,,2026-08-19,N,Workable MM AE and Ent AE both Chicago IL office roles with 40-50% in-person time; not US-remote; manufacturing supply chain SaaS
+Divcon Controls,ats-robotics,,2026-08-19,N,Rippling board: no AE roles; only engineering/PM; industrial automation controls firm
+Hadrian Automation,ats-robotics,,2026-08-19,N,Ashby board: no AE roles; only engineering/finance/manufacturing; autonomous factory for aerospace/defense Physical AI
