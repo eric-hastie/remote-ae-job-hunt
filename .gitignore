@@ -25,3 +25,7 @@ data/aggregator_only.csv
 # a16z speedrun harvest - staged locally, never published
 data/speedrun_raw.tsv
 data/speedrun_triage.csv
+
+# Python bytecode - churns on every run and git add -A was committing it
+__pycache__/
+*.pyc

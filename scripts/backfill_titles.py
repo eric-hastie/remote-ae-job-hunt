@@ -2,7 +2,7 @@
 """Backfill the Title column in data/latest.csv from each ATS's JSON API.
 
 The dataset stored a company and a URL but never the role's own title, so two
-postings at the same company were indistinguishable — six Armadin rows were
+postings at the same company were indistinguishable - six Armadin rows were
 byte-identical apart from the URL, even though their titles carry the territory
 (Southwest, TOLA, New England...). build.py's per-company dedupe needs the title
 to apply the "furthest west" tie-break, and the title is useful on its own.
@@ -85,6 +85,9 @@ def main():
         fn = next((f for h, f in HANDLERS if h in urlparse(url).netloc), None)
         t = fn(url) if fn else None
         if t:
+            # The dash characters below are the ONES BEING STRIPPED, not prose.
+            # A dash sweep over this repo must skip this line: replacing them
+            # would disable the normalizer that keeps published titles clean.
             r['Title'] = re.sub(r'\s+', ' ', t).replace('—', '-').replace('–', '-').strip()
             filled += 1
         else:
@@ -99,7 +102,7 @@ def main():
             w.writerows(rows)
         print(f'wrote {CSV}')
     else:
-        print('(dry run — pass --write to apply)')
+        print('(dry run - pass --write to apply)')
 
 
 if __name__ == '__main__':

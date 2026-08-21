@@ -8,10 +8,10 @@ only the page shell and the agent records "no comp stated". The board APIs
 carry the number as a structured field, so read it from there instead.
 
 Covers Ashby (compensationTierSummary), Greenhouse (pay range in job content)
-and Lever (salaryRange). Non-API hosts are reported as NEEDS_BROWSER — those
+and Lever (salaryRange). Non-API hosts are reported as NEEDS_BROWSER - those
 have to be read in a real browser.
 
-IMPORTANT — base vs OTE: this column is named OTE but ATS feeds publish BASE
+IMPORTANT - base vs OTE: this column is named OTE but ATS feeds publish BASE
 far more often. For an AE, base is typically ~half of OTE, so a recorded
 "$60,000-$70,000" may be base against a ~$130K OTE. Values written by this
 script are suffixed " base" when the source says base, so the two are never
@@ -158,7 +158,7 @@ def main():
             w.writerows(rows)
         print(f'wrote {CSV}')
     elif not write:
-        print('(dry run — pass --write to apply)')
+        print('(dry run - pass --write to apply)')
 
 
 if __name__ == '__main__':

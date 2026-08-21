@@ -81,6 +81,12 @@ def main():
         latest_cols = rd.fieldnames
         latest = list(rd)
     have = {(r.get("Job Posting URL") or "").strip() for r in latest}
+    # Company+title is the second dedup key, and it is the one that actually
+    # holds. A URL check alone cannot see that latest.csv already carries this
+    # role under a SIBLING posting: boards list one job once per city, so the
+    # same Mixpanel role exists nine times with nine ids. Matching on URL only,
+    # every rerun published another copy of a role already on the list.
+    have_role = {(r["Company"], r["Title"]) for r in latest}
 
     # One published row per company+title. Boards routinely post the same job
     # once per city with a different ATS id - Mixpanel had 19 postings for 3
@@ -91,17 +97,23 @@ def main():
         if t["Verdict"] != "win":
             continue
         k = (t["Company"], t["Title"])
-        if k not in best or t["Posted"] > best[k]["Posted"]:
+        # Newest wins, and the APPLY URL breaks a tie. Without that tie-break the
+        # winner among several identical same-day postings depended on the order
+        # the harvester's threads happened to finish, so a rerun could publish a
+        # different one of Mixpanel's nine copies and look like a new finding.
+        rank = (t["Posted"], t["ApplyURL"])
+        if k not in best or rank > (best[k]["Posted"], best[k]["ApplyURL"]):
             best[k] = t
     collapsed = sum(1 for t in triage if t["Verdict"] == "win") - len(best)
 
     new_rows, skipped_dup = [], 0
     for t in best.values():
         url = posting_url(t["ApplyURL"])
-        if url in have:
+        if url in have or (t["Company"], t["Title"]) in have_role:
             skipped_dup += 1
             continue
         have.add(url)
+        have_role.add((t["Company"], t["Title"]))
         body = bodies.get((t["Company"], t["Title"]), "")
         rng = money(t["CompMin"], t["CompMax"])
         if rng:

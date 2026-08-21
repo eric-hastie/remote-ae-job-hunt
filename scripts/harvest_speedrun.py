@@ -356,7 +356,11 @@ def main():
     with open(args.out, "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=COLS, delimiter="\t", extrasaction="ignore")
         w.writeheader()
-        w.writerows(sorted(rows, key=lambda r: (r["Company"], r["Title"])))
+        # Sort on ApplyURL too: several postings can share a company and
+        # title, and leaving their order to thread completion makes every
+        # downstream tie-break non-deterministic.
+        w.writerows(sorted(rows, key=lambda r: (r["Company"], r["Title"],
+                                                r["ApplyURL"])))
     sys.stderr.write(f"wrote {len(rows)} rows -> {args.out}\n")
 
 

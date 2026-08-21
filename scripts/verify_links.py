@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Deterministically verify every Job Posting URL in data/latest.csv.
 
-Checks the job ID against the ATS's own JSON API (Greenhouse / Ashby / Lever —
+Checks the job ID against the ATS's own JSON API (Greenhouse / Ashby / Lever -
 covers most rows) instead of fetching posting pages, because dead postings often
 return HTTP 200 with a soft redirect to the full board (e.g. Greenhouse
 `?error=true`), which fools page-based checks. Non-API hosts get a plain HTTP
@@ -25,7 +25,7 @@ Exit code: number of DEAD/BROKEN rows (0 = all clean), capped at 100.
 For DEAD/BROKEN rows on Greenhouse/Ashby/Lever the report lists current AE
 postings from the same board (title, location, exact URL from the API) as
 replacement candidates. URLs in replacements are copied verbatim from the API
-response — safe to paste into latest.csv.
+response - safe to paste into latest.csv.
 """
 import csv, json, re, sys, os, urllib.request, urllib.error
 from urllib.parse import urlparse
