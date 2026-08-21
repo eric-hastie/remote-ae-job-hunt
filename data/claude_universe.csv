@@ -4,7 +4,7 @@ Abnormal Security,claude,,2026-07-02,Y,has open qualifying role
 Accrue,claude,,2026-08-03,Y,has open qualifying role
 Acquia,claude,76,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
 Affinity.co,claude,86,2026-08-15,N,no roles at all; empty Ashby board 2026-08-15
-Apollo GraphQL,claude,76,2026-08-05,N,posting dead (3b50c2d4 → 415db1ad both dead); only UK candidate found; not US
+Apollo GraphQL,claude,76,2026-08-21,N,speedrun board: not open to US applicants
 Apollo.io,claude,85,2026-07-02,Y,has open qualifying role
 Arcade,claude,79,2026-08-15,N,GTM role (not AE-titled) in SF Bay Area only on Ashby 2026-08-15
 Arctic Wolf,claude,85,2026-06-30,Y,has open qualifying role
@@ -22,7 +22,7 @@ Cloudzero,claude,81,2026-08-03,Y,has open qualifying role (re-verified 2026-07-2
 Commure,claude,78,2026-08-03,Y,has open qualifying role
 Commvault,claude,86,2026-08-03,Y,Cloud Resilience AE East (Remote) + West (SF); Greenhouse board; overlay specialist AE
 Confluent,claude,83,2026-07-31,N,Ashby board has no AE postings; posting dead; re-checked 2026-07-31
-Cresta,claude,91,2026-08-20,N,Greenhouse posting 4494927008 dead; no AE roles on board 2026-08-06
+Cresta,claude,91,2026-08-21,Y,Enterprise Account Executive (Ent)
 Cribl,claude,89,2026-07-31,N,dead posting 5720688004; no qualifying IC AE replacement (RSM/Commercial only); re-checked 2026-07-31
 Customer.io,claude,86,2026-07-02,Y,has open qualifying role
 Databricks,claude,89,2026-08-21,N,no US AE on GH (APAC/India only); re-confirmed 2026-08-21
@@ -34,13 +34,13 @@ Doppler,claude,,2026-07-02,Y,has open qualifying role
 Drata,claude,85,2026-08-02,N,no AE (Ashby drata board; only engineering/solutions engineer)
 DroneDeploy,claude,83,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Elastic,claude,83,2026-08-15,N,no US-remote AE on Greenhouse; federal AE exists (enterprise/gov) 2026-08-15
-Eve,claude,,2026-07-24,N,no AE roles on Greenhouse (field enablement/governance only)
+Eve,claude,,2026-08-21,Y,"Commercial Account Executive, Central (MM)"
 Fiddler AI,claude,,2026-07-23,N,ATS unresolved
 Fleetio,claude,83,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Fluint,claude,,2026-07-23,N,ATS unresolved
 GitGuardian,claude,,2026-08-03,Y,has open qualifying role
 Gitlab,claude,80,2026-08-06,N,Greenhouse 8613913002 → 404; still no US AE (re-confirmed 2026-08-06)
-Glean,claude,80,2026-08-03,Y,has open qualifying role
+Glean,claude,,2026-08-03,Y,has open qualifying role
 Gong,claude,88,2026-08-03,Y,has open qualifying role
 Grafana Labs,claude,88,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
 Halcyon,claude,81,2026-07-31,N,has open qualifying role
@@ -61,7 +61,7 @@ Iterable,claude,79,2026-08-03,Y,Enterprise AE West + Evergreen East; Ashby board
 Jama Software,claude,87,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Keeper Security,claude,76,2026-08-04,N,has open qualifying role; posting dead as of 2026-08-04
 Komodo Health,claude,79,2026-08-03,Y,has open qualifying role
-Kong,claude,85,2026-07-23,N,no US AE; only Bangalore India AE on Ashby
+Kong,claude,85,2026-08-21,Y,Commercial Account Executive (MM)
 Lattice,claude,81,2026-08-15,N,posting expired 2026-07-22; only London UK AEs on GH board; no US replacement
 LaunchDarkly,claude,84,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Leapsome,claude,75,2026-07-27,N,hybrid NYC/SF (unchanged)
@@ -88,12 +88,12 @@ Outsystems,claude,81,2026-08-20,Y,"Commercial AE US-Remote; low-code platform; W
 PagerDuty,claude,79,2026-06-30,Y,has open qualifying role
 Pigment,claude,90,2026-08-20,Y,has open qualifying role
 Pulumi,claude,76,2026-06-30,Y,has open qualifying role
-Pylon,claude,81,2026-08-15,N,no AE on Ashby 2026-08-15
+Pylon,claude,81,2026-08-21,N,speedrun board: not flagged remote
 Ramp,claude,94,2026-08-18,Y,MM/Ent AE remote; verified LIVE 2026-08-18
 Redpanda,claude,,2026-07-31,N,ATS unresolved (Lever 404)
 Render,claude,,2026-08-05,N,AE posting dead
 Retool,claude,84,2026-08-03,N,"recheck-C 2026-08-03 CLOSED: Careers page shows ""0 roles across all locations and departments"" - the Enterprise-East AE posting and the entire job board are gone."
-Rillet,claude,90,2026-08-20,N,no AE; only BDR/CS/PM/Solutions Consultant on Ashby (re-confirmed 2026-08-03)
+Rillet,claude,90,2026-08-21,Y,Account Executive (Unspec)
 Rippling,claude,86,2026-08-03,Y,has open qualifying role
 Rocket Software,claude,79,2026-07-23,N,ATS unresolved
 Samsara,claude,86,2026-07-02,Y,has open qualifying role
@@ -103,7 +103,7 @@ Sierra,claude,,2026-08-03,Y,High Growth Enterprise AE; Ashby 'sierra' board; on-
 Sigma Computing,claude,84,2026-08-03,Y,has open qualifying role
 Smartsheet,claude,77,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 SmartSuite,claude,,2026-07-23,N,ATS unresolved
-Starburst,claude,74,2026-07-23,N,no AE on Greenhouse starburst board
+Starburst,claude,74,2026-08-21,N,speedrun board: not flagged remote
 Sumo Logic,claude,77,2026-07-02,Y,has open qualifying role
 Supermetrics,claude,80,2026-08-03,N,"recheck-B 2026-08-03: Re-confirmed via the live careers page (supermetrics.com/careers): only two sales roles open, both Singapore (Junior AE - Digital Velocity, Senior Com"
 Syniti,claude,84,2026-07-23,N,ATS unresolved
@@ -116,7 +116,7 @@ ThoughtSpot,claude,79,2026-07-31,Y,Workday JR2069; Enterprise AE US Distributed 
 Tines,claude,87,2026-08-15,N,no IC AE on Greenhouse 2026-08-15
 Trunk Tools,claude,,2026-07-02,Y,has open qualifying role
 Vanta,claude,88,2026-07-25,Y,re-check 2026-07-25: Senior AE Growth Stage Remote — in latest.csv since 2026-07-15
-Vantage,claude,72,2026-07-25,Y,has open qualifying role (confirmed live 2026-07-25 via verify_links.py)
+Vantage,claude,72,2026-08-21,Y,Commercial Account Executive (MM)
 Webflow,claude,80,2026-06-30,Y,has open qualifying role
 Workato,claude,84,2026-08-15,N,no AE on Greenhouse board 2026-08-15
 Workiva,claude,87,2026-08-15,N,Workday JS-blocked; potential AE roles on wd503 subdomain unverifiable; ATS unresolved (Workday); re-checked 2026-08-15
@@ -125,7 +125,7 @@ Writer,claude,82,2026-07-31,N,has open qualifying role
 Zscaler,claude,84,2026-08-21,N,Dead posting 5179777007; no US-remote AE replacement found
 Amplitude,claude,79,2026-08-10,N,posting dead (8593702002); all replacement candidates non-US (India/UK/Saudi Arabia)
 Postman,claude,75,2026-07-02,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
-Mixpanel,claude,77,2026-07-23,N,only London hybrid AE; no US-remote MM AE 2026-07-23
+Mixpanel,claude,77,2026-08-21,Y,"Account Executive, LATAM (Spanish) (Ent)"
 CockroachDB,claude,,2026-08-03,N,"recheck-B 2026-08-03: Greenhouse board (26 live postings) has exactly one Account Executive role and it is Remote, Singapore - no US-remote or six-city AE opening currently"
 Pendo,claude,,2026-07-31,N,roles titled Account Director not AE; SMB Raleigh only; no US-remote MM AE 2026-07-23
 Brex,claude,86,2026-08-03,Y,MM AE SF office 3 days/wk; Upmarket Seattle; Commercial Vancouver; not remote 2026-07-23
@@ -154,7 +154,7 @@ January,repvue,98.85,2026-08-17,N,Ashby board: no AE; only engineering/ops roles
 Solidgate,repvue,98.77,2026-08-17,N,no US AE found; DACH-only sales roles (recheck 2026-08-17)
 Wistia,repvue,98.71,2026-08-17,N,Ashby board: no AE; Director of Sales + Senior Marketing only
 Ivo,repvue,98.60,2026-08-17,Y,LIVE in published list (verify_links confirmed); re-checked 2026-08-17
-Cursor,repvue,98.32,2026-08-17,Y,LIVE in published list (verify_links confirmed); re-checked 2026-08-17
+Cursor,repvue,98.32,2026-08-21,Y,"Strategic Account Executive, Federal Sales — Civilian (Ent)"
 Whatnot,repvue,98.16,2026-08-17,N,not B2B SaaS (consumer marketplace)
 LettrLabs,repvue,98.05,2026-08-17,Y,LIVE in published list (verify_links confirmed); re-checked 2026-08-17
 Jetty,repvue,97.97,2026-08-17,N,ATS unresolved (no board found; proptech/renters insurance)
@@ -214,7 +214,7 @@ Popl,repvue,94.93,2026-08-17,Y,top-260 RepVue scan: open AE role
 Americor,repvue,94.89,2026-08-17,N,consumer debt relief — not B2B SaaS
 ProfitWell,repvue,94.80,2026-08-17,N,acquired by Paddle — no standalone AE
 Landytech,repvue,94.79,2026-08-17,N,"London-based; Workable roles UK/EU only, no US-remote AE"
-Temporal Technologies,repvue,94.71,2026-08-17,N,Greenhouse AEs are Dallas/Chicago on-site — not remote or in listed hubs
+Temporal Technologies,repvue,94.71,2026-08-21,N,speedrun board: not flagged remote
 ROLLER Software,repvue,94.67,2026-08-17,Y,Enterprise AE AMER — Austin hybrid
 QA Wolf,repvue,94.63,2026-08-17,Y,top-260 RepVue scan: open AE role
 MutinyHQ,repvue,94.63,2026-08-17,N,no ATS board found (Ashby/Greenhouse/Lever) — ATS unresolved
@@ -223,7 +223,7 @@ SafeSend,repvue,94.56,2026-08-17,N,no ATS board found — ATS unresolved
 Freshpaint,repvue,94.55,2026-08-17,N,Sr Enterprise AE (Remote US) via direct Ashby URL — posting-api blind spot
 TraceAir,repvue,94.54,2026-08-17,Y,recheck-B 2026-08-03: Emerging Products Sales Executive | Original find was rejected only for 'only requires 2+ years' — the removed experience-floor rule — and that ex
 Socket,repvue,94.54,2026-08-17,Y,"Ashby board (job-board/socket) lists Commercial Sales Manager, Sales Engineer APAC, Channel & Partners Lead, CSM SMB, VP Eng, FDE, Product D"
-Adaptive Security,repvue,94.51,2026-08-17,Y,open qualifying role: Senior AE (Remote US) MM/Ent cybersecurity SaaS (social engineering simulation)
+Adaptive Security,repvue,94.51,2026-08-21,Y,Senior Account Executive (Remote) (MM/Ent)
 HighByte,repvue,94.48,2026-08-17,N,no ATS board found — ATS unresolved
 IMPLAN,repvue,94.47,2026-08-17,N,no ATS board found — ATS unresolved
 Topline Pro,repvue,94.45,2026-08-17,N,no AE on Ashby — BDR/Onboarding/PM/Marketing/Enablement only
@@ -333,7 +333,7 @@ Casetext,repvue,91.69,2026-08-19,N,acquired by Thomson Reuters 2023
 Boostlingo,repvue,91.69,2026-08-19,N,no qualifying AE (Greenhouse: Language Access Account Manager and Product Owner only)
 Lightico,repvue,91.68,2026-08-19,N,ATS unresolved (GH/Ashby 404)
 Braintrust.dev,repvue,91.68,2026-08-19,Y,re-verified 2026-08-19: AE role still live
-Skydio,repvue,91.66,2026-08-19,N,"drone hardware, not B2B SaaS"
+Skydio,repvue,91.66,2026-08-21,Y,Inside Sales Representative - National Security (NatSec) (Unspec)
 HockeyStack,repvue,91.65,2026-08-18,N,AE posting dead (ea8c20c1 not in Ashby board); no qualifying replacement 2026-08-18
 Regie.ai,repvue,91.65,2026-08-19,N,No open AE roles (careers page: no roles listed)
 Hearsay Systems,repvue,91.61,2026-08-19,Y,2 Enterprise AE found in Lever search (hearsaysystems slug); API 404 so UUIDs unrecordable; Needs check
@@ -344,7 +344,7 @@ AtriCure,repvue,91.56,2026-08-19,N,"medical device manufacturer, not B2B SaaS"
 Windsurf,repvue,91.55,2026-08-19,N,AE postings dead; acquired by Cognition AI; Cognition Ashby board has no AE roles 2026-08-19
 Phillips 66,repvue,91.52,2026-08-19,N,"oil and gas company, not B2B SaaS"
 Big Think Capital,repvue,91.51,2026-08-19,N,"business lending, not B2B SaaS"
-EliseAI,repvue,91.45,2026-08-19,Y,re-verified 2026-08-19: AE role still live
+EliseAI,repvue,91.45,2026-08-21,N,speedrun board: not flagged remote
 Owl Labs,repvue,91.43,2026-08-19,N,no open positions (Greenhouse owllabs3rd: zero active listings)
 Feathr,repvue,91.41,2026-08-19,N,"no qualifying AE (Ashby: Manager of Managed Services, CSM, Training Specialist only)"
 Go Sales,repvue,91.41,2026-08-19,N,re-check: ATS unresolved
@@ -354,7 +354,7 @@ Capitol Canary,repvue,91.36,2026-08-19,N,acquired by Quorum
 Oscilar,repvue,91.34,2026-08-19,Y,Enterprise AE West; Ashby ID 3746e53b-e62a-48ee-a7c5-81a6206e05d0; Remote; $300K OTE; posted 2026-08-04; Verified
 Savvas,repvue,91.34,2026-08-19,N,ATS unresolved; education content publisher
 Squeeze Media,repvue,91.31,2026-08-19,N,"re-check: ATS unresolved; performance marketing agency, likely not SaaS product"
-Wrapbook,repvue,91.31,2026-08-19,N,"no qualifying AE (Ashby: no AE roles, BDR/CSM/Support only)"
+Wrapbook,repvue,91.31,2026-08-21,Y,"Mid-Market Account Executive, Film & Television (MM)"
 Booster Enterprises,repvue,91.30,2026-08-19,N,"fuel delivery service, not B2B SaaS"
 Orama Solutions,repvue,91.30,2026-08-19,N,ATS unresolved (Ashby 404); open-source search platform
 Saepio Information Security,repvue,91.29,2026-08-19,N,re-check: ATS unresolved; likely MSSP/consulting not SaaS product
@@ -398,7 +398,7 @@ Cyberhaven,repvue,90.66,2026-08-19,Y,"Enterprise AE: Remote (718e2479-f62e-4596-
 Masergy,repvue,90.65,2026-08-19,N,re-check: acquired by Comcast Business 2021 (defunct standalone)
 Rhino,repvue,90.65,2026-08-19,N,ATS unresolved (GH/Ashby 404; re-check 2026-08-19)
 Fox Pest Control,repvue,90.64,2026-08-19,N,re-check: not B2B SaaS (pest control)
-Plaid,repvue,90.63,2026-08-19,Y,Enterprise AE Fintech Named: NYC + SF hybrid; Ashby b9a8a319-ee80-4e91-95d8-4e5d3ca1336a; published 2026-04-20; base $182K-$265K
+Plaid,repvue,90.63,2026-08-21,N,speedrun board: not flagged remote
 Kuebix By FreightWise,repvue,90.62,2026-08-19,N,ATS unresolved (Kuebix acquired by Trimble 2019; integrated product)
 Loop Returns,repvue,90.61,2026-08-19,Y,Enterprise AE US-remote; OTE ~$241K; Lever loopreturns board
 ZenQMS,repvue,90.59,2026-08-19,N,ATS unresolved (GH/Ashby 404; re-check 2026-08-19)
@@ -1035,7 +1035,7 @@ Idexx,repvue,85.41,2026-07-24,N,"not B2B SaaS (veterinary diagnostics, hardware-
 Coalition,repvue,85.41,2026-07-24,N,no AE roles on Greenhouse (claims/actuary/HR only)
 Johnson & Johnson MedTech,repvue,85.39,2026-07-24,N,not B2B SaaS (medical devices); permanent skip
 Signifyd,repvue,85.39,2026-08-03,Y,"Sr Enterprise AE NW Territory, Remote US, $270-320K OTE, Greenhouse 2026-05-27"
-Everlaw,repvue,85.38,2026-07-24,N,no AE roles on Greenhouse (field enablement/governance only)
+Everlaw,repvue,85.38,2026-08-21,N,speedrun board: not flagged remote
 deepset,repvue,85.38,2026-07-24,N,ATS unresolved (Ashby/Lever 404)
 Jumio Corporation,repvue,85.38,2026-08-03,N,US remote AE posting dead 2026-08-03; remaining open roles are APAC/EMEA/LATAM only
 Guild,repvue,85.38,2026-07-24,N,no AE roles on Ashby board (engineering/design/marketing only)
@@ -1062,7 +1062,7 @@ Spring Health,repvue,85.26,2026-07-24,N,no active AE role; only future pipeline 
 BoomTown ROI,repvue,85.25,2026-07-24,N,ATS unresolved
 Palo Alto Networks,repvue,85.25,2026-07-24,N,ATS unresolved (Lever/Ashby 404); large company
 Keela,repvue,85.24,2026-07-24,N,ATS unresolved
-ElevenLabs,repvue,85.24,2026-07-24,Y,AE North America Mid-Market on Ashby (board blind-spot); added to latest.csv as Needs check
+ElevenLabs,repvue,85.24,2026-08-21,Y,Account Executive - Enterprise (Ent)
 AssetWatch,repvue,85.24,2026-07-31,N,top1000 RepVue scan: open AE role
 LeagueApps,repvue,85.23,2026-07-24,N,"ATS unresolved (sports mgmt SaaS, niche/small)"
 Bausch and Lomb,repvue,85.23,2026-07-24,N,not B2B SaaS (pharma/consumer eye care); permanent skip
@@ -1083,7 +1083,7 @@ POS Nation,repvue,85.16,2026-07-24,N,not B2B SaaS (POS hardware/SMB software); p
 Pursuit Sales Solutions,repvue,85.16,2026-07-24,N,not B2B SaaS (sales consulting/training); permanent skip
 data.world,repvue,85.14,2026-07-24,N,ATS unresolved (Ashby 404)
 Pinpoint,repvue,85.13,2026-07-24,N,ATS unresolved
-hyperexponential,repvue,85.13,2026-07-24,N,no AE roles on Ashby board (non-US only)
+hyperexponential,repvue,85.13,2026-08-21,N,speedrun board: not flagged remote
 Computacenter,repvue,85.12,2026-07-24,N,not B2B SaaS (IT services/reseller); permanent skip
 Vericel Corporation,repvue,85.12,2026-07-24,N,not B2B SaaS (biotech/cell therapy); permanent skip
 AlertMedia,repvue,85.11,2026-07-24,N,no AE roles on Greenhouse (CS roles only)
@@ -1128,7 +1128,7 @@ Clarabridge,repvue,84.95,2026-07-24,N,acquired by Qualtrics 2021; permanent skip
 Voxpopme,repvue,84.95,2026-07-24,N,jobs hosted on own careers site only; no ATS API URL obtainable
 Edwards Lifesciences,repvue,84.94,2026-07-24,N,not B2B SaaS (medical devices); permanent skip
 Frame.io (Adobe),repvue,84.93,2026-07-24,N,acquired by Adobe 2021; creative software; not AE-market target; permanent skip
-Turquoise Health,repvue,84.93,2026-08-03,Y,top1000 RepVue scan: open AE role
+Turquoise Health,repvue,84.93,2026-08-21,Y,"Senior Enterprise Account Executive, Employer (Ent)"
 Resolve,repvue,84.91,2026-07-24,N,ATS unresolved; AP automation SaaS
 Humana,repvue,84.91,2026-07-24,N,not B2B SaaS (health insurance); permanent skip
 GBG,repvue,84.91,2026-07-24,N,ATS unresolved; identity/fraud verification (UK-heavy)
@@ -1186,8 +1186,8 @@ Movista,repvue,84.44,2026-07-25,N,retail field execution SaaS (narrow CPG niche)
 Klue,repvue,84.43,2026-07-25,N,"no AE roles on Ashby; only CSM, SDR, engineers - re-checked 2026-07-25"
 Proposify,repvue,84.42,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 Main Street Hub,repvue,84.42,2026-07-25,N,acquired by GoDaddy 2018; brand retired
-Stryker,repvue,84.42,2026-07-25,N,not B2B SaaS (medical devices hardware)
-Carta,repvue,84.42,2026-07-25,N,only SMB/Emerging Firm AE on Greenhouse; not MM/Ent segment
+Stryker,repvue,84.42,2026-08-21,N,speedrun board: not flagged remote
+Carta,repvue,84.42,2026-08-21,N,speedrun board: not flagged remote
 Sunbit,repvue,84.83,2026-07-24,N,ATS unresolved; BNPL for service industries
 OnBoard,repvue,84.83,2026-08-07,N,RepVue scan: open AE role; posting expired 2026-08-07
 Fairwinds,repvue,84.82,2026-07-24,N,ATS unresolved; Kubernetes security SaaS
@@ -1249,7 +1249,7 @@ Tamr,repvue,84.57,2026-07-25,N,no AE roles on Ashby; only BDR
 Blue Onion,repvue,84.57,2026-07-25,N,"e-commerce reconciliation SaaS (niche, early-stage - ATS unresolved)"
 FMG,repvue,84.57,2026-07-25,N,financial advisor marketing SaaS (SMB-focused)
 Simetrik,repvue,84.42,2026-07-25,N,empty job board on Ashby; no roles
-Harvey,repvue,84.41,2026-07-25,N,only EMEA AE (London) on Ashby; no US AE
+Harvey,repvue,84.41,2026-08-21,N,speedrun board: not flagged remote
 Nutanix,repvue,84.40,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 AudienceView,repvue,84.40,2026-07-25,N,niche ticketing SaaS for events/arts (narrow vertical)
 Irwin,repvue,84.40,2026-07-25,N,"niche investor relations SaaS (capital markets, not MM/Ent B2B SaaS)"
@@ -1383,7 +1383,7 @@ Backflip,repvue,83.83,2026-07-25,N,re-check 2026-07-25: ATS unresolved; real est
 Red Sift,repvue,83.83,2026-07-25,N,re-check 2026-07-25: ATS unresolved (Ashby 404)
 OpenTable,repvue,83.83,2026-07-25,N,re-check 2026-07-25: AE OTE too low ($130-140K; below floor); Booking Holdings sub
 Duck Creek Technologies,repvue,83.83,2026-07-25,N,re-check 2026-07-25: ATS unresolved
-Figma,repvue,83.82,2026-07-02,Y,RepVue scan: open AE role
+Figma,repvue,83.82,2026-08-21,N,speedrun board: not flagged remote
 Fullbay,repvue,83.82,2026-07-25,N,re-check 2026-07-25: ATS unresolved
 Cerby,repvue,83.82,2026-07-25,N,re-check 2026-07-25: ATS unresolved
 Beauhurst,repvue,83.82,2026-07-25,N,UK market intelligence (not US-remote); re-checked 2026-07-25
@@ -1469,7 +1469,7 @@ HammerTech,repvue,83.53,2026-07-26,N,2026-07-26: ATS unresolved after slug attem
 Wealthbox,repvue,83.53,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
 Recast Software,repvue,83.52,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
 TEAM Software,repvue,83.52,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-Headway,repvue,83.52,2026-07-26,N,Ashby board: no AE in public feed; direct URL JS-only (unverifiable); mental health marketplace
+Headway,repvue,83.52,2026-08-21,Y,Account Executive (Unspec)
 HashiCorp,repvue,83.51,2026-07-26,N,acquired by IBM June 2024; ATS moved to IBM careers; no longer standalone SaaS company
 Degreed,repvue,83.51,2026-07-26,N,GH board (degreed) confirmed: no IC AE; only Sales Director-level
 Airtel,repvue,83.51,2026-07-26,N,"Indian telecom, not US B2B SaaS"
@@ -1605,7 +1605,7 @@ Instana,repvue,83,2026-07-27,N,IBM subsidiary - permanent
 People Inc,repvue,83,2026-07-31,N,not B2B SaaS; slug matches DotdashMeredith (media company)
 SEEK,repvue,83,2026-07-27,N,not US B2B SaaS (Australian job board) - permanent
 Iron Bow Technologies,repvue,83,2026-07-31,N,not B2B SaaS (IT VAR/reseller)
-ClickUp,repvue,83,2026-08-03,N,"recheck-C 2026-08-03 CLOSED: Recorded job ID b7c38a60-b46d-475a-b15b-757421abfc03 is not present in the Ashby board API (7 postings returned, none match). The only remaining Enter"
+ClickUp,repvue,83,2026-08-21,N,speedrun board: not flagged remote
 Market Leader,repvue,83,2026-07-31,N,no qualifying AE found on standard ATS boards (real estate CRM)
 Nue.io,repvue,83,2026-07-27,N,ATS unresolved (Ashby 'nue' 404)
 Windfall Data,repvue,83,2026-07-27,N,2 AE roles on Lever but both on-site SF (5d/wk required); not US-remote
@@ -1706,7 +1706,7 @@ Plastiq,repvue,83,2026-07-27,N,B2B payments; financial difficulties; ATS unresol
 Clari,repvue,83,2026-07-27,N,Lever board empty (0 postings) as of 2026-07-27
 demandDrive,repvue,83,2026-07-31,N,lead gen agency; not B2B SaaS
 Centric Software,repvue,83,2026-07-27,N,ATS unresolved (Workday JS-only)
-OpenGov,repvue,83,2026-07-27,N,Enterprise AE on-site Chicago IL - permanent
+OpenGov,repvue,83,2026-08-21,N,speedrun board: not flagged remote
 CarMax,repvue,83,2026-07-31,N,not B2B SaaS (used car retailer)
 Supermove,repvue,83,2026-07-27,N,ATS unresolved (Ashby 404)
 Mendix,repvue,83,2026-07-27,N,no AE roles; only Engagement Managers on Lever; UK/EU roles only
@@ -1862,7 +1862,7 @@ LumApps,repvue,82,2026-07-27,N,ATS unresolved (Lever 'lumapps' 404)
 Yulife,repvue,82,2026-07-31,N,UK-based employee wellness; no US-remote AE
 SimuTech,repvue,82,2026-07-31,N,Ansys reseller; not B2B SaaS
 Deloitte,repvue,82,2026-07-31,N,professional services firm; not B2B SaaS
-Benchling,repvue,82,2026-07-27,N,Ashby board - SMB AE only (below MM bar)
+Benchling,repvue,82,2026-08-21,Y,Enterprise Account Executive (Ent)
 Comcast Technology Solutions,repvue,82,2026-07-27,N,media tech conglomerate (Comcast subsidiary); not startup B2B SaaS
 BrightTALK,repvue,82,2026-07-31,N,ATS unresolved; acquired by TechTarget; GH/Lever 404
 Softcat,repvue,82,2026-07-31,N,IT reseller; not B2B SaaS
@@ -1905,7 +1905,7 @@ ClearPoint Strategy,repvue,82,2026-08-01,N,GH/Ashby all 404; ATS still unresolve
 Ultimate Kronos Group UKG,repvue,82,2026-08-01,N,ATS still unresolved (Workday; not re-fetched; large HR company)
 Druva,repvue,82,2026-07-31,N,MM AE Senior AE (Virginia; Remote US; GH 8575565002) qualifies 3+yrs $202-269K base+var; Denver AE too senior (8+/12+ yrs required)
 CrossCountry Mortgage,repvue,82,2026-07-04,N,not B2B SaaS (mortgage lending)
-Dialpad,repvue,82,2026-07-31,N,all AE roles hybrid in-office Austin TX or Tempe AZ; no US-remote AE
+Dialpad,repvue,82,2026-08-21,N,speedrun board: not flagged remote
 Intuit,repvue,82,2026-08-01,N,ATS still unresolved (large company proprietary ATS; not re-fetched)
 Bank of America,repvue,82,2026-07-04,N,not B2B SaaS (bank)
 Daxtra Technologies,repvue,82,2026-08-01,N,ATS still unresolved (small HR tech; not re-fetched)
@@ -2018,7 +2018,7 @@ Marcura,repvue,82,2026-08-01,N,Maritime data SaaS; ATS still unresolved; not re-
 CBORD,repvue,82,2026-08-01,N,ATS still unresolved; campus management SaaS; not re-fetched
 Siemens-Healthineers,repvue,82,2026-07-04,N,not B2B SaaS (medical imaging/equipment)
 Traackr,repvue,82,2026-07-31,N,"Lever board: no AE IC roles (CSM, SE, PM only)"
-Rent,repvue,82,2026-07-04,N,not B2B SaaS (real estate media)
+Rent,repvue,,2026-07-04,N,not B2B SaaS (real estate media)
 Lendzi,repvue,82,2026-08-02,N,not SaaS (SMB lending platform)
 PTC,repvue,82,2026-08-01,N,Lever 404; large industrial IoT co; ATS still unresolved
 Charthop,repvue,82,2026-07-31,N,Ashby board: marketing managers only; no IC AE
@@ -2242,7 +2242,7 @@ Heap,repvue,81,2026-07-05,N,acquired by Contentsquare (2023); no independent boa
 Kojo,repvue,81,2026-08-01,N,no AE (Ashby: SDR/CS/Eng only; 2026-08-01 recheck)
 IPQS,repvue,81,2026-08-02,N,no AE (only BDR/SDR roles per careers page)
 Expedient,repvue,81,2026-07-05,N,not B2B SaaS (cloud managed IT services)
-Sentry,repvue,81,2026-08-01,N,no AE (Ashby and GH boards checked; no AE roles; 2026-08-01 recheck)
+Sentry,repvue,,2026-08-01,N,no AE (Ashby and GH boards checked; no AE roles; 2026-08-01 recheck)
 RangeForce,repvue,81,2026-08-01,N,ATS unresolved (Ashby 404; 2026-08-01 recheck)
 Symantec (Broadcom),repvue,81,2026-08-02,N,ATS unresolved (large enterprise; likely Workday)
 Airwallex,repvue,81,2026-08-01,N,not US remote (MM AE requires SF/NYC based; GH 404; 2026-08-01 recheck)
@@ -2292,7 +2292,7 @@ Veo Technologies,repvue,81,2026-08-02,N,ATS unresolved (sports camera SaaS; no U
 BigTime Software,repvue,81,2026-08-02,N,not remote (postings Chicago-based; no fully remote AE)
 Wonolo,repvue,81,2026-08-02,N,confirmed Lever board empty; no open roles
 Watermark,repvue,81,2026-08-02,N,ATS unresolved (not on standard GH/Ashby/Lever boards)
-"Tellius, Inc.",repvue,,2026-07-05,Y,
+"Tellius, Inc.",repvue,81,2026-07-05,Y,
 CoEnterprise,repvue,81,2026-08-02,N,ATS unresolved
 OneCause,repvue,81,2026-08-02,N,ATS unresolved (no AE on standard boards)
 Bill360,repvue,81,2026-08-02,N,ATS unresolved (B2B payments SaaS; no AE found)
@@ -2409,7 +2409,7 @@ Eaton,repvue,81,2026-07-06,N,not B2B SaaS (electrical equipment manufacturer)
 TransUnion,repvue,81,2026-07-06,N,not B2B SaaS (credit bureau/data company)
 DataGrail,repvue,81,2026-08-03,Y,Enterprise Account Executive Ent US-remote $260K-$290K OTE (data privacy SaaS)
 ShipBob,repvue,80,2026-08-03,N,"recheck-B 2026-08-03: Not B2B SaaS — ecommerce order fulfillment / 3PL logistics service, not a software product sold B2B. This exclusion is independent of the two removed "
-Anyscale,repvue,80,2026-08-02,N,"AE exists but Bay Area required, not US-remote (Ashby anyscale board confirmed)"
+Anyscale,repvue,80,2026-08-21,N,speedrun board: not flagged remote
 SS&C Intralinks,repvue,80,2026-08-02,N,ATS unresolved (large public company; not found on major boards)
 LucidLink,repvue,80,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE Remote, Ashby, $180-240K OTE, pub 2026-07-28)"
 Cushman & Wakefield,repvue,80,2026-07-06,N,not B2B SaaS (commercial real estate services)
@@ -2513,7 +2513,7 @@ IQVIA,repvue,80,2026-07-06,N,not B2B SaaS (clinical research organization)
 MedBridge,repvue,80,2026-08-03,N,ATS unresolved (GH/Ashby/Lever all 404)
 Softchoice,repvue,80,2026-07-06,N,not B2B SaaS (IT solutions reseller)
 Newfold Digital,repvue,80,2026-08-03,N,ATS unresolved (GH/Ashby/Lever all 404)
-Flexport,repvue,80,2026-08-03,N,AE Atlanta in-office + EU/Germany only; no US-remote AE
+Flexport,repvue,80,2026-08-21,N,speedrun board: not flagged remote
 Pilot,repvue,,2026-08-03,N,ATS unresolved (GH/Ashby/Lever all 404)
 Surglogs,repvue,80,2026-08-03,N,"no AE (Lever board found, no AE roles)"
 SuperOrder (Forward Kitchens),repvue,80,2026-08-03,N,ATS unresolved (GH/Ashby/Lever all 404)
@@ -2539,7 +2539,7 @@ LeapXpert,funding-news,,2026-08-03,N,no qualifying AE found (all ATS platforms 4
 Bland AI,funding-news,,2026-08-03,N,MM AE + Ent AE both SF only (no remote); still N
 Baseten,funding-news,,2026-08-18,Y,Account Executive - AI Native | Remote | AI infra - ML inference platform | OTE $180-230K (Ashby API)
 Quantifind,funding-news,,2026-08-03,N,ATS unresolved (risk intelligence platform; no ATS board found)
-Exa,funding-news,,2026-08-03,N,developer AI search infrastructure; no B2B SaaS AE motion
+Exa,funding-news,,2026-08-21,N,speedrun board: not flagged remote
 Armada,funding-news,,2026-07-06,N,not B2B SaaS (edge computing hardware for industrial/defense)
 Modal Labs,funding-news,,2026-08-18,N,"AE-Enterprise NYC in-office $300K; Ashby board lives on /company, not /careers"
 Workspot Inc,repvue,80,2026-08-03,N,ATS unresolved (VDI/cloud desktop B2B SaaS; no board found on standard ATS)
@@ -2595,7 +2595,7 @@ Sendoso,repvue,80,2026-08-03,N,no AE found on ATS boards (GH/Lever 404); re-chec
 "Workspot, Inc",repvue,80,2026-08-03,N,ATS unresolved (Gusto board inaccessible 403)
 ParkMobile,repvue,80,2026-07-07,N,not B2B SaaS (parking payment app; acquired by EasyPark 2021)
 Sitation,repvue,80,2026-07-07,N,not B2B SaaS (digital merchandising services/agency)
-Pave,repvue,80,2026-08-03,N,no open AE roles (empty Ashby board)
+Pave,repvue,80,2026-08-21,N,speedrun board: not flagged remote
 Infor,repvue,80,2026-08-03,N,large enterprise ERP vendor (60K+ employees); not target company profile
 DocuSign,repvue,80,2026-08-03,N,MM AE roles exist but hybrid (minimum 2 days/wk in-office required)
 Get Beyond,repvue,80,2026-07-07,N,not B2B SaaS (merchant services/payment processing)
@@ -2605,7 +2605,7 @@ Sirius Computer Solutions,repvue,80,2026-07-07,N,not B2B SaaS (IT reseller; CDW 
 Nextep,repvue,80,2026-07-07,N,not B2B SaaS (HR/PEO services)
 Komprise,repvue,80,2026-08-03,N,ATS unresolved (careers page shows no specific jobs)
 Comodo,repvue,80,2026-08-03,N,ATS unresolved (no ATS board found; MDR division rebranded Xcitium)
-Hewlett Packard Enterprise (HPE),repvue,80,2026-08-03,N,large enterprise tech (100K+ employees); not target company profile
+Hewlett Packard Enterprise (HPE),repvue,80,2026-08-21,N,speedrun board: not flagged remote
 HYPR,repvue,80,2026-08-03,N,ATS unresolved (JS-rendered careers page; no ATS board found)
 DLL,repvue,80,2026-07-07,N,not B2B SaaS (financial services/vendor leasing)
 Medical Solutions,repvue,80,2026-07-07,N,not B2B SaaS (healthcare staffing/travel nursing)
@@ -2616,7 +2616,7 @@ Prophix Software,repvue,80,2026-08-03,N,no AE role (Workable board: Director of 
 Egnyte,repvue,80,2026-08-03,N,no US-remote AE (Jobvite: EMEA + Raleigh NC office-based roles only)
 ChurnZero,repvue,80,2026-08-03,N,no AE found on ATS boards (GH/Ashby/Lever all 404); re-checked 2026-08-03
 Finix,ats-search,,2026-08-03,Y,Enterprise AE; Remote US; OTE $200K-$300K; payments infrastructure SaaS
-SentiLink,ats-search,,2026-07-07,Y,MM AE (FinTech); Remote US; OTE $200K-$250K; identity verification SaaS
+SentiLink,ats-search,,2026-08-21,Y,Account Executive (MM/Ent)
 Teramind,ats-search,76,2026-08-17,N,MM AE + Enterprise AE; Remote US; no listed OTE; cybersecurity/employee monitoring SaaS
 Mimica,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; process automation / task mining SaaS
 Coupa,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; spend management SaaS
@@ -2675,7 +2675,7 @@ Trustwell,ats-search,65,2026-08-04,N,GH board 404; posting dead
 Dash0,ats-search,,2026-08-03,Y,Ent AE; Remote US; OTE ~$250K-$300K; observability / DevOps SaaS
 Stacklok,ats-search,,2026-08-04,N,no AE on GH board (Senior FDE Kubernetes + Platform engineers only)
 Cybrid,ats-search,,2026-08-04,N,no AE (GH: only Operations Manager); B2B fintech crypto API platform
-Jeeves,ats-search,68,2026-08-04,N,no US AE roles (EMEA and LatAm only)
+Jeeves,ats-search,68,2026-08-21,Y,Mid-Market Account Executive - Fintech (MM)
 Swapcard,ats-search,78,2026-07-09,Y,MM AE; Remote US; event management SaaS (Lever)
 Edia,ats-search,,2026-08-03,Y,Ent AE East; Remote US; K-12 edtech AI SaaS (Ashby)
 Cloudforce,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Real ATS is Lever (api.lever.co/v0/postings/go-cloudforce, fetched live). Current board shows only 2 open roles, both marketing (Associate Director of"
@@ -2689,7 +2689,7 @@ Libra AI,ats-search,,2026-08-05,N,AE role India-based (Bangalore); not US-remote
 Avante,ats-search,,2026-08-04,N,4 days/week in-office Seattle or NYC; not remote
 Redpanda Data,ats-search,79,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; MM/Ent Ent AE, Ashby redpanda-data, Remote, $150-165K base, pub 2026-07-24)"
 Minitab,ats-search,69,2026-08-04,N,remote geo-restricted to FL/GA/NC/TX only
-Mintlify,ats-search,,2026-08-05,Y,MM AE posting dead/closed; no current AE on board
+Mintlify,ats-search,,2026-08-21,N,speedrun board: not flagged remote
 Vapi,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; 3 roles: Ent AE SF + Ent AE NYC + MM AE SF; Ashby; Ent OTE $300-350K, MM OTE $150-250K)"
 Confido,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; MM AE + Ent AE, in-office NYC Chelsea, Ashby, MM OTE $250-280K pub 2026-06-23; Ent OTE $270-320K)"
 Brale,ats-search,,2026-08-06,N,ATS posting confirmed dead 2026-08-06
@@ -2703,7 +2703,7 @@ Spekit,ats-search,80,2026-08-03,N,"recheck-B 2026-08-03: Live Ashby board (jobs.
 Agicap,ats-search,78,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-03; MM, Lever, Austin)"
 Dataiku,ats-search,80,2026-08-04,N,no qualifying US remote AE; Federal/Public Sector only (10+ yrs too senior)
 Jobgether,ats-search,,2026-08-05,N,job aggregator/platform not a target company
-Illumio,ats-search,80,2026-08-04,N,no qualifying US AE role on Ashby board
+Illumio,ats-search,80,2026-08-21,N,speedrun board: not open to US applicants
 Udacity,ats-search,70,2026-08-04,N,posting dead (GH 404)
 Novara,ats-search,,2026-08-04,N,SMB only; not MM/Ent segment
 JumpCloud,ats-search,79,2026-08-04,N,no US-remote commercial AE posting found
@@ -2745,7 +2745,7 @@ Granica,ats-search,,2026-08-03,Y,Enterprise AE; Remote US/Canada; OTE not listed
 CivilGrid,ats-search,,2026-08-03,Y,"utility infrastructure data SaaS; Senior AE targets investor-owned utilities; US West required; ""Senior"" title"
 Fictiv,ats-search,66,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive - Emerging Accounts | Was rejected for OTE ($125K) below the removed comp floor and for ""not pure SaaS."" Comp floor no longer applie"
 PayZen,ats-search,,2026-08-03,Y,Strategic/Enterprise AE; Remote US; OTE $150-195K; healthcare payment SaaS; health systems >$100M revenue
-Glimpse,ats-search,,2026-08-04,N,NYC 5-days/week in-office only; not US-remote; CPG AI back-office automation SaaS
+Glimpse,ats-search,,2026-08-21,N,speedrun board: not flagged remote
 Anrok,ats-search,79,2026-08-04,N,no AE roles on Ashby board (Solutions Engineers only); B2B tax automation SaaS
 Greenhouse,ats-search,,2026-08-05,N,no new-business AE (only SDR and Enterprise Account Managers); re-checked 2026-08-05
 bem,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-03; MM/Ent, Ashby, SF)"
@@ -2792,7 +2792,7 @@ EasyMovie,repvue,80,2026-08-05,N,ATS unresolved; ATS unresolved re-checked 2026-
 Huntington National Bank,repvue,80,2026-07-15,N,not B2B SaaS (bank)
 Natus,repvue,80,2026-07-15,N,not B2B SaaS (medical devices)
 Ellucian,repvue,80,2026-08-05,N,"ATS unresolved; custom careers site, specific AE postings 404; ATS unresolved re-checked 2026-08-05"
-Pinecone,repvue,80,2026-08-05,Y,no AE role; Ashby board engineering-only
+Pinecone,repvue,80,2026-08-21,Y,Senior Account Executive - Enterprise (Ent)
 Wrapify,repvue,80,2026-07-15,N,not B2B SaaS (OOH advertising media)
 SuperOps,repvue,80,2026-08-05,N,ATS unresolved; ATS unresolved re-checked 2026-08-05
 Aptum,repvue,80,2026-07-15,N,not B2B SaaS (managed cloud/telecom services)
@@ -2875,13 +2875,13 @@ Opal,ats-search,73,2026-08-05,N,Workable board API (opal-labs) returns empty job
 Clearstory,ats-search,,2026-08-05,Y,"Live Workable posting confirmed (Mid-Market AE, Specialty Contractor) but restricted to ""Western Region"" (not full US-re"
 ZeroFox,ats-search,77,2026-08-02,Y,Commercial AE - TOLA live on Workable (slug: zerofox); $180K-$220K OTE; MM/remote US; digital risk protection SaaS
 Inspectorio,ats-search,,2026-08-05,N,Could not verify posting in any ATS JSON API (Workable/Greenhouse/Lever all 404); role also appears to be Senior AE requ; re-checked 2026-08-05
-Virtuoso,ats-search,78,2026-08-05,N,Workable board now empty (direct posting URL previously found no longer active); re-checked 2026-08-05
+Virtuoso,ats-search,,2026-08-05,N,Workable board now empty (direct posting URL previously found no longer active); re-checked 2026-08-05
 MLabs,ats-search,,2026-08-03,Y,recheck-B 2026-08-03: Account Executive - MLabs | Rejected solely because OTE '$100K-$150K too low' — that was the removed comp-floor rule. Live Workable board 
 Zyte,ats-search,,2026-08-05,N,no AE (only tech roles in Europe on Workable); re-checked 2026-08-05
 Parq,ats-search,,2026-08-05,N,Founding Enterprise AE requires in-person Austin TX collaboration; not remote; re-checked 2026-08-05
 Runware,ats-search,,2026-08-05,N,No Account Executive posting exists on Runware's Workable board (slug confirmed live; only eng/hardware/data roles liste; re-checked 2026-08-05
 LocalStack,ats-search,,2026-08-05,N,"No AE posting live on LocalStack's Workable board; only Legal Counsel, Support Engineer, and Technical Account Manager r; re-checked 2026-08-05"
-EngFlow,ats-search,,2026-08-05,N,Workable board API (apply.workable.com/api/v1/widget/accounts/engflow) returns empty jobs array — no live posting confir; re-checked 2026-08-05
+EngFlow,ats-search,,2026-08-21,Y,Enterprise Account Executive (Ent)
 Aikido Security,ats-search,,2026-08-20,N,US AE Recruitee live but Chicago in-office (remote:false); no US-remote AE role
 Momentum Data,ats-search,,2026-08-05,N,Only AE posting in Recruitee feed (Global Account Executive) is dated 2021-11-22 and its posting URL redirects to Recrui; re-checked 2026-08-05
 Incentivio,ats-search,,2026-08-05,N,"Recruitee board (incentivio) API returns empty offers array; both AE posting URLs found via search (Chicago Remote, Mid ; re-checked 2026-08-05"
@@ -2987,7 +2987,7 @@ SidelineSwap,ats-search,,2026-08-05,N,AEs are hybrid in-person retail territory 
 Spectrm,ats-search,,2026-08-06,N,No Recruitee board found (404); real ATS is join.com/companies/spectrm which explicitly states no open positions current
 Delightree,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive | Mid-Market SaaS | Previously rejected only because the JD says 'Based in Denver, CO' / hybrid - but Denver hybrid is explicitly "
 JustFOIA,ats-search,,2026-08-06,N,SDR only on Rippling (confirmed via direct URL 2026-08-06)
-Transcend,ats-search,79,2026-08-05,N,no AE on Greenhouse (transcendinc) — only Staff TAM
+Transcend,ats-search,,2026-08-05,N,no AE on Greenhouse (transcendinc) — only Staff TAM
 Agility PR Solutions,ats-search,76,2026-08-06,N,The specific job ID URL resolves only to Agility PR's full Rippling job board (dead link per rules); current live AE ope
 Anaconda,ats-search,72,2026-07-15,Y,"Live Rippling posting for IC Mid-Market Account Executive, remote-acceptable (East territory), 3+ yrs B2B SaaS closing e"
 Copado,ats-search,75,2026-08-03,Y,"Lead hint (General Commercial AE) is Denver, CO on-site w/ relocation required, disqualifying — but same board has a liv"
@@ -3086,14 +3086,14 @@ Teikametrics,ats-search,68,2026-08-06,N,Senior AE but posting dated 2025-03-14 (
 Firework,ats-search,71,2026-08-06,N,"Only two AE postings on Lever: one is Remote-based-in-Mexico (not US) targeting early-career/SDR-to-AE (<4yrs, entirely "
 PerimeterX,ats-search,,2026-08-09,N,acquired/merged into HUMAN Security (2022); permanently disqualified
 Jungle Scout,ats-search,78,2026-08-06,N,"Greenhouse board (junglescout) confirmed live but has no Account Executive posting — only Accounts Payable Specialist, D"
-Nash,ats-search,,2026-08-06,Y,"Ashby board: MM AE (976ba400) + Senior Enterprise AE (ee767e1e), both US Remote"
+Nash,ats-search,,2026-08-21,Y,Mid-Market Account Executive (MM)
 Pipe17,ats-search,,2026-07-15,Y,"Live Greenhouse posting ""Enterprise Account Executive - Ecommerce"", IC role, Remote (no office-cadence language), sells "
 FreedomPay,ats-search,,2026-08-06,N,Lever board (jobs.lever.co/freedompay) confirmed via API has no AE posting; the hinted Mid Market AE/Strategic AE-Food S
 Canary Technologies,ats-search,77,2026-08-06,N,Lever board (canarytechnologies) confirmed but has no live US-remote AE posting; only AE role is Benelux/EMEA (Dutch-spe
 ChowNow,ats-search,71,2026-08-06,N,"Lever board (chownow) has no live IC Account Executive posting; the hinted Territory AE job ID is expired/gone, and curr"
 Xpansiv,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: No AE/sales role locatable on any plausible ATS: Lever token 404, Greenhouse token 404, careers page shows only a JS ""Loading positions..."" shell with"
 PowerFlex,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Original lead posting confirmed dead (HTTP 410). Fetched the live ApplyToJob board directly (9 current openings): EVSE Technician, Project Engineer/Ma"
-Patch,ats-search,65,2026-08-06,N,"Only two AE postings on Patch's Ashby board (patch.io), both pure Enterprise Account Executive roles requiring 5-10+ yrs"
+Patch,ats-search,65,2026-08-21,N,speedrun board: not flagged remote
 EnergyHub,ats-search,,2026-08-06,N,"Greenhouse board (energyhub) confirmed via JSON API but has no Account Executive posting at all (only Commercial Lead, P"
 ClimateAI,ats-search,,2026-08-06,N,Greenhouse board (climateai) confirmed live but only lists a Senior MLOps Engineer role; the referenced Enterprise AE po
 Parsec Automation,ats-search,,2026-08-03,Y,"IC Enterprise AE, remote-South-US w/ 40-50% regional travel (no fixed office-day cadence), OTE $240-300K, B2B SaaS (Trak"
@@ -3129,7 +3129,7 @@ Jampp,wellfound-sectors,,2026-08-07,N,AdTech AE but posting dated 2023-06-06 (3y
 BTSE Group,wellfound-sectors,,2026-08-07,N,"No US-remote AE posting on BTSE's live Lever board; only AE listing found (via search) is based in Malaysia, not US-remo"
 Heal.me,wellfound-sectors,,2026-08-03,Y,"recheck-B 2026-08-03: Sales Executive - Wellness SaaS Marketplace (current live re | All three original disqualifiers are gone: OTE floor removed, 2+ yr experience floor removed, and SMB is an ex"
 Luxor Technologies,wellfound-sectors,,2026-08-07,N,Ashby board (jobs.ashbyhq.com/luxor) for Luxor Technology Corporation (Seattle-based bitcoin mining/blockchain infra) sh
-Rasa,wellfound-sectors,,2026-07-15,Y,"Ashby board confirms ""Account Executive - USA"" - 100% remote Continental USA, no office cadence, 5+ yrs technical B2B Sa"
+Rasa,wellfound-sectors,,2026-08-21,Y,Account Executive - USA (MM/Ent)
 Symmetric Health Solutions,wellfound-sectors,,2026-08-07,N,No dedicated ATS board found (company posts only via Wellfound + email); current live careers page lists 8 open roles (I
 DotNotCom,wellfound-sectors,,2026-08-08,N,Name collision; real company is novelty consumer brand; not B2B SaaS
 Matik,wellfound-sectors,,2026-08-06,N,no AE on GH; only demand gen mgr role
@@ -3142,7 +3142,7 @@ Medline,repvue,80,2026-07-15,N,not B2B SaaS (medical supply distributor)
 Hone,repvue,80,2026-08-03,Y,Leadership development SaaS; AE role in latest.csv (Greenhouse)
 Vector Solutions,repvue,80,2026-07-15,Y,eLearning/safety compliance SaaS; AE role in latest.csv (Paylocity)
 Crunchtime,repvue,80,2026-08-03,Y,Restaurant ops SaaS (Zenput); Ent AE in latest.csv (Greenhouse)
-Array,repvue,80,2026-08-03,Y,Embedded fintech/credit API SaaS; Ent AE in latest.csv (Greenhouse)
+Array,repvue,,2026-08-03,Y,Embedded fintech/credit API SaaS; Ent AE in latest.csv (Greenhouse)
 Capsule,repvue,,2026-08-03,Y,Enterprise AI video editing SaaS; AE in latest.csv (Ashby)
 Aesculap,repvue,80,2026-07-15,N,Not B2B SaaS; medical device manufacturer (B. Braun subsidiary)
 White Cap Construction Supply,repvue,80,2026-07-15,N,Not B2B SaaS; construction supply distributor
@@ -3213,7 +3213,7 @@ Service Express,repvue,80,2026-07-16,N,not B2B SaaS (IT hardware/infrastructure 
 Laserfiche,repvue,80,2026-08-07,N,AE Long Beach CA hybrid 3d/wk required; not US-remote
 talent.io,repvue,80,2026-07-16,N,not B2B SaaS AE target (tech talent recruitment marketplace)
 NBC Sports Next,repvue,79,2026-07-16,N,not B2B SaaS ICP (sports media/team management vertical)
-Backstory,repvue,79,2026-08-07,N,ATS unresolved; likely small early-stage company
+Backstory,repvue,79,2026-08-21,N,speedrun board: demands 10+ years
 Scoro,repvue,79,2026-08-07,N,ATS unresolved - not on major ATS boards; PSA SaaS (European-founded)
 Zywave,repvue,79,2026-08-07,N,ATS unresolved - not on major ATS boards; insurance SaaS platform
 Mitiga,repvue,79,2026-08-06,N,GH board 404 (mitiga slug); ATS unresolved 2026-08-06
@@ -3258,7 +3258,7 @@ Mitratech,repvue,79,2026-08-06,N,no AE on GH; only account manager (Mexico)
 EVERFI,repvue,79,2026-07-16,N,ATS unresolved; acquired by Blackbaud 2022
 DoctorLogic,repvue,79,2026-08-07,N,ATS unresolved; small healthcare marketing SaaS
 Iland,repvue,79,2026-08-07,N,ATS unresolved; cloud IaaS provider
-Cube,repvue,79,2026-08-06,N,no US AE on Ashby; London enterprise sales director only
+Cube,repvue,,2026-08-06,N,no US AE on Ashby; London enterprise sales director only
 Aya Healthcare,repvue,79,2026-07-16,N,not B2B SaaS; healthcare staffing
 BrightHire,repvue,79,2026-08-06,N,no AE on GH; only GTM engineer/CS roles
 Rhythm Software,repvue,79,2026-08-07,N,ATS unresolved; unclear/small company
@@ -3272,12 +3272,12 @@ Rinsed,repvue,79,2026-08-07,N,ATS unresolved; car wash SaaS
 MX,repvue,79,2026-08-06,N,AE on GH (mxtechnologiesinc) but all in-office Lehi UT; no remote
 Onset Financial,repvue,79,2026-07-16,N,not B2B SaaS; equipment leasing
 CircleCI,repvue,79,2026-08-07,N,AE posting SF in-office only (GH job/8580027002); no US-remote AE; CI/CD platform
-OnDeck,repvue,79,2026-07-16,N,not B2B SaaS; small business lending
+OnDeck,repvue,,2026-07-16,N,not B2B SaaS; small business lending
 Scrive,repvue,79,2026-08-07,N,ATS unresolved; European e-signature SaaS
 Porch,repvue,79,2026-07-16,N,not B2B SaaS; home services marketplace
 Nextraq,repvue,79,2026-08-07,N,ATS unresolved; fleet telematics
 ON24,repvue,79,2026-08-07,N,ATS unresolved (GH/Ashby/Lever all 404); webinar/demand gen platform
-TikTok,repvue,79,2026-07-16,N,not B2B SaaS; social media / advertising platform
+TikTok,repvue,79,2026-08-21,N,speedrun board: not flagged remote
 Becton Dickinson,repvue,79,2026-07-16,N,not B2B SaaS; medical devices manufacturer
 Weatherby Healthcare,repvue,79,2026-07-16,N,not B2B SaaS; physician staffing
 The Stepstone Group,repvue,79,2026-07-16,N,not B2B SaaS; job board / HR marketplace
@@ -3328,7 +3328,7 @@ Rent Dynamics,repvue,79,2026-08-07,N,ATS unresolved; multifamily SaaS
 Kforce,repvue,79,2026-07-16,N,not B2B SaaS; technology staffing firm
 Privacera,repvue,79,2026-08-07,N,ATS unresolved (Ashby 404); data governance SaaS
 Recorded Future,repvue,79,2026-08-07,N,no AE on GH board; only Account Director titles (farming); checked 2026-08-07
-"Crisp, Inc.",repvue,79,2026-08-08,N,GH board checked; no AE roles open; food/grocery data analytics SaaS
+"Crisp, Inc.",repvue,,2026-08-08,N,GH board checked; no AE roles open; food/grocery data analytics SaaS
 4M Analytics,repvue,79,2026-08-08,N,GH/Ashby/Lever checked; no AE found; underground infrastructure analytics SaaS
 Ritchie Bros,repvue,79,2026-07-16,N,not B2B SaaS; heavy equipment auction/remarketing
 Nobel Biocare,repvue,79,2026-07-16,N,not B2B SaaS; dental implant manufacturer (Envista subsidiary)
@@ -3535,7 +3535,7 @@ Labelbox,repvue,79,2026-08-08,N,GH board (labelbox); 8 jobs open; zero AE titles
 Tecton,repvue,79,2026-07-17,N,acquired by Databricks (late 2025); tecton.ai redirects to Databricks careers; feature store/ML SaaS now under Databricks
 Call Box,repvue,79,2026-08-08,N,GH board found (callboxinc); 0 jobs open; call tracking/analytics SaaS
 Eagle Eye Networks,repvue,79,2026-08-08,N,same company as Eagle Eye (already in universe); no qualifying AE
-Greenlight,repvue,79,2026-08-08,N,GH board (GreenlightGuru): only UK-based AE; zero US AE roles; medical device quality management SaaS
+Greenlight,repvue,79,2026-08-21,N,speedrun board: not flagged remote
 Wayflyer,repvue,79,2026-08-08,N,Ashby board found; Enterprise AE (2026-07-31) isRemote:True but product is revenue-based financing/capital (not B2B SaaS); does not qualify
 JazzHR,repvue,79,2026-08-03,Y,"recheck-B 2026-08-03: Associate Account Executive | Originally rejected for being 'entry-level, below 4+ yr ICP bar' - that experience floor is exactly the rule t"
 Quorum Analytics,repvue,79,2026-08-08,N,GH board found (quorumanalytics); 0 jobs open; public sector analytics SaaS
@@ -3577,7 +3577,7 @@ GoBolt,repvue,79,2026-07-17,N,logistics/delivery; not B2B SaaS
 Jirav,repvue,78,2026-08-08,N,GH board found (jiravhq); 0 jobs open; FP&A/financial planning SaaS
 Sovra,repvue,78,2026-07-17,N,B2G public procurement platform (7000+ government agencies); not B2B SaaS
 Fleet Complete,repvue,78,2026-08-08,N,Recruitee board found (fleetcomplete); 0 jobs open; fleet telematics SaaS (Canadian)
-Graphite,repvue,78,2026-08-08,N,Ashby board found (graphite); 7 jobs open; no AE roles; developer code review tool
+Graphite,repvue,,2026-08-08,N,Ashby board found (graphite); 7 jobs open; no AE roles; developer code review tool
 Worldwide Express,repvue,78,2026-07-17,N,shipping/logistics; not B2B SaaS
 Siemens DISW,repvue,78,2026-08-08,N,GH board found (siemens-disw); 0 jobs open; large PLM software (Siemens subsidiary)
 CSC,repvue,78,2026-07-17,N,corporate/legal services company; not B2B SaaS
@@ -3634,7 +3634,7 @@ eFinancial,repvue,78,2026-08-09,N,not B2B SaaS (insurance distribution)
 Plivo,repvue,78,2026-08-08,N,ATS unresolved (Ashby/Greenhouse all 404; CPaaS)
 InXpress,repvue,78,2026-08-09,N,not B2B SaaS (shipping/logistics franchise)
 Legends Global,repvue,78,2026-08-09,N,not B2B SaaS (entertainment/sports venue tech)
-Gamma,repvue,78,2026-08-08,N,Ashby board (gamma): no AE; Sales Mgr/Eng/Mktg only 2026-08-08 recheck
+Gamma,repvue,78,2026-08-21,N,speedrun board: not flagged remote
 360insights,repvue,78,2026-08-08,N,ATS unresolved (Greenhouse/Lever/Ashby all 404)
 LGCY Power,repvue,78,2026-08-09,N,not B2B SaaS (solar energy company)
 Hyperscience,repvue,78,2026-07-17,Y,Technical AE [Commercial]; Remote US (Austin/Dallas pref); $220K-$300K OTE; IDP/AI automation SaaS
@@ -4290,7 +4290,7 @@ Aibidia,queue,77,2026-08-12,N,"Ashby board; US SDR roles only, no AE; EU AE role
 Momentum Telecom,queue,77,2026-08-12,N,ADP Workforce Now board (JS-rendered); AE roles unverifiable via API
 Codat,queue,77,2026-08-12,N,Ashby board found; no AE roles
 Sana,queue,77,2026-08-12,N,Ashby board; GTM Mgr (AE) roles London/Stockholm only; NYC Engagement Assoc only US role
-Applied Intuition,queue,77,2026-08-12,N,Greenhouse board; Defense AE found but 5 days/wk in-office only
+Applied Intuition,queue,77,2026-08-21,N,speedrun board: not flagged remote
 HealthTrackRx,queue,77,2026-08-12,N,Lab testing services - not SaaS
 Hyperproof.io,queue,77,2026-08-12,N,Greenhouse board found; no AE roles currently
 Expeditors,queue,77,2026-08-12,N,Freight forwarding/logistics - not SaaS
@@ -4515,7 +4515,7 @@ Eide Bailly,repvue,76,2026-08-13,N,not B2B SaaS (accounting/consulting firm)
 Eargo,repvue,76,2026-08-13,N,not B2B SaaS (consumer hearing aids)
 Constrafor,repvue,76,2026-08-13,N,SMB AE posting expired; no current AE
 Neustar,repvue,76,2026-08-13,N,acquired by TransUnion; no longer independent
-Sterling,repvue,76,2026-08-13,N,same as SterlingBackCheck - acquired by First Advantage
+Sterling,repvue,,2026-08-13,N,same as SterlingBackCheck - acquired by First Advantage
 ESO,repvue,76,2026-08-13,N,no qualifying AE found (Account Manager only on Lever)
 Matrix42,repvue,76,2026-08-13,N,primarily European market; no US remote AE found
 Kolena,repvue,76,2026-08-13,N,no AE openings on major ATS platforms
@@ -4629,7 +4629,7 @@ BreachLock,aggregator-verify,67,2026-08-15,Y,Enterprise Account Executive | Ent 
 CelerData,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | SF
 Elliptic,aggregator-verify,,2026-08-15,Y,Mid-Market Sales Executive - New York City | MM | NYC
 Guidde,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | NYC
-Stuut,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | NYC
+Stuut,aggregator-verify,,2026-08-21,N,speedrun board: not flagged remote
 Togetherwork,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | Austin
 Unity,aggregator-verify,,2026-08-15,Y,"Senior, Account Executive | Unspec | SF"
 Ampersand,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | SF
@@ -4654,7 +4654,7 @@ Brightmetrics,aggregator-verify,,2026-08-15,Y,SaaS Account Executive - Contact C
 Enumerate,aggregator-verify,70,2026-08-15,Y,Account Executive | Unspec | Remote
 FSI,aggregator-verify,,2026-08-15,Y,Account Executive - Northeast Region | Unspec | Remote
 Harris Computer,aggregator-verify,65,2026-08-15,Y,(Remote) Sr Account Executive | Ent | Remote
-Kodex,aggregator-verify,,2026-08-15,Y,Strategic Account Executive | Ent | Remote
+Kodex,aggregator-verify,,2026-08-21,Y,Strategic Account Executive (Ent)
 LlamaIndex,aggregator-verify,,2026-08-15,Y,Mid-Market Account Executive | MM | SF
 Revivn,aggregator-verify,,2026-08-15,Y,MidMarket Account Executive | MM | NYC
 Skimmer,aggregator-verify,,2026-08-15,Y,Account Executive (Multi Product) | Unspec | Remote
@@ -4667,9 +4667,9 @@ Broccoli,aggregator-verify,,2026-08-15,Y,"Account Executive, Mid-Market | MM | R
 Chaos,aggregator-verify,,2026-08-15,Y,Account Executive (m/f/d) | Ent | Boston
 Codes Health,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | NYC
 Deepwatch,aggregator-verify,74,2026-08-15,Y,Senior Account Executive - NorthEast | Ent | Remote
-Hedra,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | SF
+Hedra,aggregator-verify,,2026-08-21,N,speedrun board: not flagged remote
 Konica Minolta Business Solutions U.S.A.,aggregator-verify,,2026-08-21,N,"posting closed, no qualifying replacement"
-Luma AI,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Remote
+Luma AI,aggregator-verify,,2026-08-21,N,speedrun board: not flagged remote
 Perseus Group,aggregator-verify,,2026-08-15,Y,Account Executive | SMB | Remote
 Rightworks,aggregator-verify,73,2026-08-15,Y,Strategic Account Executive | SMB | Remote
 Summit K12,aggregator-verify,,2026-08-15,Y,Account Executive (California) | Unspec | Remote
@@ -4710,7 +4710,7 @@ Invicti,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Aus
 Lansweeper,aggregator-verify,69,2026-08-17,N,Growth Account Executive - Digital Motion - AMER | SMB | Austin
 Lyric,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Remote
 MonetizeMore,aggregator-verify,,2026-08-15,Y,Senior Account Executive - Americas | Unspec | Remote
-OpenRouter,aggregator-verify,,2026-08-18,Y,"AE + Enterprise AE both Remote-US, $280-300K; Ashby board absent from careers page (JS shell)"
+OpenRouter,aggregator-verify,,2026-08-21,Y,Account Executive (Ent)
 Playlist,aggregator-verify,,2026-08-15,Y,Corporate Account Executive - San Francisco | MM | SF
 Qureos,aggregator-verify,,2026-08-15,Y,Account Executive - Public Sector (SLED) | Ent | NYC
 Trellix,aggregator-verify,73,2026-08-15,Y,Majors Account Executive | Ent | Denver
@@ -4844,7 +4844,7 @@ Pearl Talent,aggregator-verify,,2026-08-15,N,"Pearl Talent is a staffing/recruit
 QuickLaunch Analytics,aggregator-verify,,2026-08-15,N,"Could not verify directly - BambooHR board returned HTTP 403 on every path tried (direct posting, /careers, /careers/list, /jobs/). Secondary listings (RemoteRocketship, BuiltIn) r"
 Toshiba America Business Solutions,aggregator-verify,,2026-08-15,N,"Native UKG/Ultipro board is JS-walled and could not be loaded directly. However, extensive WebSearch corroboration (careers.business.toshiba.com position pages, LinkedIn, Glassdoor"
 Adlib,aggregator-verify,72,2026-08-15,N,"bamboohr board returned HTTP 403 on every route tried (direct posting /careers/154, /careers, /careers/list) - cannot render for an automated fetcher. No independent secondary sour"
-Envoy,aggregator-verify,72,2026-08-15,N,"Ashby job board for envoy is live and lists 6 open roles (Product Designer, 2x Member of Technical Staff, PM Enterprise, 2x Customer Success Operations Manager). No Account Executi"
+Envoy,aggregator-verify,72,2026-08-21,N,speedrun board: not flagged remote
 Fujifilm,aggregator-verify,,2026-08-15,N,"Role is confirmed live but is explicitly a field territory role tied to Oregon ('Remote role in Oregon', up to 100% travel within territory) - not US-remote-anywhere and not tied t"
 Omilia,aggregator-verify,,2026-08-15,N,Checked both live Workable accounts for Omilia ('omilia' and the correct 'omilia-natural-language-solutions-ua-ltd'). The only currently live Account Executive role is UK-based (no
 Quicklizard,aggregator-verify,,2026-08-15,N,"Posting page (comeet-hosted, despite lead labeling it 'sparkhire') explicitly states 'there are currently no open positions.' Confirmed dead."
@@ -4908,268 +4908,268 @@ Cirrius Solutions,aggregator-verify,,2026-08-15,N,"Gusto lead URL 403s. Company'
 Globality,aggregator-verify,76,2026-08-15,N,"Board has no Account Executive role. Current listings are 2x Business Development Representative, Director Commercial Legal, Director Strategic Partnerships - BDR is explicitly exc"
 Lema AI,aggregator-verify,,2026-08-15,N,Comeet careers page for this company ('lemalabs') now shows 'there are currently no open positions' - both lead postings (West and TOLA AE roles) are gone.
 Vieu,aggregator-verify,,2026-08-15,N,"Lead is Wellfound-only with no ATS link. Vieu is a Pune, India-based company (51-200 employees); the Wellfound company page prices this exact AE role in INR (Rs20L-Rs30L), indicati"
-Outreach.io,repvue,,2026-08-15,N,no AE role (Account Manager only on Lever)
-Pleo,repvue,,2026-08-15,N,EMEA AE only (UK/DACH/Danish speaking); no US AE on Ashby
-Alsco Uniforms,repvue,,2026-08-15,N,not B2B SaaS (uniform/facility services)
-Viz.ai,repvue,,2026-08-15,N,no AE role (healthcare AI; Ashby board has CS/BD/clinical roles only)
-Higher Logic,repvue,,2026-08-15,Y,"Account Executive (Remote, US) on GH slug higherlogic; ID 6929975003; posted 2025-09-03"
-Wolters Kluwer,repvue,,2026-08-15,N,ATS unresolved (large enterprise; likely Workday/custom)
-ReSkin Medical,repvue,,2026-08-15,N,not B2B SaaS (medical devices)
-FINTRX,repvue,,2026-08-16,N,Workable fintrx board now empty - both Enterprise AE and MM AE postings dead
-IT BY DESIGN,repvue,,2026-08-15,N,not B2B SaaS (IT staffing/services)
-Crowe,repvue,,2026-08-15,N,not B2B SaaS (accounting/advisory firm)
-PerkinElmer,repvue,,2026-08-15,N,not B2B SaaS (life sciences instruments; now Revvity)
-Aprimo,repvue,,2026-08-15,N,no AE (BDR only on Workable slug aprimo)
-brightfin,repvue,,2026-08-15,N,ATS unresolved
-Gappify,repvue,,2026-08-15,N,ATS unresolved (GH/Lever/Ashby 404; roles seen on LinkedIn but URL not capturable)
-Aggreko,repvue,,2026-08-15,N,not B2B SaaS (temporary power/utility services)
-SurveyMonkey,repvue,,2026-08-15,N,no AE (Ashby board has engineering/legal only; no AE feed)
-Erie Home,repvue,,2026-08-15,N,not B2B SaaS (home exterior products)
-Development Dimensions International,repvue,,2026-08-15,N,not pure B2B SaaS (leadership consulting/assessment; mixed model)
-WP Engine,repvue,,2026-08-15,N,ATS unresolved (Workday: wpengine.wd1.myworkdayjobs.com)
-Immuta,repvue,,2026-08-15,N,no US remote AE (Enterprise AE CA-based only on Lever; Bay Area preferred)
-Granite Telecommunications,repvue,,2026-08-15,N,not B2B SaaS (telecom infrastructure)
-Conceal,repvue,,2026-08-15,N,ATS unresolved (Ashby 404; not found on GH/Lever)
-Luma Health,repvue,,2026-08-15,N,no open AE (GH slug lumahealth; 1 open role = Brand Designer)
-Massachusetts Mutual Life Insurance,repvue,,2026-08-15,N,not B2B SaaS (insurance company)
-Exago BI,repvue,,2026-08-15,N,ATS unresolved (embedded analytics; likely acquired by insightsoftware)
-CBTS,repvue,,2026-08-15,N,not pure B2B SaaS (IT services/UCaaS/telecom managed services)
-The Linux Foundation,repvue,,2026-08-15,N,nonprofit open-source org; not B2B SaaS
-GovSpend,repvue,,2026-08-15,N,AE posting removed (May 2026); no current AE on GH/Lever/Ashby
-Jellyvision,repvue,,2026-08-15,Y,"Account Executive (Remote, MM/Ent) on GH slug jellyvision; ID 8418411002; posted 2026-02-23"
-SmartVault Corporation,repvue,,2026-08-15,N,ATS unresolved (not found on GH/Lever/Ashby)
-Lumen,repvue,,2026-08-15,N,not B2B SaaS (telecom/fiber infrastructure; formerly CenturyLink)
-Johnson Controls,repvue,,2026-08-15,N,not pure B2B SaaS (building automation; hardware+services mix)
-Coursera,repvue,,2026-08-15,N,no AE IC role (GH slug coursera; Account Director Education and Channel Sales only)
-STEMCELL Technologies,repvue,,2026-08-15,N,not B2B SaaS (biotech research reagents/tools)
-Applied Software,repvue,,2026-08-15,N,not pure B2B SaaS (Autodesk VAR/reseller + services)
-NRC Health,repvue,,2026-08-15,N,ATS unresolved (not found on GH/Lever/Ashby)
-Harri,repvue,,2026-08-15,N,ATS unresolved (GH/Lever 404; not found via search)
-SafetyCulture,repvue,,2026-08-16,N,Lever board safetyculture-2 empty (all postings dead); Expansion AE now under Mitti (rebranded)
-AccessPay,repvue,,2026-08-15,N,UK company; no US remote AE
-Monotype,repvue,,2026-08-15,N,ATS unresolved (fonts/brand SaaS; not found on GH/Lever/Ashby)
-ALSO Group,repvue,,2026-08-15,N,not B2B SaaS (IT product distributor)
-VelocityEHS,repvue,,2026-08-15,N,no open AE positions (careers page returned empty; ehs.com)
-Bunzl,repvue,,2026-08-15,N,not B2B SaaS (distribution company)
-Kenect,repvue,,2026-08-15,N,ATS unresolved (automotive CX SaaS; not found on GH/Lever/Ashby/Workable)
-Cardata,repvue,,2026-08-15,N,ATS unresolved (vehicle reimbursement SaaS; not found on standard ATS)
-Avanade,repvue,,2026-08-15,N,not B2B SaaS (Microsoft consulting/services firm)
-ChannelEngine,repvue,,2026-08-15,N,ATS unresolved (Dutch ecommerce SaaS; likely EMEA-focused)
-Avepoint,repvue,,2026-08-15,N,no US AE (GH slug avepoint; AE roles in Australia only; 3d/wk onsite)
-Sunlighten,repvue,,2026-08-15,N,not B2B SaaS (sauna/wellness products)
-One Identity,repvue,,2026-08-15,N,ATS unresolved (identity security; not found on GH/Lever/Ashby)
-ifm,repvue,,2026-08-16,N,industrial automation sensors (Germany-based); not B2B SaaS
-Realvolve,repvue,,2026-08-16,N,ATS unresolved (real estate CRM SaaS; no GH/Lever/Ashby board found)
-Madison Logic,repvue,,2026-08-16,N,GH board madisonlogicinc live but AE New Business role no longer in board JSON (dead posting)
-Coretelligent,repvue,,2026-08-16,N,not B2B SaaS (IT managed services)
+Outreach.io,repvue,76,2026-08-15,N,no AE role (Account Manager only on Lever)
+Pleo,repvue,76,2026-08-15,N,EMEA AE only (UK/DACH/Danish speaking); no US AE on Ashby
+Alsco Uniforms,repvue,76,2026-08-15,N,not B2B SaaS (uniform/facility services)
+Viz.ai,repvue,76,2026-08-15,N,no AE role (healthcare AI; Ashby board has CS/BD/clinical roles only)
+Higher Logic,repvue,76,2026-08-15,Y,"Account Executive (Remote, US) on GH slug higherlogic; ID 6929975003; posted 2025-09-03"
+Wolters Kluwer,repvue,76,2026-08-15,N,ATS unresolved (large enterprise; likely Workday/custom)
+ReSkin Medical,repvue,76,2026-08-15,N,not B2B SaaS (medical devices)
+FINTRX,repvue,76,2026-08-16,N,Workable fintrx board now empty - both Enterprise AE and MM AE postings dead
+IT BY DESIGN,repvue,76,2026-08-15,N,not B2B SaaS (IT staffing/services)
+Crowe,repvue,76,2026-08-15,N,not B2B SaaS (accounting/advisory firm)
+PerkinElmer,repvue,76,2026-08-15,N,not B2B SaaS (life sciences instruments; now Revvity)
+Aprimo,repvue,76,2026-08-15,N,no AE (BDR only on Workable slug aprimo)
+brightfin,repvue,76,2026-08-15,N,ATS unresolved
+Gappify,repvue,76,2026-08-15,N,ATS unresolved (GH/Lever/Ashby 404; roles seen on LinkedIn but URL not capturable)
+Aggreko,repvue,76,2026-08-15,N,not B2B SaaS (temporary power/utility services)
+SurveyMonkey,repvue,76,2026-08-15,N,no AE (Ashby board has engineering/legal only; no AE feed)
+Erie Home,repvue,76,2026-08-15,N,not B2B SaaS (home exterior products)
+Development Dimensions International,repvue,76,2026-08-15,N,not pure B2B SaaS (leadership consulting/assessment; mixed model)
+WP Engine,repvue,76,2026-08-15,N,ATS unresolved (Workday: wpengine.wd1.myworkdayjobs.com)
+Immuta,repvue,76,2026-08-15,N,no US remote AE (Enterprise AE CA-based only on Lever; Bay Area preferred)
+Granite Telecommunications,repvue,76,2026-08-15,N,not B2B SaaS (telecom infrastructure)
+Conceal,repvue,76,2026-08-15,N,ATS unresolved (Ashby 404; not found on GH/Lever)
+Luma Health,repvue,76,2026-08-15,N,no open AE (GH slug lumahealth; 1 open role = Brand Designer)
+Massachusetts Mutual Life Insurance,repvue,76,2026-08-15,N,not B2B SaaS (insurance company)
+Exago BI,repvue,76,2026-08-15,N,ATS unresolved (embedded analytics; likely acquired by insightsoftware)
+CBTS,repvue,76,2026-08-15,N,not pure B2B SaaS (IT services/UCaaS/telecom managed services)
+The Linux Foundation,repvue,76,2026-08-15,N,nonprofit open-source org; not B2B SaaS
+GovSpend,repvue,76,2026-08-15,N,AE posting removed (May 2026); no current AE on GH/Lever/Ashby
+Jellyvision,repvue,76,2026-08-15,Y,"Account Executive (Remote, MM/Ent) on GH slug jellyvision; ID 8418411002; posted 2026-02-23"
+SmartVault Corporation,repvue,76,2026-08-15,N,ATS unresolved (not found on GH/Lever/Ashby)
+Lumen,repvue,76,2026-08-15,N,not B2B SaaS (telecom/fiber infrastructure; formerly CenturyLink)
+Johnson Controls,repvue,76,2026-08-15,N,not pure B2B SaaS (building automation; hardware+services mix)
+Coursera,repvue,76,2026-08-15,N,no AE IC role (GH slug coursera; Account Director Education and Channel Sales only)
+STEMCELL Technologies,repvue,76,2026-08-15,N,not B2B SaaS (biotech research reagents/tools)
+Applied Software,repvue,76,2026-08-15,N,not pure B2B SaaS (Autodesk VAR/reseller + services)
+NRC Health,repvue,76,2026-08-15,N,ATS unresolved (not found on GH/Lever/Ashby)
+Harri,repvue,76,2026-08-15,N,ATS unresolved (GH/Lever 404; not found via search)
+SafetyCulture,repvue,76,2026-08-16,N,Lever board safetyculture-2 empty (all postings dead); Expansion AE now under Mitti (rebranded)
+AccessPay,repvue,76,2026-08-15,N,UK company; no US remote AE
+Monotype,repvue,76,2026-08-15,N,ATS unresolved (fonts/brand SaaS; not found on GH/Lever/Ashby)
+ALSO Group,repvue,76,2026-08-15,N,not B2B SaaS (IT product distributor)
+VelocityEHS,repvue,76,2026-08-15,N,no open AE positions (careers page returned empty; ehs.com)
+Bunzl,repvue,76,2026-08-15,N,not B2B SaaS (distribution company)
+Kenect,repvue,76,2026-08-15,N,ATS unresolved (automotive CX SaaS; not found on GH/Lever/Ashby/Workable)
+Cardata,repvue,76,2026-08-15,N,ATS unresolved (vehicle reimbursement SaaS; not found on standard ATS)
+Avanade,repvue,76,2026-08-15,N,not B2B SaaS (Microsoft consulting/services firm)
+ChannelEngine,repvue,76,2026-08-15,N,ATS unresolved (Dutch ecommerce SaaS; likely EMEA-focused)
+Avepoint,repvue,76,2026-08-15,N,no US AE (GH slug avepoint; AE roles in Australia only; 3d/wk onsite)
+Sunlighten,repvue,76,2026-08-15,N,not B2B SaaS (sauna/wellness products)
+One Identity,repvue,76,2026-08-15,N,ATS unresolved (identity security; not found on GH/Lever/Ashby)
+ifm,repvue,76,2026-08-16,N,industrial automation sensors (Germany-based); not B2B SaaS
+Realvolve,repvue,76,2026-08-16,N,ATS unresolved (real estate CRM SaaS; no GH/Lever/Ashby board found)
+Madison Logic,repvue,76,2026-08-16,N,GH board madisonlogicinc live but AE New Business role no longer in board JSON (dead posting)
+Coretelligent,repvue,76,2026-08-16,N,not B2B SaaS (IT managed services)
 Blink,repvue,,2026-08-16,N,no AE roles on Ashby board slug blink (only EMEA/LatAm tech roles)
-Influential,repvue,,2026-08-16,N,ATS unresolved (Captiv8 slug 404 on GH/Lever/Ashby; no results from search)
-MediaMath,repvue,,2026-08-16,N,defunct (bankrupt 2023; acquired by Infillion; no active ATS board)
-Zen Educate,repvue,,2026-08-16,N,UK-based teacher staffing marketplace; not US; not B2B SaaS
-Resi,repvue,,2026-08-16,Y,Enterprise AE; Remote US (22 states); GH pushpay board ID 7258792; posted 2025-09-17; live streaming SaaS for faith orgs
-Auto-Chlor System,repvue,,2026-08-16,N,not B2B SaaS (restaurant/commercial chemical cleaning services)
-Semarchy,repvue,,2026-08-16,N,ATS unresolved (uses HiBob; not on GH/Lever/Ashby/Workable)
-Better Place Forests,repvue,,2026-08-16,N,not B2B SaaS (conservation/memorial forest company)
-MeridianLink,repvue,,2026-08-16,N,Lever board 403 on API access; AE roles found via search but URL not capturable via ATS API
-Gail,repvue,,2026-08-16,N,ATS unresolved (LulaTechnologies; 404 on GH/Lever/Ashby; no search results)
-Searchspring,repvue,,2026-08-16,N,acquired by GroupBy 2023; no active ATS board found
-Numotion,repvue,,2026-08-16,N,not B2B SaaS (wheelchair/complex rehab equipment)
-Butterfly Network,repvue,,2026-08-16,N,not B2B SaaS (handheld ultrasound hardware)
-EcoOnline Global,repvue,,2026-08-16,N,ATS unresolved (Norwegian EHS SaaS; no US AE found on GH/Lever/Ashby)
-Postal.io,repvue,,2026-08-16,N,ATS unresolved (Ashby Postalio 404; no results from search)
-Omatic,repvue,,2026-08-16,N,ATS unresolved (nonprofit CRM integration SaaS; GH omatic 404; no search results)
-BiggerPockets,repvue,,2026-08-16,N,not B2B SaaS (real estate media/community platform)
-Bonfire Interactive,repvue,,2026-08-16,N,ATS unresolved (public sector eSourcing SaaS; no results from search)
-Finastra,repvue,,2026-08-16,N,ATS unresolved (large banking software firm; likely Workday)
-Expert Institute,repvue,,2026-08-16,N,ATS unresolved (legal expert witness platform; no results from search)
-Igloo Software,repvue,,2026-08-16,N,no AE roles on Lever slug igloo (only Finance/Designer roles)
-LRQA,repvue,,2026-08-16,N,not B2B SaaS (quality assurance/inspection certification services)
-WorkJam,repvue,,2026-08-16,N,ATS unresolved (uses custom careers.workjam.com portal; not on standard ATS)
-Thanx,repvue,,2026-08-16,Y,Enterprise AE; Remote US; GH slug thanx ID 7563153003; posted 2025-12-15; restaurant loyalty SaaS
-Intelliloan,repvue,,2026-08-16,N,not B2B SaaS (mortgage lending company)
-ACV Auctions,repvue,,2026-08-16,N,ATS unresolved (wholesale auto marketplace; no results from search)
-memoryBlue,repvue,,2026-08-16,N,not B2B SaaS (sales development agency/services)
-Circana,repvue,,2026-08-16,N,ATS unresolved (uses Workday; CPG/retail data analytics)
-Slalom,repvue,,2026-08-16,N,not B2B SaaS (management/IT consulting firm)
-Vectra AI,repvue,,2026-08-16,N,no AE roles on GH slug vectranetworks (only CS/Engineering/Director roles)
-Brandwatch,repvue,,2026-08-16,N,no US AE roles (GH/Lever boards show only EMEA account manager and SDR roles)
-Brightwheel,repvue,,2026-08-16,N,Lever board brightwheel empty (no open jobs listed)
-Evolv Technology,repvue,,2026-08-16,N,not B2B SaaS (physical security screening hardware; distinct from Evolv AI)
-Nobl9,repvue,,2026-08-16,N,ATS unresolved (SLO/observability SaaS; no results on GH/Lever/Ashby/Workable)
-Automattic,repvue,,2026-08-16,Y,AE Public Sector; Remote US (DC area preferred); GH slug automatticcareers ID 6381135; posted 2024-11-07; WordPress VIP SaaS for government
-NTT,repvue,,2026-08-16,N,not B2B SaaS (telecom/IT services conglomerate)
-Federated Insurance,repvue,,2026-08-16,N,not B2B SaaS (property/casualty insurance mutual company)
-Blancco,repvue,,2026-08-16,N,ATS unresolved (Francisco Partners portfolio; data erasure SaaS; not on standard ATS)
-Parata Systems,repvue,,2026-08-16,N,not B2B SaaS (pharmacy dispensing automation hardware)
-Tebra,repvue,,2026-08-16,N,healthcare SaaS but AE roles are SMB-focused (Billing Company/Growth/Patient Experience AEs at $55-113K base)
-Macrium Software,repvue,,2026-08-16,N,ATS unresolved (UK backup/imaging software; no results from search)
-Workhuman,repvue,,2026-08-16,N,no AE roles on Ashby slug workhuman (only Senior Data Analyst Dublin hybrid)
-Republic Services,repvue,,2026-08-16,N,not B2B SaaS (waste management company)
-AppZen,repvue,,2026-08-16,Y,Enterprise AE - US; Remote (SF/Dallas/Boston); Lever slug appzen ID 20de2481-c682-402f-be30-b72d9dc128ec; OTE $260-300K; posted 2019-05-08; AI spend management SaaS
-Airmeet,repvue,,2026-08-16,N,ATS unresolved (India-based virtual events SaaS; no results from search)
-CleverTap,repvue,,2026-08-16,N,Lever 403 on individual posting access; India-focused customer engagement SaaS; US AE role unverifiable via ATS API
-Hikvision,repvue,,2026-08-16,N,not B2B SaaS (surveillance hardware manufacturer)
-Tethr,repvue,,2026-08-16,N,ATS unresolved (call analytics; no board on GH/Lever/Ashby)
-ZEDEDA,repvue,,2026-08-16,N,ATS unresolved (edge computing SaaS; no board found)
-ZimVie,repvue,,2026-08-16,N,not B2B SaaS (medical devices/spine)
-Steris,repvue,,2026-08-16,N,not B2B SaaS (medical sterilization equipment)
-DoiT International,repvue,,2026-08-16,Y,Account Executive - Attribute™ North America US East+West; FinOps SaaS; remote US
-Medidata Solutions,repvue,,2026-08-16,N,ATS unresolved (Dassault subsidiary; clinical trial SaaS)
-Lionbridge,repvue,,2026-08-16,N,not B2B SaaS (translation/localization services)
-Enovis,repvue,,2026-08-16,N,not B2B SaaS (orthopedic devices)
-LiveView Technologies,repvue,,2026-08-16,N,ATS unresolved (physical security/video AI)
-Azurity Pharmaceuticals,repvue,,2026-08-16,N,not B2B SaaS (pharma)
-Athelas,repvue,,2026-08-16,N,ATS unresolved (healthcare AI; no board on GH/Ashby)
-Reejig,repvue,,2026-08-16,N,ATS unresolved (Australian workforce AI; likely no US-remote AE)
-Onit,repvue,,2026-08-16,N,no open IC AE (legal workflow SaaS; Lever board: SDR/AM/India eng only)
-"Pacific Rim Capital, Inc.",repvue,,2026-08-16,N,not B2B SaaS (equipment leasing/finance)
-CreditorWatch,repvue,,2026-08-16,N,non-US company (Australian credit reporting)
-ChargePoint,repvue,,2026-08-16,N,"primarily hardware (EV charging); AE role California-only, not SaaS"
-Verint Systems,repvue,,2026-08-16,N,ATS unresolved (CX SaaS; not on GH/Lever/Ashby)
-G2,repvue,,2026-08-16,N,no active open AE (only evergreen/future pipeline on Ashby)
-gWorks,repvue,,2026-08-16,N,ATS unresolved (government SaaS)
-Demandwell,repvue,,2026-08-16,N,ATS unresolved (SEO SaaS)
-"O'Reilly Media, Inc.",repvue,,2026-08-16,N,ATS unresolved (tech learning platform)
-PVcase,repvue,,2026-08-16,N,ATS unresolved (solar design SaaS; European focus)
-Zelis,repvue,,2026-08-16,N,no IC AE (healthcare payments; Workday board has AM roles only)
-HRSoft,repvue,,2026-08-16,N,ATS unresolved (HR SaaS)
-Calabrio,repvue,,2026-08-16,N,ATS unresolved (workforce management SaaS; not on GH/Lever/Ashby)
-Esper.io,repvue,,2026-08-16,N,no open IC AE (IoT device mgmt; Lever board: SDR/eng only)
-DemandScience,repvue,,2026-08-16,N,no open AE role (GH board: finance/IT/marketing roles only)
-Arrive Logistics,repvue,,2026-08-16,N,not B2B SaaS (freight brokerage)
-"AdRoll, a division of NextRoll",repvue,,2026-08-16,N,no open AE (GH board: empty)
-Forcepoint,repvue,,2026-08-16,N,ATS unresolved (cybersecurity SaaS; not on GH/Ashby/Lever)
-Safe and Sound Security,repvue,,2026-08-16,N,not B2B SaaS (security installation services)
-Hajoca Corporation,repvue,,2026-08-16,N,not B2B SaaS (plumbing/HVAC wholesale)
-MD7,repvue,,2026-08-16,N,not B2B SaaS (telecom site management)
-S&P Global,repvue,,2026-08-16,N,ATS unresolved (financial data/Workday; large enterprise roles)
-Zeta,repvue,,2026-08-16,N,ATS unresolved (martech platform; not on GH/Ashby)
-TimelyCare,repvue,,2026-08-16,N,ATS unresolved (healthcare SaaS; Lever board returned 403)
-Citizens Financial Group,repvue,,2026-08-16,N,not B2B SaaS (commercial bank)
-Peek,repvue,,2026-08-16,Y,Mid Market AE open in latest.csv; Ashby; $120K OTE
-McKinstry,repvue,,2026-08-16,N,not B2B SaaS (engineering/facilities)
-Ortho Molecular Products,repvue,,2026-08-16,N,not B2B SaaS (nutritional supplements)
-Insideout,repvue,,2026-08-16,N,ATS unresolved (company not clearly identified)
-PayPal,repvue,,2026-08-16,N,not B2B SaaS (fintech/payments)
-"Globality, Inc.",repvue,,2026-08-16,N,no open AE (GH board: BDR/legal/partnerships only)
-ImageFIRST,repvue,,2026-08-16,N,not B2B SaaS (healthcare linen services)
-Edmentum,repvue,,2026-08-16,N,no open IC AE (GH board: SDR + VP Sales only)
-CATALIS,repvue,,2026-08-16,N,ATS unresolved (government SaaS)
-Foxtons,repvue,,2026-08-16,N,not B2B SaaS / non-US (UK real estate agency)
-Extensiv,repvue,,2026-08-16,N,ATS unresolved (3PL/logistics SaaS)
-Pantheon Platform,repvue,,2026-08-16,N,no open AE role (GH board: no IC AE positions)
-Silk,repvue,,2026-08-16,N,ATS unresolved; no board found for Silk slug variants
-RTS Financial,repvue,,2026-08-16,N,ATS unresolved; no qualifying AE found
-EasySend,repvue,,2026-08-16,N,ATS unresolved; not found on GH/Lever/Ashby
-Coherent,repvue,,2026-08-16,N,"IT services firm (Coherent Solutions), not B2B SaaS"
-Hotjar,repvue,,2026-08-16,N,behavioral analytics B2B SaaS; no AE found on any ATS
-RTB House,repvue,,2026-08-16,N,"adtech; only London AE found, not US remote"
-Digital River,repvue,,2026-08-16,N,ATS unresolved; ecommerce-as-a-service
-Peak AI,repvue,,2026-08-16,N,ATS unresolved; decision intelligence SaaS
-Code Climate,repvue,,2026-08-16,N,ATS unresolved; code quality SaaS
-Spectrum Enterprise (Time Warner),repvue,,2026-08-16,N,"enterprise telecom, not B2B SaaS"
-SchooLinks,repvue,,2026-08-16,N,ATS unresolved; edtech SaaS
-FIS,repvue,,2026-08-16,N,financial tech services; not B2B SaaS ICP
-Walnut,repvue,,2026-08-16,N,no open positions (hr@walnut.io page: no positions right now)
-ScentAir,repvue,,2026-08-16,N,scent marketing hardware/services; not B2B SaaS
-CDI,repvue,,2026-08-16,N,IT consulting/services; not B2B SaaS
-Traba,repvue,,2026-08-16,N,labor marketplace; no AE; not traditional B2B SaaS
-Virgin Media O2,repvue,,2026-08-16,N,"UK telecom; not US, not B2B SaaS"
-Flight Schedule Pro,repvue,,2026-08-16,N,ATS unresolved; aviation scheduling SaaS
-Udemy,repvue,,2026-08-16,N,same as Udemy Business already tracked in universe/latest.csv
-Epsilon,repvue,,2026-08-16,N,Publicis marketing agency subsidiary; not B2B SaaS
-IP Fabric,repvue,,2026-08-16,N,network automation SaaS; no US AE (EU focused only)
-Couchbase,repvue,,2026-08-16,N,database SaaS; no AE titled roles; Enterprise Sales Rep / Strategic AR titles but Enterprise tier 6-10+ yrs
-SAP Engagement Cloud,repvue,,2026-08-16,N,Emarsys marketing automation; acquired by SAP; not standalone
-Omada,repvue,,2026-08-16,N,ATS unresolved; identity management SaaS
-Appficiency inc,repvue,,2026-08-16,N,NetSuite consulting; not B2B SaaS product
-Globus Medical,repvue,,2026-08-16,N,medical devices hardware; not B2B SaaS
-EcoVadis,repvue,,2026-08-16,N,ESG SaaS; no US AE found on SmartRecruiters (only Spain/EMEA roles)
-Agora,repvue,,2026-08-16,N,ATS unresolved; real-time comms API SaaS
-Vertiv,repvue,,2026-08-16,N,data center infrastructure hardware; not B2B SaaS
-Eastridge Workforce Solutions,repvue,,2026-08-16,N,staffing agency; not B2B SaaS
-Anitian,repvue,,2026-08-16,N,ATS unresolved; cloud compliance SaaS
-Radiant Logic,repvue,,2026-08-16,N,ATS unresolved; identity management SaaS
-Firmex,repvue,,2026-08-16,N,"VDR; acquired by Datasite; only BDR roles on Lever, no AE"
-Paytronix,repvue,,2026-08-16,N,loyalty SaaS; Enterprise AE posting dead (404 on GH paytronix board)
-Directive,repvue,,2026-08-16,N,B2B marketing agency; not B2B SaaS product
-Netcore Cloud,repvue,,2026-08-16,N,ATS unresolved; customer engagement SaaS
-Greenphire,repvue,,2026-08-16,N,clinical payments SaaS; no AE roles on GH
-"Twingate, Inc.",repvue,,2026-08-16,N,network access SaaS; no AE (engineering only on Lever)
-Alpha Group,repvue,,2026-08-16,N,ATS unresolved; unclear business type
-HUMAN,repvue,,2026-08-16,N,"bot protection SaaS; only London AE found, not US remote"
-vArmour,repvue,,2026-08-16,N,ATS unresolved; network security SaaS
-Texada Software,repvue,,2026-08-16,N,ATS unresolved; equipment management SaaS
-Zone & Co.,repvue,,2026-08-16,Y,already in latest.csv as Zone & Co (GH zonecompanysoftwareconsultingllc); LIVE verified 2026-08-16
-Piano,repvue,,2026-08-16,N,ATS unresolved; analytics/subscription SaaS
-LocaliQ,repvue,,2026-08-16,N,digital marketing services; not B2B SaaS product
-Cynet,repvue,,2026-08-16,N,ATS unresolved; cybersecurity SaaS
-"Quench USA, Inc.",repvue,,2026-08-16,N,water/beverage hardware/service; not B2B SaaS
-Totango,repvue,,2026-08-16,N,customer success SaaS; no AE found; possibly merged with Gainsight
-ConnectWise,repvue,,2026-08-16,N,"B2B SaaS for MSPs; US AE found (GH job/4587323005) but Commercial/SMB segment ($15K avg deal, 85/year, 25-day cycle); not MM"
-Springbrook Software,repvue,,2026-08-16,N,ATS unresolved; government/utilities SaaS
-Altares Dun & Bradstreet,repvue,,2026-08-16,N,French B2B data company; limited US scope; not a US-focused B2B SaaS AE target
-SumUp,repvue,,2026-08-16,N,SMB payment processor (card readers/POS); not MM B2B SaaS
-Emeritus,repvue,,2026-08-16,N,online education/executive ed platform; not B2B SaaS
-Cordis,repvue,,2026-08-16,N,medical devices (cardiovascular); not SaaS
-CallMiner,repvue,,2026-08-16,N,no qualifying AE found; only BDR/support roles on SmartRecruiters
-Tufin,repvue,,2026-08-16,N,no AE on Greenhouse/Ashby/Lever/SmartRecruiters; firewall automation SaaS
-Syndio,repvue,,2026-08-16,Y,Enterprise AE Remote US; OTE $280-290K; Greenhouse synd.io gh_jid=6135739004; pay equity analytics SaaS
-Elastic Suite,repvue,,2026-08-16,N,ATS unresolved; website (elastic-suite.com) does not resolve; likely defunct or rebranded
-Aon,repvue,,2026-08-16,N,insurance/professional services firm; not B2B SaaS
-Buxton,repvue,,2026-08-16,N,ATS unresolved; retail analytics SaaS; no board on GH/Ashby/Lever after multiple attempts
-AspireIQ,repvue,,2026-08-16,N,ATS unresolved; influencer marketing SaaS; possibly acquired/rebranded
-LoanDepot,repvue,,2026-08-16,N,mortgage/lending company; not SaaS
-Robin,repvue,,2026-08-16,N,ATS unresolved; workplace scheduling SaaS; GH/Ashby/Lever all 404 after 4 attempts
-Snagajob,repvue,,2026-08-16,N,ATS unresolved; hourly worker job marketplace; not MM B2B SaaS
-Multiplier,repvue,,2026-08-16,N,ATS unresolved; global employment platform; Ashby/Lever/Greenhouse all 404
-ClassPass,repvue,,2026-08-16,N,B2C fitness membership app; not MM B2B SaaS
-Ernest Packaging Solutions,repvue,,2026-08-16,N,packaging solutions company; not SaaS
-GetDandy,repvue,,2026-08-16,N,ATS unresolved; auto dealership SaaS; no board found
-Canonical,repvue,,2026-08-16,N,no AE found on Ashby board; Ubuntu/open source; roles are technical
-Prime Communications,repvue,,2026-08-16,N,telecom (AT&T authorized retailer); not B2B SaaS
-PowerReviews,repvue,,2026-08-16,N,ATS unresolved; ratings/reviews SaaS; GH/Ashby/Lever all 404
-Daktronics,repvue,,2026-08-16,N,LED scoreboards/hardware manufacturer; not SaaS
-Noregon Systems,repvue,,2026-08-16,N,ATS unresolved; commercial vehicle diagnostics; Greenhouse 404
-Mapbox,repvue,,2026-08-16,N,no AE roles on Ashby board; only engineering/solutions architect listings
-Personetics,repvue,,2026-08-16,N,ATS unresolved; financial engagement SaaS; Greenhouse/Lever/Ashby all 404
-Cellebrite,repvue,,2026-08-16,N,no AE found on standard boards; digital forensics/law enforcement SaaS
-Stormwind Studios,repvue,,2026-08-16,N,ATS unresolved; IT training SaaS; Greenhouse/Ashby all 404
-OpsRamp,repvue,,2026-08-16,N,ATS unresolved; likely absorbed into HPE in 2023; no active board
-Tempo Software,repvue,,2026-08-16,N,ATS unresolved; project management SaaS; Greenhouse gsd slug 404; Lever tempo 404
-Autosoft,repvue,,2026-08-16,N,ATS unresolved; auto dealer DMS SaaS; Ashby/Lever all 404
-DBS,repvue,,2026-08-16,N,likely DBS Group (Singapore bank); not US-focused B2B SaaS
-AutogenAI,repvue,,2026-08-16,N,no AE roles on Greenhouse; only proposal managers and product designer
-GoodLife Fitness,repvue,,2026-08-16,N,Canadian gym chain; not B2B SaaS
-Construct CRM,repvue,,2026-08-16,N,ATS unresolved; CRM SaaS; Ashby 404
-Beamery,repvue,,2026-08-16,Y,Account Executive Remote US; Enterprise; Ashby slug beamery ID 280df73c-7162-4698-bfcc-d4818e93b3df; posted 2026-06-04; talent intelligence SaaS
-Claris,repvue,,2026-08-16,N,ATS unresolved; Apple subsidiary (FileMaker); Greenhouse clarisfm 404
-hh2,repvue,,2026-08-16,N,ATS unresolved; construction management SaaS; Greenhouse hh2-cloud-services 404
-Aloha,repvue,,2026-08-16,N,no AE visible on getaloha.com/careers (formerly ReviewWave); redirects but no open AE roles
-Revalize,repvue,,2026-08-16,Y,already in latest.csv; Account Executive Pipe-Flo Remote; SmartRecruiters ID 744000140023509
-nTop,repvue,,2026-08-16,N,ATS unresolved; engineering simulation SaaS; Ashby ntopology/ntop 404; Lever ntopology 404
-MarqVision,repvue,,2026-08-16,N,ATS unresolved; brand protection SaaS; Ashby 404 on multiple slugs
-Fortitude Systems,repvue,,2026-08-16,N,ATS unresolved; Ashby 404
-EBSCO Information Services,repvue,,2026-08-16,N,ATS unresolved; Greenhouse EBSCOInformationServices 404; library database/information services
-Demyst Data,repvue,,2026-08-16,N,ATS unresolved; data orchestration SaaS; Ashby demyst/demystdata 404
-Utility,repvue,,2026-08-16,N,ATS unresolved; Workable utility-associates 404
-Smokeball,repvue,,2026-08-16,N,ATS unresolved; legal practice management SaaS; Greenhouse/Ashby/Lever all 404
-Colonial Life,repvue,,2026-08-16,N,insurance (supplemental benefits); not B2B SaaS
-Consilium Staffing,repvue,,2026-08-16,N,staffing agency; not B2B SaaS
+Influential,repvue,76,2026-08-16,N,ATS unresolved (Captiv8 slug 404 on GH/Lever/Ashby; no results from search)
+MediaMath,repvue,76,2026-08-16,N,defunct (bankrupt 2023; acquired by Infillion; no active ATS board)
+Zen Educate,repvue,76,2026-08-16,N,UK-based teacher staffing marketplace; not US; not B2B SaaS
+Resi,repvue,76,2026-08-16,Y,Enterprise AE; Remote US (22 states); GH pushpay board ID 7258792; posted 2025-09-17; live streaming SaaS for faith orgs
+Auto-Chlor System,repvue,76,2026-08-16,N,not B2B SaaS (restaurant/commercial chemical cleaning services)
+Semarchy,repvue,76,2026-08-16,N,ATS unresolved (uses HiBob; not on GH/Lever/Ashby/Workable)
+Better Place Forests,repvue,76,2026-08-16,N,not B2B SaaS (conservation/memorial forest company)
+MeridianLink,repvue,76,2026-08-16,N,Lever board 403 on API access; AE roles found via search but URL not capturable via ATS API
+Gail,repvue,76,2026-08-16,N,ATS unresolved (LulaTechnologies; 404 on GH/Lever/Ashby; no search results)
+Searchspring,repvue,76,2026-08-16,N,acquired by GroupBy 2023; no active ATS board found
+Numotion,repvue,76,2026-08-16,N,not B2B SaaS (wheelchair/complex rehab equipment)
+Butterfly Network,repvue,76,2026-08-16,N,not B2B SaaS (handheld ultrasound hardware)
+EcoOnline Global,repvue,76,2026-08-16,N,ATS unresolved (Norwegian EHS SaaS; no US AE found on GH/Lever/Ashby)
+Postal.io,repvue,76,2026-08-16,N,ATS unresolved (Ashby Postalio 404; no results from search)
+Omatic,repvue,76,2026-08-16,N,ATS unresolved (nonprofit CRM integration SaaS; GH omatic 404; no search results)
+BiggerPockets,repvue,76,2026-08-16,N,not B2B SaaS (real estate media/community platform)
+Bonfire Interactive,repvue,76,2026-08-16,N,ATS unresolved (public sector eSourcing SaaS; no results from search)
+Finastra,repvue,76,2026-08-16,N,ATS unresolved (large banking software firm; likely Workday)
+Expert Institute,repvue,76,2026-08-16,N,ATS unresolved (legal expert witness platform; no results from search)
+Igloo Software,repvue,76,2026-08-16,N,no AE roles on Lever slug igloo (only Finance/Designer roles)
+LRQA,repvue,76,2026-08-16,N,not B2B SaaS (quality assurance/inspection certification services)
+WorkJam,repvue,76,2026-08-16,N,ATS unresolved (uses custom careers.workjam.com portal; not on standard ATS)
+Thanx,repvue,76,2026-08-16,Y,Enterprise AE; Remote US; GH slug thanx ID 7563153003; posted 2025-12-15; restaurant loyalty SaaS
+Intelliloan,repvue,76,2026-08-16,N,not B2B SaaS (mortgage lending company)
+ACV Auctions,repvue,76,2026-08-16,N,ATS unresolved (wholesale auto marketplace; no results from search)
+memoryBlue,repvue,76,2026-08-16,N,not B2B SaaS (sales development agency/services)
+Circana,repvue,76,2026-08-16,N,ATS unresolved (uses Workday; CPG/retail data analytics)
+Slalom,repvue,76,2026-08-16,N,not B2B SaaS (management/IT consulting firm)
+Vectra AI,repvue,76,2026-08-16,N,no AE roles on GH slug vectranetworks (only CS/Engineering/Director roles)
+Brandwatch,repvue,76,2026-08-16,N,no US AE roles (GH/Lever boards show only EMEA account manager and SDR roles)
+Brightwheel,repvue,76,2026-08-16,N,Lever board brightwheel empty (no open jobs listed)
+Evolv Technology,repvue,76,2026-08-16,N,not B2B SaaS (physical security screening hardware; distinct from Evolv AI)
+Nobl9,repvue,76,2026-08-16,N,ATS unresolved (SLO/observability SaaS; no results on GH/Lever/Ashby/Workable)
+Automattic,repvue,76,2026-08-16,Y,AE Public Sector; Remote US (DC area preferred); GH slug automatticcareers ID 6381135; posted 2024-11-07; WordPress VIP SaaS for government
+NTT,repvue,76,2026-08-16,N,not B2B SaaS (telecom/IT services conglomerate)
+Federated Insurance,repvue,76,2026-08-16,N,not B2B SaaS (property/casualty insurance mutual company)
+Blancco,repvue,76,2026-08-16,N,ATS unresolved (Francisco Partners portfolio; data erasure SaaS; not on standard ATS)
+Parata Systems,repvue,76,2026-08-16,N,not B2B SaaS (pharmacy dispensing automation hardware)
+Tebra,repvue,76,2026-08-16,N,healthcare SaaS but AE roles are SMB-focused (Billing Company/Growth/Patient Experience AEs at $55-113K base)
+Macrium Software,repvue,76,2026-08-16,N,ATS unresolved (UK backup/imaging software; no results from search)
+Workhuman,repvue,76,2026-08-16,N,no AE roles on Ashby slug workhuman (only Senior Data Analyst Dublin hybrid)
+Republic Services,repvue,76,2026-08-16,N,not B2B SaaS (waste management company)
+AppZen,repvue,76,2026-08-16,Y,Enterprise AE - US; Remote (SF/Dallas/Boston); Lever slug appzen ID 20de2481-c682-402f-be30-b72d9dc128ec; OTE $260-300K; posted 2019-05-08; AI spend management SaaS
+Airmeet,repvue,76,2026-08-16,N,ATS unresolved (India-based virtual events SaaS; no results from search)
+CleverTap,repvue,76,2026-08-16,N,Lever 403 on individual posting access; India-focused customer engagement SaaS; US AE role unverifiable via ATS API
+Hikvision,repvue,76,2026-08-16,N,not B2B SaaS (surveillance hardware manufacturer)
+Tethr,repvue,76,2026-08-16,N,ATS unresolved (call analytics; no board on GH/Lever/Ashby)
+ZEDEDA,repvue,76,2026-08-16,N,ATS unresolved (edge computing SaaS; no board found)
+ZimVie,repvue,76,2026-08-16,N,not B2B SaaS (medical devices/spine)
+Steris,repvue,76,2026-08-16,N,not B2B SaaS (medical sterilization equipment)
+DoiT International,repvue,76,2026-08-16,Y,Account Executive - Attribute™ North America US East+West; FinOps SaaS; remote US
+Medidata Solutions,repvue,76,2026-08-16,N,ATS unresolved (Dassault subsidiary; clinical trial SaaS)
+Lionbridge,repvue,76,2026-08-16,N,not B2B SaaS (translation/localization services)
+Enovis,repvue,76,2026-08-16,N,not B2B SaaS (orthopedic devices)
+LiveView Technologies,repvue,76,2026-08-16,N,ATS unresolved (physical security/video AI)
+Azurity Pharmaceuticals,repvue,76,2026-08-16,N,not B2B SaaS (pharma)
+Athelas,repvue,76,2026-08-16,N,ATS unresolved (healthcare AI; no board on GH/Ashby)
+Reejig,repvue,76,2026-08-16,N,ATS unresolved (Australian workforce AI; likely no US-remote AE)
+Onit,repvue,76,2026-08-16,N,no open IC AE (legal workflow SaaS; Lever board: SDR/AM/India eng only)
+"Pacific Rim Capital, Inc.",repvue,76,2026-08-16,N,not B2B SaaS (equipment leasing/finance)
+CreditorWatch,repvue,76,2026-08-16,N,non-US company (Australian credit reporting)
+ChargePoint,repvue,76,2026-08-16,N,"primarily hardware (EV charging); AE role California-only, not SaaS"
+Verint Systems,repvue,76,2026-08-16,N,ATS unresolved (CX SaaS; not on GH/Lever/Ashby)
+G2,repvue,76,2026-08-16,N,no active open AE (only evergreen/future pipeline on Ashby)
+gWorks,repvue,76,2026-08-16,N,ATS unresolved (government SaaS)
+Demandwell,repvue,76,2026-08-16,N,ATS unresolved (SEO SaaS)
+"O'Reilly Media, Inc.",repvue,76,2026-08-16,N,ATS unresolved (tech learning platform)
+PVcase,repvue,76,2026-08-16,N,ATS unresolved (solar design SaaS; European focus)
+Zelis,repvue,76,2026-08-16,N,no IC AE (healthcare payments; Workday board has AM roles only)
+HRSoft,repvue,76,2026-08-16,N,ATS unresolved (HR SaaS)
+Calabrio,repvue,76,2026-08-16,N,ATS unresolved (workforce management SaaS; not on GH/Lever/Ashby)
+Esper.io,repvue,76,2026-08-16,N,no open IC AE (IoT device mgmt; Lever board: SDR/eng only)
+DemandScience,repvue,76,2026-08-16,N,no open AE role (GH board: finance/IT/marketing roles only)
+Arrive Logistics,repvue,76,2026-08-16,N,not B2B SaaS (freight brokerage)
+"AdRoll, a division of NextRoll",repvue,76,2026-08-16,N,no open AE (GH board: empty)
+Forcepoint,repvue,76,2026-08-16,N,ATS unresolved (cybersecurity SaaS; not on GH/Ashby/Lever)
+Safe and Sound Security,repvue,76,2026-08-16,N,not B2B SaaS (security installation services)
+Hajoca Corporation,repvue,76,2026-08-16,N,not B2B SaaS (plumbing/HVAC wholesale)
+MD7,repvue,76,2026-08-16,N,not B2B SaaS (telecom site management)
+S&P Global,repvue,76,2026-08-16,N,ATS unresolved (financial data/Workday; large enterprise roles)
+Zeta,repvue,76,2026-08-16,N,ATS unresolved (martech platform; not on GH/Ashby)
+TimelyCare,repvue,76,2026-08-16,N,ATS unresolved (healthcare SaaS; Lever board returned 403)
+Citizens Financial Group,repvue,76,2026-08-16,N,not B2B SaaS (commercial bank)
+Peek,repvue,76,2026-08-16,Y,Mid Market AE open in latest.csv; Ashby; $120K OTE
+McKinstry,repvue,76,2026-08-16,N,not B2B SaaS (engineering/facilities)
+Ortho Molecular Products,repvue,76,2026-08-16,N,not B2B SaaS (nutritional supplements)
+Insideout,repvue,76,2026-08-16,N,ATS unresolved (company not clearly identified)
+PayPal,repvue,76,2026-08-16,N,not B2B SaaS (fintech/payments)
+"Globality, Inc.",repvue,76,2026-08-16,N,no open AE (GH board: BDR/legal/partnerships only)
+ImageFIRST,repvue,76,2026-08-16,N,not B2B SaaS (healthcare linen services)
+Edmentum,repvue,76,2026-08-16,N,no open IC AE (GH board: SDR + VP Sales only)
+CATALIS,repvue,76,2026-08-16,N,ATS unresolved (government SaaS)
+Foxtons,repvue,76,2026-08-16,N,not B2B SaaS / non-US (UK real estate agency)
+Extensiv,repvue,76,2026-08-16,N,ATS unresolved (3PL/logistics SaaS)
+Pantheon Platform,repvue,76,2026-08-16,N,no open AE role (GH board: no IC AE positions)
+Silk,repvue,76,2026-08-16,N,ATS unresolved; no board found for Silk slug variants
+RTS Financial,repvue,76,2026-08-16,N,ATS unresolved; no qualifying AE found
+EasySend,repvue,76,2026-08-16,N,ATS unresolved; not found on GH/Lever/Ashby
+Coherent,repvue,76,2026-08-16,N,"IT services firm (Coherent Solutions), not B2B SaaS"
+Hotjar,repvue,76,2026-08-16,N,behavioral analytics B2B SaaS; no AE found on any ATS
+RTB House,repvue,76,2026-08-16,N,"adtech; only London AE found, not US remote"
+Digital River,repvue,76,2026-08-16,N,ATS unresolved; ecommerce-as-a-service
+Peak AI,repvue,76,2026-08-16,N,ATS unresolved; decision intelligence SaaS
+Code Climate,repvue,76,2026-08-16,N,ATS unresolved; code quality SaaS
+Spectrum Enterprise (Time Warner),repvue,76,2026-08-16,N,"enterprise telecom, not B2B SaaS"
+SchooLinks,repvue,76,2026-08-16,N,ATS unresolved; edtech SaaS
+FIS,repvue,76,2026-08-16,N,financial tech services; not B2B SaaS ICP
+Walnut,repvue,76,2026-08-16,N,no open positions (hr@walnut.io page: no positions right now)
+ScentAir,repvue,76,2026-08-16,N,scent marketing hardware/services; not B2B SaaS
+CDI,repvue,76,2026-08-16,N,IT consulting/services; not B2B SaaS
+Traba,repvue,76,2026-08-16,N,labor marketplace; no AE; not traditional B2B SaaS
+Virgin Media O2,repvue,76,2026-08-16,N,"UK telecom; not US, not B2B SaaS"
+Flight Schedule Pro,repvue,76,2026-08-16,N,ATS unresolved; aviation scheduling SaaS
+Udemy,repvue,76,2026-08-16,N,same as Udemy Business already tracked in universe/latest.csv
+Epsilon,repvue,76,2026-08-16,N,Publicis marketing agency subsidiary; not B2B SaaS
+IP Fabric,repvue,76,2026-08-16,N,network automation SaaS; no US AE (EU focused only)
+Couchbase,repvue,76,2026-08-16,N,database SaaS; no AE titled roles; Enterprise Sales Rep / Strategic AR titles but Enterprise tier 6-10+ yrs
+SAP Engagement Cloud,repvue,76,2026-08-16,N,Emarsys marketing automation; acquired by SAP; not standalone
+Omada,repvue,76,2026-08-16,N,ATS unresolved; identity management SaaS
+Appficiency inc,repvue,76,2026-08-16,N,NetSuite consulting; not B2B SaaS product
+Globus Medical,repvue,76,2026-08-16,N,medical devices hardware; not B2B SaaS
+EcoVadis,repvue,76,2026-08-16,N,ESG SaaS; no US AE found on SmartRecruiters (only Spain/EMEA roles)
+Agora,repvue,76,2026-08-16,N,ATS unresolved; real-time comms API SaaS
+Vertiv,repvue,76,2026-08-16,N,data center infrastructure hardware; not B2B SaaS
+Eastridge Workforce Solutions,repvue,76,2026-08-16,N,staffing agency; not B2B SaaS
+Anitian,repvue,76,2026-08-16,N,ATS unresolved; cloud compliance SaaS
+Radiant Logic,repvue,76,2026-08-16,N,ATS unresolved; identity management SaaS
+Firmex,repvue,76,2026-08-16,N,"VDR; acquired by Datasite; only BDR roles on Lever, no AE"
+Paytronix,repvue,76,2026-08-16,N,loyalty SaaS; Enterprise AE posting dead (404 on GH paytronix board)
+Directive,repvue,76,2026-08-16,N,B2B marketing agency; not B2B SaaS product
+Netcore Cloud,repvue,76,2026-08-16,N,ATS unresolved; customer engagement SaaS
+Greenphire,repvue,76,2026-08-16,N,clinical payments SaaS; no AE roles on GH
+"Twingate, Inc.",repvue,76,2026-08-16,N,network access SaaS; no AE (engineering only on Lever)
+Alpha Group,repvue,76,2026-08-16,N,ATS unresolved; unclear business type
+HUMAN,repvue,76,2026-08-16,N,"bot protection SaaS; only London AE found, not US remote"
+vArmour,repvue,75,2026-08-16,N,ATS unresolved; network security SaaS
+Texada Software,repvue,75,2026-08-16,N,ATS unresolved; equipment management SaaS
+Zone & Co.,repvue,75,2026-08-16,Y,already in latest.csv as Zone & Co (GH zonecompanysoftwareconsultingllc); LIVE verified 2026-08-16
+Piano,repvue,75,2026-08-16,N,ATS unresolved; analytics/subscription SaaS
+LocaliQ,repvue,75,2026-08-16,N,digital marketing services; not B2B SaaS product
+Cynet,repvue,75,2026-08-16,N,ATS unresolved; cybersecurity SaaS
+"Quench USA, Inc.",repvue,75,2026-08-16,N,water/beverage hardware/service; not B2B SaaS
+Totango,repvue,75,2026-08-16,N,customer success SaaS; no AE found; possibly merged with Gainsight
+ConnectWise,repvue,75,2026-08-16,N,"B2B SaaS for MSPs; US AE found (GH job/4587323005) but Commercial/SMB segment ($15K avg deal, 85/year, 25-day cycle); not MM"
+Springbrook Software,repvue,75,2026-08-16,N,ATS unresolved; government/utilities SaaS
+Altares Dun & Bradstreet,repvue,75,2026-08-16,N,French B2B data company; limited US scope; not a US-focused B2B SaaS AE target
+SumUp,repvue,75,2026-08-16,N,SMB payment processor (card readers/POS); not MM B2B SaaS
+Emeritus,repvue,75,2026-08-16,N,online education/executive ed platform; not B2B SaaS
+Cordis,repvue,75,2026-08-16,N,medical devices (cardiovascular); not SaaS
+CallMiner,repvue,75,2026-08-16,N,no qualifying AE found; only BDR/support roles on SmartRecruiters
+Tufin,repvue,75,2026-08-16,N,no AE on Greenhouse/Ashby/Lever/SmartRecruiters; firewall automation SaaS
+Syndio,repvue,75,2026-08-16,Y,Enterprise AE Remote US; OTE $280-290K; Greenhouse synd.io gh_jid=6135739004; pay equity analytics SaaS
+Elastic Suite,repvue,75,2026-08-16,N,ATS unresolved; website (elastic-suite.com) does not resolve; likely defunct or rebranded
+Aon,repvue,75,2026-08-16,N,insurance/professional services firm; not B2B SaaS
+Buxton,repvue,75,2026-08-16,N,ATS unresolved; retail analytics SaaS; no board on GH/Ashby/Lever after multiple attempts
+AspireIQ,repvue,75,2026-08-16,N,ATS unresolved; influencer marketing SaaS; possibly acquired/rebranded
+LoanDepot,repvue,75,2026-08-16,N,mortgage/lending company; not SaaS
+Robin,repvue,75,2026-08-16,N,ATS unresolved; workplace scheduling SaaS; GH/Ashby/Lever all 404 after 4 attempts
+Snagajob,repvue,75,2026-08-16,N,ATS unresolved; hourly worker job marketplace; not MM B2B SaaS
+Multiplier,repvue,75,2026-08-16,N,ATS unresolved; global employment platform; Ashby/Lever/Greenhouse all 404
+ClassPass,repvue,75,2026-08-16,N,B2C fitness membership app; not MM B2B SaaS
+Ernest Packaging Solutions,repvue,75,2026-08-16,N,packaging solutions company; not SaaS
+GetDandy,repvue,75,2026-08-16,N,ATS unresolved; auto dealership SaaS; no board found
+Canonical,repvue,75,2026-08-16,N,no AE found on Ashby board; Ubuntu/open source; roles are technical
+Prime Communications,repvue,75,2026-08-16,N,telecom (AT&T authorized retailer); not B2B SaaS
+PowerReviews,repvue,75,2026-08-16,N,ATS unresolved; ratings/reviews SaaS; GH/Ashby/Lever all 404
+Daktronics,repvue,75,2026-08-16,N,LED scoreboards/hardware manufacturer; not SaaS
+Noregon Systems,repvue,75,2026-08-16,N,ATS unresolved; commercial vehicle diagnostics; Greenhouse 404
+Mapbox,repvue,75,2026-08-16,N,no AE roles on Ashby board; only engineering/solutions architect listings
+Personetics,repvue,75,2026-08-16,N,ATS unresolved; financial engagement SaaS; Greenhouse/Lever/Ashby all 404
+Cellebrite,repvue,75,2026-08-16,N,no AE found on standard boards; digital forensics/law enforcement SaaS
+Stormwind Studios,repvue,75,2026-08-16,N,ATS unresolved; IT training SaaS; Greenhouse/Ashby all 404
+OpsRamp,repvue,75,2026-08-16,N,ATS unresolved; likely absorbed into HPE in 2023; no active board
+Tempo Software,repvue,75,2026-08-16,N,ATS unresolved; project management SaaS; Greenhouse gsd slug 404; Lever tempo 404
+Autosoft,repvue,75,2026-08-16,N,ATS unresolved; auto dealer DMS SaaS; Ashby/Lever all 404
+DBS,repvue,75,2026-08-16,N,likely DBS Group (Singapore bank); not US-focused B2B SaaS
+AutogenAI,repvue,75,2026-08-16,N,no AE roles on Greenhouse; only proposal managers and product designer
+GoodLife Fitness,repvue,75,2026-08-16,N,Canadian gym chain; not B2B SaaS
+Construct CRM,repvue,75,2026-08-16,N,ATS unresolved; CRM SaaS; Ashby 404
+Beamery,repvue,75,2026-08-16,Y,Account Executive Remote US; Enterprise; Ashby slug beamery ID 280df73c-7162-4698-bfcc-d4818e93b3df; posted 2026-06-04; talent intelligence SaaS
+Claris,repvue,75,2026-08-16,N,ATS unresolved; Apple subsidiary (FileMaker); Greenhouse clarisfm 404
+hh2,repvue,75,2026-08-16,N,ATS unresolved; construction management SaaS; Greenhouse hh2-cloud-services 404
+Aloha,repvue,75,2026-08-16,N,no AE visible on getaloha.com/careers (formerly ReviewWave); redirects but no open AE roles
+Revalize,repvue,75,2026-08-16,Y,already in latest.csv; Account Executive Pipe-Flo Remote; SmartRecruiters ID 744000140023509
+nTop,repvue,75,2026-08-16,N,ATS unresolved; engineering simulation SaaS; Ashby ntopology/ntop 404; Lever ntopology 404
+MarqVision,repvue,75,2026-08-16,N,ATS unresolved; brand protection SaaS; Ashby 404 on multiple slugs
+Fortitude Systems,repvue,75,2026-08-16,N,ATS unresolved; Ashby 404
+EBSCO Information Services,repvue,75,2026-08-16,N,ATS unresolved; Greenhouse EBSCOInformationServices 404; library database/information services
+Demyst Data,repvue,75,2026-08-16,N,ATS unresolved; data orchestration SaaS; Ashby demyst/demystdata 404
+Utility,repvue,75,2026-08-16,N,ATS unresolved; Workable utility-associates 404
+Smokeball,repvue,75,2026-08-16,N,ATS unresolved; legal practice management SaaS; Greenhouse/Ashby/Lever all 404
+Colonial Life,repvue,75,2026-08-16,N,insurance (supplemental benefits); not B2B SaaS
+Consilium Staffing,repvue,75,2026-08-16,N,staffing agency; not B2B SaaS
 Tutor Intelligence,ats-physical-ai,,2026-08-16,N,Lever posting dead; no replacement AE role found
-Replit,ats-ai-infra,,2026-08-16,N,No AE on Ashby board; only engineering/field-eng roles
-Integrate,ats-ai-infra,,2026-08-16,N,Commercial AE Seattle onsite only; defense/deep tech focus; not B2B SaaS
+Replit,ats-ai-infra,,2026-08-21,N,speedrun board: not open to US applicants
+Integrate,ats-ai-infra,73,2026-08-16,N,Commercial AE Seattle onsite only; defense/deep tech focus; not B2B SaaS
 fal.ai,ats-ai-infra,,2026-08-18,N,"AE-Enterprise SF office-based, 5+ yrs"
 Istari Digital,ats-ai-infra,,2026-08-16,N,Defense/aerospace B2G AE; not B2B SaaS
 Metaprise,ats-ai-infra,,2026-08-16,Y,NYC onsite (5 days/wk) IC AE; enterprise AI governance/infra; OTE $120K-$180K; Lever posted 2026-06-01
 Serval,ats-ai-infra,,2026-08-16,N,SF only 5 days/week in-office; IT automation AI agents; no remote option
-Sardine,ats-fintech,,2026-08-17,Y,"Strategic AE, Ent, North America remote, fintech fraud prevention, $230-320K OTE"
-Exactera,ats-fintech,,2026-08-17,Y,"AE International Tax, MM/Ent, Remote US, FinTech tax compliance SaaS"
+Sardine,ats-fintech,,2026-08-21,Y,"Account Executive, Mid-Market (MM)"
+Exactera,ats-fintech,75,2026-08-17,Y,"AE International Tax, MM/Ent, Remote US, FinTech tax compliance SaaS"
 BCB Group,ats-fintech,,2026-08-17,N,No AE on Greenhouse board; UK crypto/banking payments company
 Pathward,ats-fintech,,2026-08-17,N,Not B2B SaaS - banking institution (BaaS); AE role is structured finance portfolio mgmt
-Interface AI,ats-fintech,,2026-08-17,N,ATS unresolved - Greenhouse board/posting returned 404
+Interface AI,ats-fintech,73,2026-08-17,N,ATS unresolved - Greenhouse board/posting returned 404
 PureFacts,ats-fintech,,2026-08-17,N,"No IC AE role; Canadian company (Toronto-based), no US remote AE"
-Zeller,ats-fintech,,2026-08-17,N,Australian fintech (payments for AU businesses); not US remote
+Zeller,ats-fintech,73,2026-08-17,N,Australian fintech (payments for AU businesses); not US remote
 EML Payments,ats-fintech,,2026-08-17,N,Australian fintech; Rippling posting appears EU/non-US focused (pl-PL URL)
 Titan Cloud,ats-fintech,,2026-08-17,N,Fuel asset optimization software; not fintech/payments vertical
 Cardiff,ats-fintech,,2026-08-17,N,Not B2B SaaS; MCA/small business lending company
@@ -5192,7 +5192,7 @@ Roboto AI,ats-physical-ai,,2026-08-17,Y,Founding AE | US-remote | Physical AI ro
 Kastle,ats-physical-ai,,2026-08-17,Y,Enterprise AE | SF on-site | Physical AI smart infrastructure (AI building security)
 Gather AI,ats-physical-ai,,2026-08-17,N,No AE roles; Greenhouse board has engineering/ML/operations only; Physical AI drone inventory
 Outrider,ats-physical-ai,,2026-08-17,N,No AE roles; Greenhouse board has engineering/hardware only; autonomous yard trucks
-Avidbots,ats-physical-ai,,2026-08-17,N,ATS unresolved; Ashby+GH both 404; autonomous floor cleaning robots
+Avidbots,ats-physical-ai,65,2026-08-17,N,ATS unresolved; Ashby+GH both 404; autonomous floor cleaning robots
 Fireworks AI,ats-ai-infra,,2026-08-18,Y,Enterprise Account Executive | Remote | AI infra - LLM inference platform | OTE $300-330K (Ashby API verified)
 WorkOS,ats-ai-infra,,2026-08-18,Y,Account Executive - AI Native | Remote | B2B SaaS - developer auth/identity infra | Needs check (Ashby posting-api blind spot)
 Higgsfield,brex-benchmark-summer-2026,,2026-08-18,N,"62 reqs; only GTM AE, based Almaty (non-US)"
@@ -5223,13 +5223,13 @@ UptimeAI,ats-physical-ai,,2026-08-19,N,Ashby board: 1 AE posting but APAC/Middle
 Bright Machines,ats-physical-ai,,2026-08-19,N,Lever board: no AE/sales posting; industrial robotics/manufacturing automation
 Piaggio Fast Forward,ats-physical-ai,,2026-08-19,N,Greenhouse board: no IC AE role (only Business Development Leader); construction robotics
 Collaborative Robotics,ats-physical-ai,,2026-08-19,N,Greenhouse board 404; Cobot Ashby board no AE posting; AMR/cobot robotics
-GrayMatter Robotics,ats-physical-ai,,2026-08-19,N,Ashby board (graymatter-robotics): no AE posting currently; industrial robotics/surface treatment
-Procurify,ats-robotics,,2026-08-19,N,"Ashby board: no AE roles; only BDR and engineering (procurement automation SaaS, B2B)"
+GrayMatter Robotics,ats-physical-ai,68,2026-08-19,N,Ashby board (graymatter-robotics): no AE posting currently; industrial robotics/surface treatment
+Procurify,ats-robotics,75,2026-08-19,N,"Ashby board: no AE roles; only BDR and engineering (procurement automation SaaS, B2B)"
 CADDi,ats-robotics,,2026-08-19,N,Workable MM AE and Ent AE both Chicago IL office roles with 40-50% in-person time; not US-remote; manufacturing supply chain SaaS
 Divcon Controls,ats-robotics,,2026-08-19,N,Rippling board: no AE roles; only engineering/PM; industrial automation controls firm
 Hadrian Automation,ats-robotics,,2026-08-19,N,Ashby board: no AE roles; only engineering/finance/manufacturing; autonomous factory for aerospace/defense Physical AI
 Regal,claude,,2026-08-19,N,posting dead (Lever); no qualifying replacement found
-TrueComp,claude,,2026-08-19,N,posting dead (Rippling); no qualifying replacement found
+TrueComp,claude,65,2026-08-19,N,posting dead (Rippling); no qualifying replacement found
 GovWell,ats-search,,2026-08-19,Y,MM B2B SaaS (gov tech); AE posting live on Ashby; NYC
 Deepnote,ats-data,,2026-08-19,Y,MM AE live on Ashby; SF-based; data analytics notebook B2B SaaS
 RecordPoint,ats-data,,2026-08-19,N,only AE role is Australia-based; not US-remote
@@ -5248,7 +5248,7 @@ zaimler,ats-devtools,,2026-08-20,N,Lever board: no AE posting found (Eng/product
 Bolt42,ats-devtools,,2026-08-20,N,Greenhouse board 404; MM AE posting in search unverifiable; company/ATS not resolvable
 RunSybil,ats-devtools,,2026-08-20,Y,Commercial AE US Remote (Ashby f94d5150); security/devtools SaaS; in latest.csv as LIVE
 Hyperbound,ats-ai-infra,,2026-08-21,N,Dead Ashby posting ffc454ea; no US-remote AE replacement found
-OutSystems,ats-devtools,,2026-08-21,N,HTTP_DEAD Workday posting R1432; no replacement found; low-code platform
+OutSystems,ats-devtools,81,2026-08-21,N,HTTP_DEAD Workday posting R1432; no replacement found; low-code platform
 MinIO,ats-data,,2026-08-21,Y,"Enterprise AE - Chicago (remote US), data infrastructure/AI storage; in latest.csv since 2026-07-21"
 Steer CRM,ats-data,,2026-08-21,N,No AE (partner/support roles only); automotive CRM SaaS
 Signal Vine,ats-data,,2026-08-21,N,"Higher ed B2B SaaS messaging; AE posting from 2021 (stale, likely dead)"
@@ -5256,3 +5256,56 @@ Invisible Technologies,ats-data,,2026-08-21,N,No AE (engineering/ops roles only)
 Future,ats-data,,2026-08-21,N,No AE (engineering/product roles only)
 Datavations,ats-data,,2026-08-21,N,No AE (Sr Sales Engineer / CS; EU Greenhouse); company likely non-US
 SigNoz,ats-devtools,,2026-08-21,N,no AE roles on Ashby board; open-source observability platform
+ADDI,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Adaptive,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Alchemy,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Alleviate Health,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Bayesian Health,a16z-speedrun,,2026-08-21,N,speedrun board: not an IC closing title
+Bead,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Black Forest Labs,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Concourse,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Decagon,a16z-speedrun,,2026-08-21,Y,Enterprise Account Executive - Austin (Ent)
+Emanate,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Fal,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Freenome,a16z-speedrun,,2026-08-21,Y,Strategic Account Executive (East Coast) (Ent)
+GoodData.AI,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Halliday,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+HappyRobot,a16z-speedrun,,2026-08-21,Y,Enterprise Account Executive (Ent)
+Hebbia AI,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Hewlett Packard,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Ideogram,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Kantar,a16z-speedrun,68,2026-08-21,N,speedrun board: not flagged remote
+Lassie,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+LexisNexis Legal & Professional,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Lio,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Marsh,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Metal,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Method,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+MotherDuck,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Neighbor,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+OP Labs,a16z-speedrun,,2026-08-21,N,speedrun board: not open to US applicants
+OfferUp,a16z-speedrun,75,2026-08-21,N,speedrun board: not flagged remote
+Phylo,a16z-speedrun,,2026-08-21,N,speedrun board: not open to US applicants
+Probook,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Prosper AI,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+RELX,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Shield AI,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+SnapLogic,a16z-speedrun,75,2026-08-21,N,speedrun board: demands 10+ years
+Socket.dev,a16z-speedrun,,2026-08-21,Y,Enterprise Account Executive (Ent)
+TENEX.AI,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Tako,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Tennr,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Titan,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Ultima Genomics,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Uncountable,a16z-speedrun,81,2026-08-21,N,speedrun board: not flagged remote
+Valon Labs,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Xylem,a16z-speedrun,74,2026-08-21,N,speedrun board: not flagged remote
+Zipline,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+krea.ai,a16z-speedrun,,2026-08-21,N,speedrun board: not flagged remote
+Anchorage,a16z-speedrun,,2026-08-21,Y,Associate Institutional Sales Representative - Global Markets (Unspec)
+Bastion,a16z-speedrun,,2026-08-21,Y,"Account Executive, Stablecoins & Payments (Unspec)"
+Clutch,a16z-speedrun,,2026-08-21,Y,Account Executive - Enterprise (Ent)
+Infinitus Systems,a16z-speedrun,,2026-08-21,Y,National Account Executive (Unspec)
+Resend,a16z-speedrun,,2026-08-21,Y,Technical Account Executive (Ent)
+RigUp,a16z-speedrun,,2026-08-21,Y,Senior Account Executive – Downstream (Ent)
+Wonderschool,a16z-speedrun,,2026-08-21,Y,Government Account Executive (Unspec)

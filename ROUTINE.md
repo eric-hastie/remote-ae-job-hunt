@@ -28,8 +28,16 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 - **`data/claude_universe.csv`** — the MEMORY: *every company ever evaluated*, win or not. Columns:
   `Company,Source,RepVue Score,Last Checked,Currently Open,Notes`. This is the dedup set so we never
   re-discover a company we've already considered. **It must grow every run** (see Job 2, step 4).
-- **`data/scan_queue.csv`** — the SCAN RING: every RepVue company at score **≥ 76**, best-score-first
-  (4,075 companies). Columns: `Company,Slug,Score` (Slug = starting guess for the ATS board token).
+- **`data/scan_queue.csv`** is the SCAN RING. Two blocks, in this order: a **seed block** of companies
+  from the a16z speedrun board that the pipeline has never evaluated (`Source = a16z-speedrun`, no
+  score), then every RepVue company at score **≥ 76**, best-score-first (4,075 companies).
+  Columns: `Company,Slug,Score,Source` (Slug = starting guess for the ATS board token).
+  **The seed block is first on purpose:** every RepVue row is a re-check by definition, since RepVue
+  has zero net-new companies left at ≥76, and a company nobody has opened a board for outyields a
+  re-check. Inside the seed block the order comes from the board's own labels: companies it says hire sales
+  first, then remote-first before hybrid before onsite-leaning. That is an ORDER, not a filter:
+  nothing is excluded, and a company at the back still gets its own ATS checked. `refill_queue.py`
+  preserves any row whose `Source` is not `repvue`.
   It is a ring, not a well: Job 2 walks it 50 per run, and on reaching the bottom it starts a new
   cycle **from the top, at the highest scores**. It never goes dry. On its 2 slots/day (~100
   companies/day) a full cycle is ~40 days, which is the right re-check cadence anyway (roles churn on
@@ -40,6 +48,13 @@ run's discovery work is bounded by the 50-company cap, not by verticals or loop-
 - **`data/queue_cycle.txt`** — the ring CURSOR: the date the current cycle opened. A queue row is
   eligible when its `Last Checked` in `claude_universe.csv` is earlier than that date (or absent).
   Never edit it by hand; `scripts/next_batch.py` reads it, advances it, and reports position.
+- **`data/speedrun_companies.csv`** is the a16z speedrun board's company list, 1,509 employers with
+  the board's own `RemotePosture` (remote-first / hybrid-friendly / onsite-leaning), `Functions`
+  (which job families it hires for, including `sales`), open-role count and collection memberships.
+  Committed, because it is public sitemap data and the cloud clone has no other company library.
+  **`SalesRoles = 0` is NOT evidence a company has no AE role.** This board carries only a slice of
+  some employers' postings. 1Password is labelled as hiring sales while listing none.
+- `data/speedrun_raw.tsv`, `data/speedrun_triage.csv` are gitignored working files for Job S.
 - `data/repvue_universe.csv` — gitignored/local-only (RepVue's proprietary data; not in cloud clones).
 - `data/YYYY-MM-DD.csv` — dated snapshot of `latest.csv`, refreshed each run.
 
@@ -162,9 +177,42 @@ Then act on the verify script's output:
 5. **Confirm the board belongs to the right company** — same-name collisions exist (an "Augment"
    logistics-AI company's AE role was once attributed to Augment Code).
 
+## Job S: sweep the a16z speedrun board (EVERY run, before the scheduled job)
+
+Costs no model tokens and takes about two minutes, so it does **not** take a slot from Job 2, 3 or F.
+Bash is allowed for these three scripts.
+
+```
+python3 scripts/harvest_speedrun.py     # sitemap -> closing-sales pages -> data/speedrun_raw.tsv
+python3 scripts/triage_speedrun.py      # apply the bar + confirm each id in the company's own ATS
+python3 scripts/merge_speedrun.py       # publish winners, record judged companies, seed the ring
+```
+
+**What makes this board worth a standing slot:** every job page carries a schema.org JobPosting block
+holding the company, the first-posted date, the remote flag, the applicant location requirement, the
+posted salary, the full job description, and the apply link on the company's OWN ATS carrying that
+job's native id. So a row arrives already meeting the URL-capture rules below, and its segment is
+read from the description in the same fetch. First full pull, 2026-08-21: **100 of 100 rows that
+cleared remote + US + IC + the experience ceiling were confirmed live in their own ATS feed.**
+
+**Read the counts, they are the health check.** `harvest_speedrun.py` prints `sent / parsed / no
+JobPosting block / fetch errors` and `triage_speedrun.py` prints one verdict per row. A non-zero
+**fetch errors** means the pull is SHORT and no total from that run can be trusted. Rerun before
+recording anything. A page with no JobPosting block is a property of the source and is fine to skip.
+
+**If the ATS JSON APIs are unreachable** (the cloud environment could not reach
+boards-api.greenhouse.io or api.ashbyhq.com as of 2026-07-02; unconfirmed since), run
+`python3 scripts/triage_speedrun.py --no-verify` and set those rows' `Status` to `Needs check`
+rather than `Verified`. Never publish an unverified row as Verified to keep a run productive.
+
+**Do not record a speedrun company as checked unless a posting of theirs was actually read.**
+`merge_speedrun.py` already enforces this. The board is not a complete mirror of anyone's careers
+page, so "no AE role listed here" is not a finding, and writing it into `claude_universe.csv` would
+make every future run skip that company forever.
+
 ## Which job this run does (decide at start; Job 1 runs EVERY run first)
 
-Get `H=$(date -u +%H)` (runs fire at 03/08/13/18/23) and `D=$(date -u +%u)` (1 = Monday):
+Get `H=$(date -u +%H)` (runs fire at 03/08/13/18/23) and `D=$(date -u +%u)` (1 = Monday). Jobs 1 and S run first every time and take no slot from the choice below:
 
 1. **Monday 18:00 UTC** (`D==1 && H==18`) → **Job F — weekly fresh-startup sweep**.
 2. **`H` in {13, 18, 23}** → **Job 3 — vertical startup search** (3 discovery slots/day).
@@ -184,7 +232,7 @@ repeatedly yielded ~nothing.
 **Job 4 is retired.** The ring's wrap-around IS the re-check rotation, in score order, over more
 companies than Job 4 covered. Its section is kept below only as the reference for re-check judgment.
 
-One job per run (plus Job 1). Do not combine or improvise beyond the selected job's budget.
+One job per run (plus Jobs 1 and S). Do not combine or improvise beyond the selected job's budget.
 
 ## Job 2 — Scan the next 50 ring companies
 

@@ -21,3 +21,7 @@ data/recheckC_alsoFound.csv
 data/unverified.csv
 
 data/aggregator_only.csv
+
+# a16z speedrun harvest - staged locally, never published
+data/speedrun_raw.tsv
+data/speedrun_triage.csv

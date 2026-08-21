@@ -52,14 +52,28 @@ def normalize(name: str) -> str:
 
 
 def load_repvue():
-    """normalized name -> (display name, score). Ambiguous keys are dropped."""
+    """normalized name -> (display name, score). Ambiguous keys are dropped.
+
+    Ambiguity is judged across EVERY RepVue row, including the ones carrying no
+    score. Skipping unscored rows before the duplicate check was a live bug: it
+    let a name that RepVue lists twice look unique. "Clutch" is the case that
+    found it - RepVue has `clutch` (Internet, score 74.66) and `withclutch`
+    (Finance, no score), and our Clutch is the second one, so the enricher
+    stamped a stranger's score onto a published row on 2026-08-21.
+    """
     best, dupe = {}, set()
+    seen_slugs = {}
     for r in csv.DictReader(REPVUE.open()):
-        score = (r.get("repvue_score") or "").strip()
-        if not score:
-            continue
         key = normalize(r.get("name", ""))
         if not key:
+            continue
+        slug = (r.get("slug") or "").strip().lower()
+        if key in seen_slugs and slug not in seen_slugs[key]:
+            dupe.add(key)
+        seen_slugs.setdefault(key, set()).add(slug)
+
+        score = (r.get("repvue_score") or "").strip()
+        if not score:
             continue
         if key in best and best[key][1] != score:
             dupe.add(key)

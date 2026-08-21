@@ -86,15 +86,31 @@ def main():
         print("(--dry-run: nothing written)")
         return
 
+    # Seeded rows from other sources (the a16z speedrun company sitemap, for
+    # one) are NOT RepVue rows and must survive a refill. They carry no score,
+    # so a rebuild that only reads repvue_universe.csv would silently delete
+    # them. Keep them, in their existing order, at the front.
+    kept = []
+    if os.path.exists(QUEUE):
+        for r in csv.DictReader(open(QUEUE, newline="")):
+            if (r.get("Source") or "repvue") != "repvue":
+                kept.append(r)
+    if kept:
+        print(f"  preserving {len(kept)} non-RepVue seeded rows at the front of the ring")
+
     with open(QUEUE, "w", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(["Company", "Slug", "Score"])
+        w = csv.DictWriter(f, fieldnames=["Company", "Slug", "Score", "Source"])
+        w.writeheader()
+        for r in kept:
+            w.writerow({"Company": r["Company"], "Slug": r.get("Slug", ""),
+                        "Score": r.get("Score", ""), "Source": r["Source"]})
         for score, name, slug in rows:
-            w.writerow([name, slug, f"{score:.2f}"])
+            w.writerow({"Company": name, "Slug": slug, "Score": f"{score:.2f}",
+                        "Source": "repvue"})
     today = datetime.date.today().isoformat()
     with open(CYCLE, "w") as f:
         f.write(today + "\n")
-    print(f"wrote {QUEUE}: {len(rows)} companies")
+    print(f"wrote {QUEUE}: {len(rows)} RepVue companies + {len(kept)} seeded")
     print(f"wrote {CYCLE}: cycle starts {today} (everything in the ring is eligible again)")
 
 

@@ -5,43 +5,15 @@ These are deliberately kept separate from the main list. Some are real postings 
 company never published to its own careers page (ContextQA is one), so "unverified"
 means "not confirmed", NOT "not real". Date posted is shown so staleness is visible.
 """
-import csv, re, os, json, datetime, html
+import csv, re, os, sys, json, datetime, html
 
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 TODAY = datetime.date(2026, 8, 3)
 
-BAD = re.compile(r"\b(director|vp|vice president|head of|chief|manager|sdr|bdr|"
-                 r"sales development|intern|recruiter|engineer|customer success|"
-                 r"account manager|partnerships?)\b", re.I)
-AE = re.compile(r"account executive", re.I)
-MM_T = re.compile(r"mid-?\s?market|\bcommercial\b", re.I)
-ENT_T = re.compile(r"\benterprise\b|\bstrategic\b|major account|named account", re.I)
-SMB_T = re.compile(r"\bsmb\b|small business", re.I)
-MM_B = re.compile(r"mid-?\s?market|commercial (segment|account|team|book)", re.I)
-ENT_B = re.compile(r"enterprise (account|client|customer|segment|deal|logo|prospect)"
-                   r"|fortune\s?(500|1000)|large enterprise|strategic account", re.I)
-
-
-def base(n):
-    return re.sub(r"[^a-z0-9]", "", re.split(r"\(", n or "")[0].lower())
-
-
-def seg(title, body=""):
-    if MM_T.search(title): return "MM"
-    if SMB_T.search(title): return "SMB"
-    if ENT_T.search(title): return "Ent"
-    mm, ent = bool(MM_B.search(body)), bool(ENT_B.search(body))
-    if mm and not ent: return "MM"
-    if ent and not mm: return "Ent"
-    if mm and ent: return "MM/Ent"
-    return "Unspec"
-
-
-def yoe_ok(y):
-    try:
-        return float(y) <= 8
-    except (TypeError, ValueError):
-        return True
+# The bar lives in scripts/bar.py so this page and the speedrun triage cannot
+# drift apart on what counts as Mid-Market or where the experience ceiling is.
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "scripts"))
+from bar import BAD, AE, MM_T, ENT_T, SMB_T, MM_B, ENT_B, base, seg, yoe_ok  # noqa: E402
 
 
 published = {(r.get("Job Posting URL") or "").strip()
