@@ -5421,3 +5421,7 @@
 "Lastwall","ats-devtools","","2026-08-22","N","AE is Canada-only government/critical infrastructure; not US-remote"
 "Primer.io","ats-devtools","","2026-08-22","N","no US-remote AE; payments orchestration APAC/UK only"
 "Advisor360","ats-fintech","","2026-08-22","Y","Enterprise AE, US-remote, WealthTech SaaS"
+"Cooper AI","ats-ai-infra","","2026-08-22","Y","MM AE open (SF on-site); insurance automation SaaS; Ashby posting 529b47ed"
+"Basis AI","ats-ai-infra","","2026-08-22","Y","Enterprise AE open (NYC on-site); AI agents for accounting firms; Ashby posting f195afe3"
+"Zowie","ats-ai-infra","","2026-08-22","N","US MM AE (Lever afa08210) dead/inaccessible; Ashby board Poland-only; no qualifying US AE"
+"Forethought","ats-ai-infra","","2026-08-22","N","Greenhouse posting 5807724004 dead (404); no current qualifying AE"
