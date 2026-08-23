@@ -4802,7 +4802,7 @@ Pano AI,aggregator-verify,,2026-08-15,N,"Live Ashby board (slug pano-ai, 6 posti
 Ultralytics,aggregator-verify,,2026-08-15,N,"Live Ashby board (slug ultralytics, 5 postings: Senior BDR, LLM Engineer, Senior Graphic Designer, Product Marketing Manager, R&D Engineer) has no Account Executive title. Both agg"
 Ably,aggregator-verify,72,2026-08-15,N,"Only current AE posting on Ably's real Greenhouse board (job-boards.eu.greenhouse.io/ably30, id 4937091101) is 'Senior Account Executive, New Business' based in London, UK (remote)"
 Alloy Robotics,aggregator-verify,,2026-08-15,N,Dover ATS is a client-side-rendered SPA; WebFetch returns only an empty 'Dover' shell for both the specific apply URL and the company job-list page (app.dover.com/jobs/usealloy) — 
-Doss,aggregator-verify,,2026-08-15,N,Real ATS is jobs.ashbyhq.com/doss. Current posting-api JSON (all 10 live jobs) contains zero Account Executive roles — the specific AE/Mid-Market id (60ac1388) is not in the curren
+Doss,aggregator-verify,,2026-08-23,N,no AE role on Ashby doss board (confirmed 2026-08-23); engineering/ops only
 GrowthFactor,aggregator-verify,,2026-08-15,N,"Dover ATS is a client-side SPA, WebFetch returns only an empty shell for the apply URL. Company's own careers page (growthfactor.ai/resources/careers) rate-limited (HTTP 429) on re"
 Neural Concept,aggregator-verify,,2026-08-15,N,"Both lead AE job ids (79f775b0, 631b29ff) are absent from the current full Ashby posting-api listing. Current board has zero Account Executive roles — only Forward Deployed Enginee"
 Vironix Health,aggregator-verify,,2026-08-15,N,"Posting is live and real, but the JD requires the candidate be based in (or willing to relocate to) Nevada or the Greater Philadelphia/PA area — a field-based territory role, not r"
@@ -5422,7 +5422,7 @@ Lastwall,ats-devtools,,2026-08-22,N,AE is Canada-only government/critical infras
 Primer.io,ats-devtools,,2026-08-22,N,no US-remote AE; payments orchestration APAC/UK only
 Advisor360,ats-fintech,,2026-08-22,Y,"Enterprise AE, US-remote, WealthTech SaaS"
 Cooper AI,ats-ai-infra,,2026-08-22,Y,MM AE open (SF on-site); insurance automation SaaS; Ashby posting 529b47ed
-Basis AI,ats-ai-infra,,2026-08-22,Y,Enterprise AE open (NYC on-site); AI agents for accounting firms; Ashby posting f195afe3
+Basis AI,ats-ai-infra,,2026-08-23,Y,Enterprise AE open (NYC on-site); AI agents for accounting firms; Ashby posting f195afe3; $100K-$400K base
 Zowie,ats-ai-infra,,2026-08-22,N,US MM AE (Lever afa08210) dead/inaccessible; Ashby board Poland-only; no qualifying US AE
 Forethought,ats-ai-infra,,2026-08-22,N,Greenhouse posting 5807724004 dead (404); no current qualifying AE
 Oscar Health,a16z-speedrun,,2026-08-23,N,not B2B SaaS (consumer/employer health insurance)
@@ -5471,3 +5471,52 @@ Rain,a16z-speedrun,,2026-08-23,N,no AE role; stablecoin payments platform; crypt
 Kalshi,a16z-speedrun,,2026-08-23,N,consumer prediction/event market; not B2B SaaS
 Flow,a16z-speedrun,,2026-08-23,N,real estate company; not B2B SaaS
 Hypersonica,a16z-speedrun,,2026-08-23,N,European defense/aerospace (hypersonic systems); not US/B2B SaaS
+Wordsmith AI,a16z-speedrun,,2026-08-23,Y,Account Executive Mid Market + Enterprise NYC (on-site); legal AI SaaS; Ashby wordsmith
+SingleStore,a16z-speedrun,,2026-08-23,Y,Enterprise AE open (Remote US); database platform; GH job 7983245; $120K-$175K base
+BetterUp,a16z-speedrun,,2026-08-23,Y,Enterprise AE open (Remote/hybrid); coaching platform; Ashby b3845a9f
+Flow Engineering,a16z-speedrun,,2026-08-23,Y,Field AE Mid-Market (4fa28e79) in latest.csv from 2026-08-03; Ashby board also shows new Field AE roles
+Hadrian,a16z-speedrun,,2026-08-23,N,precision metal parts manufacturer; not B2B SaaS
+Perplexity AI,a16z-speedrun,,2026-08-23,N,no AE role on Ashby board (marketing/AI research/CS only); re-confirmed 2026-08-23
+Motorola,a16z-speedrun,,2026-08-23,N,Workday ATS; not verifiable via API; not B2B SaaS
+Warner Bros.,a16z-speedrun,,2026-08-23,N,media/entertainment company; not B2B SaaS
+Heron Power,a16z-speedrun,,2026-08-23,N,energy company; not B2B SaaS
+PhysicsX,a16z-speedrun,,2026-08-23,N,Ashby board 404; ATS not found; AI simulation for engineering
+Ferrovial,a16z-speedrun,,2026-08-23,N,infrastructure/construction company; not B2B SaaS
+Monolithic Power Systems,a16z-speedrun,,2026-08-23,N,semiconductor manufacturer; not B2B SaaS
+Velo3D,a16z-speedrun,,2026-08-23,N,metal 3D printing hardware; not B2B SaaS
+Arc Boat Company,a16z-speedrun,,2026-08-23,N,electric boats hardware; not B2B SaaS
+NODA AI,a16z-speedrun,,2026-08-23,N,experience ceiling exceeded (8+ yrs required)
+Pennsylvania State University,a16z-speedrun,,2026-08-23,N,university; not B2B SaaS
+ARQ,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
+Raisin,a16z-speedrun,,2026-08-23,N,B2C savings marketplace; European-based; not US remote B2B SaaS
+Watershed,a16z-speedrun,,2026-08-23,N,no US AE role; only Nordics/Europe Enterprise AE open
+carwow,a16z-speedrun,,2026-08-23,N,UK car marketplace; B2C/B2B2C; not US remote B2B SaaS
+Composio,a16z-speedrun,,2026-08-23,N,no AE role on Ashby board (engineering/GTM support only); re-confirmed 2026-08-23
+Modal,a16z-speedrun,,2026-08-23,N,in-person only (5 days/week SF); no remote AE role
+Cartesia,a16z-speedrun,,2026-08-23,N,no AE role on Ashby board (engineering/research only)
+Strava,a16z-speedrun,,2026-08-23,N,B2C fitness app; not B2B SaaS
+Tacto,a16z-speedrun,,2026-08-23,N,only Associate AE in Munich on-site; no qualifying US AE
+AfterQuery,a16z-speedrun,,2026-08-23,N,no AE role on Ashby board (engineering/growth only)
+Netic,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
+Imprint,a16z-speedrun,,2026-08-23,N,no AE role on Ashby board; co-branded credit card fintech
+Upvest,a16z-speedrun,,2026-08-23,N,EU-focused investing API; no US AE roles
+Nomagic,a16z-speedrun,,2026-08-23,N,Ashby board 404; ATS not found; warehouse robotics
+Distyl AI,a16z-speedrun,,2026-08-23,N,experience ceiling exceeded (12+ yrs required); Ashby slug is distyl
+Savvy,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
+Cape,a16z-speedrun,,2026-08-23,N,no AE role on Ashby board (engineering-only hiring); privacy mobile
+DOSS.COM,a16z-speedrun,,2026-08-23,N,no AE role on Ashby doss board; only engineering and product ops open
+Harper,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
+Teledyne,a16z-speedrun,,2026-08-23,N,defense/aerospace instruments manufacturer; not B2B SaaS
+WindBorne Systems,a16z-speedrun,,2026-08-23,N,Ashby board 404; ATS not found; atmospheric data from balloons
+Dust,a16z-speedrun,,2026-08-23,N,in-person culture; no remote AE role
+Picogrid,a16z-speedrun,,2026-08-23,N,energy microgrids hardware; not B2B SaaS
+Taxfix,a16z-speedrun,,2026-08-23,N,B2C tax filing app; European market; not qualifying
+Vinci4D.ai,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
+Brigit,a16z-speedrun,,2026-08-23,N,B2C financial wellness app; not B2B SaaS
+Reevo,a16z-speedrun,,2026-08-23,N,"no AE role on Ashby board (Sales Manager only, no AE openings); Ashby slug is reevo"
+Wonderful,a16z-speedrun,,2026-08-23,N,"The Wonderful Company; B2C consumer brand (FIJI Water, POM); not B2B SaaS"
+Formation Bio,a16z-speedrun,,2026-08-23,N,Ashby board 404; AI drug discovery; not traditional B2B SaaS AE role
+Latent,a16z-speedrun,,2026-08-23,N,experience ceiling exceeded (8+ yrs required)
+Human Archive,a16z-speedrun,,2026-08-23,N,personal digital legacy product; B2C or very niche; not B2B SaaS
+lemon.markets,a16z-speedrun,,2026-08-23,N,EU stock trading API for developers; not US market
+Lightfield,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage

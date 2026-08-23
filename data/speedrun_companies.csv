@@ -62,7 +62,7 @@ ancestry,Ancestry,1,0,remote-first,design,early-career|remote|remote-first,2026-
 anchorage,Anchorage,33,2,remote-first,engineering|marketing|operations|other|sales,a16z-portfolio|miami|new-york|remote|remote-first,2026-08-23
 andesite,Andesite,1,0,remote-first,other,backed-by-general-catalyst,2026-08-23
 ando,Ando,6,0,onsite-leaning,design|engineering|operations|research,backed-by-index-ventures,2026-08-23
-anduril-industries,Anduril Industries,2238,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|boston|early-career|hiring-in-volume|london|los-angeles|new-this-week|remote|seattle,2026-08-23
+anduril-industries,Anduril Industries,2239,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|boston|early-career|hiring-in-volume|london|los-angeles|new-this-week|remote|seattle,2026-08-23
 anine-bing,Anine Bing,14,0,onsite-leaning,marketing|operations|other,backed-by-index-ventures,2026-08-23
 ankar-ai,Ankar AI,10,0,onsite-leaning,engineering|marketing|operations|product|sales,backed-by-index-ventures,2026-08-23
 ankorstore,Ankorstore,1,0,onsite-leaning,operations,backed-by-index-ventures,2026-08-23
@@ -569,7 +569,7 @@ globus-medical,Globus Medical,14,0,onsite-leaning,other,early-career,2026-08-23
 glossier,Glossier,21,0,onsite-leaning,marketing|other,backed-by-index-ventures,2026-08-23
 glydways,Glydways,11,0,hybrid-friendly,engineering|operations,backed-by-khosla-ventures,2026-08-23
 goat-group,GOAT Group,19,0,hybrid-friendly,engineering|operations,backed-by-index-ventures,2026-08-23
-gong,Gong,97,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-23
+gong,Gong,98,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-23
 gooddata-ai,GoodData.AI,7,1,onsite-leaning,engineering|sales,a16z-portfolio|devtools-infra|new-this-week,2026-08-23
 goodship,GoodShip,3,0,remote-first,engineering|other,backed-by-bessemer-ventures,2026-08-23
 goodstack,Goodstack,7,0,hybrid-friendly,marketing|operations|other|sales,backed-by-general-catalyst,2026-08-23
@@ -775,7 +775,7 @@ link,Link,1,0,onsite-leaning,operations,early-career,2026-08-23
 lio,Lio,27,2,onsite-leaning,design|engineering|operations|other|sales,a16z-portfolio|backed-by-lightspeed|early-career|enterprise-b2b|new-this-week|new-york|remote,2026-08-23
 liquid,Liquid,2,0,onsite-leaning,engineering|sales,backed-by-general-catalyst,2026-08-23
 listen-labs,Listen Labs,31,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-sequoia-capital,2026-08-23
-litellm,LiteLLM,15,0,onsite-leaning,engineering|operations|other|sales,yc-w23,2026-08-23
+litellm,LiteLLM,13,0,onsite-leaning,engineering|operations|sales,yc-w23,2026-08-23
 literati,Literati,3,0,onsite-leaning,other,backed-by-general-catalyst,2026-08-23
 lithic,Lithic,5,0,hybrid-friendly,operations|other,backed-by-index-ventures,2026-08-23
 littelfuse,Littelfuse,10,0,onsite-leaning,engineering|operations|other,early-career,2026-08-23
@@ -923,7 +923,7 @@ nomagic,Nomagic,26,0,onsite-leaning,design|engineering|marketing|operations|othe
 nomic,Nomic,2,0,remote-first,engineering|product,a16z-portfolio|crypto-web3|remote|remote-first,2026-08-23
 nooks,Nooks,47,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-kleiner-perkins,2026-08-23
 northwestern-mutual,Northwestern Mutual,5,0,onsite-leaning,other,early-career,2026-08-23
-northwood-space,Northwood Space,72,0,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|aero-space|early-career|los-angeles|new-this-week,2026-08-23
+northwood-space,Northwood Space,74,0,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|aero-space|early-career|los-angeles|new-this-week,2026-08-23
 notable,Notable,10,0,onsite-leaning,design|engineering|marketing|operations|sales,backed-by-greylock-partners,2026-08-23
 notion,Notion,128,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-index-ventures|backed-by-sequoia-capital,2026-08-23
 nova-credit,Nova Credit,13,0,hybrid-friendly,design|engineering|marketing|operations|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-23
@@ -969,7 +969,7 @@ ophelia,Ophelia,13,0,onsite-leaning,marketing|operations|other|product,backed-by
 optiver,Optiver,1,0,onsite-leaning,other,early-career,2026-08-23
 opusclip,OpusClip,3,0,hybrid-friendly,marketing|product|research,early-career|new-this-week|remote,2026-08-23
 orb,Orb,23,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-greylock-partners,2026-08-23
-orchard-robotics,Orchard Robotics,26,0,onsite-leaning,design|engineering|operations|sales,backed-by-general-catalyst,2026-08-23
+orchard-robotics,Orchard Robotics,23,0,onsite-leaning,design|engineering|operations|sales,backed-by-general-catalyst,2026-08-23
 orchestra,Orchestra,3,0,onsite-leaning,engineering,a16z-portfolio|health-bio,2026-08-23
 orennia,Orennia,1,0,onsite-leaning,other,early-career,2026-08-23
 oscar-health,Oscar Health,253,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-23
@@ -1139,7 +1139,7 @@ rogo,Rogo,77,0,onsite-leaning,design|engineering|marketing|operations|other|prod
 rollstack,Rollstack,3,0,hybrid-friendly,engineering|sales,yc-w23,2026-08-23
 roofstock,Roofstock,40,0,onsite-leaning,operations|other,backed-by-khosla-ventures,2026-08-23
 rossum,Rossum,4,0,onsite-leaning,engineering,backed-by-general-catalyst,2026-08-23
-rothy-s,Rothy's,72,0,onsite-leaning,design|engineering|marketing|operations|other|product,backed-by-lightspeed,2026-08-23
+rothy-s,Rothy's,71,0,onsite-leaning,design|engineering|marketing|operations|other|product,backed-by-lightspeed,2026-08-23
 royal-bank-of-canada,Royal Bank of Canada,64,0,onsite-leaning,engineering|operations|other,early-career,2026-08-23
 rubrik,Rubrik,112,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-23
 rune-technologies,Rune Technologies,16,0,onsite-leaning,engineering|operations|other|product,a16z-portfolio|austin|energy-climate|new-this-week|remote|seattle,2026-08-23
@@ -1324,7 +1324,7 @@ the-better-money-company,The Better Money Company,6,0,onsite-leaning,engineering
 the-boeing-company,The Boeing Company,29,0,onsite-leaning,design|engineering|marketing|operations|other,early-career,2026-08-23
 the-exploration-company,The Exploration Company,109,0,onsite-leaning,design|engineering|marketing|operations|other,backed-by-bessemer-ventures,2026-08-23
 the-federal-reserve-system,The Federal Reserve System,2,0,onsite-leaning,other,boston|early-career,2026-08-23
-the-honest-company,The Honest Company,16,0,onsite-leaning,engineering|marketing|operations|other|research,backed-by-general-catalyst,2026-08-23
+the-honest-company,The Honest Company,14,0,onsite-leaning,engineering|marketing|operations|research,backed-by-general-catalyst,2026-08-23
 the-mobile-first-company,The Mobile-First Company,9,0,onsite-leaning,engineering|marketing|operations|sales,backed-by-lightspeed,2026-08-23
 the-mosaic-company,The Mosaic Company,35,0,onsite-leaning,engineering|operations|other,early-career,2026-08-23
 the-nuclear-company,The Nuclear Company,12,0,onsite-leaning,engineering|other|research,early-career,2026-08-23
@@ -1357,7 +1357,7 @@ trexquant,Trexquant,2,0,onsite-leaning,research,early-career|new-york,2026-08-23
 tribalscale,TribalScale,1,0,onsite-leaning,engineering,early-career,2026-08-23
 trigger-dev,Trigger.dev,1,0,remote-first,marketing,yc-w23,2026-08-23
 trimble,Trimble,7,0,onsite-leaning,design|engineering|other|product,early-career,2026-08-23
-trimedx,TRIMEDX,6,0,onsite-leaning,engineering|other,early-career,2026-08-23
+trimedx,TRIMEDX,7,0,onsite-leaning,engineering|other,early-career,2026-08-23
 triomics,Triomics,18,0,onsite-leaning,engineering|marketing|operations|research|sales,backed-by-lightspeed,2026-08-23
 tripadvisor,TripAdvisor,3,0,onsite-leaning,engineering|marketing,early-career,2026-08-23
 triumph,Triumph,16,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-23
@@ -1369,7 +1369,7 @@ truffle-security,Truffle Security,1,0,remote-first,sales,a16z-portfolio|new-this
 trustpilot,Trustpilot,44,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-index-ventures,2026-08-23
 truthsystems,truthsystems,4,0,onsite-leaning,engineering|operations|sales,backed-by-lightspeed,2026-08-23
 truveta,Truveta,2,0,onsite-leaning,engineering|research,early-career|seattle,2026-08-23
-tsc,TSC,3,0,onsite-leaning,engineering|other,early-career,2026-08-23
+tsc,Tsc,,0,onsite-leaning,engineering|other,early-career,name-unresolved
 tsmg,TSMG,17,0,remote-first,engineering|other,early-career|london|remote|remote-first,2026-08-23
 tuesday-labs,Tuesday Labs,1,0,onsite-leaning,other,yc-w24,2026-08-23
 turquoise-health,Turquoise Health,14,4,remote-first,engineering|operations|product|sales,a16z-portfolio|backed-by-bessemer-ventures|fintech|founding-roles|remote|remote-first,2026-08-23
