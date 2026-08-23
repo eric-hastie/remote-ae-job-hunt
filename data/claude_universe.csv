@@ -1846,7 +1846,7 @@ Northspyre,repvue,82,2026-08-03,Y,Strategic AE (Ent) US-remote B2B SaaS (real es
 Praxedo,repvue,82,2026-07-27,N,French field service SaaS; no US-remote AE found
 West Shore Home,repvue,82,2026-07-31,N,not B2B SaaS (home renovation services)
 Torii,repvue,82,2026-08-21,N,"posting closed, no qualifying replacement"
-Fermat,repvue,82,2026-07-27,N,ATS unresolved (Ashby 'fermat' 404)
+Fermat,repvue,82,2026-08-23,Y,"Enterprise AE, SF, $320K-$400K OTE; commerce AI B2B SaaS; Greenhouse board confirmed live 2026-03-31"
 Nuage Consulting,repvue,82,2026-07-31,N,not B2B SaaS (consulting firm)
 Hendrick Automotive Group,repvue,82,2026-07-31,N,not B2B SaaS (auto dealer)
 Classy.org,repvue,82,2026-08-07,N,"GH board posting dead (gofundme/7398335), no qualifying US replacement"
@@ -2648,7 +2648,7 @@ Quandri,ats-search,79,2026-08-03,N,Canadian insurance automation; Canada-remote 
 Luxury Presence,ats-search,74,2026-08-03,N,Austin TX on-site required; not US-remote
 Avertium,ats-search,,2026-08-03,N,managed services MSSP; not SaaS
 FLORA,ats-search,,2026-08-03,N,no AE roles (creative AI platform)
-Syrup,ats-search,,2026-07-07,N,acquired by Anaplan; no longer independent
+Syrup,ats-search,,2026-08-23,N,ATS unresolved (Ashby 'syrup' board API 404; posting live at jobs.ashbyhq.com/syrup but not API-accessible)
 Pachama,ats-search,,2026-07-07,N,not B2B SaaS; nature/carbon credits marketplace
 Mainshares,ats-search,,2026-07-07,N,SMB-focused (small business acquisition platform); not B2B SaaS AE ICP
 Loop,ats-search,,2026-08-11,N,Enterprise AE US-remote; OTE ~$241K; ecommerce returns SaaS
@@ -2756,7 +2756,7 @@ Statsig,ats-search,70,2026-08-04,N,Board gone (BOARD_GONE) - Ashby board no long
 Muck Rack,ats-search,79,2026-08-03,Y,Enterprise AE Media Intelligence; Remote US; OTE $175K+; PR/media intelligence SaaS
 Avoca,ats-search,,2026-08-04,N,home services AI (booking + customer engagement); AE role NYC HQ in-office only; not US-remote
 Assort Health,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE SF/NYC hybrid, Ashby, OTE $300-330K, pub 2025-10-17; 5+ yrs)"
-DualEntry,ats-search,,2026-08-05,N,no AE roles on Ashby board; re-checked 2026-08-05
+DualEntry,ats-search,,2026-08-23,N,no IC AE role on Ashby board
 Plumerai,ats-search,,2026-08-06,N,No sales roles on Ashby; deep learning engineering only (re-confirmed 2026-08-06)
 FeedbackFruits,ats-search,,2026-07-11,Y,MM/Ent AE (US Remote); OTE $180-220K; EdTech/higher education student engagement SaaS; 5+ yrs B2B SaaS required
 Cobalt,ats-search,,2026-08-03,N,recheck-B 2026-08-03: Live Greenhouse board (boards-api.greenhouse.io/v1/boards/cobaltio/jobs) confirmed via full pull: 9 jobs total. The only AE-adjacent role is Enterpris
@@ -2995,7 +2995,7 @@ Community Brands (Momentive),ats-search,,2026-08-05,Y,AE posting confirmed live
 Magnitude Software (insightsoftware),ats-search,,2026-08-06,N,"ATS confirmed as Workday tenant magnitudesoftware.wd1.myworkdayjobs.com (insightsoftware careers page links there), but "
 DebtBook,ats-search,75,2026-08-05,N,AE requires in-office 5x/week Charlotte NC (not remote)
 Rutter,ats-search,,2026-08-05,N,no AE on Ashby (just Solutions Architect)
-Newfront,ats-search,,2026-08-05,N,empty Ashby board
+Newfront,ats-search,,2026-08-23,N,"AE roles are insurance broker AEs, not B2B SaaS AE"
 Canvas Medical,ats-search,,2026-07-15,Y,"Live IC Account Executive posting on Lever (canvasmedical) selling EMR platform to healthcare orgs; SF/Remote, 3+ yrs qu"
 HealthHero,ats-search,,2026-08-05,N,no AE on Workable (UK/Ireland healthcare clinical roles only)
 OpenObserve,ats-search,,2026-07-15,Y,"Live IC Account Executive (SMB/Commercial) posting on confirmed Ashby board, US-remote, B2B SaaS observability platform,"
@@ -5520,3 +5520,5 @@ Latent,a16z-speedrun,,2026-08-23,N,experience ceiling exceeded (8+ yrs required)
 Human Archive,a16z-speedrun,,2026-08-23,N,personal digital legacy product; B2C or very niche; not B2B SaaS
 lemon.markets,a16z-speedrun,,2026-08-23,N,EU stock trading API for developers; not US market
 Lightfield,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
+SPS North America,ats-fintech,,2026-08-23,N,"AE role is NYC hybrid for AV/tech solutions company, not B2B SaaS"
+Wisetack,ats-fintech,,2026-08-23,N,no AE role on Greenhouse board (only Merchant Risk Analyst found)
