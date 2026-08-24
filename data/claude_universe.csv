@@ -50,7 +50,7 @@ HiBob,claude,80,2026-08-04,N,HiBob job posting dead (generic Careers page); alre
 Highspot,claude,76,2026-08-07,N,"MM AE posting dead (Lever board empty, 0 open jobs 2026-08-07)"
 Hightouch,claude,91,2026-08-19,Y,"Greenhouse posting live: Account Executive Ad Studio - North America (GH 6100883004), Ent OTE $200K-$350K, SF/NYC; $150M Series D Apr 2026"
 Hivel,claude,,2026-07-23,N,ATS unresolved; very small startup
-Honeycomb,claude,81,2026-08-24,N,"GH board has only SDR + Senior Director Sales West; no IC AE role open as of 2026-08-24 (was DEAD_ID 4947130008)"
+Honeycomb,claude,81,2026-08-24,N,GH board has only SDR + Senior Director Sales West; no IC AE role open as of 2026-08-24 (was DEAD_ID 4947130008)
 Huntress,claude,90,2026-08-20,N,MM AE posting dead (id 7778495003); no replacement on board 2026-07-31
 Incident.io,claude,91,2026-08-19,Y,re-verified 2026-08-19: AE roles still live
 Infios,claude,,2026-07-23,N,ATS unresolved
@@ -4758,7 +4758,7 @@ Carestream Dental,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | B
 Copeland,aggregator-verify,,2026-08-15,Y,Strategic Account Executive | Ent | Remote
 Dodge Construction Network,aggregator-verify,76,2026-08-15,Y,Associate Account Executive (Evergreen) | SMB | Remote
 Flinn,aggregator-verify,,2026-08-15,Y,Founding Account Executive (US) | SMB | NYC
-Hypercore,aggregator-verify,,2026-08-15,Y,Account Executive (Enterprise) | Ent | NYC
+Hypercore,aggregator-verify,,2026-08-24,N,posting removed (ATS 404)
 J. J. Keller,aggregator-verify,78,2026-08-15,Y,Account Executive - National Accounts (West Region) | Unspec | Remote
 Medallia,aggregator-verify,74,2026-08-15,Y,Emerging Enterprise Account Executive | Ent | Remote
 Nebius,aggregator-verify,,2026-08-15,Y,"Account Executive, Token Factory | Ent | Remote"
@@ -5579,3 +5579,53 @@ PointOne,a16z-speedrun,,2026-08-24,Y,Ashby: Account Executive (NYC on-site); 3+ 
 Auctor,a16z-speedrun,,2026-08-24,Y,Ashby: Founding Account Executive (NYC 5-day on-site); 5+ yrs closing; $140K-$250K OTE; AI automation for professional services / systems integrators
 Valerie Health,a16z-speedrun,,2026-08-24,Y,"Ashby: Account Executive (Remote US, SF address); 5+ yrs B2B, healthcare bonus; $225K-$350K OTE; healthcare AI for independent providers"
 Resolve AI,a16z-speedrun,,2026-08-24,Y,"Ashby (slug ""Resolve AI"" with space): Enterprise Account Executive - SF (on-site); comp not disclosed; agentic AI production engineer for SRE / observability; $150M raised (Lightspeed/Greylock)"
+Mercura,a16z-speedrun,,2026-08-24,N,"no AE (BDR only), Munich onsite"
+Partiful,a16z-speedrun,,2026-08-24,N,no AE
+PointFive,a16z-speedrun,,2026-08-24,N,"AE London only, no US role"
+Variance,a16z-speedrun,,2026-08-24,Y,Enterprise AE | Ent | SF & NYC
+Vital Lyfe,a16z-speedrun,,2026-08-24,N,"AE onsite Torrance LA, no US-remote or NYC/SF/DEN/BOS/AUS"
+Vizcom,a16z-speedrun,,2026-08-24,Y,Mid-Market AE - West | MM | SF hybrid
+Ascend,a16z-speedrun,,2026-08-24,N,ATS unresolved
+ChipAgents,a16z-speedrun,,2026-08-24,N,no ATS found (BVP job board only)
+Clarion,a16z-speedrun,,2026-08-24,Y,Account Executive | MM/Ent | NYC onsite (healthtech)
+Relevance AI,a16z-speedrun,,2026-08-24,N,"no IC AE (Head of Sales only, Director level)"
+Sapien,a16z-speedrun,,2026-08-24,Y,Founding AE | MM/Ent | NYC onsite (fintech)
+Sygaldry Technologies,a16z-speedrun,,2026-08-24,N,"no AE (BizDev & Partnerships only, quantum hardware)"
+Vooma,a16z-speedrun,,2026-08-24,Y,Account Executive | MM | SF/Chicago onsite (logistics AI)
+Vori,a16z-speedrun,,2026-08-24,N,Territory AE PNW & NY - onsite territory field sales (grocery)
+Ankar AI,a16z-speedrun,,2026-08-24,Y,Founding AE US | MM/Ent | NYC hybrid (IP/patents)
+Bounce,a16z-speedrun,,2026-08-24,N,no AE
+F2,a16z-speedrun,,2026-08-24,Y,Enterprise AE | Ent | NYC (fintech AI - banking/PE)
+Genesis Molecular AI,a16z-speedrun,,2026-08-24,N,"no AE (all technical AI/ML roles, remote available)"
+Inceptive,a16z-speedrun,,2026-08-24,N,no AE (all research/BD roles)
+Luminai,a16z-speedrun,,2026-08-24,N,no AE (Exec Dir Strategic Partnerships only)
+Macroscope,a16z-speedrun,,2026-08-24,Y,Account Executive | MM/Ent | SF hybrid (dev tools AI)
+Notable,a16z-speedrun,,2026-08-24,N,no AE
+Pika,a16z-speedrun,,2026-08-24,N,no AE (Founding GTM not AE title)
+Simular,a16z-speedrun,,2026-08-24,N,no AE (Singapore/Palo Alto research shop)
+Sofar Sounds,a16z-speedrun,,2026-08-24,N,no AE (events production only)
+ZeroMark,a16z-speedrun,,2026-08-24,N,"no AE (defense hardware, Head of GTM in DC)"
+Alluxio,a16z-speedrun,,2026-08-24,N,no US AE (Sr Account Manager Shanghai only)
+Mutiny,a16z-speedrun,,2026-08-24,Y,Founding Enterprise AE | Ent | NYC (AI GTM)
+NimbleRx,a16z-speedrun,,2026-08-24,N,AE Irvine CA hybrid - wrong metro
+Pryzm,a16z-speedrun,,2026-08-24,N,"no AE (Growth/Commercial title, not AE)"
+Pulse,a16z-speedrun,,2026-08-24,Y,Account Executive | MM | SF onsite (AI)
+SafetyKit,a16z-speedrun,,2026-08-24,Y,Account Executive | Ent | SF in-office 5-6 days
+Silverfin,a16z-speedrun,,2026-08-24,N,"AE Belgium/UK only, no US"
+Sony,a16z-speedrun,,2026-08-24,N,no B2B SaaS AE (only Sony Music podcast ad sales)
+SoundCloud,a16z-speedrun,,2026-08-24,N,no AE
+The Mobile-First Company,a16z-speedrun,,2026-08-24,N,Founding AE Miami only - wrong metro
+World Labs,a16z-speedrun,,2026-08-24,N,no AE (BizDev Lead only)
+Browserbase,a16z-speedrun,,2026-08-24,Y,Account Executive | Ent | SF (dev tools/browser automation)
+Fin,a16z-speedrun,,2026-08-24,Y,Account Executive Field Sales | SMB/MM | Remote (luxury retail SaaS)
+Healthtech 1,a16z-speedrun,,2026-08-24,N,"AE London only, no US"
+Melius,a16z-speedrun,,2026-08-24,Y,Account Executive | MM | NYC 5-day onsite (creative AI)
+Podium Automation,a16z-speedrun,,2026-08-24,N,"no AE (Sales Engineer only, robotics assembly)"
+Simple AI,a16z-speedrun,,2026-08-24,Y,Enterprise AE | Ent | SF (AI)
+Solidroad,a16z-speedrun,,2026-08-24,Y,Account Executive | MM | SF onsite (AI QA/coaching)
+Sphinx,a16z-speedrun,,2026-08-24,N,"no AE (Founding Sales title, not AE)"
+State Affairs,a16z-speedrun,,2026-08-24,N,ATS unresolved
+Tebi,a16z-speedrun,,2026-08-24,N,"AE EU only (Germany/UK/IT/FI), no US"
+Blackbird.AI,a16z-speedrun,,2026-08-24,Y,Account Executive | Ent | NYC/DC remote (security/narrative intel)
+Boku,a16z-speedrun,,2026-08-24,N,no US AE (only APAC/EU BizDev/Sales Directors)
+Cradle,a16z-speedrun,,2026-08-24,Y,Account Executive Global Accounts | Ent | Boston hybrid (biotech AI)
