@@ -2712,7 +2712,7 @@ Outreach,ats-search,,2026-08-12,N,Commercial AE (MM Remote) dead; no qualifying 
 WorkWave,ats-search,77,2026-08-05,N,Enterprise AE; US-remote; OTE $190-250K; field service SaaS; posting expired 2026-08-05
 Bluesight,ats-search,,2026-08-11,N,AE posting dead 2026-08-11; no qualifying replacement found; dropped from latest.csv
 BriteCore,ats-search,,2026-08-03,Y,Enterprise AE; US-remote; P&C insurance SaaS
-Roebling,ats-search,,2026-08-06,N,Ashby board still 404; ATS unresolved 2026-08-06
+Roebling,ats-search,,2026-08-24,N,Ashby board 404 again 2026-08-24; industrial infrastructure AI capital projects; no public ATS found
 9fin,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE NYC, Ashby, $150-175K base, pub 2025-09-29)"
 GaggleAMP,ats-search,,2026-08-17,N,no AE open; board empty 2026-08-17
 SPOTIO,ats-search,66,2026-08-05,N,hybrid (Tues/Wed office in Addison TX); not remote
@@ -3316,7 +3316,7 @@ Altana,repvue,79,2026-08-07,N,no AE on Greenhouse altanaai board (product/financ
 Prezent.ai,repvue,79,2026-08-07,N,ATS unresolved (Ashby 404); AI presentation SaaS
 Albiware,repvue,79,2026-08-07,N,ATS unresolved; unclear company/industry
 Partoo,repvue,79,2026-08-07,N,ATS unresolved; French local marketing SaaS; limited US AE presence
-U.S. Bank,repvue,79,2026-07-16,N,not B2B SaaS; retail/commercial banking
+U.S. Bank,repvue,79,2026-08-24,N,speedrun board: not flagged remote
 Avis Budget Group,repvue,79,2026-07-16,N,not B2B SaaS; car rental company
 STANLEY Healthcare,repvue,79,2026-08-07,N,ATS unresolved; RTLS/asset tracking hardware+SaaS for healthcare
 SpyCloud,repvue,79,2026-08-07,N,no AE on Greenhouse board; identity security SaaS; roles are director/SE/SDR/Channel
@@ -3440,7 +3440,7 @@ Rhombus Systems,repvue,79,2026-08-20,N,East AE posting dead 2026-08-20; no quali
 ExtraHop,repvue,79,2026-08-07,N,GH extrahopnetworks; no IC AE; RSM titles only; network detection SaaS; checked 2026-08-07
 FORT Robotics,robotics,75,2026-08-03,Y,robotics AE (Remote (must reside in Southeast or Central US region))
 Robust.AI,robotics,,2026-08-19,N,Lever board re-verified 2026-08-19: no AE roles; only engineering in San Carlos CA; still no qualifying role
-Encord,robotics,,2026-08-10,N,AE posting 8a88f55e shows title at direct URL but not in board API; Account Manager Physical AI NY not IC AE; still no qualifying IC AE 2026-08-10
+Encord,robotics,,2026-08-24,Y,AE Physical AI (Ent) - SF+NYC on-site; $220K-$320K base; data platform for robotics/AV; 3-7yr exp; Ashby 8a88f55e
 Covariant,robotics,,2026-08-03,Y,"robotics AE (New York, NY (hybrid, in-office 2-3x/week))"
 Ouster,robotics,77,2026-08-03,Y,robotics AE (Remote (US))
 Cyngn,robotics,,2026-08-07,N,Lever board; only engineering/hardware/HR roles; no AE; autonomous vehicle tech; checked 2026-08-07
@@ -4739,7 +4739,7 @@ Canva,aggregator-verify,76,2026-08-15,Y,SMB Account Executive | SMB | Austin
 Cintoo,aggregator-verify,,2026-08-15,Y,Strategic Account Executive | Ent | Remote
 Convey,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | Remote
 HYCU,aggregator-verify,68,2026-08-15,Y,"Account Executive - SMB, North America | SMB | Boston"
-National Credit Center,aggregator-verify,68,2026-08-15,Y,Inside Sales Account Executive - Automotive SaaS | SMB | Remote
+National Credit Center,aggregator-verify,68,2026-08-24,N,"HTTP_DEAD posting, no qualifying replacement; SMB segment"
 OPEXUS,aggregator-verify,75,2026-08-15,Y,Senior Account Executive | Unspec | Remote
 Plural,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | NYC
 Raindrop,aggregator-verify,,2026-08-15,Y,Founding Account Executive | Unspec | SF
@@ -5227,7 +5227,7 @@ GrayMatter Robotics,ats-physical-ai,68,2026-08-19,N,Ashby board (graymatter-robo
 Procurify,ats-robotics,75,2026-08-19,N,"Ashby board: no AE roles; only BDR and engineering (procurement automation SaaS, B2B)"
 CADDi,ats-robotics,,2026-08-19,N,Workable MM AE and Ent AE both Chicago IL office roles with 40-50% in-person time; not US-remote; manufacturing supply chain SaaS
 Divcon Controls,ats-robotics,,2026-08-19,N,Rippling board: no AE roles; only engineering/PM; industrial automation controls firm
-Hadrian Automation,ats-robotics,,2026-08-23,N,Ashby board: no AE roles; only engineering/finance/manufacturing; autonomous factory for aerospace/defense Physical AI; re-checked 2026-08-23
+Hadrian Automation,ats-robotics,,2026-08-24,N,Ashby board: no AE roles; manufacturing/engineering/ops only; autonomous factory hardware company
 Regal,claude,,2026-08-19,N,posting dead (Lever); no qualifying replacement found
 TrueComp,claude,65,2026-08-19,N,posting dead (Rippling); no qualifying replacement found
 GovWell,ats-search,,2026-08-19,Y,MM B2B SaaS (gov tech); AE posting live on Ashby; NYC
@@ -5473,7 +5473,7 @@ Flow,a16z-speedrun,,2026-08-23,N,real estate company; not B2B SaaS
 Hypersonica,a16z-speedrun,,2026-08-23,N,European defense/aerospace (hypersonic systems); not US/B2B SaaS
 Wordsmith AI,a16z-speedrun,,2026-08-23,Y,Account Executive Mid Market + Enterprise NYC (on-site); legal AI SaaS; Ashby wordsmith
 SingleStore,a16z-speedrun,,2026-08-23,Y,Enterprise AE open (Remote US); database platform; GH job 7983245; $120K-$175K base
-BetterUp,a16z-speedrun,,2026-08-23,Y,Enterprise AE open (Remote/hybrid); coaching platform; Ashby b3845a9f
+BetterUp,a16z-speedrun,,2026-08-24,N,Ashby DEAD_ID; no AE roles on posting-api board; dropped
 Flow Engineering,a16z-speedrun,,2026-08-23,Y,Field AE Mid-Market (4fa28e79) in latest.csv from 2026-08-03; Ashby board also shows new Field AE roles
 Hadrian,a16z-speedrun,,2026-08-23,N,precision metal parts manufacturer; not B2B SaaS
 Perplexity AI,a16z-speedrun,,2026-08-23,N,no AE role on Ashby board (marketing/AI research/CS only); re-confirmed 2026-08-23
@@ -5642,3 +5642,5 @@ MindFort,yc,,2026-08-24,N,ATS unresolved; founders email only (founders@mindfort
 ModernLoop,yc,,2026-08-24,N,No open positions on careers page
 Zenskar,wellfound,,2026-08-24,N,ATS unresolved; revenue automation SaaS; all board checks empty
 Agentio,ats-search,,2026-08-24,N,Strategic Partnerships/Creators AE - not standard closing B2B AE
+Outpost,ats-robotics,,2026-08-24,Y,AE + Senior AE (Austin on-site); Physical AI - gate automation; 4-5+ yrs exp; Ashby board; no comp posted
+Designed Conveyor Systems,ats-robotics,,2026-08-24,N,GH: Sr. AE Distribution & Fulfillment; experience 5-10+ yrs (exceeds ceiling); warehouse automation/conveyor systems
