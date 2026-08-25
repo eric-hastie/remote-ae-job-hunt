@@ -125,7 +125,7 @@ Writer,claude,82,2026-07-31,N,has open qualifying role
 Zscaler,claude,84,2026-08-21,N,Dead posting 5179777007; no US-remote AE replacement found
 Amplitude,claude,79,2026-08-10,N,posting dead (8593702002); all replacement candidates non-US (India/UK/Saudi Arabia)
 Postman,claude,75,2026-07-02,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
-Mixpanel,claude,77,2026-08-25,Y,"Senior Account Executive, Select Accounts (Ent)"
+Mixpanel,claude,77,2026-08-25,Y,"Account Executive, LATAM (Spanish) (Ent)"
 CockroachDB,claude,,2026-08-03,N,"recheck-B 2026-08-03: Greenhouse board (26 live postings) has exactly one Account Executive role and it is Remote, Singapore - no US-remote or six-city AE opening currently"
 Pendo,claude,,2026-07-31,N,roles titled Account Director not AE; SMB Raleigh only; no US-remote MM AE 2026-07-23
 Brex,claude,86,2026-08-03,Y,MM AE SF office 3 days/wk; Upmarket Seattle; Commercial Vancouver; not remote 2026-07-23
@@ -4555,7 +4555,7 @@ Near Space Labs,ats-search,,2026-08-15,N,Physical AI (stratospheric imaging); GH
 Path Robotics,ats-search,74,2026-08-15,N,"Physical AI (embodied-AI robots); GH posting 8239361002 dead - field roles only, no AE open"
 Lucid Bots,ats-search,,2026-08-15,N,Physical AI (cleaning drones/robots); GH posting 5200424008 dead - no AE open
 Assail,ats-search,,2026-08-15,Y,"AE Enterprise; Boston/Remote, cybersecurity AI SaaS (autonomous pen-testing)"
-Mitti,ats-search,,2026-08-25,N,"Ashby board (safetyculture) gone - BOARD_GONE; role dead"
+Mitti,ats-search,,2026-08-25,N,Ashby board (safetyculture) gone - BOARD_GONE; role dead
 Aizen,ats-search,,2026-08-15,N,"ATS unresolved - Ashby board 404, page JS-only; AI platform SaaS"
 Partner One Capital,ats-search,,2026-08-15,N,PE holding company acquiring software cos - not a B2B SaaS company
 Momos,ats-search,,2026-08-15,N,Restaurant guest AI SaaS; no AE open on Workable board
@@ -5694,3 +5694,53 @@ Alta Ares,a16z-speedrun,,2026-08-25,N,Ashby board: French defense company; Europ
 Aquant,a16z-speedrun,,2026-08-25,Y,Ashby: Sr Ent AE in NYC + Boston (Newton MA); $150K base + commission; AI service ops; published 2025-11-21; added NYC+Boston rows
 Cosine,a16z-speedrun,,2026-08-25,N,Ashby board: no AE; London only engineering roles
 Cranston AI,a16z-speedrun,,2026-08-25,N,Ashby 404 (slug cranston-ai)
+Emidat,a16z-speedrun,,2026-08-25,N,no US-remote AE; only German-speaking EMEA role on Ashby
+Kensington,a16z-speedrun,,2026-08-25,N,not B2B SaaS / computer accessories hardware; GH 404
+PowerUs,a16z-speedrun,,2026-08-25,N,no qualifying US AE; AE role Berlin Germany only
+Sylvera,a16z-speedrun,,2026-08-25,N,no qualifying US AE; AE role India/Singapore (APAC) only
+The Token Company,a16z-speedrun,,2026-08-25,N,no IC AE; founding GTM / Head of Sales only (SF on-site)
+GovEagle,a16z-speedrun,,2026-08-25,Y,Account Executive NYC (in-office 5 days/week); B2B SaaS RFP automation for GovCon; MM; $200-300K OTE
+InstaLILY,a16z-speedrun,,2026-08-25,N,no qualifying AE; Enterprise Customer Partner is post-sale; GH slug instalilyai; London-heavy
+Liquid,a16z-speedrun,,2026-08-25,N,no IC AE; founding GTM / Head of Growth (NYC on-site) only
+Nexxen,a16z-speedrun,,2026-08-25,N,no qualifying AE; AdTech Sr AE Chicago hybrid requires 10+ yrs exceeds ceiling
+Revise Robotics,a16z-speedrun,,2026-08-25,N,no AE; only BD intern + engineering intern (Ashby slug reviserobotics)
+Strella,a16z-speedrun,,2026-08-25,N,no AE; only BDR + software engineer
+Bead AI,a16z-speedrun,,2026-08-25,N,ATS unresolved; Ashby/GH 404; no search results
+Bluestaq,a16z-speedrun,,2026-08-25,N,no AE; defense/gov tech engineering company; GH board has no sales roles
+Fortera,a16z-speedrun,,2026-08-25,N,not B2B SaaS; industrial low-carbon cement tech (Fortera Corporation)
+snag,a16z-speedrun,,2026-08-25,N,acquired by JobGet Nov 2024; no longer independent
+Syzygy,a16z-speedrun,,2026-08-25,N,no AE; only GTM Engineer SF on-site
+Allara,a16z-speedrun,,2026-08-25,N,ATS unresolved; women's health DTC app; Ashby 404
+Equip,a16z-speedrun,,2026-08-25,N,no AE; clinical/telehealth roles only; eating disorder treatment provider not SaaS
+TSMG,a16z-speedrun,,2026-08-25,N,ATS unresolved; Ashby 404
+Phantom,a16z-speedrun,,2026-08-25,N,no AE; engineering/design/data/brand roles only
+Headspace Health,a16z-speedrun,,2026-08-25,N,ATS unresolved; consumer wellness app; Ashby 404
+Curai Health,a16z-speedrun,,2026-08-25,N,ATS unresolved; AI primary care provider; Ashby 404
+Aiwyn,a16z-speedrun,,2026-08-25,N,no AE; only product manager / tax analyst roles on Ashby
+Loyal,a16z-speedrun,,2026-08-25,N,ATS unresolved; health AI startup; Ashby 404
+Prefect,a16z-speedrun,,2026-08-25,N,no AE; data orchestration SaaS; only engineering/ops/growth roles on Ashby
+Ansible Health,a16z-speedrun,,2026-08-25,N,ATS unresolved; respiratory health management; Ashby 404
+Chamber Cardio,a16z-speedrun,,2026-08-25,N,ATS unresolved; cardiology health tech; Ashby 404
+Improbable,a16z-speedrun,,2026-08-25,N,no qualifying US AE; simulation company; only London-based roles on Ashby
+Sekai,a16z-speedrun,,2026-08-25,N,no AE; only engineering/product/design roles
+Allstate Insurance Company,a16z-speedrun,,2026-08-25,N,not B2B SaaS; large consumer insurance company
+Espresso Systems,a16z-speedrun,,2026-08-25,N,not B2B SaaS; ZK blockchain infrastructure
+Keycard,a16z-speedrun,,2026-08-25,N,not B2B SaaS; hardware crypto wallet
+Melotech,a16z-speedrun,,2026-08-25,N,no AE; German startup Berlin-based; only EiR / founder roles on Ashby
+Nexus,a16z-speedrun,,2026-08-25,N,ATS unresolved; Ashby 404
+Okendo,a16z-speedrun,,2026-08-25,N,ATS unresolved; ecommerce reviews SaaS; GH/Ashby both 404
+Quilter,a16z-speedrun,,2026-08-25,N,no AE; engineering/ML-only roles on Ashby
+Anara,a16z-speedrun,,2026-08-25,N,no AE; engineering/product/design roles only
+Catena Labs,a16z-speedrun,,2026-08-25,N,ATS unresolved; crypto/fintech; Ashby 404
+Plume,a16z-speedrun,,2026-08-25,N,ATS unresolved; IoT connectivity platform; Ashby 404
+Post,a16z-speedrun,,2026-08-25,N,no AE; engineering-only roles
+Tourlane,a16z-speedrun,,2026-08-25,N,not B2B SaaS; B2C travel booking platform
+XBOW,a16z-speedrun,,2026-08-25,N,ATS unresolved; defense/autonomous weapons; Ashby 404
+Archive Resale,a16z-speedrun,,2026-08-25,N,not B2B SaaS; consumer resale marketplace
+Clubhouse,a16z-speedrun,,2026-08-25,N,no AE; consumer social audio; only engineering/data roles
+Compound Eye,a16z-speedrun,,2026-08-25,N,no AE; computer vision research; only eng/ML/marketing roles
+Gensyn,a16z-speedrun,,2026-08-25,N,ATS unresolved; AI compute infrastructure; Ashby 404
+GoodShip,a16z-speedrun,,2026-08-25,N,no qualifying IC AE; Enterprise Sales Director only (Director excluded)
+Lingo.dev,a16z-speedrun,,2026-08-25,N,ATS unresolved; localization/i18n SaaS; Ashby 404
+Magic Eden,a16z-speedrun,,2026-08-25,N,not B2B SaaS; NFT/crypto marketplace
+Polygon Technology,a16z-speedrun,,2026-08-25,N,not B2B SaaS; EVM Layer-2 blockchain infrastructure
