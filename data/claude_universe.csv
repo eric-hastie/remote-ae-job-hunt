@@ -125,7 +125,7 @@ Writer,claude,82,2026-07-31,N,has open qualifying role
 Zscaler,claude,84,2026-08-21,N,Dead posting 5179777007; no US-remote AE replacement found
 Amplitude,claude,79,2026-08-10,N,posting dead (8593702002); all replacement candidates non-US (India/UK/Saudi Arabia)
 Postman,claude,75,2026-07-02,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
-Mixpanel,claude,77,2026-08-25,Y,"Account Executive, LATAM (Spanish) (Ent)"
+Mixpanel,claude,77,2026-08-25,Y,"Senior Account Executive, Select Accounts (Ent)"
 CockroachDB,claude,,2026-08-03,N,"recheck-B 2026-08-03: Greenhouse board (26 live postings) has exactly one Account Executive role and it is Remote, Singapore - no US-remote or six-city AE opening currently"
 Pendo,claude,,2026-07-31,N,roles titled Account Director not AE; SMB Raleigh only; no US-remote MM AE 2026-07-23
 Brex,claude,86,2026-08-03,Y,MM AE SF office 3 days/wk; Upmarket Seattle; Commercial Vancouver; not remote 2026-07-23
@@ -5744,3 +5744,10 @@ GoodShip,a16z-speedrun,,2026-08-25,N,no qualifying IC AE; Enterprise Sales Direc
 Lingo.dev,a16z-speedrun,,2026-08-25,N,ATS unresolved; localization/i18n SaaS; Ashby 404
 Magic Eden,a16z-speedrun,,2026-08-25,N,not B2B SaaS; NFT/crypto marketplace
 Polygon Technology,a16z-speedrun,,2026-08-25,N,not B2B SaaS; EVM Layer-2 blockchain infrastructure
+Cyvl,ats-physical-ai,,2026-08-25,Y,"Senior Account Executive, Boston MA, Physical AI LiDAR/geospatial mapping, Ent, $250K-$350K base; jobs.ashbyhq.com/cyvl"
+HavocAI,ats-physical-ai,,2026-08-25,N,"No AE role; defense robotics hardware (drone/ground autonomy), all roles engineering/ops, US clearance required"
+Simbe Robotics,ats-physical-ai,,2026-08-25,N,"No AE role; retail inventory robotics, only finance/engineering/product roles open"
+Outsight,ats-physical-ai,,2026-08-25,N,"No AE role; LiDAR data company, Paris-based, engineering/field-app roles only"
+Elevate Robotics,ats-physical-ai,,2026-08-25,N,No current openings; Greenhouse board shows no active roles
+Motional,ats-physical-ai,,2026-08-25,N,"No qualifying AE role; AV company (Hyundai/Aptiv JV), Greenhouse posting dead (redirected to board)"
+webAI,ats-physical-ai,,2026-08-25,N,"No AE role; edge AI company, Ashby board shows only engineering roles"
