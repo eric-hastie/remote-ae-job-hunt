@@ -1293,7 +1293,7 @@ LiveRamp,repvue,84.24,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 LeanTaaS,repvue,84.23,2026-07-25,N,no AE roles on Lever; only CS/tech/onboarding
 Virtuous,repvue,84.22,2026-08-03,Y,Strategic Account Executive Remote USA on Ashby (posted 2025-07-21); nonprofit CRM SaaS
 StemWave,repvue,84.22,2026-07-25,N,not B2B SaaS (medical device - shockwave therapy)
-AtScale,repvue,84.22,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
+AtScale,repvue,84.22,2026-08-25,N,"ATS unresolved / re-checked 2026-07-25 | re-confirmed 2026-08-25 on ats.rippling.com/atscale: Enterprise AE 8+ yrs, senior-only"
 Suralink,repvue,84.22,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 The Millennium Alliance,repvue,84.21,2026-07-25,N,not B2B SaaS (events/consulting firm)
 Socure,repvue,84.21,2026-07-25,N,only AE Director Public Sector (not IC AE; hybrid DC) on Ashby
@@ -5264,7 +5264,7 @@ Bayesian Health,a16z-speedrun,,2026-08-25,N,speedrun board: not an IC closing ti
 Bead,a16z-speedrun,,2026-08-25,N,speedrun board: not flagged remote
 Black Forest Labs,a16z-speedrun,,2026-08-25,N,speedrun board: not flagged remote
 Concourse,a16z-speedrun,,2026-08-25,N,speedrun board: not flagged remote
-Decagon,a16z-speedrun,,2026-08-25,Y,Enterprise Account Executive - Austin (Ent)
+Decagon,a16z-speedrun,,2026-08-25,N,speedrun board: not flagged remote
 Emanate,a16z-speedrun,,2026-08-25,N,speedrun board: not flagged remote
 Fal,a16z-speedrun,,2026-08-25,N,speedrun board: not flagged remote
 Freenome,a16z-speedrun,,2026-08-25,Y,Strategic Account Executive (East Coast) (Ent)
@@ -5752,3 +5752,7 @@ Elevate Robotics,ats-physical-ai,,2026-08-25,N,No current openings; Greenhouse b
 Motional,ats-physical-ai,,2026-08-25,N,"No qualifying AE role; AV company (Hyundai/Aptiv JV), Greenhouse posting dead (redirected to board)"
 webAI,ats-physical-ai,,2026-08-25,N,"No AE role; edge AI company, Ashby board shows only engineering roles"
 Artificial,ats-robotics,,2026-08-25,N,"Life sciences lab automation (B2B SaaS + robotics); Sr AE posting found on Lever (a7d627a8) but Lever API 404 on slug ""artificial"" - ATS unresolved; remote eligibility unconfirmed (offices in Palo Alto and Austin)"
+Liminal,repvue,,2026-08-25,N,"Job 1 drop 2026-08-25: Rippling ATS HTTP_DEAD, no AE roles on board"
+NikoHealth,ats-data,,2026-08-25,Y,Job 3 data/analytics: MM AE US-remote $225-250K OTE B2B SaaS healthcare DME/HME; Rippling board
+Drivepoint,ats-data,,2026-08-25,Y,Job 3 data/analytics: MM/Ent AE Boston hybrid (1-2d/wk) B2B SaaS FP&A eCommerce; Rippling board
+Transifex,ats-data,,2026-08-25,N,"Job 3 data/analytics lead: ATS unresolved (Workable page incomplete); localization SaaS, not data vertical"
