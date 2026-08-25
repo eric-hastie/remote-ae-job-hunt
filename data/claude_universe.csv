@@ -2411,7 +2411,7 @@ DataGrail,repvue,81,2026-08-03,Y,Enterprise Account Executive Ent US-remote $260
 ShipBob,repvue,80,2026-08-03,N,"recheck-B 2026-08-03: Not B2B SaaS — ecommerce order fulfillment / 3PL logistics service, not a software product sold B2B. This exclusion is independent of the two removed "
 Anyscale,repvue,80,2026-08-25,N,speedrun board: not flagged remote
 SS&C Intralinks,repvue,80,2026-08-02,N,ATS unresolved (large public company; not found on major boards)
-LucidLink,repvue,80,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE Remote, Ashby, $180-240K OTE, pub 2026-07-28)"
+LucidLink,repvue,80,2026-08-25,N,"has open qualifying role (added latest.csv 2026-08-04; Ent AE Remote, Ashby, $180-240K OTE, pub 2026-07-28); posting dead 2026-08-25"
 Cushman & Wakefield,repvue,80,2026-07-06,N,not B2B SaaS (commercial real estate services)
 OysterHR,repvue,80,2026-08-02,N,ATS unresolved (GH slug oysterremote 404; no active AE roles found)
 Retention.com,repvue,80,2026-08-02,N,ATS unresolved (not found on major ATS boards)
@@ -2910,7 +2910,7 @@ Summit Commercial Solutions,ats-search,,2026-08-07,N,"Canadian insurance brokera
 Workstreet,ats-search,,2026-08-14,N,"recheck-B 2026-08-03: Account Executive (Growth) | Originally rejected for ""SMB segment, not MM/Ent"" — segment is not an exclusion under the corrected bar. Full-; URL dead 2026-08-14, no qualifying candidate"
 LegalOn Technologies,ats-search,,2026-08-05,Y,"has open qualifying role: Enterprise AE (Governance/Fides) Remote US, $200-240K base, Rippling"
 RiskExec,ats-search,,2026-08-05,N,no AE on Rippling (only Sr Dir Product Mgmt)
-Shipium,ats-search,,2026-08-05,Y,"has open qualifying role: Senior AE Remote (28 US states), $128-140K base, Rippling"
+Shipium,ats-search,,2026-08-25,N,"has open qualifying role: Senior AE Remote (28 US states), $128-140K base, Rippling; posting dead 2026-08-25"
 Pendulum,ats-search,,2026-08-03,Y,"Enterprise AE, Remote US/Canada, OTE $300K uncapped, Fortune 500 focus, 6+ yrs B2B SaaS closing — qualifies (Ent segment"
 Zendesk,ats-search,78,2026-08-06,N,"ATS confirmed (Workday, zendesk.wd1.myworkdayjobs.com) and matching postings exist (Commercial AE (Hunter) R33459, Austi"
 Mimecast,ats-search,80,2026-07-15,Y,"Live IC Mid-Market AE, US-remote (Illinois - Remote), OTE $144-216K, B2B cybersecurity SaaS - no in-office cadence state"
@@ -5522,7 +5522,7 @@ lemon.markets,a16z-speedrun,,2026-08-23,N,EU stock trading API for developers; n
 Lightfield,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
 SPS North America,ats-fintech,,2026-08-23,N,"AE role is NYC hybrid for AV/tech solutions company, not B2B SaaS"
 Wisetack,ats-fintech,,2026-08-23,N,no AE role on Greenhouse board (only Merchant Risk Analyst found)
-Braintrust Data,a16z-speedrun,,2026-08-23,Y,Strategic Account Executive (Central Region) (Ent)
+Braintrust Data,a16z-speedrun,,2026-08-25,Y,Strategic Account Executive (Central Region) (Ent)
 Novita AI,ats-ai-infra,,2026-08-23,Y,"Account Executive | Hybrid SF (San Mateo CA) | AI & Agent Cloud platform - Model APIs, GPU Cloud, Agent Sandbox; AI infra B2B SaaS; Verified Ashby"
 Spice AI,ats-ai-infra,,2026-08-23,N,"Founding AE role exists but on-site Bellevue WA only (not remote, not in target cities)"
 Loop AI,ats-ai-infra,,2026-08-23,N,No Account Executive role found in Lever API; search hit was stale
@@ -5751,3 +5751,4 @@ Outsight,ats-physical-ai,,2026-08-25,N,"No AE role; LiDAR data company, Paris-ba
 Elevate Robotics,ats-physical-ai,,2026-08-25,N,No current openings; Greenhouse board shows no active roles
 Motional,ats-physical-ai,,2026-08-25,N,"No qualifying AE role; AV company (Hyundai/Aptiv JV), Greenhouse posting dead (redirected to board)"
 webAI,ats-physical-ai,,2026-08-25,N,"No AE role; edge AI company, Ashby board shows only engineering roles"
+Artificial,ats-robotics,,2026-08-25,N,"Life sciences lab automation (B2B SaaS + robotics); Sr AE posting found on Lever (a7d627a8) but Lever API 404 on slug ""artificial"" - ATS unresolved; remote eligibility unconfirmed (offices in Palo Alto and Austin)"
