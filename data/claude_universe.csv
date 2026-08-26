@@ -17,7 +17,7 @@ BILL,claude,81,2026-08-04,N,Greenhouse 404 - posting dead as of 2026-08-04
 Bloomreach,claude,89,2026-07-02,Y,has open qualifying role
 Chainguard,claude,88,2026-08-21,Y,has open qualifying role (re-verified 2026-07-23)
 Chargebee,claude,78,2026-07-31,N,ATS unresolved (Ashby/Lever/GH all 404)
-ClickHouse,claude,,2026-08-05,N,No qualifying AE roles on board (checked 2026-08-05; prior roles 5800037004/5842235004/6029837004 expired)
+ClickHouse,claude,,2026-08-26,N,Re-confirmed 2026-08-26: no AE on Greenhouse board; all prior roles expired
 Cloudzero,claude,81,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
 Commure,claude,78,2026-08-03,Y,has open qualifying role
 Commvault,claude,86,2026-08-03,Y,Cloud Resilience AE East (Remote) + West (SF); Greenhouse board; overlay specialist AE
@@ -39,7 +39,7 @@ Fiddler AI,claude,,2026-07-23,N,ATS unresolved
 Fleetio,claude,83,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Fluint,claude,,2026-07-23,N,ATS unresolved
 GitGuardian,claude,,2026-08-03,Y,has open qualifying role
-Gitlab,claude,80,2026-08-06,N,Greenhouse 8613913002 → 404; still no US AE (re-confirmed 2026-08-06)
+Gitlab,claude,80,2026-08-26,N,Dead posting 8611838002 confirmed 2026-08-26; no qualifying US AE candidate on board
 Glean,claude,,2026-08-03,Y,has open qualifying role
 Gong,claude,88,2026-08-03,Y,has open qualifying role
 Grafana Labs,claude,88,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
@@ -125,7 +125,7 @@ Writer,claude,82,2026-07-31,N,has open qualifying role
 Zscaler,claude,84,2026-08-21,N,Dead posting 5179777007; no US-remote AE replacement found
 Amplitude,claude,79,2026-08-10,N,posting dead (8593702002); all replacement candidates non-US (India/UK/Saudi Arabia)
 Postman,claude,75,2026-07-02,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
-Mixpanel,claude,77,2026-08-26,Y,"Senior Account Executive, Select Accounts (Ent)"
+Mixpanel,claude,77,2026-08-26,Y,"Account Executive, LATAM (Spanish) (Ent)"
 CockroachDB,claude,,2026-08-03,N,"recheck-B 2026-08-03: Greenhouse board (26 live postings) has exactly one Account Executive role and it is Remote, Singapore - no US-remote or six-city AE opening currently"
 Pendo,claude,,2026-07-31,N,roles titled Account Director not AE; SMB Raleigh only; no US-remote MM AE 2026-07-23
 Brex,claude,86,2026-08-03,Y,MM AE SF office 3 days/wk; Upmarket Seattle; Commercial Vancouver; not remote 2026-07-23
@@ -135,7 +135,7 @@ PostHog,claude,,2026-07-23,Y,MM AE open; in latest.csv (added 2026-07-13)
 Salesloft,claude,77,2026-07-23,N,only Commercial Account Manager (not AE); no IC AE 2026-07-23
 Gorgias,claude,85,2026-07-23,N,AE postings on Ashby dead/closed; direct URLs return board page 2026-07-23
 Gusto,claude,84,2026-08-15,N,no AE on Greenhouse board 2026-08-15
-Culture Amp,claude,76,2026-07-23,N,only London hybrid Ent AE; no US-remote 2026-07-23
+Culture Amp,claude,76,2026-08-26,N,Re-confirmed 2026-08-26: no US-remote AE on Greenhouse board; Director Commercial only
 Attentive,claude,80,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive I, Mid-Market | Originally rejected only for base pay below the old (removed) $150K OTE-equivalent floor. AE I is an explicitl"
 Checkr,claude,82,2026-08-03,Y,Commercial AE requires 3+ days/wk in Denver/SF; not remote 2026-07-23
 Rebar,repvue,102.17,2026-08-17,Y,LIVE in published list (verify_links confirmed); re-checked 2026-08-17
@@ -1122,7 +1122,7 @@ Kpler,repvue,84.96,2026-08-03,Y,Maritime/Shipping AE (Remote US + NYC); Lever c8
 Textline,repvue,84.96,2026-07-24,N,ATS unresolved; business texting SaaS
 Quantivate,repvue,84.96,2026-07-24,N,ATS unresolved; GRC SaaS
 OpenAsset,repvue,84.96,2026-07-24,N,ATS unresolved; AEC digital asset management SaaS
-n8n,repvue,84.96,2026-07-01,Y,top1000 RepVue scan: open AE role
+n8n,repvue,84.96,2026-08-26,N,AE role expired; board shows only SDR/Enablement 2026-08-26
 Divvy Homes,repvue,84.95,2026-07-24,N,not B2B SaaS (rent-to-own housing); permanent skip
 Clarabridge,repvue,84.95,2026-07-24,N,acquired by Qualtrics 2021; permanent skip
 Voxpopme,repvue,84.95,2026-07-24,N,jobs hosted on own careers site only; no ATS API URL obtainable
@@ -2675,7 +2675,7 @@ Trustwell,ats-search,65,2026-08-04,N,GH board 404; posting dead
 Dash0,ats-search,,2026-08-03,Y,Ent AE; Remote US; OTE ~$250K-$300K; observability / DevOps SaaS
 Stacklok,ats-search,,2026-08-04,N,no AE on GH board (Senior FDE Kubernetes + Platform engineers only)
 Cybrid,ats-search,,2026-08-04,N,no AE (GH: only Operations Manager); B2B fintech crypto API platform
-Jeeves,ats-search,68,2026-08-26,Y,Mid-Market Account Executive - Fintech (MM)
+Jeeves,ats-search,68,2026-08-26,Y,Account Executive (Unspec)
 Swapcard,ats-search,78,2026-07-09,Y,MM AE; Remote US; event management SaaS (Lever)
 Edia,ats-search,,2026-08-03,Y,Ent AE East; Remote US; K-12 edtech AI SaaS (Ashby)
 Cloudforce,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Real ATS is Lever (api.lever.co/v0/postings/go-cloudforce, fetched live). Current board shows only 2 open roles, both marketing (Associate Director of"
@@ -2753,7 +2753,7 @@ Pathwork,ats-search,,2026-08-04,N,no AE roles (AI Engineers only); on-site SF/Br
 Uber Freight,ats-search,,2026-07-11,N,freight/logistics services (not B2B SaaS); not qualifying vertical
 Coast,ats-search,,2026-08-04,N,no AE roles on GH board (Customer Success Manager only); in-person company; B2B fleet fintech
 Statsig,ats-search,70,2026-08-04,N,Board gone (BOARD_GONE) - Ashby board no longer exists
-Muck Rack,ats-search,79,2026-08-03,Y,Enterprise AE Media Intelligence; Remote US; OTE $175K+; PR/media intelligence SaaS
+Muck Rack,ats-search,79,2026-08-26,Y,Enterprise AE Media Intelligence; Remote US; OTE $175K+; URL updated to 8592440002
 Avoca,ats-search,,2026-08-04,N,home services AI (booking + customer engagement); AE role NYC HQ in-office only; not US-remote
 Assort Health,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE SF/NYC hybrid, Ashby, OTE $300-330K, pub 2025-10-17; 5+ yrs)"
 DualEntry,ats-search,,2026-08-23,N,no IC AE role on Ashby board
@@ -5857,3 +5857,4 @@ Dyno Therapeutics,a16z-speedrun,,2026-08-26,N,gene therapy biotech - not B2B Saa
 Infragrid,a16z-speedrun,,2026-08-26,N,pre-seed AI for finance - no visible open roles
 Liberty University,a16z-speedrun,,2026-08-26,N,university - not B2B SaaS; enrollment counselors not AE
 Yoodli AI,ats-robotics,,2026-08-26,N,MM AE Seattle hybrid 3+ days/week; Sales Leader not IC AE; AI roleplay coaching SaaS; no qualifying US-remote IC AE
+84.51°,ats-data,,2026-08-26,N,Kroger analytics subsidiary; Greenhouse board 8451 has no AE roles 2026-08-26; not tracking
