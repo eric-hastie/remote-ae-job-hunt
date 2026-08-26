@@ -125,7 +125,7 @@ Writer,claude,82,2026-07-31,N,has open qualifying role
 Zscaler,claude,84,2026-08-21,N,Dead posting 5179777007; no US-remote AE replacement found
 Amplitude,claude,79,2026-08-10,N,posting dead (8593702002); all replacement candidates non-US (India/UK/Saudi Arabia)
 Postman,claude,75,2026-07-02,Y,MM AE remote-US $180-230K 3-5yrs (distinct Remote posting vs separate city postings)
-Mixpanel,claude,77,2026-08-26,Y,"Account Executive, LATAM (Spanish) (Ent)"
+Mixpanel,claude,77,2026-08-26,Y,"Senior Account Executive, Select Accounts (Ent)"
 CockroachDB,claude,,2026-08-03,N,"recheck-B 2026-08-03: Greenhouse board (26 live postings) has exactly one Account Executive role and it is Remote, Singapore - no US-remote or six-city AE opening currently"
 Pendo,claude,,2026-07-31,N,roles titled Account Director not AE; SMB Raleigh only; no US-remote MM AE 2026-07-23
 Brex,claude,86,2026-08-03,Y,MM AE SF office 3 days/wk; Upmarket Seattle; Commercial Vancouver; not remote 2026-07-23
@@ -697,7 +697,7 @@ Trane Technologies,repvue,87.64,2026-07-22,N,not B2B SaaS; HVAC/industrial manuf
 Luciq,repvue,87.63,2026-08-14,N,ATS unresolved / re-checked 2026-07-22
 Passport,repvue,87.62,2026-08-14,N,re-check 2026-07-22: Ashby board has QA/Warehouse roles only; no AE
 Stensul,repvue,87.61,2026-08-03,Y,Enterprise AE NYC; Ashby b199f914; publishedAt 2026-06-10
-PermitFlow,repvue,87.60,2026-08-10,N,UUID 75c81e17 not in Ashby board; ATS dead (no AE)
+PermitFlow,repvue,87.60,2026-08-26,N,Ashby board confirmed: no AE roles (posting 24204906 not in board); ATS checked 2026-08-26
 MasterControl,repvue,87.59,2026-08-14,N,re-check 2026-07-22: only Europe AE (UK Hybrid); no US remote AE
 Instrumentl,repvue,87.59,2026-07-24,N,re-check 2026-07-24: Lever board confirmed; AE requires only 2-4yr SaaS exp (below 4+ bar); nonprofit vertical
 Mission Cloud,repvue,87.58,2026-07-22,N,not B2B SaaS; AWS managed services/cloud consulting
@@ -2675,7 +2675,7 @@ Trustwell,ats-search,65,2026-08-04,N,GH board 404; posting dead
 Dash0,ats-search,,2026-08-03,Y,Ent AE; Remote US; OTE ~$250K-$300K; observability / DevOps SaaS
 Stacklok,ats-search,,2026-08-04,N,no AE on GH board (Senior FDE Kubernetes + Platform engineers only)
 Cybrid,ats-search,,2026-08-04,N,no AE (GH: only Operations Manager); B2B fintech crypto API platform
-Jeeves,ats-search,68,2026-08-26,Y,Account Executive (Unspec)
+Jeeves,ats-search,68,2026-08-26,Y,Mid-Market Account Executive - Fintech (MM)
 Swapcard,ats-search,78,2026-07-09,Y,MM AE; Remote US; event management SaaS (Lever)
 Edia,ats-search,,2026-08-03,Y,Ent AE East; Remote US; K-12 edtech AI SaaS (Ashby)
 Cloudforce,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Real ATS is Lever (api.lever.co/v0/postings/go-cloudforce, fetched live). Current board shows only 2 open roles, both marketing (Associate Director of"
@@ -2850,7 +2850,7 @@ Truffle Security,ats-search,,2026-08-05,N,"no AE (DevRel, Sr Software Engineer o
 ePlus Technology (ePlus inc.),ats-search,77,2026-08-05,N,GH board no active AE (original posting dead); ATS unresolved re-checked 2026-08-05
 NextRoll,ats-search,,2026-08-05,N,no AE (only SDR future-opportunity post on GH board); re-checked 2026-08-05
 Deliverect,ats-search,77,2026-08-05,N,no US AE (Lever board has only non-US roles); re-checked 2026-08-05
-Octopus Deploy,ats-search,75,2026-08-05,N,"Could not locate company's ATS JSON API within budget (Lever slugs octopus/octopusdeploy 404, Ashby slugs octopusdeploy/; re-checked 2026-08-05"
+Octopus Deploy,ats-search,75,2026-08-26,N,ATS still unresolved; Lever slugs octopus/octopusdeploy 404; direct posting 403; re-checked 2026-08-26
 Vendavo,ats-search,,2026-08-05,N,no AE on Lever board (only CSM/PM/Support in Bengaluru/Prague); re-checked 2026-08-05
 Cacheflow,ats-search,,2026-08-05,N,Ashby board 404 (board gone); stale 2024 posting no longer accessible; re-checked 2026-08-05
 DataStax,ats-search,77,2026-08-05,N,SmartRecruiters board 0 postings; re-checked 2026-08-05
@@ -3746,7 +3746,7 @@ Brinqa,repvue,78,2026-08-08,N,GH board (brinqa): no AE; only Sales Eng and Strat
 Fresenius Medical Care,repvue,78,2026-08-09,N,"healthcare/dialysis company, not B2B SaaS"
 Lux Research,repvue,78,2026-08-09,N,"research advisory firm, not B2B SaaS"
 Ziff Davis,repvue,78,2026-08-09,N,"digital media company, not B2B SaaS"
-Civitas Learning,repvue,78,2026-08-03,Y,"IC AE, Remote-US, ~$200K OTE, higher-ed SaaS; Greenhouse job 5084090007"
+Civitas Learning,repvue,78,2026-08-26,N,"Greenhouse job 5084090007 dead, no replacement found"
 Quartile,repvue,78,2026-08-08,N,ATS unresolved; Sidecar slug 404 on all ATSes tried
 Routable,repvue,78,2026-08-08,N,PrimePay Recruit; ATS unresolved
 Book4time,repvue,78,2026-08-09,N,niche spa/hotel SaaS; acquired; ATS unresolved
@@ -5858,3 +5858,6 @@ Infragrid,a16z-speedrun,,2026-08-26,N,pre-seed AI for finance - no visible open 
 Liberty University,a16z-speedrun,,2026-08-26,N,university - not B2B SaaS; enrollment counselors not AE
 Yoodli AI,ats-robotics,,2026-08-26,N,MM AE Seattle hybrid 3+ days/week; Sales Leader not IC AE; AI roleplay coaching SaaS; no qualifying US-remote IC AE
 84.51°,ats-data,,2026-08-26,N,Kroger analytics subsidiary; Greenhouse board 8451 has no AE roles 2026-08-26; not tracking
+Catio,ats-devtools,,2026-08-26,Y,Founding Account Executive; architecture IDE devtools/infra; Ashby board confirmed; published 2026-03-14; Palo Alto-based/remote
+OneModel,ats-devtools,,2026-08-26,N,Greenhouse board empty (0 jobs); no AE open
+Log10,ats-devtools,,2026-08-26,N,Rippling board shows 0 open roles; Founding AE posting from search was stale
