@@ -118,7 +118,7 @@ Trunk Tools,claude,,2026-07-02,Y,has open qualifying role
 Vanta,claude,88,2026-07-25,Y,re-check 2026-07-25: Senior AE Growth Stage Remote — in latest.csv since 2026-07-15
 Vantage,claude,72,2026-08-26,Y,Commercial Account Executive (MM)
 Webflow,claude,80,2026-06-30,Y,has open qualifying role
-Workato,claude,84,2026-08-15,N,no AE on Greenhouse board 2026-08-15
+Workato,claude,84,2026-08-26,N,GH board: no AE; only Account Manager + Alliances Manager as of 2026-08-26
 Workiva,claude,87,2026-08-15,N,Workday JS-blocked; potential AE roles on wd503 subdomain unverifiable; ATS unresolved (Workday); re-checked 2026-08-15
 Wrike,claude,78,2026-07-23,N,no IC AE on Greenhouse (ADM/AI roles only) 2026-07-23
 Writer,claude,82,2026-07-31,N,has open qualifying role
@@ -2631,7 +2631,7 @@ Steer,ats-search,70,2026-08-03,N,SMB auto repair vertical; not qualifying segmen
 Submittable,ats-search,79,2026-08-03,Y,recheck-B 2026-08-03: Enterprise Account Executive | Original rejection cited OTE '$140K-$190K' (the Mid-Market government-vertical variant) as a comp concern — th
 Effective AI,ats-search,,2026-08-03,N,SF/NYC hybrid only; not US-remote
 Sign In Solutions,ats-search,69,2026-08-03,N,"recheck-B 2026-08-03: Lever board (fully loaded) shows the only live Account Executive postings are St. Petersburg, FL (hybrid 3x/week) and Northampton, UK; the Denver, CO "
-Amper,ats-search,,2026-08-10,N,Ashby board 404 (board gone); ATS unresolved 2026-08-10
+Amper,ats-search,,2026-08-26,N,Ashby API 404 (board gone); ATS unresolved re-confirmed 2026-08-26
 AiPrise,ats-search,,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive - US | Originally rejected for 'segment/OTE unverified'. Now verified via the live Ashby posting: US-remote, IC AE ti"
 Rhombus,ats-search,,2026-08-03,Y,recheck-B 2026-08-03: Commercial Account Executive - Central (South Central/Texas) | Originally rejected for 'territorial SMB/MM; OTE unknown' - territorial coverage is not an exclusion criterion
 Prokeep,ats-search,68,2026-08-04,N,"MM/Ent AE, Remote US, $225-260K OTE; contractor-distributor comm SaaS; posting dead as of 2026-08-04"
@@ -5226,7 +5226,7 @@ Collaborative Robotics,ats-physical-ai,,2026-08-19,N,Greenhouse board 404; Cobot
 GrayMatter Robotics,ats-physical-ai,68,2026-08-19,N,Ashby board (graymatter-robotics): no AE posting currently; industrial robotics/surface treatment
 Procurify,ats-robotics,75,2026-08-19,N,"Ashby board: no AE roles; only BDR and engineering (procurement automation SaaS, B2B)"
 CADDi,ats-robotics,,2026-08-19,N,Workable MM AE and Ent AE both Chicago IL office roles with 40-50% in-person time; not US-remote; manufacturing supply chain SaaS
-Divcon Controls,ats-robotics,,2026-08-19,N,Rippling board: no AE roles; only engineering/PM; industrial automation controls firm
+Divcon Controls,ats-robotics,,2026-08-26,N,Rippling: no AE roles confirmed 2026-08-26; only engineering/SCADA roles; industrial automation controls firm
 Hadrian Automation,ats-robotics,,2026-08-24,N,Ashby board: no AE roles; manufacturing/engineering/ops only; autonomous factory hardware company
 Regal,claude,,2026-08-19,N,posting dead (Lever); no qualifying replacement found
 TrueComp,claude,65,2026-08-19,N,posting dead (Rippling); no qualifying replacement found
@@ -5856,3 +5856,4 @@ CloudTrucks,a16z-speedrun,,2026-08-26,N,freight logistics - no IC AE (Head of Sa
 Dyno Therapeutics,a16z-speedrun,,2026-08-26,N,gene therapy biotech - not B2B SaaS; no AE
 Infragrid,a16z-speedrun,,2026-08-26,N,pre-seed AI for finance - no visible open roles
 Liberty University,a16z-speedrun,,2026-08-26,N,university - not B2B SaaS; enrollment counselors not AE
+Yoodli AI,ats-robotics,,2026-08-26,N,MM AE Seattle hybrid 3+ days/week; Sales Leader not IC AE; AI roleplay coaching SaaS; no qualifying US-remote IC AE
