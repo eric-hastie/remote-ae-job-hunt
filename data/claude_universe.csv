@@ -216,7 +216,7 @@ ProfitWell,repvue,94.80,2026-08-17,N,acquired by Paddle — no standalone AE
 Landytech,repvue,94.79,2026-08-17,N,"London-based; Workable roles UK/EU only, no US-remote AE"
 Temporal Technologies,repvue,94.71,2026-08-26,N,speedrun board: not flagged remote
 ROLLER Software,repvue,94.67,2026-08-17,Y,Enterprise AE AMER — Austin hybrid
-QA Wolf,repvue,94.63,2026-08-17,Y,top-260 RepVue scan: open AE role
+QA Wolf,repvue,94.63,2026-08-26,N,Ashby board empty - posting dead as of 2026-08-26
 MutinyHQ,repvue,94.63,2026-08-17,N,no ATS board found (Ashby/Greenhouse/Lever) — ATS unresolved
 NuVasive,repvue,94.58,2026-08-17,N,medical devices — not B2B SaaS
 SafeSend,repvue,94.56,2026-08-17,N,no ATS board found — ATS unresolved
@@ -5806,3 +5806,53 @@ Realm,a16z-speedrun,,2026-08-26,N,home renovation marketplace; not enterprise B2
 SFOX,a16z-speedrun,,2026-08-26,N,crypto trading platform; not B2B SaaS
 Sui Foundation,a16z-speedrun,,2026-08-26,N,crypto blockchain foundation; not B2B SaaS
 Technergetics,a16z-speedrun,,2026-08-26,N,IT services/cybersecurity services firm (Utica NY); not B2B SaaS product company
+The Believer Company,a16z-speedrun,,2026-08-26,N,game studio - not B2B SaaS; no AE
+Trigger.dev,a16z-speedrun,,2026-08-26,N,devtools - no AE posting (Technical Content Engineer only)
+Weaviate,a16z-speedrun,,2026-08-26,N,AI/vector DB - no AE (Director of Product only)
+XMTP Labs,a16z-speedrun,,2026-08-26,N,web3/crypto messaging - no AE; technical roles only
+thatgamecompany,a16z-speedrun,,2026-08-26,N,B2C games studio - not B2B SaaS; no AE
+Wattpad,a16z-speedrun,,2026-08-26,N,B2C reading platform - no AE posting
+Onebrief,a16z-speedrun,,2026-08-26,N,defense govtech - no IC AE (Partner Engagement Managers only)
+Aghanim,a16z-speedrun,,2026-08-26,N,gaming analytics - Lisbon-based; no US AE
+Vannevar Labs,a16z-speedrun,,2026-08-26,N,defense tech - no AE posting
+Wealthfront,a16z-speedrun,,2026-08-26,N,consumer fintech - no B2B AE
+Cantina,a16z-speedrun,,2026-08-26,N,ML/tech consulting - no AE
+Waymark,a16z-speedrun,,2026-08-26,N,no AE posting
+Ambience Healthcare,a16z-speedrun,,2026-08-26,N,healthcare AI - no IC AE (Director/Strategic level only)
+House Rx,a16z-speedrun,,2026-08-26,N,healthcare - no AE (pharmacy/care coordination only)
+Teamshares,a16z-speedrun,,2026-08-26,N,employee ownership platform - no AE posting
+Counsel Health,a16z-speedrun,,2026-08-26,N,healthcare - no IC AE found
+Xsolla,a16z-speedrun,,2026-08-26,N,gaming payments - AE found but Beijing only; no US remote
+Sleeper,a16z-speedrun,,2026-08-26,N,consumer sports/fantasy app - not B2B SaaS; no AE
+Eloquent AI,a16z-speedrun,,2026-08-26,N,AI startup - no AE (Zoho Recruit; no sales roles)
+Glydways,a16z-speedrun,,2026-08-26,N,physical AI / autonomous transit - no sales openings at all
+Karius,a16z-speedrun,,2026-08-26,N,genomics diagnostics - no AE (lab/clinical roles only)
+knownwell,a16z-speedrun,,2026-08-26,N,healthcare - no AE (clinical/ops roles only)
+Blue River Technology,a16z-speedrun,,2026-08-26,N,agri robotics (Deere) - no AE posting
+Homebound,a16z-speedrun,,2026-08-26,N,construction tech - no IC AE (SDR only)
+Intro,a16z-speedrun,,2026-08-26,N,professional network - no AE posting
+k-ID,a16z-speedrun,,2026-08-26,N,digital identity for kids - no AE posting
+Descript,a16z-speedrun,,2026-08-26,N,video/audio tools - no AE (AI research/content/marketing only)
+Somethings,a16z-speedrun,,2026-08-26,N,healthcare - no IC AE (VP of Sales only; too senior)
+CertifyOS,a16z-speedrun,,2026-08-26,N,healthcare credentialing - no AE posting
+Neon,a16z-speedrun,,2026-08-26,N,serverless Postgres devtools - no AE (marketing/payment ops only)
+Odyssey,a16z-speedrun,,2026-08-26,N,no AE (implementation/engineering/support only)
+Zuma,a16z-speedrun,,2026-08-26,N,prop-mgmt AI - no AE open (eng/product only); Lever slug: getzuma
+Zus Health,a16z-speedrun,,2026-08-26,N,healthcare - no IC AE (VP Sales/VP CS only)
+Ava Labs,a16z-speedrun,,2026-08-26,N,blockchain/crypto - no AE; product/eng roles only
+Bold,a16z-speedrun,,2026-08-26,Y,"B2B data monetization - Founding AE, Audience Data Partnerships; Remote US; published 2026-08-17"
+Leona Health,a16z-speedrun,,2026-08-26,N,healthcare - no AE; Head of Growth only; Mexico-based
+Limbic,a16z-speedrun,,2026-08-26,N,UK mental health AI - no US AE posting
+Lithic,a16z-speedrun,,2026-08-26,N,card issuing fintech - no AE (product/analyst/support only)
+Polymath,a16z-speedrun,,2026-08-26,N,AI research - no AE; all SF on-site research/eng roles
+B12,a16z-speedrun,,2026-08-26,N,AI web design - no AE (affiliate marketer/designer only)
+Crossing Minds,a16z-speedrun,,2026-08-26,N,recommendation AI - no AE (CSM/ML/marketing/product only)
+Intangible,a16z-speedrun,,2026-08-26,N,no ATS board found; no confirmed AE role
+Ladder,a16z-speedrun,,2026-08-26,N,B2C fitness app - not B2B SaaS; no AE
+Nango,a16z-speedrun,,2026-08-26,N,API integration devtools - no AE (eng/content/devrel only)
+Treeline,a16z-speedrun,,2026-08-26,N,sales recruiting firm - AEs listed are for client companies not Treeline
+Better Health Supplies,a16z-speedrun,,2026-08-26,N,B2C medical supplies - not B2B SaaS; no AE
+CloudTrucks,a16z-speedrun,,2026-08-26,N,freight logistics - no IC AE (Head of Sales = VP-level)
+Dyno Therapeutics,a16z-speedrun,,2026-08-26,N,gene therapy biotech - not B2B SaaS; no AE
+Infragrid,a16z-speedrun,,2026-08-26,N,pre-seed AI for finance - no visible open roles
+Liberty University,a16z-speedrun,,2026-08-26,N,university - not B2B SaaS; enrollment counselors not AE
