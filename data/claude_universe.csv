@@ -292,7 +292,7 @@ Hiver,repvue,92.73,2026-08-18,N,Pinpoint board: only EMEA AE (London UK); no US 
 Lightyear,repvue,92.73,2026-08-18,Y,Enterprise AE fully remote; $180K-$220K OTE; ApplyToJob board confirmed live; re-confirmed 2026-08-18
 LTK,repvue,92.73,2026-08-18,Y,Account Executive Scale New Business Sales; US-remote; GH 7797682003 confirmed live; re-confirmed 2026-08-18
 Luzmo,repvue,92.71,2026-08-18,N,ATS unresolved (GH/Ashby 404); re-checked 2026-08-18
-Rocketlane,repvue,92.69,2026-08-18,Y,Account Executive MM/Ent hybrid 3d/wk; kula.ai 35442 confirmed live; NYC/SF/Lehi; re-confirmed 2026-08-18
+Rocketlane,repvue,92.69,2026-08-27,N,Kula ATS URLs dead; current posting hybrid near SF/NYC/Lehi - not remote
 Cambridge Spark,repvue,92.69,2026-08-18,N,UK-focused education company; not US B2B SaaS; permanent
 Roboflow,repvue,92.66,2026-08-18,Y,Ashby 0569c977; Corporate AE NYC hybrid (in-person not mandatory); $150K-$200K OTE; re-opened 2026-08-18
 Thread,repvue,92.62,2026-08-18,N,ATS unresolved (thread 404); previous: in-person NYC only; re-checked 2026-08-18
@@ -793,7 +793,7 @@ Pipefy,repvue,86.92,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
 People Data Labs,repvue,86.92,2026-08-15,N,ATS unresolved; Lever/Ashby all 404
 OEC,repvue,86.91,2026-08-15,N,ATS unresolved (Dayforce/Cloudflare blocked); AE roles in search unverifiable; re-checked 2026-08-15
 GAF,repvue,86.89,2026-07-22,N,not B2B SaaS; roofing products manufacturer
-Vivun,repvue,86.89,2026-08-20,N,"Ashby board: only ""Named AE - Future Opportunities"" (not live); no AE; re-confirmed 2026-08-20"
+Vivun,repvue,86.89,2026-08-27,N,Ashby: only Named AE Future Opportunities (not live); no open AE; re-verified 2026-08-27
 Baker Hill,repvue,86.88,2026-08-15,N,ATS unresolved; Ashby/Greenhouse all 404
 Ometria,repvue,86.88,2026-08-15,N,"Workable board found; no AE (2 total jobs, neither AE); re-checked 2026-08-15"
 Veritext Legal Solutions,repvue,86.85,2026-08-15,N,Dayforce board; 0 jobs posted; legal services (not pure B2B SaaS); re-checked 2026-08-15
@@ -2617,7 +2617,7 @@ Egnyte,repvue,80,2026-08-03,N,no US-remote AE (Jobvite: EMEA + Raleigh NC office
 ChurnZero,repvue,80,2026-08-03,N,no AE found on ATS boards (GH/Ashby/Lever all 404); re-checked 2026-08-03
 Finix,ats-search,,2026-08-03,Y,Enterprise AE; Remote US; OTE $200K-$300K; payments infrastructure SaaS
 SentiLink,ats-search,,2026-08-27,Y,Account Executive (MM/Ent)
-Teramind,ats-search,76,2026-08-17,N,MM AE + Enterprise AE; Remote US; no listed OTE; cybersecurity/employee monitoring SaaS
+Teramind,ats-search,76,2026-08-27,N,Lever posting 31ae16da dead; MM AE / Ent AE; employee monitoring; re-verified 2026-08-27
 Mimica,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; process automation / task mining SaaS
 Coupa,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; spend management SaaS
 Restaurant365,ats-search,79,2026-07-07,Y,MM AE; Remote US; no listed OTE; restaurant management SaaS
