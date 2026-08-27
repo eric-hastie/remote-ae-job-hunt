@@ -274,7 +274,7 @@ Strider Technologies,repvue,93.24,2026-08-18,N,ATS unresolved; intelligence/nati
 Censys,repvue,93.23,2026-08-18,N,AE Japan only; no US AE
 InsideSales,repvue,93.21,2026-08-18,N,ATS unresolved; rebranded as XANT; board not found
 eMoney Advisor,repvue,93.16,2026-08-18,N,ATS unresolved; no AE found on standard boards
-Tremendous,repvue,93.16,2026-08-18,N,Commercial AE posting gone/dead (Ashby board has no AE); re-checked 2026-08-18
+Tremendous,repvue,93.16,2026-08-27,N,Ashby board: only Dir Partnerships + EMEA MM AE; no US AE; re-checked 2026-08-27
 Cycode,repvue,93.04,2026-08-18,N,ATS unresolved; GH/Lever 404
 Pipedrive,repvue,93.04,2026-08-18,N,Junior AE Lisbon only; no US-remote AE
 Brellium,repvue,92.99,2026-08-18,N,AE posting gone/dead (Ashby board has no AE); re-checked 2026-08-18
@@ -841,7 +841,7 @@ Alma,repvue,86.59,2026-07-22,N,not pure B2B SaaS AE target; primarily B2C mental
 Logicalis,repvue,86.58,2026-07-22,N,not B2B SaaS; IT managed services provider
 Nectar,repvue,86.58,2026-08-15,N,ATS unresolved; Ashby 404
 Noname Security,repvue,86.57,2026-08-03,N,"recheck-B 2026-08-03: Fully absorbed into Akamai (June 2024 acquisition, $450M); no longer exists as a distinct hiring entity. Akamai-branded roles found tied to the former"
-ActivTrak,repvue,86.56,2026-08-03,Y,added to latest.csv 2026-07-11: Ent remote AE; Workable activtrak board verified
+ActivTrak,repvue,86.56,2026-08-27,N,posting dead; no qualifying AE replacement on Workable board
 Outplay,repvue,86.56,2026-08-15,N,India-based; uses Keka Hire ATS; no US AE roles
 Origina,repvue,86.55,2026-07-22,N,not B2B SaaS product; IBM software license optimization reseller
 Aurea Software,repvue,86.55,2026-07-22,N,not standard B2B SaaS; legacy software consolidator
@@ -1012,7 +1012,7 @@ EVOLVE,repvue,85.53,2026-07-24,N,ATS unresolved
 SingleOps,repvue,85.53,2026-07-24,N,ATS unresolved
 Selling.com,repvue,85.52,2026-07-24,N,ATS unresolved
 Resonate,repvue,85.51,2026-07-24,N,ATS unresolved
-Saviynt,repvue,85.51,2026-07-24,Y,Ent AE (territory NY Metro/NJ field) in latest.csv since 2026-07-15
+Saviynt,repvue,85.51,2026-08-27,N,posting dead; Lever ID gone; no qualifying replacement
 Encapture,repvue,85.51,2026-07-24,N,ATS unresolved
 Rocket Mortgage,repvue,85.51,2026-07-24,N,primarily B2C mortgage; not B2B SaaS AE target; permanent skip
 CrowdRiff,repvue,85.51,2026-07-24,N,ATS unresolved
@@ -1584,7 +1584,7 @@ StreetLight Data,repvue,83.14,2026-07-26,N,2026-07-26: ATS unresolved after slug
 CenterWell Home Health,repvue,83.14,2026-07-26,N,2026-07-26: not B2B SaaS (home health)
 FlexTG New York,repvue,83.13,2026-07-26,N,2026-07-26: not B2B SaaS (staffing)
 Attensi,repvue,83.13,2026-07-27,N,ATS unresolved (GH 404)
-Navan,repvue,83.12,2026-08-03,Y,recheck-B 2026-08-03: Commercial Account Executive | Original rejection said only UK AE + Associate AEs existed. Current Greenhouse board (token tripactions) shows
+Navan,repvue,83.12,2026-08-27,N,posting dead (gh_jid 4891728 gone); only UK AE + CA-only Associate AE remain; no US-qualifying replacement
 BQE Software,repvue,83.12,2026-07-27,N,ATS unresolved (GH/Lever/Ashby 404)
 Metronome,repvue,83.11,2026-07-27,N,GH board (metronome) empty as of 2026-07-27
 Goldcast,repvue,83.11,2026-07-27,N,no IC AE on Lever; only customer support roles
@@ -2204,7 +2204,7 @@ Interval International,repvue,81,2026-07-05,N,not B2B SaaS (vacation ownership e
 CloudPay,repvue,81,2026-08-02,N,ATS unresolved (Workday JS-only; AE roles likely exist but unverifiable)
 Traction,repvue,81,2026-08-02,N,ATS unresolved (ProQuoAI slug; company identity unclear)
 Boostability,repvue,81,2026-07-05,N,not B2B SaaS (SMB-focused SEO/digital marketing services)
-Xero,repvue,81,2026-08-01,N,"ATS unresolved (GH 404, Workable: 0 jobs; 2026-08-01 recheck)"
+Xero,repvue,81,2026-08-27,N,"Ashby board has 0 AE roles (engineering/ops only); Enterprise AE Payments search result is dead; re-checked 2026-08-27"
 Abacum,repvue,81,2026-08-01,N,"ATS unresolved (Ashby 503, GH 404; 2026-08-01 recheck)"
 Bill.com,repvue,81,2026-08-02,N,same company as BILL (already in universe Y; dedup)
 ScyllaDB,repvue,81,2026-08-01,N,ATS unresolved (GH 404; 2026-08-01 recheck)
@@ -3637,7 +3637,7 @@ Legends Global,repvue,78,2026-08-09,N,not B2B SaaS (entertainment/sports venue t
 Gamma,repvue,78,2026-08-27,N,speedrun board: not flagged remote
 360insights,repvue,78,2026-08-08,N,ATS unresolved (Greenhouse/Lever/Ashby all 404)
 LGCY Power,repvue,78,2026-08-09,N,not B2B SaaS (solar energy company)
-Hyperscience,repvue,78,2026-07-17,Y,Technical AE [Commercial]; Remote US (Austin/Dallas pref); $220K-$300K OTE; IDP/AI automation SaaS
+Hyperscience,repvue,78,2026-08-27,N,posting dead; no qualifying replacement found
 eBay,repvue,78,2026-08-09,N,not B2B SaaS (B2C marketplace)
 Cobalt.io,repvue,78,2026-08-03,N,"recheck-B 2026-08-03: Live Greenhouse board (token cobaltio) lists 9 open roles: Business Development Representative, BDR Manager, 3x Cobalt Core Pentester (freelance), Ent"
 Cengage Group,repvue,78,2026-08-09,N,not B2B SaaS (education/publishing)
@@ -5267,7 +5267,7 @@ Concourse,a16z-speedrun,,2026-08-27,N,speedrun board: not flagged remote
 Decagon,a16z-speedrun,,2026-08-27,N,speedrun board: not flagged remote
 Emanate,a16z-speedrun,,2026-08-27,N,speedrun board: not flagged remote
 Fal,a16z-speedrun,,2026-08-27,N,speedrun board: not flagged remote
-Freenome,a16z-speedrun,,2026-08-27,Y,Strategic Account Executive (East Coast) (Ent)
+Freenome,a16z-speedrun,,2026-08-27,Y,Strategic Account Executive (Pacific Northwest) (Ent)
 GoodData.AI,a16z-speedrun,,2026-08-27,N,speedrun board: not flagged remote
 Halliday,a16z-speedrun,,2026-08-26,N,speedrun board: not flagged remote
 HappyRobot,a16z-speedrun,,2026-08-27,Y,Enterprise Account Executive (Ent)
@@ -5961,3 +5961,5 @@ Jabil,a16z-speedrun,,2026-08-27,N,"electronics manufacturing services, not B2B S
 KBR,a16z-speedrun,,2026-08-27,N,"government/defense engineering services, not B2B SaaS"
 Primer,a16z-speedrun,,2026-08-27,N,"defense/intelligence AI; Senior AE requires DC metro presence, not remote"
 Karat,ats-data,,2026-08-27,N,no AE on Greenhouse board; only tech/ops/PM roles
+Formance,ats-fintech,,2026-08-27,N,AE role is hybrid 3-4 days/week NYC (SoHo); not US-remote
+Lending Science,ats-fintech,,2026-08-27,N,Rippling board shows no open roles
