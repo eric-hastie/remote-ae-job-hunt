@@ -5,7 +5,7 @@ Slug,Company,OpenRoles,SalesRoles,RemotePosture,Functions,Collections,Pulled
 abb,ABB,76,0,onsite-leaning,design|engineering|marketing|operations|other|product,early-career|remote,2026-08-28
 abbott,Abbott,29,0,onsite-leaning,engineering|operations|other|research,early-career,2026-08-28
 abound,Abound,3,0,onsite-leaning,engineering,early-career|london,2026-08-28
-abridge,Abridge,45,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,a16z-portfolio|backed-by-bessemer-ventures|backed-by-lightspeed|backed-by-union-square-ventures|early-career|health-bio|new-this-week|remote,2026-08-28
+abridge,Abridge,43,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,a16z-portfolio|backed-by-bessemer-ventures|backed-by-lightspeed|backed-by-union-square-ventures|early-career|health-bio|new-this-week|remote,2026-08-28
 abundant,Abundant,7,0,onsite-leaning,engineering|operations|research,yc-f24,2026-08-28
 acceldata,Acceldata,4,0,onsite-leaning,engineering|operations|sales,early-career|new-this-week,2026-08-28
 accenture,Accenture,10,0,onsite-leaning,engineering|operations|other,early-career|new-this-week,2026-08-28
@@ -15,8 +15,8 @@ adaptive-security,Adaptive Security,16,4,onsite-leaning,engineering|operations|s
 addi,ADDI,25,5,hybrid-friendly,engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-union-square-ventures|fintech|new-this-week|remote,2026-08-28
 adobe,Adobe,5,0,onsite-leaning,other|sales,early-career,2026-08-28
 adtran,Adtran,5,0,onsite-leaning,other,early-career,2026-08-28
-adyen,Adyen,228,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
-affirm,Affirm,206,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
+adyen,Adyen,224,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
+affirm,Affirm,208,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 afterquery,AfterQuery,28,0,onsite-leaning,engineering|marketing|operations|research|sales,yc-w25,2026-08-28
 agentmail,AgentMail,6,0,onsite-leaning,engineering|marketing|sales,backed-by-general-catalyst|yc-s25,2026-08-28
 aghanim,Aghanim,27,0,hybrid-friendly,design|engineering|marketing|operations|other,games-entertainment|los-angeles|new-this-week|remote|speedrun-companies,2026-08-28
@@ -29,15 +29,15 @@ airslate,airSlate,12,0,remote-first,engineering|marketing|other|product,backed-b
 aiwyn,Aiwyn,9,0,remote-first,design|engineering|marketing|operations|product,backed-by-bessemer-ventures,2026-08-28
 akasa,AKASA,12,0,onsite-leaning,engineering|operations|other|product|sales,a16z-portfolio|health-bio|new-york|remote,2026-08-28
 akuna-capital,Akuna Capital,14,0,onsite-leaning,engineering|other|research,early-career,2026-08-28
-alan,Alan,94,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+alan,Alan,95,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 alchemy,Alchemy,22,3,onsite-leaning,design|engineering|marketing|operations|product|sales,a16z-portfolio|backed-by-lightspeed|crypto-web3|new-this-week|new-york,2026-08-28
-aleph,Aleph,10,0,hybrid-friendly,engineering|marketing|operations|sales,backed-by-khosla-ventures,2026-08-28
-allara,Allara,174,0,remote-first,engineering|operations|other,backed-by-index-ventures,2026-08-28
+aleph,Aleph,11,0,hybrid-friendly,engineering|marketing|operations|sales,backed-by-khosla-ventures,2026-08-28
+allara,Allara,173,0,remote-first,engineering|operations|other,backed-by-index-ventures,2026-08-28
 alleviate-health,Alleviate Health,6,1,onsite-leaning,engineering|operations|sales,a16z-portfolio|founding-roles|health-bio,2026-08-28
 allica-bank,Allica Bank,1,0,onsite-leaning,engineering,early-career,2026-08-28
 allium,Allium,12,0,hybrid-friendly,engineering|marketing|operations|research|sales,backed-by-kleiner-perkins,2026-08-28
 alljoined,Alljoined,6,0,onsite-leaning,engineering|operations|other|research,backed-by-khosla-ventures,2026-08-28
-allstate-insurance-company,Allstate Insurance Company,5,0,remote-first,other,early-career|remote|remote-first,2026-08-28
+allstate-insurance-company,Allstate Insurance Company,4,0,remote-first,other,early-career|remote|remote-first,2026-08-28
 alluxio,Alluxio,9,0,onsite-leaning,engineering|other|product|sales,a16z-portfolio,2026-08-28
 alpha-9-oncology,Alpha-9 Oncology,3,0,onsite-leaning,operations|other,a16z-portfolio|boston,2026-08-28
 alta-ares,Alta Ares,3,0,onsite-leaning,operations|sales,early-career,2026-08-28
@@ -61,8 +61,8 @@ ancestry,Ancestry,2,0,hybrid-friendly,design|engineering,early-career|remote,202
 anchorage,Anchorage,30,1,remote-first,engineering|marketing|operations|other|sales,a16z-portfolio|miami|new-york|remote|remote-first,2026-08-28
 andesite,Andesite,1,0,remote-first,other,backed-by-general-catalyst,2026-08-28
 ando,Ando,6,0,onsite-leaning,design|engineering|operations|research,backed-by-index-ventures,2026-08-28
-anduril-industries,Anduril Industries,2179,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|boston|early-career|hiring-in-volume|london|los-angeles|new-this-week|remote|seattle,2026-08-28
-anine-bing,Anine Bing,11,0,onsite-leaning,marketing|operations|other,backed-by-index-ventures,2026-08-28
+anduril-industries,Anduril Industries,2175,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|boston|early-career|hiring-in-volume|london|los-angeles|new-this-week|remote|seattle,2026-08-28
+anine-bing,Anine Bing,10,0,onsite-leaning,marketing|operations|other,backed-by-index-ventures,2026-08-28
 ankar-ai,Ankar AI,11,0,onsite-leaning,engineering|marketing|operations|product|sales,backed-by-index-ventures,2026-08-28
 ankorstore,Ankorstore,2,0,onsite-leaning,operations,backed-by-index-ventures,2026-08-28
 anomali,Anomali,11,0,hybrid-friendly,engineering|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
@@ -74,9 +74,9 @@ anyscale,AnyScale,20,1,onsite-leaning,engineering|other|product|sales,a16z-portf
 anything,Anything,4,0,onsite-leaning,engineering,backed-by-bessemer-ventures,2026-08-28
 apex-space,Apex Space,93,0,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|los-angeles|new-this-week,2026-08-28
 apolink,Apolink,2,0,onsite-leaning,other,yc-f24,2026-08-28
-apollo-graphql,Apollo GraphQL,6,1,remote-first,engineering|sales,a16z-portfolio|devtools-infra|new-this-week|remote|remote-first,2026-08-28
+apollo-graphql,Apollo GraphQL,5,1,remote-first,engineering|sales,a16z-portfolio|devtools-infra|remote|remote-first,2026-08-28
 appian,Appian,5,0,onsite-leaning,engineering|operations|product,early-career,2026-08-28
-applied-intuition,Applied Intuition,298,1,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-general-catalyst|backed-by-kleiner-perkins|early-career|hiring-in-volume|london|new-this-week|remote|robotics-hardware,2026-08-28
+applied-intuition,Applied Intuition,299,1,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-general-catalyst|backed-by-kleiner-perkins|early-career|hiring-in-volume|london|new-this-week|remote|robotics-hardware,2026-08-28
 applied-materials,Applied Materials,45,0,onsite-leaning,operations,austin|early-career,2026-08-28
 apron,Apron,4,0,onsite-leaning,design|engineering|sales,backed-by-bessemer-ventures|backed-by-index-ventures,2026-08-28
 aptiv,Aptiv,20,0,onsite-leaning,design|engineering|marketing|operations|other,early-career,2026-08-28
@@ -95,7 +95,7 @@ arena,Arena,19,0,onsite-leaning,engineering|operations|research|sales,a16z-portf
 argmax,Argmax,1,0,onsite-leaning,engineering,early-career,2026-08-28
 argon-ai-inc,"Argon AI, Inc.",1,0,onsite-leaning,other,yc-w24,2026-08-28
 arini,Arini,1,0,onsite-leaning,engineering,yc-w24,2026-08-28
-arlo,Arlo,12,0,onsite-leaning,engineering|marketing|operations|other,backed-by-general-catalyst,2026-08-28
+arlo,Arlo,11,0,onsite-leaning,engineering|marketing|operations|other,backed-by-general-catalyst,2026-08-28
 armis,Armis,15,0,onsite-leaning,engineering|operations|other|product,backed-by-general-catalyst,2026-08-28
 arq,ARQ,32,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-sequoia-capital,2026-08-28
 array,Array,15,0,remote-first,engineering|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
@@ -129,7 +129,7 @@ ava-labs,Ava Labs,5,0,remote-first,engineering|operations|product,a16z-portfolio
 aviatrix,Aviatrix,14,0,onsite-leaning,engineering|other|product|sales,backed-by-general-catalyst,2026-08-28
 avis-budget-group,Avis Budget Group,2,0,onsite-leaning,operations|other,early-career,2026-08-28
 avoca-ai,Avoca,24,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
-awardco,Awardco,11,0,onsite-leaning,engineering|operations|other|sales,backed-by-general-catalyst,2026-08-28
+awardco,Awardco,10,0,onsite-leaning,engineering|operations|sales,backed-by-general-catalyst,2026-08-28
 axiomatic-ai,Axiomatic AI,1,0,onsite-leaning,research,early-career,2026-08-28
 axion,Axion,10,0,onsite-leaning,engineering|operations|other|product|sales,backed-by-bessemer-ventures,2026-08-28
 axis-capital,Axis Capital,1,0,onsite-leaning,engineering,early-career,2026-08-28
@@ -147,30 +147,30 @@ baro,Baro,1,0,onsite-leaning,engineering,enterprise-b2b|founding-roles|new-york|
 barry-wehmiller,Barry-Wehmiller,2,0,onsite-leaning,engineering|other,early-career,2026-08-28
 base-power-company,Base Power Company,179,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|austin|backed-by-lightspeed|early-career|energy-climate|hiring-in-volume|new-this-week|remote,2026-08-28
 baseten,baseten,80,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-greylock-partners,2026-08-28
-basis,Basis,38,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
+basis,Basis,37,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 bastion,Bastion,8,1,remote-first,engineering|marketing|operations|product|sales,a16z-portfolio|crypto-web3|new-this-week|new-york|remote|remote-first,2026-08-28
 baton-corporation,Baton Corporation,1,0,onsite-leaning,engineering,early-career|new-york,2026-08-28
 bayesian-health,Bayesian Health,10,1,remote-first,engineering|marketing|other|sales,a16z-portfolio|health-bio|remote|remote-first,2026-08-28
 bdg,BDG,10,0,onsite-leaning,engineering|marketing|operations|other,backed-by-general-catalyst,2026-08-28
-bdo-canada,BDO Canada,85,0,onsite-leaning,operations|other,early-career,2026-08-28
+bdo-canada,BDO Canada,89,0,onsite-leaning,operations|other,early-career|london,2026-08-28
 beacon-biosignals,Beacon Biosignals,22,0,remote-first,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 beacon-software,Beacon Software,1,0,onsite-leaning,engineering,early-career,2026-08-28
 bead,Bead AI,1,0,onsite-leaning,sales,enterprise-b2b|founding-roles|speedrun-companies,2026-08-28
 beam-impact,Beam Impact,4,0,hybrid-friendly,design|engineering|sales,backed-by-index-ventures,2026-08-28
 beamery,Beamery,8,0,onsite-leaning,engineering|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+becton-dickinson,Becton Dickinson,1,0,,research,early-career,2026-08-28
 behavox,Behavox,51,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-index-ventures,2026-08-28
-benchling,Benchling,57,6,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-sequoia-capital|boston|health-bio|london|new-this-week|remote,2026-08-28
+benchling,Benchling,58,6,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-sequoia-capital|boston|health-bio|london|new-this-week|remote,2026-08-28
 beth-israel-deaconess-medical-center,Beth Israel Deaconess Medical Center,10,0,onsite-leaning,other,early-career,2026-08-28
 better-health-supplies,Better Health Supplies,3,0,hybrid-friendly,operations|other,backed-by-general-catalyst,2026-08-28
-betterup,BetterUp,10,0,onsite-leaning,design|operations|other|sales,backed-by-lightspeed,2026-08-28
+betterup,BetterUp,11,0,onsite-leaning,design|operations|other|product|sales,backed-by-lightspeed,2026-08-28
 bevel,Bevel,5,0,onsite-leaning,engineering,backed-by-general-catalyst,2026-08-28
 bigger-games,Bigger Games,12,0,onsite-leaning,design|engineering|marketing|other|product,backed-by-index-ventures,2026-08-28
 bild-ai,Bild AI,1,0,onsite-leaning,engineering,early-career,2026-08-28
 bio-techne,Bio-Techne,2,0,onsite-leaning,engineering,early-career,2026-08-28
-bird,Bird,34,0,onsite-leaning,operations|other,backed-by-index-ventures,2026-08-28
+bird,Bird,32,0,onsite-leaning,operations|other,backed-by-index-ventures,2026-08-28
 birdie,Birdie,3,0,onsite-leaning,design|operations|other,backed-by-index-ventures,2026-08-28
 blablacar,BlaBlaCar,11,0,onsite-leaning,engineering|marketing|operations|other,backed-by-index-ventures,2026-08-28
-black-forest-labs,Black Forest Labs,16,2,onsite-leaning,engineering|marketing|operations|research|sales,a16z-portfolio|new-this-week,2026-08-28
 blackberry,Blackberry,1,0,onsite-leaning,marketing,early-career,2026-08-28
 blackbird,Blackbird,7,0,onsite-leaning,engineering|marketing|operations|product|sales,a16z-portfolio|backed-by-union-square-ventures|consumer-social|new-york,2026-08-28
 blackedge-capital,BlackEdge Capital,4,0,onsite-leaning,engineering|other,early-career,2026-08-28
@@ -178,7 +178,7 @@ blackrock,BlackRock,4,0,onsite-leaning,other,early-career,2026-08-28
 blacksmith,Blacksmith,20,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,yc-w24,2026-08-28
 blackstone,Blackstone,6,0,onsite-leaning,operations|other,early-career|london,2026-08-28
 bland-ai,Bland AI,19,0,onsite-leaning,design|engineering|marketing|operations|research|sales,yc-s23,2026-08-28
-blank-street,Blank Street,81,0,onsite-leaning,design|engineering|operations|other,backed-by-general-catalyst,2026-08-28
+blank-street,Blank Street,80,0,onsite-leaning,design|engineering|operations|other,backed-by-general-catalyst,2026-08-28
 blaxel,Blaxel,4,0,onsite-leaning,design|engineering,yc-x25,2026-08-28
 blissway,Blissway,2,0,onsite-leaning,engineering,early-career,2026-08-28
 blockit,Blockit,5,0,onsite-leaning,engineering|operations|sales,backed-by-sequoia-capital,2026-08-28
@@ -207,15 +207,15 @@ bretton-ai,Bretton AI,8,0,hybrid-friendly,engineering|marketing|operations|sales
 brief,Brief,2,0,onsite-leaning,engineering|other,enterprise-b2b|speedrun-companies,2026-08-28
 brighthire,BrightHire,5,0,remote-first,engineering|operations,backed-by-index-ventures,2026-08-28
 brightwheel,brightwheel,21,0,remote-first,engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures,2026-08-28
-brigit,Brigit,20,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-lightspeed,2026-08-28
+brigit,Brigit,19,0,onsite-leaning,engineering|marketing|operations|other|product,backed-by-lightspeed,2026-08-28
 brinc-drones,BRINC,30,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-index-ventures,2026-08-28
 brisk-teaching,Brisk Teaching,4,0,hybrid-friendly,engineering|operations|sales,backed-by-bessemer-ventures,2026-08-28
 brm,BRM,1,0,onsite-leaning,engineering,early-career,2026-08-28
 brookfield,Brookfield,7,0,onsite-leaning,operations|other,early-career|london|new-york,2026-08-28
 brown-brothers-harriman,Brown Brothers Harriman,15,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
 browserbase,Browserbase,8,0,onsite-leaning,design|engineering|operations|sales,backed-by-kleiner-perkins,2026-08-28
-brunswick,Brunswick,46,0,onsite-leaning,design|engineering|operations|other|product|research,early-career,2026-08-28
-bugcrowd,Bugcrowd,15,0,remote-first,engineering|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
+brunswick,Brunswick,53,0,onsite-leaning,design|engineering|operations|other|product|research,early-career,2026-08-28
+bugcrowd,Bugcrowd,18,0,remote-first,engineering|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
 buildkite,Buildkite,8,0,onsite-leaning,engineering,backed-by-general-catalyst,2026-08-28
 built-technologies,Built Technologies,8,0,hybrid-friendly,design|engineering|operations|sales,backed-by-index-ventures,2026-08-28
 bunkerhill-health,Bunkerhill Health,4,0,onsite-leaning,engineering|operations|other,backed-by-sequoia-capital,2026-08-28
@@ -237,7 +237,7 @@ carbonchain,CarbonChain,1,0,onsite-leaning,engineering,early-career|london,2026-
 cargo,Cargo,11,0,hybrid-friendly,engineering|marketing|product|research|sales,yc-s23,2026-08-28
 cargo-one,cargo.one,2,0,remote-first,marketing|operations,backed-by-bessemer-ventures|backed-by-index-ventures,2026-08-28
 carnegie-mellon-university,Carnegie Mellon University,4,0,onsite-leaning,engineering|other|sales,early-career,2026-08-28
-carta,Carta,57,6,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|london|new-this-week|new-york|seattle,2026-08-28
+carta,Carta,59,6,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|london|new-this-week|new-york|seattle,2026-08-28
 cartesia,Cartesia,32,0,onsite-leaning,engineering|operations|research|sales,backed-by-general-catalyst|backed-by-index-ventures|backed-by-kleiner-perkins|backed-by-lightspeed,2026-08-28
 carwow,carwow,34,0,onsite-leaning,engineering|marketing|operations|other|research|sales,backed-by-bessemer-ventures,2026-08-28
 casca,Casca,5,0,onsite-leaning,engineering|operations|other,backed-by-khosla-ventures|yc-s23,2026-08-28
@@ -245,8 +245,9 @@ cascade,Cascade,1,0,onsite-leaning,engineering,enterprise-b2b|founding-roles|new
 catapult,Catapult,1,0,onsite-leaning,engineering,early-career|london,2026-08-28
 catena-labs,Catena Labs,4,0,remote-first,engineering|operations,a16z-portfolio|fintech|new-york|remote|remote-first,2026-08-28
 caterpillar-inc,Caterpillar Inc.,26,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
-causaly,Causaly,5,0,onsite-leaning,engineering|marketing|other,backed-by-index-ventures,2026-08-28
-cellanome,Cellanome,9,0,onsite-leaning,engineering|marketing|operations|other|product|research,backed-by-general-catalyst,2026-08-28
+causaly,Causaly,6,0,onsite-leaning,engineering|marketing|other,backed-by-index-ventures,2026-08-28
+ccc-intelligent-solutions,CCC Intelligent Solutions,2,0,,engineering|other,early-career,2026-08-28
+cellanome,Cellanome,10,0,onsite-leaning,engineering|marketing|operations|other|product|research,backed-by-general-catalyst,2026-08-28
 cellular-intelligence,Cellular Intelligence,3,0,onsite-leaning,engineering|marketing|research,backed-by-khosla-ventures,2026-08-28
 celonis,Celonis,19,0,onsite-leaning,engineering|marketing|operations|other|sales,early-career|new-this-week|new-york|remote,2026-08-28
 centerfield,Centerfield,2,0,onsite-leaning,engineering|other,early-career|los-angeles,2026-08-28
@@ -255,7 +256,7 @@ cerebras,Cerebras,3,0,onsite-leaning,engineering,early-career,2026-08-28
 certifyos,CertifyOS,6,0,hybrid-friendly,engineering|marketing|operations,backed-by-general-catalyst,2026-08-28
 cgs-federal,CGS Federal,22,0,onsite-leaning,design|engineering|operations,early-career,2026-08-28
 chai-discovery,Chai Discovery,14,0,onsite-leaning,design|engineering|operations|other|research|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
-chainguard,Chainguard,88,0,remote-first,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+chainguard,Chainguard,86,0,remote-first,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 chamber-cardio,Chamber Cardio,7,0,remote-first,engineering|operations,backed-by-general-catalyst,2026-08-28
 chanel,Chanel,41,0,onsite-leaning,engineering|marketing|operations|other,early-career|london,2026-08-28
 character-ai,Character.AI,13,0,onsite-leaning,engineering|other|research,backed-by-lightspeed,2026-08-28
@@ -263,14 +264,14 @@ chariot-defense,Chariot Defense,9,0,onsite-leaning,design|engineering|other,a16z
 charm-industrial,Charm Industrial,7,0,onsite-leaning,engineering|other,backed-by-general-catalyst,2026-08-28
 charthop,ChartHop,3,0,remote-first,marketing|other|sales,a16z-portfolio|backed-by-abstract-ventures|enterprise-b2b|remote|remote-first,2026-08-28
 checkout-com,Checkout.com,2,0,onsite-leaning,operations,early-career|new-this-week,2026-08-28
-checkr,Checkr,50,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
+checkr,Checkr,49,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 chep,CHEP,1,0,onsite-leaning,other,early-career,2026-08-28
 chestnut,Chestnut,4,0,onsite-leaning,engineering|other,a16z-portfolio|fintech|remote,2026-08-28
 chevron-corporation,Chevron Corporation,38,0,onsite-leaning,engineering|operations|other|research,early-career,2026-08-28
 chicago-trading-company,Chicago Trading Company,3,0,onsite-leaning,engineering|other,early-career|london,2026-08-28
 chief,Chief,3,0,onsite-leaning,other,backed-by-general-catalyst,2026-08-28
 chipagents,ChipAgents,13,0,onsite-leaning,design|engineering|operations|research|sales,backed-by-bessemer-ventures,2026-08-28
-chipotle-mexican-grill,Chipotle Mexican Grill,41,0,onsite-leaning,other,early-career,2026-08-28
+chipotle-mexican-grill,Chipotle Mexican Grill,43,0,onsite-leaning,other,early-career,2026-08-28
 choco,Choco,10,0,onsite-leaning,engineering|operations|other|sales,backed-by-bessemer-ventures,2026-08-28
 ciena,Ciena,18,0,onsite-leaning,design|engineering|operations|other,early-career|london,2026-08-28
 circleback,Circleback,1,0,onsite-leaning,engineering,early-career,2026-08-28
@@ -278,7 +279,7 @@ cirrus-logic,Cirrus Logic,2,0,onsite-leaning,design|engineering,early-career,202
 cisive,Cisive,2,0,remote-first,engineering|other,early-career|remote|remote-first,2026-08-28
 claim-health,Claim Health,8,0,onsite-leaning,design|engineering|marketing|operations,yc-x25,2026-08-28
 claimsorted,ClaimSorted,18,0,hybrid-friendly,engineering|operations|other|sales,yc-s24,2026-08-28
-clara,Clara,113,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+clara,Clara,118,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 clarion,Clarion,11,0,onsite-leaning,design|engineering|marketing|operations|sales,yc-w24,2026-08-28
 clarity-innovations,Clarity Innovations,3,0,hybrid-friendly,engineering|other|research,early-career|new-this-week|remote,2026-08-28
 classdojo,ClassDojo,12,0,remote-first,engineering|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
@@ -294,20 +295,20 @@ clubhouse,Clubhouse,4,0,remote-first,engineering|operations,a16z-portfolio|consu
 cluely,Cluely,4,0,onsite-leaning,engineering|marketing|operations,a16z-portfolio|backed-by-abstract-ventures|early-career|enterprise-b2b|founding-roles|remote,2026-08-28
 cluster,Cluster,1,0,onsite-leaning,engineering,enterprise-b2b|founding-roles|new-this-week|new-york|speedrun-companies,2026-08-28
 clutch,Clutch,13,1,remote-first,engineering|operations|other|sales,a16z-portfolio|fintech|new-this-week|remote|remote-first,2026-08-28
-cme-group,CME Group,2,0,onsite-leaning,other,early-career,2026-08-28
-coalition,Coalition,38,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+cme-group,CME Group,1,0,onsite-leaning,other,early-career,2026-08-28
+coalition,Coalition,40,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 cockroach-labs,Cockroach Labs,26,0,onsite-leaning,engineering|marketing|other|product|sales,backed-by-index-ventures,2026-08-28
 codat,Codat,4,0,onsite-leaning,engineering|other,backed-by-index-ventures,2026-08-28
 coder,Coder,26,0,hybrid-friendly,engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures,2026-08-28
 codes-health,Codes Health,15,0,hybrid-friendly,design|engineering|operations|other|sales,yc-s24,2026-08-28
-cogent-security,Cogent Security,28,0,hybrid-friendly,engineering|marketing|operations|other|research|sales,backed-by-greylock-partners,2026-08-28
-cognition-technologies,Cognition,89,0,onsite-leaning,engineering|marketing|operations|other|research|sales,backed-by-general-catalyst,2026-08-28
+cogent-security,Cogent Security,29,0,hybrid-friendly,engineering|marketing|operations|other|research|sales,backed-by-greylock-partners,2026-08-28
+cognition-technologies,Cognition,88,0,onsite-leaning,engineering|marketing|operations|other|research|sales,backed-by-general-catalyst,2026-08-28
 cointracker,CoinTracker,1,0,remote-first,marketing,backed-by-general-catalyst,2026-08-28
-collibra,Collibra,38,0,hybrid-friendly,engineering|marketing|operations|other|sales,backed-by-index-ventures,2026-08-28
+collibra,Collibra,37,0,hybrid-friendly,engineering|marketing|operations|other|sales,backed-by-index-ventures,2026-08-28
 colonial-pipeline-company,Colonial Pipeline Company,1,0,onsite-leaning,other,early-career,2026-08-28
 commodityai,CommodityAI,3,0,onsite-leaning,engineering|operations,yc-w24,2026-08-28
 common-room,Common Room,4,0,remote-first,operations|sales,backed-by-greylock-partners|backed-by-index-ventures,2026-08-28
-commonwealth-fusion-systems,Commonwealth Fusion Systems,77,0,onsite-leaning,engineering|operations|other|research,backed-by-khosla-ventures,2026-08-28
+commonwealth-fusion-systems,Commonwealth Fusion Systems,79,0,onsite-leaning,engineering|operations|other|research,backed-by-khosla-ventures,2026-08-28
 complyadvantage,ComplyAdvantage,24,0,onsite-leaning,engineering|marketing|operations|other|research|sales,backed-by-index-ventures,2026-08-28
 composio,Composio,32,0,onsite-leaning,engineering|marketing|operations|research|sales,backed-by-lightspeed,2026-08-28
 compound-eye,Compound Eye,3,0,remote-first,engineering|marketing|research,backed-by-khosla-ventures,2026-08-28
@@ -321,18 +322,18 @@ constellation-space,Constellation Space,4,0,onsite-leaning,engineering|research,
 contentful,Contentful,3,0,onsite-leaning,engineering|marketing,backed-by-general-catalyst,2026-08-28
 context,Context,1,0,onsite-leaning,other,early-career,2026-08-28
 convex,Convex,13,0,onsite-leaning,design|engineering|marketing|product|sales,a16z-portfolio|devtools-infra,2026-08-28
-cookunity,CookUnity,157,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+cookunity,CookUnity,156,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 copart,Copart,22,0,onsite-leaning,engineering|other,early-career,2026-08-28
 core-main,Core & Main,1,0,onsite-leaning,engineering,early-career,2026-08-28
 cosine,Cosine,3,0,onsite-leaning,engineering|operations|sales,yc-w23,2026-08-28
-counsel-health,Counsel Health,16,0,onsite-leaning,design|engineering|marketing|operations|other|product,a16z-portfolio|backed-by-gv|boston|founding-roles|health-bio|new-this-week|remote,2026-08-28
+counsel-health,Counsel Health,17,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,a16z-portfolio|backed-by-gv|boston|founding-roles|health-bio|new-this-week|remote,2026-08-28
 cowboy-space-corporation,Cowboy Space Corporation,86,0,onsite-leaning,design|engineering|marketing|operations|other,a16z-portfolio|aero-space|backed-by-index-ventures|early-career|new-this-week,2026-08-28
 cradle,Cradle,6,0,onsite-leaning,design|engineering|operations|research|sales,backed-by-index-ventures,2026-08-28
 cranston-ai,Cranston AI,3,0,onsite-leaning,engineering|operations|sales,yc-f25,2026-08-28
 creatify-lab,Creatify Lab,2,0,onsite-leaning,engineering|product,early-career,2026-08-28
 cred,CRED,14,0,onsite-leaning,engineering|marketing|other|sales,backed-by-general-catalyst,2026-08-28
 credal-ai,Credal.ai,5,0,onsite-leaning,design|engineering|sales,yc-w23,2026-08-28
-cresta,Cresta,94,4,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|new-this-week|new-york|remote,2026-08-28
+cresta,Cresta,95,4,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|new-this-week|new-york|remote,2026-08-28
 crosby,Crosby,17,0,onsite-leaning,engineering|marketing|operations|research|sales,backed-by-index-ventures|backed-by-sequoia-capital,2026-08-28
 crossfit,CrossFit,2,0,remote-first,operations|other,backed-by-general-catalyst,2026-08-28
 crossing-minds,Crossing Minds,4,0,hybrid-friendly,engineering|marketing|operations|product,backed-by-index-ventures,2026-08-28
@@ -343,7 +344,7 @@ ctgt,CTGT,3,0,onsite-leaning,engineering,yc-f24,2026-08-28
 culdesac,Culdesac,2,0,onsite-leaning,operations,backed-by-khosla-ventures,2026-08-28
 culture-amp,Culture Amp,37,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-index-ventures,2026-08-28
 curai-health,Curai Health,8,0,remote-first,engineering|other,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
-curri,Curri,14,0,hybrid-friendly,engineering|operations|other|sales,backed-by-bessemer-ventures,2026-08-28
+curri,Curri,14,0,hybrid-friendly,engineering|marketing|operations|sales,backed-by-bessemer-ventures,2026-08-28
 cursor,Cursor,121,19,hybrid-friendly,design|engineering|marketing|operations|other|research|sales,a16z-portfolio|austin|hiring-in-volume|london|new-this-week|new-york|remote,2026-08-28
 cuspai,CuspAI,1,0,onsite-leaning,other,early-career|london,2026-08-28
 cutover,Cutover,2,0,remote-first,engineering|operations,backed-by-index-ventures,2026-08-28
@@ -352,7 +353,7 @@ cx2,CX2,2,0,onsite-leaning,engineering,a16z-portfolio|los-angeles,2026-08-28
 cylake,Cylake,12,0,onsite-leaning,design|engineering|operations|research,backed-by-greylock-partners,2026-08-28
 d3,D3,2,0,onsite-leaning,engineering,early-career|los-angeles,2026-08-28
 darwin,Darwin,1,0,onsite-leaning,engineering,devtools-infra|speedrun-companies,2026-08-28
-datadog,Datadog,453,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
+datadog,Datadog,454,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
 datalab-usa,Datalab USA,2,0,onsite-leaning,engineering,early-career,2026-08-28
 david-ai,David AI,12,0,onsite-leaning,engineering|operations|product|research|sales,yc-s24,2026-08-28
 daylight-energy,Daylight Energy,5,0,onsite-leaning,design|engineering|other|sales,a16z-portfolio|new-york,2026-08-28
@@ -360,33 +361,33 @@ decagon,Decagon,137,5,onsite-leaning,design|engineering|marketing|operations|oth
 decoda-health,Decoda Health,6,0,hybrid-friendly,engineering|operations|sales,yc-s23,2026-08-28
 dedalus-labs,Dedalus Labs,7,0,onsite-leaning,design|engineering|marketing|product,yc-s25,2026-08-28
 deep-genomics,Deep Genomics,2,0,onsite-leaning,research,backed-by-khosla-ventures,2026-08-28
-deepl,DeepL,67,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures|backed-by-index-ventures,2026-08-28
+deepl,DeepL,68,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures|backed-by-index-ventures,2026-08-28
 deepnote,Deepnote,3,0,hybrid-friendly,engineering|marketing|sales,backed-by-index-ventures,2026-08-28
 deeptune,Deeptune,1,0,remote-first,engineering,a16z-portfolio|ai-infra|backed-by-abstract-ventures|remote|remote-first,2026-08-28
-deliveroo,Deliveroo,190,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
+deliveroo,Deliveroo,188,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
 delphi,Delphi,6,0,onsite-leaning,design|engineering|marketing|operations,backed-by-sequoia-capital,2026-08-28
 delta-dental,Delta Dental,4,0,onsite-leaning,other,early-career,2026-08-28
 denari,Denari,1,0,onsite-leaning,engineering,early-career,2026-08-28
 dentsu,Dentsu,24,0,onsite-leaning,engineering|marketing|other,early-career|new-york,2026-08-28
 depot,Depot,1,0,remote-first,engineering,yc-w23,2026-08-28
-descript,Descript,8,0,hybrid-friendly,design|engineering|marketing|research,a16z-portfolio|new-this-week|remote,2026-08-28
+descript,Descript,8,1,hybrid-friendly,engineering|marketing|research|sales,a16z-portfolio|new-this-week|remote,2026-08-28
 deutsche-bank,Deutsche Bank,51,0,onsite-leaning,engineering|marketing|operations|other,early-career,2026-08-28
 devrev,DevRev,44,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-khosla-ventures,2026-08-28
 dex,Dex,7,0,onsite-leaning,design|engineering|marketing,enterprise-b2b|london|speedrun-companies,2026-08-28
 dialogue,Dialogue,4,0,onsite-leaning,engineering|other|sales,backed-by-lightspeed,2026-08-28
 dialpad,Dialpad,84,15,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|austin|london|new-this-week|new-york,2026-08-28
-dimensional-fund-advisors,Dimensional Fund Advisors,8,0,onsite-leaning,other,austin|early-career,2026-08-28
-discord,Discord,51,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
+dimensional-fund-advisors,Dimensional Fund Advisors,9,0,onsite-leaning,other,austin|early-career,2026-08-28
+discord,Discord,50,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
 distylai,distylai,29,0,onsite-leaning,engineering|marketing|operations|other|research|sales,backed-by-khosla-ventures|backed-by-lightspeed,2026-08-28
 diversified-automation,Diversified Automation,4,0,onsite-leaning,engineering,early-career|new-this-week,2026-08-28
 doctors-without-borders,Doctors Without Borders,1,0,onsite-leaning,other,early-career|new-this-week|new-york,2026-08-28
-doctronic,Doctronic,14,0,hybrid-friendly,engineering|operations|other|product|sales,backed-by-lightspeed,2026-08-28
+doctronic,Doctronic,15,0,hybrid-friendly,engineering|marketing|operations|other|product|sales,backed-by-lightspeed,2026-08-28
 docugami,Docugami,3,0,onsite-leaning,engineering,early-career,2026-08-28
 dome-systems,Dome Systems,7,0,onsite-leaning,design|engineering|other|sales,backed-by-bessemer-ventures,2026-08-28
 dominion-dynamics,Dominion Dynamics,23,0,onsite-leaning,engineering|operations|other,backed-by-bessemer-ventures,2026-08-28
-doppel,Doppel,19,0,onsite-leaning,engineering|marketing,a16z-portfolio|backed-by-bessemer-ventures|backed-by-south-park-commons|enterprise-b2b|new-this-week|new-york|remote,2026-08-28
+doppel,Doppel,18,0,onsite-leaning,engineering|marketing,a16z-portfolio|backed-by-bessemer-ventures|backed-by-south-park-commons|enterprise-b2b|new-york|remote,2026-08-28
 doppler,Doppler,1,0,remote-first,other,backed-by-sequoia-capital,2026-08-28
-dorsia,Dorsia,14,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+dorsia,Dorsia,15,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 doss-com,DOSS.COM,25,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 draper,Draper,7,0,onsite-leaning,engineering|other,early-career,2026-08-28
 dream-games,Dream Games,18,0,onsite-leaning,engineering|marketing|operations|other,backed-by-index-ventures,2026-08-28
@@ -394,7 +395,7 @@ droyd-robotics,Droyd Robotics,3,0,onsite-leaning,engineering|research,early-care
 drw,DRW,23,0,onsite-leaning,engineering|operations|other|research,early-career|london,2026-08-28
 dryft,Dryft,5,0,onsite-leaning,design|engineering|other,backed-by-general-catalyst,2026-08-28
 dualentry,Dualentry,67,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures|backed-by-lightspeed,2026-08-28
-ducharme-mcmillen-associates,"DuCharme, McMillen & Associates",22,0,onsite-leaning,operations|other|sales,early-career,2026-08-28
+ducharme-mcmillen-associates,"DuCharme, McMillen & Associates",23,0,onsite-leaning,operations|other|sales,early-career,2026-08-28
 duna,Duna,10,0,hybrid-friendly,design|engineering|marketing|other|sales,backed-by-index-ventures,2026-08-28
 dust,Dust,23,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-sequoia-capital,2026-08-28
 dv-trading,DV Trading,15,0,onsite-leaning,engineering|operations|other,early-career|london|new-this-week|new-york|remote,2026-08-28
@@ -409,14 +410,14 @@ edra,Edra,21,0,onsite-leaning,design|engineering|marketing|operations|other|sale
 edwards-lifesciences,Edwards Lifesciences,7,0,onsite-leaning,operations|other,early-career,2026-08-28
 egenesis,EGenesis,12,0,onsite-leaning,operations|other|research,backed-by-khosla-ventures,2026-08-28
 eigenlayer,EigenLayer,2,0,remote-first,engineering|other,a16z-portfolio|crypto-web3|remote|remote-first,2026-08-28
-eight-sleep,Eight Sleep,54,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
-eikon-therapeutics,Eikon Therapeutics,23,0,onsite-leaning,engineering|marketing|operations|other|research,backed-by-general-catalyst,2026-08-28
+eight-sleep,Eight Sleep,55,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
+eikon-therapeutics,Eikon Therapeutics,24,0,onsite-leaning,engineering|marketing|operations|other|research,backed-by-general-catalyst,2026-08-28
 eisen,Eisen,6,0,onsite-leaning,engineering|sales,backed-by-index-ventures,2026-08-28
 ekimetrics,Ekimetrics,10,0,onsite-leaning,design|engineering|research,early-career|new-york,2026-08-28
 electric-air,Electric Air,5,0,onsite-leaning,engineering|marketing|other|sales,yc-s23,2026-08-28
 electrokare,ElectroKare,1,0,onsite-leaning,engineering,founding-roles|health-bio|new-york|speedrun-companies,2026-08-28
 elekta,Elekta,6,0,onsite-leaning,marketing|operations|other,early-career,2026-08-28
-elevenlabs,ElevenLabs,252,41,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-lightspeed|consumer-social|hiring-in-volume|london|new-this-week|new-york|remote,2026-08-28
+elevenlabs,ElevenLabs,250,41,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-lightspeed|consumer-social|hiring-in-volume|london|new-this-week|new-york|remote,2026-08-28
 eliseai,EliseAI,111,7,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|austin|backed-by-bessemer-ventures|boston|early-career|enterprise-b2b|founding-roles|hiring-in-volume|new-this-week|new-york|remote,2026-08-28
 ellipsis-health,Ellipsis Health,14,0,onsite-leaning,engineering|operations|other|product,backed-by-khosla-ventures,2026-08-28
 ellipsis-labs,Ellipsis Labs,2,0,onsite-leaning,engineering,early-career|new-york,2026-08-28
@@ -425,7 +426,7 @@ eloquent-ai,Eloquent AI,12,0,hybrid-friendly,design|engineering|other,yc-x25,202
 eluvio,Eluvio,1,0,onsite-leaning,other,early-career,2026-08-28
 elyos-ai,Elyos AI,6,0,onsite-leaning,design|engineering|sales,yc-s23,2026-08-28
 emanate,Emanate,11,1,onsite-leaning,engineering|operations|product|sales,enterprise-b2b|founding-roles|speedrun-companies,2026-08-28
-embry-riddle-aeronautical-university,Embry-Riddle Aeronautical University,5,0,onsite-leaning,operations|other,early-career|remote,2026-08-28
+embry-riddle-aeronautical-university,Embry-Riddle Aeronautical University,4,0,onsite-leaning,operations|other,early-career|remote,2026-08-28
 emi-labs,Emi Labs,10,0,hybrid-friendly,engineering|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 emidat,Emidat,3,0,onsite-leaning,other,backed-by-general-catalyst,2026-08-28
 endeavorai-com,endeavorai.com,1,0,onsite-leaning,engineering,early-career,2026-08-28
@@ -434,7 +435,7 @@ engflow,EngFlow,9,1,remote-first,engineering|operations|sales,a16z-portfolio|aus
 enova,Enova,1,0,onsite-leaning,operations,early-career,2026-08-28
 ensemble-health-partners,Ensemble Health Partners,2,0,remote-first,engineering,early-career|remote|remote-first,2026-08-28
 entegris,Entegris,7,0,onsite-leaning,engineering|other,early-career,2026-08-28
-enter,Enter,25,0,onsite-leaning,design|engineering|operations|other|product,backed-by-sequoia-capital,2026-08-28
+enter,Enter,24,0,onsite-leaning,design|engineering|operations|other|product,backed-by-sequoia-capital,2026-08-28
 envoy,Envoy,21,5,onsite-leaning,design|engineering|marketing|operations|product|sales,a16z-portfolio|austin|enterprise-b2b|london|new-this-week|new-york|remote,2026-08-28
 equifax,Equifax,2,0,onsite-leaning,other,early-career,2026-08-28
 equip,Equip,67,0,remote-first,marketing|operations|other|product,backed-by-general-catalyst,2026-08-28
@@ -443,10 +444,10 @@ escape,Escape,4,0,hybrid-friendly,engineering|other|sales,yc-w23,2026-08-28
 espa-ai,Espa AI,1,0,remote-first,engineering,early-career|remote|remote-first,2026-08-28
 espresso-systems,Espresso Systems,5,0,remote-first,engineering|marketing,a16z-portfolio|remote|remote-first,2026-08-28
 etched,Etched,16,0,onsite-leaning,engineering|operations|other|sales,early-career,2026-08-28
-ethos-life,Ethos Life,63,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+ethos-life,Ethos Life,65,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 eudia,Eudia,19,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 eulerity,Eulerity,4,0,onsite-leaning,engineering|marketing|product,early-career|new-this-week|new-york,2026-08-28
-eve,Eve,35,5,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|new-this-week|remote,2026-08-28
+eve,Eve,34,5,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|new-this-week|remote,2026-08-28
 everlane,Everlane,43,0,onsite-leaning,design|engineering|marketing|operations|other,backed-by-khosla-ventures,2026-08-28
 everlaw,Everlaw,30,5,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|new-this-week|new-york,2026-08-28
 every,Every,1,0,remote-first,sales,yc-s23,2026-08-28
@@ -468,43 +469,43 @@ faros-ai,Faros AI,1,0,onsite-leaning,engineering,early-career,2026-08-28
 farther-finance,Farther Finance,38,0,onsite-leaning,design|engineering|marketing|operations|other,backed-by-khosla-ventures,2026-08-28
 favorited,Favorited,13,0,onsite-leaning,design|engineering|marketing|other|product|sales,backed-by-abstract-ventures|consumer-social|early-career|los-angeles|remote|speedrun-companies,2026-08-28
 feathery,Feathery,17,0,onsite-leaning,engineering|marketing|other|sales,backed-by-index-ventures,2026-08-28
-ferrovial,Ferrovial,36,0,onsite-leaning,design|engineering|operations|other|sales,early-career|london,2026-08-28
+ferrovial,Ferrovial,38,0,onsite-leaning,design|engineering|operations|other|sales,early-career|london,2026-08-28
 fhlbank-topeka,FHLBank Topeka,1,0,onsite-leaning,operations,early-career,2026-08-28
-fiddler-ai,Fiddler AI,7,0,onsite-leaning,engineering|marketing|research|sales,backed-by-lightspeed,2026-08-28
+fiddler-ai,Fiddler AI,6,0,onsite-leaning,engineering|marketing|research|sales,backed-by-lightspeed,2026-08-28
 field-ai,Field AI,1,0,onsite-leaning,engineering,early-career,2026-08-28
 fieldguide,Fieldguide,47,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures,2026-08-28
-fifth-third-bank,Fifth Third Bank,26,0,onsite-leaning,design|engineering|operations|other,early-career,2026-08-28
-figma,Figma,160,25,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|early-career|hiring-in-volume|london|new-this-week|new-york,2026-08-28
+fifth-third-bank,Fifth Third Bank,27,0,onsite-leaning,design|engineering|operations|other,early-career,2026-08-28
+figma,Figma,162,25,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|early-career|hiring-in-volume|london|new-this-week|new-york,2026-08-28
 filmhub,Filmhub,2,0,remote-first,marketing|other,a16z-portfolio|games-entertainment|remote|remote-first,2026-08-28
 fin,Fin,8,0,onsite-leaning,design|engineering|product|sales,backed-by-sequoia-capital,2026-08-28
-finch,Finch,12,0,onsite-leaning,design|engineering|marketing|operations|sales,backed-by-general-catalyst|backed-by-sequoia-capital,2026-08-28
-finni-health,Finni Health,117,0,onsite-leaning,operations|other|sales,backed-by-general-catalyst|yc-w23,2026-08-28
-finning,Finning,5,0,onsite-leaning,operations|other,early-career,2026-08-28
+finch,Finch,11,0,onsite-leaning,design|engineering|marketing|operations|sales,backed-by-general-catalyst|backed-by-sequoia-capital,2026-08-28
+finni-health,Finni Health,113,0,onsite-leaning,operations|other|sales,backed-by-general-catalyst|yc-w23,2026-08-28
+finning,Finning,6,0,onsite-leaning,operations|other,early-career,2026-08-28
 finom,Finom,70,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 finto,Finto,7,0,onsite-leaning,engineering|other|sales,yc-s25,2026-08-28
 finvest,Finvest,5,0,onsite-leaning,engineering|marketing|operations,yc-w23,2026-08-28
-fireblocks,Fireblocks,70,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+fireblocks,Fireblocks,69,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 firetiger,Firetiger,2,0,onsite-leaning,engineering,early-career,2026-08-28
 first-bank-trust,First Bank & Trust,1,0,onsite-leaning,engineering,early-career,2026-08-28
 first-quality,First Quality,15,0,onsite-leaning,engineering|other,early-career,2026-08-28
 first-street-foundation,First Street Foundation,4,0,onsite-leaning,engineering|other,backed-by-general-catalyst,2026-08-28
 five-rings-capital,Five Rings Capital,4,0,onsite-leaning,engineering|operations|other|research,early-career|new-york,2026-08-28
-fivetran,Fivetran,239,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+fivetran,Fivetran,238,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 fizz,Fizz,6,0,onsite-leaning,design|marketing|research|sales,backed-by-lightspeed,2026-08-28
 flagright,Flagright,1,0,onsite-leaning,operations,early-career|london,2026-08-28
 flai,Flai,4,0,hybrid-friendly,marketing|operations|sales,yc-s25,2026-08-28
 flashfood,Flashfood,4,0,remote-first,marketing|other|sales,backed-by-general-catalyst,2026-08-28
 flashpoint,Flashpoint,1,0,remote-first,other,early-career|remote|remote-first,2026-08-28
-flexport,Flexport,161,14,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|founding-roles|hiring-in-volume|london|los-angeles|miami|new-this-week|new-york|remote,2026-08-28
+flexport,Flexport,165,16,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|founding-roles|hiring-in-volume|london|los-angeles|miami|new-this-week|new-york|remote,2026-08-28
 flock-homes,Flock Homes,3,0,onsite-leaning,engineering|marketing,a16z-portfolio|new-york,2026-08-28
-flock-safety,Flock Safety,28,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-kleiner-perkins|defense|new-this-week|remote,2026-08-28
-flow,Flow,43,0,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|miami|new-this-week|new-york,2026-08-28
+flock-safety,Flock Safety,27,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-kleiner-perkins|defense|new-this-week|remote,2026-08-28
+flow,Flow,44,0,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|miami|new-this-week|new-york,2026-08-28
 flow-engineering,Flow Engineering,21,0,hybrid-friendly,engineering|operations|sales,backed-by-sequoia-capital,2026-08-28
 flow-traders,Flow Traders,7,0,onsite-leaning,other|research,early-career|new-this-week|new-york,2026-08-28
 fluxergy,Fluxergy,1,0,onsite-leaning,engineering,early-career,2026-08-28
 focal,Focal,1,0,onsite-leaning,engineering,early-career,2026-08-28
 fomo,Fomo,3,0,onsite-leaning,design|engineering|operations,backed-by-index-ventures,2026-08-28
-fonoa,Fonoa,31,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
+fonoa,Fonoa,28,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
 forgepoint,Forgepoint,1,0,onsite-leaning,engineering,enterprise-b2b|founding-roles|new-york|speedrun-companies,2026-08-28
 formation-bio,Formation Bio,22,0,onsite-leaning,engineering|marketing|operations|other|sales,a16z-portfolio|boston|new-this-week|new-york,2026-08-28
 fortera,Fortera,1,0,onsite-leaning,sales,backed-by-khosla-ventures,2026-08-28
@@ -513,7 +514,7 @@ forward-networks,Forward Networks,16,0,onsite-leaning,engineering|operations|oth
 found,Found,6,0,remote-first,engineering|marketing|sales,backed-by-lightspeed|backed-by-sequoia-capital,2026-08-28
 four-hands,Four Hands,2,0,onsite-leaning,other,austin|early-career,2026-08-28
 fourier,Fourier,7,0,onsite-leaning,engineering,backed-by-general-catalyst,2026-08-28
-foxglove,Foxglove,2,0,remote-first,engineering|sales,backed-by-bessemer-ventures,2026-08-28
+foxglove,Foxglove,1,0,remote-first,sales,backed-by-bessemer-ventures,2026-08-28
 franklin-templeton,Franklin Templeton,2,0,onsite-leaning,other,early-career,2026-08-28
 frec,Frec,6,0,onsite-leaning,engineering|product|research|sales,backed-by-greylock-partners,2026-08-28
 freed,Freed,5,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-sequoia-capital,2026-08-28
@@ -524,8 +525,8 @@ front,Front,22,0,onsite-leaning,design|engineering|marketing|operations|other|pr
 frontier-health,Frontier Health,1,0,onsite-leaning,research,early-career|london,2026-08-28
 fti-consulting,FTI Consulting,4,0,onsite-leaning,marketing|other,early-career,2026-08-28
 fulcrum,Fulcrum,3,0,onsite-leaning,engineering,backed-by-bessemer-ventures|yc-s25,2026-08-28
-fullstory,FullStory,2,0,onsite-leaning,engineering|sales,backed-by-kleiner-perkins,2026-08-28
-funding-circle,Funding Circle,20,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+fullstory,FullStory,3,0,onsite-leaning,engineering|other|sales,backed-by-kleiner-perkins,2026-08-28
+funding-circle,Funding Circle,19,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 fundwell,Fundwell,1,0,onsite-leaning,other,early-career|new-york,2026-08-28
 further,Further,2,0,onsite-leaning,operations|other,early-career,2026-08-28
 fuse-energy,Fuse Energy,2,0,onsite-leaning,other,early-career,2026-08-28
@@ -536,7 +537,7 @@ gamma,Gamma,32,2,onsite-leaning,design|engineering|marketing|operations|other|pr
 garage,Garage,16,0,onsite-leaning,design|engineering|marketing|operations|sales,yc-w24,2026-08-28
 ge-appliances,GE Appliances,2,0,onsite-leaning,operations|other,early-career,2026-08-28
 ge-healthcare,GE Healthcare,56,0,onsite-leaning,design|engineering|marketing|operations|other,early-career|remote,2026-08-28
-ge-vernova,GE Vernova,55,0,onsite-leaning,engineering|marketing|operations|other|product|sales,early-career|remote,2026-08-28
+ge-vernova,GE Vernova,55,0,onsite-leaning,engineering|marketing|operations|other|product,early-career|remote,2026-08-28
 gemini,Gemini,1,0,onsite-leaning,design,early-career|new-york,2026-08-28
 gen-digital,Gen Digital,2,0,onsite-leaning,engineering,early-career,2026-08-28
 generac,Generac,11,0,onsite-leaning,design|engineering|operations|other,early-career|los-angeles,2026-08-28
@@ -552,18 +553,18 @@ ghost,Ghost,1,0,onsite-leaning,engineering,a16z-portfolio|ai-infra|founding-role
 giga,Giga,30,0,hybrid-friendly,design|engineering|marketing|other,yc-s23,2026-08-28
 ginkgo-bioworks,Ginkgo Bioworks,3,0,onsite-leaning,research,boston|early-career,2026-08-28
 gitar-inc,"Gitar, Inc.",2,0,onsite-leaning,engineering,early-career,2026-08-28
-gitlab,GitLab,217,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
+gitlab,GitLab,219,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
 glean,Glean,110,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 glia,Glia,1,0,onsite-leaning,engineering,early-career,2026-08-28
 glide,Glide,1,0,onsite-leaning,engineering,early-career|new-york,2026-08-28
-glimpse,Glimpse,9,1,onsite-leaning,engineering|operations|other|sales,a16z-portfolio|enterprise-b2b,2026-08-28
+glimpse,Glimpse,10,1,onsite-leaning,engineering|operations|other|sales,a16z-portfolio|enterprise-b2b|new-this-week,2026-08-28
 global-infrastructure,Global Infrastructure,2,0,onsite-leaning,design|other,early-career,2026-08-28
 globalfoundries,GlobalFoundries,127,0,onsite-leaning,design|engineering|marketing|operations|other|sales,early-career|hiring-in-volume,2026-08-28
-globus-medical,Globus Medical,15,0,onsite-leaning,other,early-career,2026-08-28
+globus-medical,Globus Medical,16,0,onsite-leaning,other,early-career|new-york,2026-08-28
 glossier,Glossier,21,0,onsite-leaning,marketing|operations|other,backed-by-index-ventures,2026-08-28
 glydways,Glydways,13,0,hybrid-friendly,engineering|operations,backed-by-khosla-ventures,2026-08-28
-goat-group,GOAT Group,13,0,onsite-leaning,operations,backed-by-index-ventures,2026-08-28
-gong,Gong,94,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+goat-group,GOAT Group,11,0,onsite-leaning,operations,backed-by-index-ventures,2026-08-28
+gong,Gong,96,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 gooddata-ai,GoodData.AI,6,1,onsite-leaning,engineering|sales,a16z-portfolio|devtools-infra|new-this-week,2026-08-28
 goodship,GoodShip,3,0,remote-first,engineering|other,backed-by-bessemer-ventures,2026-08-28
 goodstack,Goodstack,9,0,hybrid-friendly,marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
@@ -578,9 +579,8 @@ greenboard,Greenboard,4,0,onsite-leaning,engineering|operations|other,backed-by-
 greenlight,Greenlight,13,1,hybrid-friendly,design|engineering|marketing|operations|sales,a16z-portfolio|new-this-week|remote,2026-08-28
 gremlin,Gremlin,3,0,remote-first,engineering,backed-by-index-ventures,2026-08-28
 gritt-robotics-inc,Gritt Robotics Inc,4,0,onsite-leaning,engineering,early-career|new-this-week,2026-08-28
-group-1001,Group 1001,1,0,onsite-leaning,other,early-career,2026-08-28
 grvty,GRVTY,1,0,onsite-leaning,other,early-career,2026-08-28
-guidehouse,Guidehouse,11,0,onsite-leaning,engineering|other,early-career,2026-08-28
+guidehouse,Guidehouse,12,0,onsite-leaning,engineering|other,early-career,2026-08-28
 gusto,Gusto,89,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 h1,H1,17,0,hybrid-friendly,engineering|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
 hackerrank,HackerRank,31,0,onsite-leaning,design|engineering|operations|other|sales,backed-by-khosla-ventures,2026-08-28
@@ -590,47 +590,47 @@ halliday,Halliday,2,0,onsite-leaning,engineering,a16z-portfolio|crypto-web3,2026
 halluminate,Halluminate,8,0,onsite-leaning,engineering|operations|research,yc-s25,2026-08-28
 halter,Halter,236,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures,2026-08-28
 hamming-ai,Hamming AI,5,0,onsite-leaning,engineering|sales,yc-s24,2026-08-28
-happyrobot,HappyRobot,75,12,hybrid-friendly,design|engineering|marketing|operations|other|sales,a16z-portfolio|enterprise-b2b|founding-roles|london|new-this-week|new-york|remote,2026-08-28
+happyrobot,HappyRobot,74,12,hybrid-friendly,design|engineering|marketing|operations|other|sales,a16z-portfolio|enterprise-b2b|founding-roles|london|new-this-week|new-york|remote,2026-08-28
 harmonic,Harmonic,10,0,onsite-leaning,engineering|research,backed-by-index-ventures,2026-08-28
 harmony,Harmony,9,0,hybrid-friendly,product|sales,backed-by-lightspeed,2026-08-28
 harper,Harper,24,0,onsite-leaning,engineering|marketing|operations|product|sales,yc-w25,2026-08-28
-harvey,Harvey,348,20,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-gv|backed-by-kleiner-perkins|backed-by-sequoia-capital|enterprise-b2b|founding-roles|hiring-in-volume|london|new-this-week|new-york|remote,2026-08-28
+harvey,Harvey,349,20,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-gv|backed-by-kleiner-perkins|backed-by-sequoia-capital|enterprise-b2b|founding-roles|hiring-in-volume|london|new-this-week|new-york|remote,2026-08-28
 hatch,Hatch,10,0,hybrid-friendly,engineering|marketing|other|sales,backed-by-bessemer-ventures,2026-08-28
 hcompany,HCompany,1,0,onsite-leaning,research,early-career,2026-08-28
 headlands-tech-holdings,Headlands Tech Holdings,1,0,onsite-leaning,research,early-career,2026-08-28
 headspace-health,Headspace Health,8,0,remote-first,marketing|other,backed-by-khosla-ventures,2026-08-28
-headway,Headway,84,1,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|new-this-week|new-york|remote,2026-08-28
+headway,Headway,82,1,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|new-this-week|new-york|remote,2026-08-28
 healthtech-1,Healthtech 1,6,0,onsite-leaning,engineering|marketing|operations|other|sales,yc-s23,2026-08-28
 hebbia-ai,Hebbia AI,23,1,onsite-leaning,engineering|operations|other|research|sales,a16z-portfolio|new-this-week|new-york,2026-08-28
 hedra,Hedra,8,1,onsite-leaning,engineering|marketing|operations|research|sales,a16z-portfolio|ai-infra|backed-by-abstract-ventures|games-entertainment,2026-08-28
 helion,Helion,104,0,onsite-leaning,design|engineering|marketing|operations|other|research,backed-by-lightspeed,2026-08-28
 hello-heart,Hello Heart,13,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
-helsing,Helsing,144,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,backed-by-general-catalyst,2026-08-28
+helsing,Helsing,143,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,backed-by-general-catalyst,2026-08-28
 hendrick-motorsports,Hendrick Motorsports,7,0,onsite-leaning,design|engineering|operations,early-career,2026-08-28
 hercules,Hercules,25,0,hybrid-friendly,engineering|marketing|operations|product|sales,a16z-portfolio|devtools-infra|remote,2026-08-28
-hermeus,Hermeus,75,0,onsite-leaning,design|engineering|operations|other,backed-by-khosla-ventures,2026-08-28
+hermeus,Hermeus,76,0,onsite-leaning,design|engineering|operations|other,backed-by-khosla-ventures,2026-08-28
 heron-power,Heron Power,41,0,onsite-leaning,design|engineering|operations|other|product|sales,a16z-portfolio|early-career|energy-climate|new-this-week,2026-08-28
-hewlett-packard,Hewlett Packard,35,0,onsite-leaning,engineering|operations|other|product,early-career,2026-08-28
+hewlett-packard,Hewlett Packard,38,0,onsite-leaning,engineering|operations|other|product,early-career,2026-08-28
 hewlett-packard-enterprise,Hewlett Packard Enterprise,27,2,onsite-leaning,engineering|operations|other|product|research|sales,early-career,2026-08-28
 highlight,Highlight,7,0,onsite-leaning,design|engineering|operations,backed-by-general-catalyst,2026-08-28
-hilbert,Hilbert,12,0,hybrid-friendly,engineering|marketing|operations|product,a16z-portfolio|enterprise-b2b|london|new-this-week|remote,2026-08-28
+hilbert,Hilbert,11,0,hybrid-friendly,engineering|marketing|operations,a16z-portfolio|enterprise-b2b|london|new-this-week|remote,2026-08-28
 hilcorp,Hilcorp,4,0,onsite-leaning,operations|other,early-career,2026-08-28
 hipp-health,Hipp Health,1,0,remote-first,engineering,early-career|remote|remote-first,2026-08-28
-hippocratic-ai,Hippocratic AI,42,0,onsite-leaning,engineering|marketing|operations|other|research|sales,a16z-portfolio|backed-by-general-catalyst|health-bio|new-this-week|remote|seattle,2026-08-28
+hippocratic-ai,Hippocratic AI,43,0,onsite-leaning,engineering|marketing|operations|other|research|sales,a16z-portfolio|backed-by-general-catalyst|health-bio|new-this-week|remote|seattle,2026-08-28
 hire-hangar,Hire Hangar,2,0,hybrid-friendly,other,early-career|new-this-week|remote,2026-08-28
 hitachi,Hitachi,127,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,early-career|hiring-in-volume|london|miami|remote,2026-08-28
 hive,Hive,76,0,onsite-leaning,design|engineering|marketing|operations|product|sales,backed-by-general-catalyst,2026-08-28
 hiverge,Hiverge,1,0,onsite-leaning,research,early-career,2026-08-28
 hockeystack,HockeyStack,2,0,onsite-leaning,engineering,backed-by-bessemer-ventures|backed-by-general-catalyst|yc-s23,2026-08-28
-homebase,Homebase,17,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
+homebase,Homebase,18,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
 homebound,Homebound,9,0,hybrid-friendly,design|engineering|operations|other|product,backed-by-khosla-ventures,2026-08-28
-hometap,Hometap,6,0,remote-first,operations,backed-by-general-catalyst,2026-08-28
+hometap,Hometap,6,0,remote-first,engineering|operations,backed-by-general-catalyst,2026-08-28
 hone-health,Hone Health,1,0,remote-first,engineering,early-career|remote|remote-first,2026-08-28
-honey-homes,Honey Homes,28,0,onsite-leaning,engineering|marketing|operations,backed-by-khosla-ventures,2026-08-28
+honey-homes,Honey Homes,29,0,onsite-leaning,engineering|marketing|operations,backed-by-khosla-ventures,2026-08-28
 honor,Honor,12,0,hybrid-friendly,engineering|operations|other|sales,a16z-portfolio|new-this-week|remote,2026-08-28
 hook,Hook,5,0,remote-first,design|engineering|marketing|operations|sales,backed-by-khosla-ventures|backed-by-lightspeed,2026-08-28
 house-rx,House Rx,18,0,hybrid-friendly,engineering|operations|product,backed-by-khosla-ventures,2026-08-28
-housecall-pro,Housecall Pro,36,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+housecall-pro,Housecall Pro,35,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 hubs-is,Hubs.is,1,0,remote-first,other,early-career|remote|remote-first,2026-08-28
 hudson-river-trading,Hudson River Trading,6,0,onsite-leaning,engineering|operations,austin|early-career|london|new-york,2026-08-28
 human-archive,Human Archive,19,0,onsite-leaning,engineering|operations|research|sales,yc-w26,2026-08-28
@@ -640,13 +640,13 @@ hyperexponential,hyperexponential,23,4,onsite-leaning,engineering|marketing|oper
 hyperlight,HyperLight,1,0,onsite-leaning,research,early-career,2026-08-28
 hyperscience,Hyperscience,1,0,remote-first,engineering,backed-by-bessemer-ventures,2026-08-28
 hypersonica,Hypersonica,43,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
-iambic-therapeutics,Iambic Therapeutics,20,0,onsite-leaning,operations|other|research,backed-by-sequoia-capital,2026-08-28
-iceye,ICEYE,189,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
+iambic-therapeutics,Iambic Therapeutics,19,0,onsite-leaning,operations|other|research,backed-by-sequoia-capital,2026-08-28
+iceye,ICEYE,190,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
 icf-international,ICF International,2,0,onsite-leaning,other|research,early-career,2026-08-28
 ideogram,Ideogram,3,1,onsite-leaning,marketing|other|sales,a16z-portfolio|ai-infra|backed-by-index-ventures|founding-roles|new-york,2026-08-28
 idex,IDEX,2,0,onsite-leaning,engineering,early-career,2026-08-28
 iheartmedia,iHeartMedia,4,0,onsite-leaning,other|research,early-career|new-york,2026-08-28
-illumio,Illumio,69,4,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-general-catalyst|enterprise-b2b|london|new-this-week|remote,2026-08-28
+illumio,Illumio,70,4,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-general-catalyst|enterprise-b2b|london|new-this-week|remote,2026-08-28
 imc-trading,IMC Trading,33,0,onsite-leaning,engineering|other|research,early-career|london|new-this-week,2026-08-28
 impiricus,Impiricus,1,0,remote-first,other,early-career|remote|remote-first,2026-08-28
 imply,Imply,5,0,onsite-leaning,engineering|product|sales,backed-by-khosla-ventures,2026-08-28
@@ -673,7 +673,7 @@ instalily,InstaLILY,2,0,onsite-leaning,engineering|sales,early-career|new-york,2
 instawork,Instawork,9,0,onsite-leaning,operations|other|sales,early-career,2026-08-28
 instead,Instead,1,0,onsite-leaning,engineering,early-career,2026-08-28
 institute-of-foundation-models,Institute of Foundation Models,3,0,onsite-leaning,engineering|research,early-career,2026-08-28
-instride-health,InStride Health,16,0,remote-first,engineering|marketing|operations|other|research|sales,backed-by-general-catalyst,2026-08-28
+instride-health,InStride Health,15,0,remote-first,engineering|marketing|operations|other|research|sales,backed-by-general-catalyst,2026-08-28
 intangible,Intangible,4,0,hybrid-friendly,design|engineering|other,games-entertainment|remote|speedrun-companies,2026-08-28
 integra-fec,Integra FEC,2,0,onsite-leaning,engineering|research,austin|early-career,2026-08-28
 integrity,Integrity,5,0,onsite-leaning,other|research,early-career,2026-08-28
@@ -681,13 +681,13 @@ intel,Intel,31,0,onsite-leaning,design|engineering|operations|other|research,ear
 interdigital,Interdigital,5,0,onsite-leaning,marketing|other|research,early-career,2026-08-28
 intro,Intro,9,0,hybrid-friendly,design|engineering|marketing,a16z-portfolio|consumer-social|founding-roles|remote,2026-08-28
 invopop,Invopop,4,0,onsite-leaning,engineering|sales,yc-w23,2026-08-28
-inworld-ai,Inworld AI,20,0,onsite-leaning,engineering|marketing|operations|product|research|sales,backed-by-kleiner-perkins|backed-by-lightspeed,2026-08-28
+inworld-ai,Inworld AI,19,0,onsite-leaning,engineering|marketing|operations|product|research|sales,backed-by-kleiner-perkins|backed-by-lightspeed,2026-08-28
 iqvia,IQVIA,44,0,onsite-leaning,operations|other|research|sales,early-career,2026-08-28
 iron-mountain,Iron Mountain,7,0,onsite-leaning,engineering|other,early-career|remote,2026-08-28
 ironclad,Ironclad,29,0,onsite-leaning,design|engineering|operations|other|product|sales,backed-by-sequoia-capital,2026-08-28
 iru,Iru,33,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
 ivy-tech-community-college,Ivy Tech Community College,9,0,onsite-leaning,marketing|other,early-career,2026-08-28
-jabil,Jabil,10,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
+jabil,Jabil,11,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
 jain-global,Jain Global,8,0,onsite-leaning,engineering|operations|other|research,early-career|london,2026-08-28
 jasper,Jasper,9,0,remote-first,engineering|marketing|operations,backed-by-bessemer-ventures|backed-by-general-catalyst,2026-08-28
 jeeves,Jeeves,65,16,hybrid-friendly,design|engineering|operations|other|product|sales,a16z-portfolio|early-career|london|new-this-week|remote,2026-08-28
@@ -698,17 +698,17 @@ jingdong,JINGDONG,53,0,onsite-leaning,engineering|marketing|operations|other|sal
 johnson-controls,Johnson Controls,103,0,onsite-leaning,engineering|marketing|operations|other,early-career|hiring-in-volume,2026-08-28
 johnson-johnson,Johnson & Johnson,42,0,onsite-leaning,design|engineering|marketing|operations|other|research,early-career,2026-08-28
 jones-lang-lasalle,Jones Lang LaSalle,50,0,onsite-leaning,other,austin|boston|early-career|los-angeles|miami|new-york,2026-08-28
-judi-health,Judi Health,115,0,onsite-leaning,design|engineering|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
+judi-health,Judi Health,114,0,onsite-leaning,design|engineering|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
 julius-ai,Julius AI,1,0,onsite-leaning,engineering,early-career,2026-08-28
-jump-trading,Jump Trading,33,0,onsite-leaning,engineering|operations|other|research,early-career|london|new-this-week,2026-08-28
-justworks,Justworks,103,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+jump-trading,Jump Trading,34,0,onsite-leaning,engineering|operations|other|research,early-career|london|new-this-week,2026-08-28
+justworks,Justworks,102,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 k-id,k-ID,10,0,hybrid-friendly,design|engineering|marketing|operations|product,a16z-portfolio|backed-by-lightspeed|early-career|games-entertainment|new-this-week|remote,2026-08-28
 kabam,Kabam,1,0,remote-first,other,early-career|remote|remote-first,2026-08-28
 kaizen-labs,Kaizen Labs,15,0,onsite-leaning,design|engineering|marketing|operations|sales,a16z-portfolio|defense|new-this-week|new-york|remote,2026-08-28
 kalshi,Kalshi,46,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-paradigm|backed-by-sequoia-capital|early-career|fintech|new-this-week|new-york|remote,2026-08-28
 kantar,Kantar,1,0,onsite-leaning,operations,early-career,2026-08-28
 kanu-ai,Kanu AI,1,0,onsite-leaning,engineering,devtools-infra|seattle|speedrun-companies,2026-08-28
-karius,Karius,15,0,remote-first,marketing|operations|other|research,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
+karius,Karius,16,0,remote-first,engineering|marketing|operations|other|research,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
 kastle,Kastle,13,0,onsite-leaning,engineering|operations|other|product|sales,yc-s24,2026-08-28
 kayak,KAYAK,47,0,onsite-leaning,design|engineering|marketing|operations|other|product,backed-by-general-catalyst,2026-08-28
 kbr,KBR,20,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
@@ -733,22 +733,22 @@ kraken-robotics,Kraken Robotics,1,0,onsite-leaning,operations,early-career,2026-
 krea-ai,krea.ai,10,2,onsite-leaning,engineering|operations|other|sales,a16z-portfolio|backed-by-abstract-ventures|devtools-infra|founding-roles,2026-08-28
 labelbox,Labelbox,9,0,onsite-leaning,engineering|operations|other|research,a16z-portfolio|early-career|remote,2026-08-28
 ladder,Ladder,4,0,hybrid-friendly,marketing|operations,backed-by-general-catalyst|backed-by-lightspeed,2026-08-28
-langchain,LangChain,108,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-sequoia-capital,2026-08-28
+langchain,LangChain,107,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-sequoia-capital,2026-08-28
 langfuse,Langfuse,7,0,onsite-leaning,engineering|marketing,backed-by-lightspeed,2026-08-28
 lassie,Lassie,16,1,onsite-leaning,design|engineering|marketing|operations|sales,a16z-portfolio|founding-roles|health-bio,2026-08-28
 latent,Latent,19,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,yc-w23,2026-08-28
 later,Later,3,0,onsite-leaning,operations|other,early-career,2026-08-28
-lattice,Lattice,12,0,remote-first,engineering|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
+lattice,Lattice,11,0,remote-first,engineering|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 layer-health,Layer Health,15,0,onsite-leaning,design|engineering|operations|other|research|sales,backed-by-general-catalyst,2026-08-28
 layerzero-labs,LayerZero Labs,8,0,onsite-leaning,engineering|operations,a16z-portfolio,2026-08-28
 lead-bank,Lead Bank,15,0,hybrid-friendly,engineering|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 lean-technologies,Lean Technologies,4,0,onsite-leaning,engineering|operations|other|sales,backed-by-general-catalyst,2026-08-28
-legora,Legora,278,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures,2026-08-28
+legora,Legora,280,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures,2026-08-28
 lekondo,Lekondo,2,0,onsite-leaning,engineering,consumer-social|founding-roles|new-york|speedrun-companies,2026-08-28
 lemon-markets,lemon.markets,20,0,onsite-leaning,engineering|operations|other|sales,backed-by-lightspeed,2026-08-28
 leona-health,Leona Health,5,0,hybrid-friendly,design|engineering|marketing|product,a16z-portfolio|health-bio|remote,2026-08-28
-leonardo,Leonardo,6,0,onsite-leaning,operations|other,early-career,2026-08-28
-lessen,Lessen,48,0,onsite-leaning,engineering|marketing|operations|other,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
+leonardo,Leonardo,7,0,onsite-leaning,operations|other,early-career,2026-08-28
+lessen,Lessen,47,0,onsite-leaning,engineering|marketing|operations|other,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
 lexisnexis-legal-professional,LexisNexis Legal & Professional,3,1,onsite-leaning,operations|other|sales,early-career,2026-08-28
 lexisnexis-risk-solutions,LexisNexis Risk Solutions,1,0,onsite-leaning,design,early-career,2026-08-28
 liberty-university,Liberty University,3,0,hybrid-friendly,engineering|operations|other,early-career|remote,2026-08-28
@@ -756,9 +756,9 @@ lido,Lido,2,0,onsite-leaning,engineering|marketing,a16z-portfolio|backed-by-para
 life-church,Life.Church,2,0,onsite-leaning,other,early-career,2026-08-28
 lightfield,Lightfield,18,0,onsite-leaning,engineering|marketing|operations|product|sales,backed-by-greylock-partners|backed-by-lightspeed,2026-08-28
 lightguide-inc,"LightGuide, Inc.",2,0,onsite-leaning,engineering|product,early-career,2026-08-28
-lightning-ai,Lightning AI,51,0,onsite-leaning,design|engineering|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
+lightning-ai,Lightning AI,50,0,onsite-leaning,design|engineering|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
 lightspark,Lightspark,2,0,hybrid-friendly,engineering|operations,a16z-portfolio|backed-by-paradigm|fintech|remote,2026-08-28
-lila-sciences,Lila Sciences,130,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
+lila-sciences,Lila Sciences,127,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
 lilt,Lilt,10,0,onsite-leaning,engineering|operations|other|sales,backed-by-sequoia-capital,2026-08-28
 limbic,Limbic,6,0,hybrid-friendly,engineering|marketing|other|product,backed-by-khosla-ventures,2026-08-28
 limelight-steel,Limelight Steel,1,0,onsite-leaning,other,backed-by-khosla-ventures,2026-08-28
@@ -783,7 +783,7 @@ loula,Loula,122,0,onsite-leaning,other,yc-w23,2026-08-28
 loyal,Loyal,5,0,remote-first,operations|other|research,backed-by-khosla-ventures,2026-08-28
 ltse,LTSE,1,0,remote-first,other,a16z-portfolio|new-york|remote|remote-first,2026-08-28
 lucis,Lucis,9,0,onsite-leaning,design|engineering|operations|other,backed-by-general-catalyst|yc-x25,2026-08-28
-luma-ai,Luma AI,50,5,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|london|los-angeles|new-this-week|new-york|remote,2026-08-28
+luma-ai,Luma AI,49,5,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|london|los-angeles|new-this-week|new-york|remote,2026-08-28
 lumentum,Lumentum,3,0,onsite-leaning,other,early-career,2026-08-28
 luminai,Luminai,14,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 mach-industries,Mach Industries,107,0,onsite-leaning,design|engineering|operations|other,backed-by-sequoia-capital,2026-08-28
@@ -794,26 +794,25 @@ magic-eden,Magic Eden,3,0,remote-first,design|operations,backed-by-greylock-part
 magic-leap,Magic Leap,4,0,onsite-leaning,design|engineering|operations,a16z-portfolio|austin,2026-08-28
 magic-patterns,Magic Patterns,7,0,hybrid-friendly,design|engineering|marketing|sales,yc-w23,2026-08-28
 magna,Magna,61,0,onsite-leaning,design|engineering|operations|other,early-career,2026-08-28
-mainspring-energy,Mainspring Energy,89,0,onsite-leaning,design|engineering|operations|other|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
+mainspring-energy,Mainspring Energy,86,0,onsite-leaning,design|engineering|operations|other|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
 management-leadership-for-tomorrow,Management Leadership for Tomorrow,3,0,hybrid-friendly,operations|other,a16z-portfolio|remote,2026-08-28
 mandolin,Mandolin,5,0,onsite-leaning,engineering|product|sales,backed-by-greylock-partners,2026-08-28
 manulife-financial,Manulife Financial,14,0,onsite-leaning,engineering|other,boston|early-career,2026-08-28
 margo,MARGO,3,0,onsite-leaning,engineering,early-career|london,2026-08-28
 mariana-minerals,Mariana Minerals,64,0,onsite-leaning,design|engineering|operations|other|product,a16z-portfolio|energy-climate|new-this-week,2026-08-28
-mark43,Mark43,34,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
+mark43,Mark43,35,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
 marmon-holdings,Marmon Holdings,5,0,onsite-leaning,engineering,early-career|remote,2026-08-28
 marsh,Marsh,109,3,onsite-leaning,design|engineering|marketing|operations|other|sales,early-career|hiring-in-volume,2026-08-28
 marshall-wace,Marshall Wace,4,0,onsite-leaning,other,early-career|london|new-york,2026-08-28
 marvell,Marvell,8,0,onsite-leaning,design|other|research,early-career,2026-08-28
-masco,Masco,2,0,onsite-leaning,engineering|other,early-career,2026-08-28
 mass-general-brigham,Mass General Brigham,5,0,onsite-leaning,operations|other|research,early-career,2026-08-28
 mastercard,Mastercard,8,0,onsite-leaning,engineering|other,early-career,2026-08-28
 mastra,Mastra,2,0,remote-first,design|sales,yc-w25,2026-08-28
 material-bank,Material Bank,13,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
 material-security,Material Security,6,1,remote-first,engineering|other|sales,a16z-portfolio|backed-by-abstract-ventures|backed-by-south-park-commons|devtools-infra|new-this-week|remote|remote-first,2026-08-28
 matik,Matik,1,0,remote-first,marketing,a16z-portfolio|remote|remote-first,2026-08-28
-matter-labs,Matter Labs,2,0,remote-first,engineering,a16z-portfolio|backed-by-union-square-ventures|crypto-web3|new-this-week|remote|remote-first,2026-08-28
-maven-clinic,Maven Clinic,31,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+matter-labs,Matter Labs,5,2,remote-first,engineering|sales,a16z-portfolio|backed-by-union-square-ventures|crypto-web3|london|new-this-week|new-york|remote|remote-first,2026-08-28
+maven-clinic,Maven Clinic,32,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 maven-securities,Maven Securities,5,0,onsite-leaning,engineering|operations|research,early-career|london,2026-08-28
 maxima,Maxima,1,0,onsite-leaning,engineering,early-career,2026-08-28
 maze-therapeutics,Maze Therapeutics,10,0,onsite-leaning,operations|other,backed-by-general-catalyst,2026-08-28
@@ -833,7 +832,7 @@ menasha-corporation,Menasha Corporation,11,0,onsite-leaning,design|engineering|o
 menlo-security,Menlo Security,18,0,hybrid-friendly,design|engineering|operations|sales,backed-by-general-catalyst,2026-08-28
 mercer-university,Mercer University,16,0,onsite-leaning,marketing|operations|other|research,early-career,2026-08-28
 merck,Merck,12,0,onsite-leaning,engineering|marketing|operations|other,early-career,2026-08-28
-mercor,Mercor,92,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
+mercor,Mercor,93,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
 mercura,Mercura,13,0,onsite-leaning,design|engineering|marketing|operations|other|sales,yc-w25,2026-08-28
 meshy,Meshy,4,0,onsite-leaning,engineering|research,early-career,2026-08-28
 metal,Metal,4,1,onsite-leaning,engineering,early-career|enterprise-b2b|speedrun-companies,2026-08-28
@@ -845,31 +844,31 @@ middesk,Middesk,21,0,onsite-leaning,design|engineering|marketing|operations|prod
 midstream-health,Midstream Health,7,0,onsite-leaning,design|engineering|marketing|product|sales,a16z-portfolio|health-bio|remote,2026-08-28
 mimica-automation,Mimica Automation,15,0,remote-first,engineering|marketing|operations|other|sales,backed-by-khosla-ventures,2026-08-28
 mind-robotics,Mind Robotics,28,0,onsite-leaning,design|engineering|operations|research,a16z-portfolio|early-career|new-this-week|robotics-hardware,2026-08-28
-minio,MinIO,22,0,remote-first,engineering|marketing|other|product|sales,backed-by-general-catalyst,2026-08-28
-mintlify,Mintlify,21,4,onsite-leaning,design|engineering|marketing|operations|sales,a16z-portfolio|devtools-infra|founding-roles|new-york,2026-08-28
+minio,MinIO,21,0,remote-first,engineering|marketing|other|product|sales,backed-by-general-catalyst,2026-08-28
+mintlify,Mintlify,21,4,onsite-leaning,design|engineering|marketing|operations|sales,a16z-portfolio|devtools-infra|founding-roles|new-this-week|new-york,2026-08-28
 mirage,Mirage,10,0,onsite-leaning,design|engineering|operations|product|research,a16z-portfolio|backed-by-general-catalyst|backed-by-index-ventures|backed-by-kleiner-perkins|consumer-social|new-this-week,2026-08-28
 mirelo-ai,Mirelo AI,8,0,onsite-leaning,design|engineering|marketing|operations|product|research,a16z-portfolio|ai-infra|founding-roles,2026-08-28
 mirendil,Mirendil,13,0,onsite-leaning,design|engineering,a16z-portfolio|ai-infra|new-this-week,2026-08-28
 miter,Miter,12,0,hybrid-friendly,design|engineering|operations|other|product|sales,backed-by-bessemer-ventures,2026-08-28
-mixpanel,Mixpanel,91,26,hybrid-friendly,design|engineering|marketing|operations|other|sales,a16z-portfolio|austin|boston|london|los-angeles|new-this-week|new-york|remote|seattle,2026-08-28
-mks-instruments,MKS Instruments,2,0,onsite-leaning,operations|other,early-career,2026-08-28
+mixpanel,Mixpanel,90,25,hybrid-friendly,design|engineering|marketing|operations|other|sales,a16z-portfolio|austin|boston|london|los-angeles|new-this-week|new-york|remote|seattle,2026-08-28
+mks-instruments,MKS Instruments,3,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
 modal-labs,Modal,31,0,onsite-leaning,engineering|marketing|operations|other|research|sales,backed-by-general-catalyst,2026-08-28
 modernfi,ModernFi,8,0,hybrid-friendly,engineering|marketing|other|sales,a16z-portfolio|fintech|new-york|remote,2026-08-28
 modus,Modus,12,0,onsite-leaning,engineering|marketing|other|product,backed-by-lightspeed,2026-08-28
-moment,Moment,15,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,a16z-portfolio|backed-by-index-ventures|backed-by-lightspeed|fintech|new-york,2026-08-28
+moment,Moment,14,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,a16z-portfolio|backed-by-index-ventures|backed-by-lightspeed|fintech|new-york,2026-08-28
 momentic,Momentic,2,0,onsite-leaning,engineering,yc-w24,2026-08-28
 momentum,Momentum,8,0,onsite-leaning,operations|other,early-career,2026-08-28
 monolithic-power-systems,Monolithic Power Systems,36,0,onsite-leaning,design|engineering|marketing|operations|other|sales,early-career,2026-08-28
-monzo,Monzo,66,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
-moo,Moo,12,0,onsite-leaning,engineering|other|sales,backed-by-index-ventures,2026-08-28
+monzo,Monzo,67,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
+moo,Moo,13,0,onsite-leaning,engineering|other|sales,backed-by-index-ventures,2026-08-28
 moog,Moog,9,0,onsite-leaning,engineering|other,early-career,2026-08-28
 morgan-stanley,Morgan Stanley,5,0,onsite-leaning,other,early-career|seattle,2026-08-28
 morpho-labs,Morpho Labs,16,0,hybrid-friendly,engineering|operations|other|product|sales,a16z-portfolio|backed-by-paradigm|crypto-web3|new-this-week|new-york|remote,2026-08-28
 moss-associates,Moss & Associates,3,0,onsite-leaning,other,early-career,2026-08-28
 motherduck,MotherDuck,6,3,onsite-leaning,engineering|sales,a16z-portfolio|backed-by-felicis|devtools-infra|new-this-week|new-york|seattle,2026-08-28
-motive,Motive,123,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+motive,Motive,124,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 motorola,Motorola,61,0,onsite-leaning,engineering|operations|other|sales,early-career|los-angeles|remote,2026-08-28
-motorway,Motorway,16,0,onsite-leaning,design|engineering|marketing|operations|other,backed-by-index-ventures,2026-08-28
+motorway,Motorway,15,0,onsite-leaning,design|engineering|marketing|operations|other,backed-by-index-ventures,2026-08-28
 mthree,mthree,26,0,onsite-leaning,engineering|operations|other,early-career|new-this-week,2026-08-28
 multiplier-holdings,Multiplier Holdings,10,0,onsite-leaning,engineering|marketing|operations|other,backed-by-lightspeed,2026-08-28
 multiply,Multiply,1,0,onsite-leaning,other,backed-by-kleiner-perkins,2026-08-28
@@ -887,7 +886,7 @@ nash,Nash,17,2,hybrid-friendly,design|engineering|marketing|operations|other|pro
 national-laboratory-of-the-rockies,National Laboratory of the Rockies,21,0,onsite-leaning,engineering|marketing|operations|other|research,early-career|los-angeles,2026-08-28
 nationgraph,NationGraph,1,0,onsite-leaning,engineering,early-career,2026-08-28
 neighbor,Neighbor,10,1,onsite-leaning,engineering|marketing|other|product|sales,a16z-portfolio|early-career|founding-roles,2026-08-28
-neko-health,Neko Health,101,0,onsite-leaning,design|engineering|marketing|operations|other|research,backed-by-general-catalyst|backed-by-lightspeed,2026-08-28
+neko-health,Neko Health,103,0,onsite-leaning,design|engineering|marketing|operations|other|research,backed-by-general-catalyst|backed-by-lightspeed,2026-08-28
 nelnet,Nelnet,3,0,onsite-leaning,design|marketing|other,early-career,2026-08-28
 neocognition,NeoCognition,1,0,onsite-leaning,research,early-career,2026-08-28
 neon,Neon,6,0,hybrid-friendly,engineering|marketing|operations,backed-by-general-catalyst|backed-by-khosla-ventures|fintech|new-york|remote|speedrun-companies,2026-08-28
@@ -895,11 +894,11 @@ netic,Netic,29,0,onsite-leaning,design|engineering|marketing|operations|product|
 netlify,Netlify,2,0,remote-first,marketing|product,a16z-portfolio|remote|remote-first,2026-08-28
 neuralink,Neuralink,20,0,onsite-leaning,engineering|operations|other,austin|early-career,2026-08-28
 newsbreak,NewsBreak,5,0,onsite-leaning,engineering|marketing|operations|research,early-career,2026-08-28
-nextdoor,Nextdoor,20,0,hybrid-friendly,design|engineering|marketing|other|product,backed-by-khosla-ventures,2026-08-28
+nextdoor,Nextdoor,23,0,hybrid-friendly,design|engineering|marketing|other|product,backed-by-khosla-ventures,2026-08-28
 nexus,Nexus,4,0,remote-first,engineering,backed-by-lightspeed,2026-08-28
 nexxa-ai,Nexxa.ai,16,0,onsite-leaning,engineering|product|sales,enterprise-b2b|new-this-week|remote|speedrun-companies,2026-08-28
 nexxen,Nexxen,2,0,onsite-leaning,other|sales,early-career,2026-08-28
-nidec,Nidec,13,0,onsite-leaning,design|engineering|marketing|other,early-career,2026-08-28
+nidec,Nidec,14,0,onsite-leaning,design|engineering|marketing|operations|other,early-career,2026-08-28
 nightwing-intelligence-solutions,Nightwing Intelligence Solutions,7,0,onsite-leaning,engineering|other|research,early-career,2026-08-28
 nimblerx,NimbleRx,9,0,onsite-leaning,engineering|other|sales,backed-by-khosla-ventures,2026-08-28
 nio,Nio,5,0,onsite-leaning,engineering|other|research,early-career,2026-08-28
@@ -910,11 +909,11 @@ noda-ai,NODA AI,32,0,onsite-leaning,design|engineering|marketing|operations|othe
 nolla-health,Nolla Health,2,0,hybrid-friendly,engineering|marketing,backed-by-general-catalyst,2026-08-28
 nomagic,Nomagic,27,0,onsite-leaning,design|engineering|operations|other|research|sales,backed-by-khosla-ventures,2026-08-28
 nomic,Nomic,2,0,remote-first,engineering|product,a16z-portfolio|crypto-web3|remote|remote-first,2026-08-28
-nooks,Nooks,47,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-kleiner-perkins,2026-08-28
+nooks,Nooks,46,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-kleiner-perkins,2026-08-28
 northwestern-mutual,Northwestern Mutual,6,0,onsite-leaning,other,early-career,2026-08-28
 northwood-space,Northwood Space,75,0,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|aero-space|early-career|los-angeles|new-this-week,2026-08-28
 notable,Notable,10,0,onsite-leaning,design|engineering|marketing|operations|sales,backed-by-greylock-partners,2026-08-28
-notion,Notion,135,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-index-ventures|backed-by-sequoia-capital,2026-08-28
+notion,Notion,132,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-index-ventures|backed-by-sequoia-capital,2026-08-28
 nova-credit,Nova Credit,12,0,hybrid-friendly,design|engineering|marketing|operations|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
 novartis,Novartis,4,0,onsite-leaning,operations|other,early-career,2026-08-28
 novellia,Novellia,10,0,remote-first,engineering|marketing|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
@@ -936,7 +935,7 @@ okendo,Okendo,5,0,remote-first,engineering|operations,backed-by-index-ventures,2
 oklo,Oklo,1,0,onsite-leaning,other,early-career,2026-08-28
 okta,Okta,363,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
 oligo-space,Oligo Space,4,0,onsite-leaning,engineering|other,early-career,2026-08-28
-omada-health,Omada Health,27,0,remote-first,design|engineering|operations|other|research|sales,a16z-portfolio|new-this-week|remote|remote-first,2026-08-28
+omada-health,Omada Health,24,0,remote-first,design|engineering|operations|other|research|sales,a16z-portfolio|new-this-week|remote|remote-first,2026-08-28
 omnea,Omnea,48,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 omni-design-technologies,Omni Design Technologies,2,0,onsite-leaning,design,early-career,2026-08-28
 omnifold,Omnifold,11,0,onsite-leaning,engineering|marketing|other|research|sales,backed-by-lightspeed,2026-08-28
@@ -947,20 +946,20 @@ onware,Onware,1,0,onsite-leaning,engineering,early-career,2026-08-28
 onyx,Onyx,4,0,onsite-leaning,engineering|sales,backed-by-khosla-ventures|yc-w24,2026-08-28
 op-labs,OP Labs,6,1,hybrid-friendly,engineering|marketing|product|sales,a16z-portfolio|crypto-web3|new-york|remote,2026-08-28
 opal,Opal,18,0,onsite-leaning,engineering|marketing|operations|product|sales,backed-by-greylock-partners,2026-08-28
-openai,OpenAI,749,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
+openai,OpenAI,755,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
 opengov,OpenGov,54,6,onsite-leaning,engineering|marketing|operations|other|sales,a16z-portfolio|enterprise-b2b|new-this-week,2026-08-28
 openrouter,OpenRouter,23,2,remote-first,engineering|marketing|operations|product|research|sales,a16z-portfolio|ai-infra|remote|remote-first,2026-08-28
 opensea,OpenSea,2,0,remote-first,design|engineering,a16z-portfolio|backed-by-paradigm|backed-by-sequoia-capital|crypto-web3|remote|remote-first,2026-08-28
 openx,OpenX,7,0,hybrid-friendly,engineering|operations|other|sales,backed-by-index-ventures,2026-08-28
 ophelia,Ophelia,13,0,onsite-leaning,marketing|operations|other|product,backed-by-general-catalyst,2026-08-28
-optiver,Optiver,1,0,onsite-leaning,other,early-career,2026-08-28
+optiver,Optiver,36,0,onsite-leaning,engineering|other|research,austin|early-career|london,2026-08-28
 opusclip,OpusClip,3,0,hybrid-friendly,marketing|product|research,early-career|remote,2026-08-28
 orb,Orb,23,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-greylock-partners,2026-08-28
 orchard-robotics,Orchard Robotics,24,0,onsite-leaning,design|engineering|operations|sales,backed-by-general-catalyst,2026-08-28
 orchestra,Orchestra,3,0,onsite-leaning,engineering,a16z-portfolio|health-bio,2026-08-28
 orennia,Orennia,1,0,onsite-leaning,other,early-career,2026-08-28
-oscar-health,Oscar Health,260,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
-osmind,Osmind,6,0,hybrid-friendly,engineering|operations|other|sales,backed-by-general-catalyst,2026-08-28
+oscar-health,Oscar Health,263,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
+osmind,Osmind,7,0,hybrid-friendly,engineering|operations|other|sales,backed-by-general-catalyst,2026-08-28
 oso,Oso,7,0,onsite-leaning,engineering|marketing|other|sales,backed-by-sequoia-capital,2026-08-28
 ossium-health,Ossium Health,9,0,onsite-leaning,engineering|operations|other,backed-by-general-catalyst,2026-08-28
 outpost-technologies,Outpost Technologies,2,0,onsite-leaning,operations|research,early-career|london,2026-08-28
@@ -983,7 +982,7 @@ payrails,Payrails,2,0,onsite-leaning,engineering|operations,a16z-portfolio|backe
 pdt-partners,PDT Partners,2,0,onsite-leaning,engineering,early-career|new-york,2026-08-28
 pearl-health,Pearl Health,1,0,remote-first,operations,a16z-portfolio|health-bio|new-york|remote|remote-first,2026-08-28
 pendulum,Pendulum,7,0,onsite-leaning,marketing|operations|other|research,backed-by-khosla-ventures,2026-08-28
-pennsylvania-state-university,Pennsylvania State University,33,0,onsite-leaning,engineering|marketing|operations|other|research|sales,early-career,2026-08-28
+pennsylvania-state-university,Pennsylvania State University,36,0,onsite-leaning,engineering|marketing|operations|other|research|sales,early-career,2026-08-28
 percepta,Percepta,10,0,onsite-leaning,engineering|operations|product|research,backed-by-general-catalyst,2026-08-28
 periodic-labs,Periodic Labs,28,0,onsite-leaning,engineering|operations|other|research,a16z-portfolio|backed-by-felicis|backed-by-lightspeed|early-career|founding-roles|health-bio|remote,2026-08-28
 permitflow,PermitFlow,39,0,onsite-leaning,design|engineering|operations|other|product|sales,backed-by-kleiner-perkins,2026-08-28
@@ -1013,7 +1012,7 @@ pingwind,PingWind,1,0,remote-first,engineering,early-career|remote|remote-first,
 pirros,Pirros,4,0,onsite-leaning,engineering|other|sales,yc-w23,2026-08-28
 pivot-robotics,Pivot Robotics,6,0,onsite-leaning,engineering,yc-w24,2026-08-28
 pivotal-health,Pivotal Health,26,0,hybrid-friendly,engineering|marketing|operations|other,backed-by-bessemer-ventures,2026-08-28
-plaid,Plaid,100,8,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-felicis|backed-by-gv|backed-by-index-ventures|fintech|hiring-in-volume|new-this-week|new-york|remote,2026-08-28
+plaid,Plaid,102,8,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-felicis|backed-by-gv|backed-by-index-ventures|fintech|hiring-in-volume|new-this-week|new-york|remote,2026-08-28
 planetscale,PlanetScale,10,0,remote-first,engineering|marketing|operations|sales,a16z-portfolio|remote|remote-first,2026-08-28
 plume,Plume,2,0,remote-first,other|product,backed-by-general-catalyst,2026-08-28
 pmg,PMG,13,0,onsite-leaning,design|engineering|marketing|other,early-career,2026-08-28
@@ -1023,7 +1022,7 @@ pointfive,PointFive,10,0,onsite-leaning,engineering|marketing|operations|sales,b
 pointone,PointOne,13,0,onsite-leaning,engineering|operations|other|sales,yc-w24,2026-08-28
 polychain-capital,Polychain Capital,1,0,onsite-leaning,other,a16z-portfolio,2026-08-28
 polygon-technology,Polygon Technology,3,0,remote-first,marketing|operations|other,backed-by-lightspeed,2026-08-28
-polymarket,Polymarket,77,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+polymarket,Polymarket,78,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 polymath,Polymath,5,0,hybrid-friendly,engineering|operations|research,yc-w26,2026-08-28
 pomelo-care,Pomelo Care,59,0,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|new-this-week|new-york|remote,2026-08-28
 pony-ai,pony.ai,3,0,onsite-leaning,engineering|operations|research,early-career,2026-08-28
@@ -1042,14 +1041,14 @@ prior-labs,Prior Labs,2,0,onsite-leaning,operations|research,early-career|new-th
 probably-genetic,Probably Genetic,6,0,onsite-leaning,engineering|marketing|product|sales,backed-by-khosla-ventures,2026-08-28
 probook,Probook,13,2,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|enterprise-b2b|founding-roles|new-this-week,2026-08-28
 procter-gamble,Procter & Gamble,161,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,early-career|hiring-in-volume,2026-08-28
-profound,Profound,76,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-kleiner-perkins|backed-by-lightspeed,2026-08-28
+profound,Profound,77,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-kleiner-perkins|backed-by-lightspeed,2026-08-28
 promise,Promise,3,0,onsite-leaning,other,a16z-portfolio|games-entertainment|los-angeles,2026-08-28
-propel,Propel,9,0,remote-first,engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-kleiner-perkins|fintech|new-this-week|remote|remote-first,2026-08-28
+propel,Propel,10,0,remote-first,engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-kleiner-perkins|fintech|new-this-week|remote|remote-first,2026-08-28
 prosper-ai,Prosper AI,11,2,onsite-leaning,engineering|marketing|product|sales,a16z-portfolio|health-bio|new-york,2026-08-28
 protege,Protege,21,0,remote-first,engineering|marketing|operations|other|product|research|sales,a16z-portfolio|ai-infra|backed-by-sequoia-capital|new-this-week|remote|remote-first,2026-08-28
 protolabs,Protolabs,1,0,onsite-leaning,other,early-career,2026-08-28
 prox,Prox,5,0,onsite-leaning,engineering|operations|sales,yc-f25,2026-08-28
-proxima-fusion,Proxima Fusion,51,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-lightspeed,2026-08-28
+proxima-fusion,Proxima Fusion,52,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-lightspeed,2026-08-28
 pryzm,Pryzm,7,0,onsite-leaning,engineering|marketing|operations|sales,a16z-portfolio|boston|defense|new-this-week,2026-08-28
 ptc,PTC,7,0,onsite-leaning,other|sales,early-career,2026-08-28
 pulse,Pulse,9,0,onsite-leaning,design|engineering|sales,yc-s24,2026-08-28
@@ -1059,46 +1058,46 @@ qts,QTS,15,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
 quadric,Quadric,1,0,onsite-leaning,design,early-career,2026-08-28
 quadrillion,Quadrillion,2,0,onsite-leaning,engineering|research,early-career|new-york,2026-08-28
 quantco,QuantCo,5,0,onsite-leaning,engineering|research,early-career,2026-08-28
-quartzy,Quartzy,2,0,remote-first,other,backed-by-khosla-ventures,2026-08-28
+quartzy,Quartzy,1,0,remote-first,other,backed-by-khosla-ventures,2026-08-28
 quera-computing,QuEra Computing,5,0,onsite-leaning,other|research,boston|early-career,2026-08-28
 quilter,Quilter,5,0,remote-first,engineering|other,backed-by-index-ventures,2026-08-28
 quora,Quora,6,0,remote-first,engineering|operations,a16z-portfolio|consumer-social|early-career|remote|remote-first,2026-08-28
 rad-ai,Rad AI,18,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
-radiant,Radiant,92,0,onsite-leaning,engineering|marketing|operations|other|sales,a16z-portfolio|backed-by-felicis|backed-by-union-square-ventures|early-career|energy-climate|los-angeles|new-this-week,2026-08-28
+radiant,Radiant,91,0,onsite-leaning,engineering|marketing|operations|other|sales,a16z-portfolio|backed-by-felicis|backed-by-union-square-ventures|early-career|energy-climate|los-angeles|new-this-week,2026-08-28
 radix-trading,Radix Trading,1,0,onsite-leaning,research,early-career,2026-08-28
 raft,Raft,1,0,onsite-leaning,design,backed-by-bessemer-ventures,2026-08-28
-rain,Rain,45,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures|backed-by-lightspeed,2026-08-28
+rain,Rain,44,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures|backed-by-lightspeed,2026-08-28
 rainmaker,Rainmaker,3,0,onsite-leaning,engineering,early-career|los-angeles,2026-08-28
-raisin,Raisin,32,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
-ramp,Ramp,137,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures|backed-by-general-catalyst|backed-by-greylock-partners|backed-by-lightspeed,2026-08-28
+raisin,Raisin,30,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+ramp,Ramp,138,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures|backed-by-general-catalyst|backed-by-greylock-partners|backed-by-lightspeed,2026-08-28
 ranger,Ranger,3,0,onsite-leaning,engineering|marketing,backed-by-general-catalyst,2026-08-28
 rasa,Rasa,2,0,remote-first,other|product,a16z-portfolio|devtools-infra|new-this-week|remote|remote-first,2026-08-28
 ravenna,Ravenna,7,0,hybrid-friendly,design|engineering|marketing|other|sales,backed-by-khosla-ventures,2026-08-28
-re-build-manufacturing,Re:Build Manufacturing,125,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
+re-build-manufacturing,Re:Build Manufacturing,126,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
 reacher,Reacher,8,0,remote-first,engineering|marketing|sales,yc-s25,2026-08-28
 readyset,ReadySet,1,0,remote-first,engineering,backed-by-index-ventures,2026-08-28
 realm,Realm,2,0,remote-first,engineering,early-career|new-this-week|remote|remote-first,2026-08-28
-rebag,Rebag,16,0,onsite-leaning,marketing|operations|other,backed-by-general-catalyst,2026-08-28
+rebag,Rebag,15,0,onsite-leaning,marketing|operations|other,backed-by-general-catalyst,2026-08-28
 recall-ai,Recall.ai,3,0,onsite-leaning,engineering|sales,backed-by-bessemer-ventures,2026-08-28
 red-hat,Red Hat,1,0,onsite-leaning,sales,early-career,2026-08-28
 redesign-health,Redesign Health,22,0,onsite-leaning,design|engineering|operations|other,backed-by-general-catalyst,2026-08-28
 reevoai,Reevoai,21,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
-reflect-orbital,Reflect Orbital,18,0,onsite-leaning,engineering|marketing|operations,backed-by-sequoia-capital,2026-08-28
+reflect-orbital,Reflect Orbital,17,0,onsite-leaning,engineering|operations,backed-by-sequoia-capital,2026-08-28
 reflection-ai,Reflection AI,51,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,backed-by-lightspeed,2026-08-28
 reflex-robotics,Reflex Robotics,6,0,onsite-leaning,engineering|other|research,backed-by-khosla-ventures,2026-08-28
 regal-rexnord,Regal Rexnord,5,0,onsite-leaning,engineering|marketing|other,early-career,2026-08-28
 reindeer-ai,Reindeer AI,16,0,onsite-leaning,engineering|marketing|operations|sales,backed-by-lightspeed,2026-08-28
-relativity-space,Relativity Space,351,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-general-catalyst,2026-08-28
-relay,Relay,41,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+relativity-space,Relativity Space,348,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-general-catalyst,2026-08-28
+relay,Relay,42,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 relevance-ai,Relevance AI,10,0,onsite-leaning,engineering|operations|other|sales,backed-by-bessemer-ventures,2026-08-28
-reliable-robotics-corporation,Reliable Robotics Corporation,51,0,onsite-leaning,design|engineering|operations,backed-by-lightspeed,2026-08-28
+reliable-robotics-corporation,Reliable Robotics Corporation,52,0,onsite-leaning,design|engineering|operations,backed-by-lightspeed,2026-08-28
 relx,RELX,4,1,onsite-leaning,operations|other|research|sales,early-career,2026-08-28
-remote,Remote,203,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
-render,Render,34,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures|backed-by-general-catalyst,2026-08-28
+remote,Remote,204,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
+render,Render,33,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures|backed-by-general-catalyst,2026-08-28
 rendezvous-robotics,Rendezvous Robotics,8,0,onsite-leaning,engineering|other,early-career,2026-08-28
 replit,Replit,71,4,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-abstract-ventures|backed-by-khosla-ventures|backed-by-south-park-commons|devtools-infra|new-this-week|remote,2026-08-28
 reply,Reply,1,0,onsite-leaning,other,early-career|new-this-week,2026-08-28
-resend,Resend,13,1,remote-first,design|engineering|marketing|operations|sales,a16z-portfolio|devtools-infra|new-this-week|remote|remote-first,2026-08-28
+resend,Resend,12,1,remote-first,design|engineering|operations|sales,a16z-portfolio|devtools-infra|new-this-week|remote|remote-first,2026-08-28
 resolve-ai,Resolve AI,16,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-greylock-partners|backed-by-lightspeed,2026-08-28
 retell-ai,Retell AI,39,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,yc-w24,2026-08-28
 revel,Revel,3,0,onsite-leaning,engineering,early-career|los-angeles,2026-08-28
@@ -1106,22 +1105,22 @@ revenuebase,RevenueBase,6,0,remote-first,engineering|operations|sales,backed-by-
 revenuecat,RevenueCat,18,0,remote-first,design|engineering|marketing|operations|product|sales,backed-by-index-ventures,2026-08-28
 revise-robotics,Revise Robotics,2,0,onsite-leaning,engineering|sales,early-career|new-york,2026-08-28
 revvity,Revvity,5,0,onsite-leaning,engineering|marketing|operations|other,early-career,2026-08-28
-rewind,Rewind,,0,remote-first,engineering|operations,backed-by-bessemer-ventures,name-unresolved
+rewind,Rewind,3,0,remote-first,engineering|operations,backed-by-bessemer-ventures,2026-08-28
 rezo-therapeutics,Rezo Therapeutics,4,0,onsite-leaning,engineering|research,a16z-portfolio,2026-08-28
 rfcuny,RFCUNY,8,0,onsite-leaning,design|marketing|operations|other|research,early-career|new-york,2026-08-28
 ricursive-intelligence,Ricursive Intelligence,11,0,onsite-leaning,design|engineering|operations|other|research,backed-by-lightspeed,2026-08-28
 rigetti-computing,Rigetti Computing,9,0,onsite-leaning,engineering|other,a16z-portfolio,2026-08-28
-rightway,Rightway,26,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
+rightway,Rightway,25,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 rigup,RigUp,7,2,hybrid-friendly,operations|product|sales,a16z-portfolio|austin|remote,2026-08-28
-rillet,Rillet,30,2,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|enterprise-b2b|london|new-this-week|new-york|remote,2026-08-28
+rillet,Rillet,31,2,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|enterprise-b2b|london|new-this-week|new-york|remote,2026-08-28
 rise8,Rise8,3,0,remote-first,marketing|product,early-career|remote|remote-first,2026-08-28
 rivian-and-volkswagen-group-technologies,Rivian and Volkswagen Group Technologies,1,0,onsite-leaning,engineering,early-career,2026-08-28
-ro,Ro,50,0,onsite-leaning,engineering|marketing|operations|other,backed-by-general-catalyst,2026-08-28
+ro,Ro,49,0,onsite-leaning,engineering|marketing|operations|other,backed-by-general-catalyst,2026-08-28
 robco,RobCo,41,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-lightspeed|backed-by-sequoia-capital,2026-08-28
-robinhood,Robinhood,130,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
+robinhood,Robinhood,129,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
 rocket-lab-usa,Rocket Lab USA,37,0,onsite-leaning,engineering|marketing|operations|other,early-career|new-this-week,2026-08-28
 rockwell-automation,Rockwell Automation,8,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
-rockwool-group,ROCKWOOL Group,1,0,onsite-leaning,other,early-career,2026-08-28
+rockwool-group,ROCKWOOL Group,2,0,onsite-leaning,other|product,early-career,2026-08-28
 rogers-behavioral-health,Rogers Behavioral Health,10,0,onsite-leaning,other|product,early-career,2026-08-28
 rogo,Rogo,79,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
 rollstack,Rollstack,3,0,hybrid-friendly,engineering|sales,yc-w23,2026-08-28
@@ -1129,8 +1128,8 @@ roofstock,Roofstock,30,0,onsite-leaning,operations|other,backed-by-khosla-ventur
 rossum,Rossum,4,0,onsite-leaning,engineering,backed-by-general-catalyst,2026-08-28
 rothy-s,Rothy's,69,0,onsite-leaning,design|engineering|marketing|operations|other|product,backed-by-lightspeed,2026-08-28
 royal-bank-of-canada,Royal Bank of Canada,85,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
-rubrik,Rubrik,130,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
-rune-technologies,Rune Technologies,15,0,onsite-leaning,engineering|operations|other|product,a16z-portfolio|austin|energy-climate|remote|seattle,2026-08-28
+rubrik,Rubrik,131,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
+rune-technologies,Rune Technologies,14,0,onsite-leaning,engineering|operations|other,a16z-portfolio|austin|energy-climate|remote|seattle,2026-08-28
 runsybil,Runsybil,9,0,hybrid-friendly,engineering|sales,backed-by-khosla-ventures,2026-08-28
 rutter,Rutter,1,0,onsite-leaning,engineering,a16z-portfolio|devtools-infra|new-york,2026-08-28
 ryvn,Ryvn,1,0,onsite-leaning,engineering,yc-f24,2026-08-28
@@ -1140,14 +1139,14 @@ salesforce,Salesforce,15,0,onsite-leaning,engineering|operations|other|sales,ear
 salespatriot,SalesPatriot,5,0,onsite-leaning,engineering|sales,yc-w25,2026-08-28
 salient,Salient,12,0,onsite-leaning,design|engineering|operations|other,a16z-portfolio|fintech|founding-roles,2026-08-28
 samaya,Samaya,1,0,onsite-leaning,research,early-career,2026-08-28
-samsara,Samsara,249,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
+samsara,Samsara,253,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,2026-08-28
 samsung,Samsung,6,0,onsite-leaning,engineering|marketing|other|product,early-career,2026-08-28
 samsung-research-america,Samsung Research America,3,0,onsite-leaning,other,early-career,2026-08-28
 sapien,Sapien,11,0,onsite-leaning,engineering|marketing|operations|sales,backed-by-general-catalyst,2026-08-28
 sardine,Sardine,36,4,remote-first,engineering|operations|product|sales,a16z-portfolio|backed-by-gv|fintech|new-this-week|remote|remote-first,2026-08-28
 saronic-technologies,Saronic Technologies,200,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|austin|backed-by-bessemer-ventures|backed-by-general-catalyst|backed-by-lightspeed|early-career|hiring-in-volume|london|new-this-week|robotics-hardware,2026-08-28
 sarvam-ai,Sarvam AI,64,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures|backed-by-lightspeed,2026-08-28
-savvy,Savvy,21,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+savvy,Savvy,20,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 scalar,Scalar,2,0,remote-first,engineering,backed-by-general-catalyst,2026-08-28
 scaled-cognition,Scaled Cognition,6,0,hybrid-friendly,engineering|research|sales,backed-by-khosla-ventures,2026-08-28
 schmidt-sciences,Schmidt Sciences,1,0,onsite-leaning,research,early-career,2026-08-28
@@ -1159,19 +1158,19 @@ scott-logic,Scott Logic,1,0,onsite-leaning,engineering,early-career,2026-08-28
 scout-ai,Scout AI,1,0,onsite-leaning,operations,early-career,2026-08-28
 scribd,Scribd,18,0,onsite-leaning,engineering|marketing|operations|other|product,backed-by-khosla-ventures,2026-08-28
 sekai,Sekai,5,0,remote-first,engineering|product,consumer-social|founding-roles|remote|remote-first|speedrun-companies,2026-08-28
-semgrep,Semgrep,11,0,onsite-leaning,engineering|operations|research|sales,backed-by-lightspeed|backed-by-sequoia-capital,2026-08-28
+semgrep,Semgrep,10,0,onsite-leaning,engineering|operations|research|sales,backed-by-lightspeed|backed-by-sequoia-capital,2026-08-28
 senra-systems,Senra Systems,26,0,onsite-leaning,engineering|operations|other|product,backed-by-general-catalyst,2026-08-28
 sentara-health,Sentara Health,12,0,onsite-leaning,other,early-career,2026-08-28
-sentilink,SentiLink,56,11,remote-first,design|engineering|marketing|operations|other|research|sales,a16z-portfolio|backed-by-felicis|early-career|fintech|new-this-week|remote|remote-first,2026-08-28
+sentilink,SentiLink,55,11,remote-first,design|engineering|marketing|operations|other|research|sales,a16z-portfolio|backed-by-felicis|early-career|fintech|new-this-week|remote|remote-first,2026-08-28
 sentra,Sentra,3,0,onsite-leaning,design|engineering|research,backed-by-bessemer-ventures|devtools-infra|founding-roles|speedrun-companies,2026-08-28
-serval,Serval,43,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
+serval,Serval,45,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
 sesame,Sesame,26,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,a16z-portfolio|backed-by-abstract-ventures|backed-by-general-catalyst|backed-by-sequoia-capital|consumer-social|new-this-week|new-york,2026-08-28
 seso,SESO,7,0,hybrid-friendly,operations|other|sales,backed-by-index-ventures,2026-08-28
 setpoint-io,Setpoint.io,15,0,onsite-leaning,engineering|operations|other,a16z-portfolio|austin|new-york,2026-08-28
 seven-research,Seven Research,4,0,onsite-leaning,engineering|research,early-career|new-york,2026-08-28
 sf-tensor,SF Tensor,4,0,onsite-leaning,engineering|research,yc-f25,2026-08-28
 sharkninja,SharkNinja,15,0,onsite-leaning,design|engineering|marketing|operations|other|sales,early-career|london,2026-08-28
-shield-ai,Shield AI,440,1,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|boston|early-career|hiring-in-volume|london|new-this-week|remote|seattle,2026-08-28
+shield-ai,Shield AI,434,1,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|boston|early-career|hiring-in-volume|london|new-this-week|remote|seattle,2026-08-28
 shift,Shift,8,0,onsite-leaning,engineering|operations,early-career|remote,2026-08-28
 shopmonkey,Shopmonkey,8,0,onsite-leaning,marketing|operations|other|sales,backed-by-index-ventures,2026-08-28
 shyftlabs,ShyftLabs,1,0,onsite-leaning,engineering,early-career,2026-08-28
@@ -1189,17 +1188,17 @@ singular,Singular,18,0,hybrid-friendly,engineering|marketing|operations|other|pr
 sirius-technology,Sirius Technology,5,0,onsite-leaning,design|engineering|sales,enterprise-b2b|founding-roles|speedrun-companies,2026-08-28
 siro,Siro,11,0,onsite-leaning,engineering|marketing|operations|product|sales,backed-by-index-ventures,2026-08-28
 sky-mavis,Sky Mavis,4,0,onsite-leaning,engineering|marketing|operations,a16z-portfolio|backed-by-paradigm|crypto-web3|early-career|remote,2026-08-28
-skydio,Skydio,128,1,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|hiring-in-volume|los-angeles|new-this-week|remote|robotics-hardware,2026-08-28
-sleeper,Sleeper,16,0,hybrid-friendly,design|engineering|marketing|research,a16z-portfolio|backed-by-general-catalyst|early-career|games-entertainment|new-this-week|remote|seattle,2026-08-28
+skydio,Skydio,125,1,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|hiring-in-volume|los-angeles|new-this-week|remote|robotics-hardware,2026-08-28
+sleeper,Sleeper,17,0,hybrid-friendly,design|engineering|marketing|research,a16z-portfolio|backed-by-general-catalyst|early-career|games-entertainment|new-this-week|remote|seattle,2026-08-28
 slingshot-ai,Slingshot AI,6,0,onsite-leaning,engineering|marketing|research|sales,a16z-portfolio|backed-by-felicis|early-career|founding-roles|health-bio|london|new-this-week|new-york,2026-08-28
 snag,snag,1,0,onsite-leaning,sales,consumer-social|founding-roles|new-york|speedrun-companies,2026-08-28
-snapdocs,Snapdocs,5,0,remote-first,engineering|operations|other|sales,backed-by-sequoia-capital,2026-08-28
+snapdocs,Snapdocs,4,0,remote-first,engineering|operations|sales,backed-by-sequoia-capital,2026-08-28
 snaplogic,SnapLogic,11,3,hybrid-friendly,engineering|sales,a16z-portfolio|remote|seattle,2026-08-28
 snowflake,Snowflake,7,0,onsite-leaning,engineering|marketing|research|sales,early-career,2026-08-28
 socket-dev,Socket.dev,24,2,remote-first,design|engineering|marketing|other|research|sales,a16z-portfolio|backed-by-abstract-ventures|backed-by-south-park-commons|devtools-infra|new-this-week|remote|remote-first,2026-08-28
 sofar-sounds,Sofar Sounds,10,0,onsite-leaning,engineering|other|sales,backed-by-index-ventures,2026-08-28
 sola,Sola,5,0,onsite-leaning,engineering|product,a16z-portfolio|enterprise-b2b|founding-roles|new-york|remote,2026-08-28
-solana-foundation,Solana Foundation,8,0,hybrid-friendly,engineering|marketing|operations|other,a16z-portfolio|crypto-web3|remote,2026-08-28
+solana-foundation,Solana Foundation,6,0,hybrid-friendly,engineering|marketing|operations|other,a16z-portfolio|crypto-web3|remote,2026-08-28
 solar-turbines,Solar Turbines,28,0,onsite-leaning,engineering|operations|other|research,early-career,2026-08-28
 solidroad,Solidroad,8,0,onsite-leaning,design|engineering|product|sales,yc-w25,2026-08-28
 solopulse,SoloPulse,3,0,onsite-leaning,engineering,early-career,2026-08-28
@@ -1221,10 +1220,10 @@ sphere,Sphere,15,1,hybrid-friendly,engineering|marketing|operations|other|sales,
 spherecast,Spherecast,1,0,onsite-leaning,engineering,yc-s24,2026-08-28
 sphinx,Sphinx,8,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-lightspeed|yc-f24,2026-08-28
 spiral,Spiral,4,0,onsite-leaning,engineering,backed-by-general-catalyst,2026-08-28
-spoton,SpotOn,73,0,onsite-leaning,design|engineering|operations|other|product,a16z-portfolio|austin|enterprise-b2b|new-this-week|remote,2026-08-28
+spoton,SpotOn,74,0,onsite-leaning,design|engineering|operations|other|product,a16z-portfolio|austin|enterprise-b2b|new-this-week|remote,2026-08-28
 spreeai,SpreeAI,4,0,onsite-leaning,engineering|marketing,early-career,2026-08-28
 sprig,Sprig,4,0,onsite-leaning,marketing|operations|other|research,a16z-portfolio|enterprise-b2b|new-this-week,2026-08-28
-sprinter-health,Sprinter Health,95,0,onsite-leaning,engineering|operations|other|product|research,a16z-portfolio|backed-by-general-catalyst|backed-by-gv|boston|health-bio|los-angeles|new-this-week|new-york|remote,2026-08-28
+sprinter-health,Sprinter Health,96,0,onsite-leaning,engineering|operations|other|product|research,a16z-portfolio|backed-by-general-catalyst|backed-by-gv|boston|health-bio|los-angeles|new-this-week|new-york|remote,2026-08-28
 spruce-systems,Spruce Systems,5,0,remote-first,engineering|sales,a16z-portfolio|remote|remote-first,2026-08-28
 squarespace,Squarespace,25,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-index-ventures,2026-08-28
 squint,Squint,11,0,onsite-leaning,engineering|marketing|operations|other,backed-by-sequoia-capital,2026-08-28
@@ -1232,9 +1231,9 @@ ss-c,SS&C,4,0,onsite-leaning,engineering|other,early-career,2026-08-28
 st-luke-s-university-health-network,St. Luke's University Health Network,23,0,onsite-leaning,operations|other,early-career,2026-08-28
 stacks,Stacks,8,0,onsite-leaning,engineering|operations|product|sales,backed-by-general-catalyst|backed-by-lightspeed,2026-08-28
 standard-bots,Standard Bots,39,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,backed-by-general-catalyst,2026-08-28
-standard-nuclear,Standard Nuclear,24,0,onsite-leaning,engineering|marketing|operations|other,a16z-portfolio|new-this-week|remote,2026-08-28
+standard-nuclear,Standard Nuclear,23,0,onsite-leaning,engineering|marketing|operations|other,a16z-portfolio|new-this-week,2026-08-28
 stanley-black-decker,Stanley Black & Decker,7,0,onsite-leaning,engineering|marketing|other,early-career,2026-08-28
-starburst,Starburst,22,2,onsite-leaning,engineering|marketing|other|product|sales,a16z-portfolio|boston|london|new-this-week,2026-08-28
+starburst,Starburst,22,2,onsite-leaning,engineering|marketing|other|product|sales,a16z-portfolio|boston|london|new-this-week|remote,2026-08-28
 state-affairs,State Affairs,7,0,onsite-leaning,design|engineering|sales,backed-by-khosla-ventures,2026-08-28
 state-street,State Street,8,0,onsite-leaning,operations|other,early-career,2026-08-28
 step,Step,19,0,remote-first,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
@@ -1255,8 +1254,8 @@ summer,Summer​,1,0,onsite-leaning,other,backed-by-general-catalyst,2026-08-28
 summer-health,Summer Health,2,0,remote-first,other,backed-by-sequoia-capital,2026-08-28
 sunday-robotics,Sunday Robotics,1,0,onsite-leaning,design,early-career|new-this-week,2026-08-28
 sunflower,Sunflower,2,0,remote-first,other,health-bio|remote|remote-first|speedrun-companies,2026-08-28
-suno,Suno,60,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-lightspeed,2026-08-28
-supabase,Supabase,58,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-lightspeed,2026-08-28
+suno,Suno,61,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-lightspeed,2026-08-28
+supabase,Supabase,59,0,remote-first,design|engineering|marketing|operations|other|product|sales,backed-by-lightspeed,2026-08-28
 super,Super,1,0,remote-first,other,early-career|remote|remote-first,2026-08-28
 supernova-technology,Supernova Technology,1,0,onsite-leaning,engineering,early-career,2026-08-28
 svix,Svix,3,0,onsite-leaning,engineering|other,a16z-portfolio|devtools-infra|founding-roles,2026-08-28
@@ -1264,10 +1263,10 @@ swbc,SWBC,3,0,onsite-leaning,engineering|operations|other,early-career,2026-08-2
 sweatpals,SweatPals,5,0,hybrid-friendly,design|marketing|product|research|sales,consumer-social|early-career|remote|speedrun-companies,2026-08-28
 sweep,Sweep,7,0,onsite-leaning,engineering|operations|other|sales,backed-by-bessemer-ventures,2026-08-28
 sword-health,Sword Health,25,0,remote-first,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
-sygaldry-technologies,Sygaldry Technologies,12,0,onsite-leaning,engineering|other|research|sales,yc-x25,2026-08-28
+sygaldry-technologies,Sygaldry Technologies,13,0,onsite-leaning,engineering|operations|other|research|sales,yc-x25,2026-08-28
 sylvera,Sylvera,4,0,onsite-leaning,engineering|other|sales,backed-by-index-ventures,2026-08-28
 synchrony-financial,Synchrony Financial,9,0,onsite-leaning,marketing|operations|other,early-career,2026-08-28
-synthesia,Synthesia,61,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-kleiner-perkins,2026-08-28
+synthesia,Synthesia,60,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-kleiner-perkins,2026-08-28
 syzygy,Syzygy,1,0,onsite-leaning,sales,speedrun-companies,2026-08-28
 tabs,Tabs,27,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-lightspeed,2026-08-28
 tactile-games,Tactile Games,4,0,onsite-leaning,other|product,backed-by-index-ventures,2026-08-28
@@ -1275,17 +1274,17 @@ tacto,Tacto,29,0,onsite-leaning,design|engineering|marketing|operations|other|pr
 take-two-interactive,Take-Two Interactive,34,0,onsite-leaning,design|engineering|marketing|operations|other|product,backed-by-general-catalyst,2026-08-28
 tako,Tako,15,1,onsite-leaning,engineering|operations|other|sales,a16z-portfolio|early-career|enterprise-b2b,2026-08-28
 taktile,Taktile,45,0,onsite-leaning,design|engineering|marketing|operations|product|sales,backed-by-index-ventures,2026-08-28
-talkiatry,Talkiatry,180,0,remote-first,engineering|marketing|operations|other|product|sales,a16z-portfolio|health-bio|hiring-in-volume|miami|new-york|remote|remote-first,2026-08-28
+talkiatry,Talkiatry,182,0,remote-first,engineering|marketing|operations|other|product|sales,a16z-portfolio|health-bio|hiring-in-volume|miami|new-this-week|new-york|remote|remote-first,2026-08-28
 talos,Talos,16,0,onsite-leaning,engineering|operations|other|product|sales,a16z-portfolio|crypto-web3|london|new-this-week|new-york,2026-08-28
-tanium,Tanium,43,0,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|new-this-week|remote,2026-08-28
+tanium,Tanium,42,0,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|new-this-week|remote,2026-08-28
 tavus,Tavus,14,0,onsite-leaning,design|engineering|marketing|product|research|sales,backed-by-sequoia-capital,2026-08-28
 tax-relief-advocates,Tax Relief Advocates,4,0,onsite-leaning,engineering|operations,early-career,2026-08-28
-taxfix,Taxfix,23,0,onsite-leaning,design|engineering|marketing|operations|product|sales,backed-by-index-ventures,2026-08-28
+taxfix,Taxfix,24,0,onsite-leaning,design|engineering|marketing|operations|product|sales,backed-by-index-ventures,2026-08-28
 taya,Taya,1,0,onsite-leaning,engineering,consumer-social|founding-roles|speedrun-companies,2026-08-28
 td-bank,TD Bank,6,0,onsite-leaning,operations|other,early-career,2026-08-28
 td-synnex,TD Synnex,9,0,onsite-leaning,engineering|marketing|operations|other|product,early-career,2026-08-28
-teamshares,Teamshares,18,0,hybrid-friendly,engineering|operations|other,backed-by-khosla-ventures,2026-08-28
-teamworks,Teamworks,16,0,remote-first,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+teamshares,Teamshares,20,0,hybrid-friendly,engineering|operations|other,backed-by-khosla-ventures,2026-08-28
+teamworks,Teamworks,19,0,remote-first,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 tebi,Tebi,10,0,onsite-leaning,engineering|other|sales,backed-by-index-ventures,2026-08-28
 technergetics,Technergetics,1,0,remote-first,other,early-career|remote|remote-first,2026-08-28
 techtronic-industries,Techtronic Industries,2,0,onsite-leaning,engineering,early-career,2026-08-28
@@ -1297,8 +1296,8 @@ temporal-technologies,Temporal Technologies,56,4,hybrid-friendly,engineering|mar
 tencent,Tencent,81,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,early-career,2026-08-28
 tendo,Tendo,2,0,remote-first,operations|other,backed-by-general-catalyst,2026-08-28
 tenera,Tenera,1,0,onsite-leaning,engineering,devtools-infra|founding-roles|speedrun-companies,2026-08-28
-tenex-ai,TENEX.AI,59,1,onsite-leaning,engineering|marketing|operations|other|product|research|sales,a16z-portfolio|early-career|enterprise-b2b|remote,2026-08-28
-tennr,Tennr,19,1,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|backed-by-gv|backed-by-lightspeed|health-bio|new-this-week|new-york,2026-08-28
+tenex-ai,TENEX.AI,60,1,onsite-leaning,engineering|marketing|operations|other|product|research|sales,a16z-portfolio|early-career|enterprise-b2b|new-this-week|remote,2026-08-28
+tennr,Tennr,20,1,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|backed-by-gv|backed-by-lightspeed|health-bio|new-this-week|new-york,2026-08-28
 tenstorrent,Tenstorrent,20,0,onsite-leaning,design|other,austin|boston|early-career,2026-08-28
 terra-ai,Terra AI,7,0,hybrid-friendly,engineering|operations|other|research|sales,backed-by-khosla-ventures,2026-08-28
 terranova,Terranova,5,0,onsite-leaning,engineering|other,early-career,2026-08-28
@@ -1306,7 +1305,7 @@ tessl,Tessl,8,0,onsite-leaning,engineering|marketing|product|research,backed-by-
 thatgamecompany,thatgamecompany,37,0,hybrid-friendly,design|engineering|marketing|operations|other,backed-by-sequoia-capital,2026-08-28
 the-believer-company,The Believer Company,2,0,remote-first,design|other,a16z-portfolio|backed-by-lightspeed|games-entertainment|new-this-week|remote|remote-first,2026-08-28
 the-better-money-company,The Better Money Company,6,0,onsite-leaning,engineering|other,a16z-portfolio|fintech|new-york,2026-08-28
-the-boeing-company,The Boeing Company,31,0,onsite-leaning,design|engineering|marketing|operations|other,early-career,2026-08-28
+the-boeing-company,The Boeing Company,34,0,onsite-leaning,design|engineering|marketing|operations|other,early-career,2026-08-28
 the-exploration-company,The Exploration Company,100,0,onsite-leaning,design|engineering|operations|other,backed-by-bessemer-ventures,2026-08-28
 the-federal-reserve-system,The Federal Reserve System,4,0,onsite-leaning,other,boston|early-career,2026-08-28
 the-honest-company,The Honest Company,11,0,onsite-leaning,engineering|marketing|operations|other,backed-by-general-catalyst,2026-08-28
@@ -1315,8 +1314,8 @@ the-mosaic-company,The Mosaic Company,34,0,onsite-leaning,engineering|operations
 the-nuclear-company,The Nuclear Company,12,0,onsite-leaning,engineering|other|research,early-career,2026-08-28
 the-token-company,The Token Company,3,0,onsite-leaning,engineering|research|sales,yc-w26,2026-08-28
 the-trade-desk,The Trade Desk,1,0,onsite-leaning,engineering,early-career,2026-08-28
-thermo-fisher-scientific,Thermo Fisher Scientific,10,0,onsite-leaning,engineering|operations|other|research,early-career,2026-08-28
-thinking-machines-lab,Thinking Machines Lab,39,0,onsite-leaning,engineering|operations|product|research,a16z-portfolio|new-this-week|new-york,2026-08-28
+thermo-fisher-scientific,Thermo Fisher Scientific,15,0,onsite-leaning,engineering|operations|other|research,early-career,2026-08-28
+thinking-machines-lab,Thinking Machines Lab,38,0,onsite-leaning,engineering|operations|product|research,a16z-portfolio|new-this-week|new-york,2026-08-28
 thomas-hutton,Thomas & Hutton,10,0,onsite-leaning,design,early-career|new-this-week,2026-08-28
 thread-ai,Thread AI,12,0,onsite-leaning,design|engineering|operations|sales,backed-by-index-ventures,2026-08-28
 thyssenkrupp,thyssenkrupp,4,0,onsite-leaning,operations|other,early-career,2026-08-28
@@ -1325,16 +1324,16 @@ tilde,Tilde,3,0,onsite-leaning,engineering|research,backed-by-khosla-ventures,20
 titan,Titan,10,1,onsite-leaning,engineering|other|product|sales,a16z-portfolio|backed-by-south-park-commons|fintech|founding-roles|new-york,2026-08-28
 tmeic,TMEIC,4,0,onsite-leaning,engineering|other,early-career,2026-08-28
 tmx-group,TMX Group,7,0,onsite-leaning,engineering|operations|other,early-career,2026-08-28
-together-ai,Together AI,62,0,onsite-leaning,design|engineering|operations|product|research|sales,backed-by-general-catalyst,2026-08-28
+together-ai,Together AI,61,0,onsite-leaning,design|engineering|operations|product|research|sales,backed-by-general-catalyst,2026-08-28
 tortus-ai,TORTUS AI,3,0,onsite-leaning,engineering|operations,backed-by-khosla-ventures,2026-08-28
 toshiba-global-commerce,Toshiba Global Commerce,1,0,onsite-leaning,other,early-career,2026-08-28
-tourlane,Tourlane,4,0,remote-first,other,backed-by-sequoia-capital,2026-08-28
+tourlane,Tourlane,5,0,remote-first,operations|other,backed-by-sequoia-capital,2026-08-28
 town,Town,15,0,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-south-park-commons|fintech|founding-roles|new-york,2026-08-28
 toyota-research-institute,Toyota Research Institute,2,0,onsite-leaning,other|research,early-career,2026-08-28
 traba,Traba,29,0,onsite-leaning,engineering|operations|other|product,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
 transcend,Transcend,1,0,remote-first,sales,backed-by-index-ventures,2026-08-28
 transmarket-group,TransMarket Group,7,0,onsite-leaning,engineering|other,early-career,2026-08-28
-travelperk,TravelPerk,129,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
+travelperk,TravelPerk,134,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 traversal,Traversal,16,0,hybrid-friendly,engineering|marketing|operations|other|research|sales,backed-by-kleiner-perkins|backed-by-sequoia-capital,2026-08-28
 treeline,Treeline,8,0,remote-first,engineering|operations|other,a16z-portfolio|enterprise-b2b|los-angeles|new-this-week|new-york|remote|remote-first,2026-08-28
 trend-micro,Trend Micro,7,0,onsite-leaning,engineering|other|research,early-career,2026-08-28
@@ -1346,12 +1345,12 @@ trimedx,TRIMEDX,6,0,onsite-leaning,engineering|other,early-career,2026-08-28
 triomics,Triomics,18,0,onsite-leaning,engineering|marketing|operations|research|sales,backed-by-lightspeed,2026-08-28
 tripadvisor,TripAdvisor,2,0,onsite-leaning,marketing,early-career,2026-08-28
 triumph,Triumph,17,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
-trm-labs,TRM Labs,112,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures,2026-08-28
+trm-labs,TRM Labs,110,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures,2026-08-28
 true-anomaly,True Anomaly,9,0,onsite-leaning,engineering,early-career|new-this-week,2026-08-28
 true-link-financial,True Link Financial,2,0,remote-first,design|engineering,backed-by-khosla-ventures,2026-08-28
 truemed,Truemed,10,0,hybrid-friendly,design|engineering|marketing|operations,a16z-portfolio|fintech|los-angeles|new-this-week|remote,2026-08-28
 truffle-security,Truffle Security,1,0,remote-first,sales,a16z-portfolio|new-this-week|remote|remote-first,2026-08-28
-trustpilot,Trustpilot,45,0,onsite-leaning,engineering|operations|other|sales,backed-by-index-ventures,2026-08-28
+trustpilot,Trustpilot,42,0,onsite-leaning,engineering|operations|other|sales,backed-by-index-ventures,2026-08-28
 truthsystems,truthsystems,4,0,onsite-leaning,engineering|operations|sales,backed-by-lightspeed,2026-08-28
 truveta,Truveta,2,0,onsite-leaning,engineering|research,early-career|seattle,2026-08-28
 tsc,TSC,3,0,onsite-leaning,engineering|other,early-career,2026-08-28
@@ -1383,23 +1382,23 @@ university-of-virginia,University of Virginia,22,0,onsite-leaning,marketing|oper
 unlimited-industries,Unlimited Industries,6,0,onsite-leaning,engineering|other,a16z-portfolio|early-career|energy-climate,2026-08-28
 uplane,Uplane,7,0,onsite-leaning,engineering|marketing|sales,yc-f25,2026-08-28
 upside,Upside,19,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures|backed-by-general-catalyst,2026-08-28
-upstart,Upstart,99,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
+upstart,Upstart,101,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
 upvest,Upvest,27,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures,2026-08-28
 ursa-mining,URSA Mining,1,0,onsite-leaning,engineering,robotics-hardware|speedrun-companies,2026-08-28
 usul,Usul,6,0,onsite-leaning,design|engineering|operations|other,yc-s24,2026-08-28
 valdera,Valdera,14,0,hybrid-friendly,engineering|operations|other|product|sales,backed-by-index-ventures,2026-08-28
-valence,Valence,18,0,hybrid-friendly,design|engineering|operations|other|product|sales,backed-by-bessemer-ventures,2026-08-28
+valence,Valence,17,0,hybrid-friendly,design|engineering|operations|other|product|sales,backed-by-bessemer-ventures,2026-08-28
 valeo,Valeo,63,0,onsite-leaning,design|engineering|marketing|operations|other|sales,early-career,2026-08-28
-valerie-health,Valerie Health,15,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
+valerie-health,Valerie Health,16,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-general-catalyst,2026-08-28
 valinor,Valinor,11,0,onsite-leaning,engineering|operations|other,backed-by-general-catalyst,2026-08-28
-valon-labs,Valon Labs,21,1,onsite-leaning,design|engineering|operations|other|product|sales,a16z-portfolio|fintech|new-york|remote,2026-08-28
+valon-labs,Valon Labs,20,1,onsite-leaning,design|engineering|operations|other|product|sales,a16z-portfolio|fintech|new-york|remote,2026-08-28
 vanguard,Vanguard,1,0,onsite-leaning,other,early-career,2026-08-28
-vannevar-labs,Vannevar Labs,22,0,hybrid-friendly,engineering|marketing|operations|other|product,backed-by-general-catalyst,2026-08-28
-vanta,Vanta,109,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-sequoia-capital,2026-08-28
+vannevar-labs,Vannevar Labs,21,0,hybrid-friendly,engineering|marketing|operations|other|product,backed-by-general-catalyst,2026-08-28
+vanta,Vanta,108,0,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,backed-by-sequoia-capital,2026-08-28
 vantage,Vantage,8,4,remote-first,marketing|operations|sales,a16z-portfolio|devtools-infra|new-this-week|remote|remote-first,2026-08-28
 vantor,Vantor,1,0,onsite-leaning,engineering,early-career,2026-08-28
 vapi,Vapi,35,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-bessemer-ventures|backed-by-kleiner-perkins,2026-08-28
-varda-space-industries,Varda Space Industries,97,0,onsite-leaning,design|engineering|operations|other|research,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
+varda-space-industries,Varda Space Industries,96,0,onsite-leaning,design|engineering|operations|other|research,backed-by-general-catalyst|backed-by-khosla-ventures,2026-08-28
 variance,Variance,11,0,onsite-leaning,design|engineering|marketing|product|research|sales,yc-w23,2026-08-28
 variant-bio,Variant Bio,2,0,hybrid-friendly,engineering|operations,backed-by-general-catalyst,2026-08-28
 vectra,Vectra,16,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-khosla-ventures,2026-08-28
@@ -1413,10 +1412,10 @@ verdantas,Verdantas,4,0,onsite-leaning,engineering|other,early-career,2026-08-28
 verkada,Verkada,278,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,2026-08-28
 vertice,Vertice,30,0,onsite-leaning,engineering|operations|other|sales,backed-by-bessemer-ventures,2026-08-28
 vesta,Vesta,10,0,remote-first,engineering|marketing|operations|other|sales,a16z-portfolio|fintech|remote|remote-first,2026-08-28
-viavi-solutions,Viavi Solutions,10,0,onsite-leaning,engineering|other,early-career,2026-08-28
+viavi-solutions,Viavi Solutions,12,0,onsite-leaning,engineering|other,early-career,2026-08-28
 viggle,Viggle,6,0,onsite-leaning,design|marketing|operations,a16z-portfolio|ai-infra|early-career|new-this-week,2026-08-28
 vinci4d-ai,Vinci4D.ai,24,0,onsite-leaning,engineering|marketing|product|research|sales,backed-by-khosla-ventures,2026-08-28
-viome,Viome,2,0,hybrid-friendly,operations|product,backed-by-khosla-ventures,2026-08-28
+viome,Viome,3,0,hybrid-friendly,operations|product,backed-by-khosla-ventures,2026-08-28
 viridien,Viridien,5,0,onsite-leaning,engineering|other,early-career,2026-08-28
 virtu-financial,Virtu Financial,16,0,onsite-leaning,engineering|other,austin|early-career|london|new-this-week|new-york,2026-08-28
 vital-lyfe,Vital Lyfe,12,0,onsite-leaning,engineering|marketing|operations|sales,backed-by-general-catalyst,2026-08-28
@@ -1426,13 +1425,13 @@ viz-ai,Viz.ai,11,0,hybrid-friendly,engineering|marketing|operations|other|produc
 vizcom,Vizcom,12,0,onsite-leaning,engineering|marketing|operations|research|sales,backed-by-index-ventures,2026-08-28
 vizient,Vizient,1,0,onsite-leaning,other,early-career,2026-08-28
 volaris-group,Volaris Group,2,0,onsite-leaning,other,early-career,2026-08-28
-voldex,Voldex,6,0,remote-first,engineering|other|sales,a16z-portfolio|games-entertainment|new-this-week|remote|remote-first,2026-08-28
+voldex,Voldex,5,0,remote-first,engineering|other|sales,a16z-portfolio|games-entertainment|new-this-week|remote|remote-first,2026-08-28
 voloridge,Voloridge,2,0,onsite-leaning,engineering|research,early-career,2026-08-28
 volta-labs,Volta Labs,2,0,onsite-leaning,marketing|research,backed-by-khosla-ventures,2026-08-28
 vooma,Vooma,11,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-index-ventures,2026-08-28
 vori,Vori,11,0,onsite-leaning,engineering|marketing|operations|sales,backed-by-greylock-partners,2026-08-28
 vox-media,Vox Media,14,0,onsite-leaning,design|engineering|other,backed-by-khosla-ventures,2026-08-28
-waabi,Waabi,83,0,onsite-leaning,engineering|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
+waabi,Waabi,82,0,onsite-leaning,engineering|operations|other|product|research|sales,backed-by-khosla-ventures,2026-08-28
 wallbit,Wallbit,3,0,onsite-leaning,engineering|marketing|operations,yc-w23,2026-08-28
 walleye-capital,Walleye Capital,3,0,onsite-leaning,engineering|research,boston|early-career|new-york,2026-08-28
 walmart,Walmart,216,0,onsite-leaning,operations|other,early-career|hiring-in-volume,2026-08-28
@@ -1452,19 +1451,19 @@ welltheory,WellTheory,14,0,remote-first,engineering|marketing|operations|other|s
 welo-global,Welo Global,11,0,remote-first,other|sales,early-career|remote|remote-first,2026-08-28
 welocalize,Welocalize,6,0,onsite-leaning,engineering|other,early-career,2026-08-28
 weride,WeRide,5,0,onsite-leaning,engineering|marketing,early-career,2026-08-28
-wetravel,WeTravel,24,0,hybrid-friendly,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
+wetravel,WeTravel,27,0,hybrid-friendly,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,2026-08-28
 wheel,Wheel,5,0,remote-first,design|engineering|operations|other,backed-by-lightspeed,2026-08-28
 windborne-systems,WindBorne Systems,23,0,onsite-leaning,engineering|operations|other|research|sales,backed-by-khosla-ventures,2026-08-28
 wing-assistant,Wing Assistant,6,0,remote-first,other|sales,early-career|remote|remote-first,2026-08-28
 wingspan,Wingspan,2,0,onsite-leaning,engineering,a16z-portfolio|new-york,2026-08-28
 wintermute,Wintermute,1,0,onsite-leaning,other,early-career,2026-08-28
 wirescreen,WireScreen,6,0,hybrid-friendly,engineering|research|sales,backed-by-sequoia-capital,2026-08-28
-wiz,Wiz,123,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
+wiz,Wiz,125,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-index-ventures,2026-08-28
 wolters-kluwer,Wolters Kluwer,3,0,onsite-leaning,marketing|operations|other,early-career,2026-08-28
 wonderful,Wonderful,27,0,onsite-leaning,design|engineering|operations|other|sales,backed-by-bessemer-ventures|backed-by-index-ventures,2026-08-28
 wonderschool,Wonderschool,45,3,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|remote,2026-08-28
 woolpert,Woolpert,3,0,hybrid-friendly,design|other,early-career|new-this-week|remote,2026-08-28
-wordsmith-ai,Wordsmith AI,22,0,onsite-leaning,design|engineering|operations|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
+wordsmith-ai,Wordsmith AI,21,0,onsite-leaning,design|engineering|operations|product|sales,backed-by-general-catalyst|backed-by-index-ventures,2026-08-28
 wordware,Wordware,11,0,onsite-leaning,design|engineering|marketing|other,yc-s24,2026-08-28
 workato,Workato,5,0,onsite-leaning,engineering|marketing|operations|other,early-career|new-this-week,2026-08-28
 workboard,WorkBoard,2,0,hybrid-friendly,operations|sales,a16z-portfolio|remote,2026-08-28
@@ -1478,15 +1477,15 @@ xpeng-motors,XPENG Motors,1,0,onsite-leaning,engineering,early-career,2026-08-28
 xsolla,Xsolla,16,0,hybrid-friendly,engineering|marketing|operations|other,early-career|los-angeles|new-this-week|remote,2026-08-28
 xtx-markets,XTX Markets,1,0,onsite-leaning,research,early-career|new-york,2026-08-28
 xylem,Xylem,4,1,onsite-leaning,operations|other|sales,early-career,2026-08-28
-yuno,Yuno,34,0,remote-first,engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|london|new-this-week|remote|remote-first,2026-08-28
-zapier,Zapier,9,0,remote-first,engineering|marketing|operations|other|sales,backed-by-bessemer-ventures|backed-by-sequoia-capital,2026-08-28
+yuno,Yuno,33,0,remote-first,engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|london|new-this-week|remote|remote-first,2026-08-28
+zapier,Zapier,7,0,remote-first,engineering|operations|other|sales,backed-by-bessemer-ventures|backed-by-sequoia-capital,2026-08-28
 zebra-technologies,Zebra Technologies,15,0,onsite-leaning,engineering|marketing|operations|other,early-career,2026-08-28
 zefir,Zefir,10,0,hybrid-friendly,design|engineering|marketing|sales,backed-by-sequoia-capital,2026-08-28
 zeit-ai,Zeit AI,5,0,onsite-leaning,engineering|marketing|sales,yc-s24,2026-08-28
 zeromark,ZeroMark,10,0,onsite-leaning,design|engineering|marketing|operations|other|sales,a16z-portfolio|defense|new-york|remote,2026-08-28
 zettabyte,Zettabyte,3,0,onsite-leaning,engineering|marketing,early-career,2026-08-28
-zipline,Zipline,321,3,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|austin|early-career|hiring-in-volume|new-this-week|remote,2026-08-28
-zocdoc,Zocdoc,51,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
+zipline,Zipline,322,3,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|austin|early-career|hiring-in-volume|new-this-week|remote,2026-08-28
+zocdoc,Zocdoc,50,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,2026-08-28
 zoll-medical-corporation,ZOLL Medical Corporation,4,0,onsite-leaning,design|engineering|other,early-career,2026-08-28
 zuma,Zuma,6,0,hybrid-friendly,design|engineering|operations,a16z-portfolio|remote,2026-08-28
 zuru,Zuru,13,0,onsite-leaning,engineering|marketing|operations|other,early-career,2026-08-28

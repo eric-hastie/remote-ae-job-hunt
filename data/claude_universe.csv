@@ -8,7 +8,7 @@ Apollo GraphQL,claude,76,2026-08-28,N,speedrun board: not open to US applicants
 Apollo.io,claude,85,2026-07-02,Y,has open qualifying role
 Arcade,claude,79,2026-08-15,N,GTM role (not AE-titled) in SF Bay Area only on Ashby 2026-08-15
 Arctic Wolf,claude,85,2026-06-30,Y,has open qualifying role
-Arize AI,claude,87,2026-08-03,Y,has open qualifying role
+Arize AI,claude,87,2026-08-28,Y,Commercial AE Digital Native SF (5803069004) + Enterprise AE East live on GH arizeai; AI ML observability
 Articulate,claude,,2026-07-23,N,no roles on Lever articulate board
 Ashby,claude,91,2026-08-19,N,only EMEA French-speaking MM AE (Ashby board confirmed 2026-08-19); no US AE
 Augury,claude,84,2026-08-03,Y,GH job 8645562002; Enterprise AE US Remote; OTE $220K-$260K; verified 2026-07-31
@@ -1842,7 +1842,7 @@ Veeam Software,repvue,82,2026-07-31,N,territory-restricted commercial AE (TN/KY 
 Constant Contact,repvue,82,2026-07-27,N,GH - only AUS AE + future opportunity listing; no active US role
 Mezmo,repvue,82,2026-07-27,N,ATS unresolved (Ashby 'mezmo' 404)
 Seegrid,repvue,82,2026-07-31,N,ATS unresolved; robotics/hardware company (not pure SaaS)
-Northspyre,repvue,82,2026-08-03,Y,Strategic AE (Ent) US-remote B2B SaaS (real estate dev platform); GH board confirmed
+Northspyre,repvue,82,2026-08-28,N,No qualifying AE replacement on GH board 2026-08-28
 Praxedo,repvue,82,2026-07-27,N,French field service SaaS; no US-remote AE found
 West Shore Home,repvue,82,2026-07-31,N,not B2B SaaS (home renovation services)
 Torii,repvue,82,2026-08-21,N,"posting closed, no qualifying replacement"
@@ -3099,7 +3099,7 @@ ClimateAI,ats-search,,2026-08-06,N,Greenhouse board (climateai) confirmed live b
 Parsec Automation,ats-search,,2026-08-03,Y,"IC Enterprise AE, remote-South-US w/ 40-50% regional travel (no fixed office-day cadence), OTE $240-300K, B2B SaaS (Trak"
 InfinitForm,ats-search,,2026-08-06,N,"Ashby posting confirms real match (aerospace/mfg AI design software, $12.7M seed May 2025) but Account Executive role is"
 Maneva,ats-search,,2026-08-03,N,"recheck-B 2026-08-03 UNRESOLVED: Search snippets (Indeed, Himalayas) reference a plain 'Account Executive - Remote' posting distinct from the already-known 'Strategic Enterp"
-LinkSquares,ats-search,73,2026-08-07,Y,MM AE live on Greenhouse linksquareslinkedin/jobs/4681642005; verify script confirmed LIVE 2026-08-07
+LinkSquares,ats-search,73,2026-08-28,N,GH board linksquareslinkedin empty 2026-08-28; posting 4681642005 dead
 Jedify,funding-30d,,2026-08-06,N,Only AE posting is NYC Hybrid with explicit 3 days/week in-office requirement (not US-remote); also no company ATS JSON 
 "Factory AI (Factory, Inc.)",funding-30d,,2026-08-03,Y,recheck-B 2026-08-03: Enterprise Account Executive | Previously rejected for requiring on-site presence in NY/SF/London (deemed 'not remote'). Under the corrected 
 Reserv,funding-30d,,2026-08-06,N,"Rippling-hosted board (ats.rippling.com/reserv) lists Claims Adjuster/Manager and Account Manager roles only; the ""Carri"
@@ -5347,7 +5347,7 @@ Hook,a16z-speedrun,,2026-08-22,N,"revenue intelligence; Ashby hook board: engine
 Medely,a16z-speedrun,,2026-08-22,Y,"Enterprise AE, Remote, Ent, healthcare staffing marketplace, base $113K-125K, Ashby 2026-07-13"
 Osmind,a16z-speedrun,,2026-08-22,N,"mental health clinic EHR/research platform; Ashby 404, GH 404; ATS unresolved"
 Spruce Systems,a16z-speedrun,,2026-08-22,N,"SpruceID (identity/credentialing); Ashby spruceid: engineering/GTM-mktg only, no AE"
-Atomic,a16z-speedrun,,2026-08-22,Y,"Atomic Financial; AE Remote, Ent, fintech SaaS for financial institutions, Ashby 2026-02-12"
+Atomic,a16z-speedrun,,2026-08-28,N,"Atomic Financial; AE posting dead 2026-08-28, no replacement on Ashby board"
 Flashfood,a16z-speedrun,,2026-08-22,N,consumer grocery waste reduction app; not B2B SaaS
 Mastra,a16z-speedrun,,2026-08-22,N,"open source AI agent framework; developer-led/PLG, no AE model"
 Mysten Labs,a16z-speedrun,,2026-08-22,N,Sui blockchain/web3; not B2B SaaS
@@ -5798,7 +5798,7 @@ Impiricus,a16z-speedrun,,2026-08-26,N,"pharma HCP engagement; Greenhouse: Enterp
 Inngest,a16z-speedrun,,2026-08-26,N,workflow orchestration SaaS; Ashby: no AE (SWE only)
 Kabam,a16z-speedrun,,2026-08-26,N,gaming company; not B2B SaaS
 Lua Global Inc,a16z-speedrun,,2026-08-26,N,"mid-market AI agent platform (YC F25, $16M); ATS unresolved; partner-led GTM, likely no direct AE yet"
-Matter Labs,a16z-speedrun,,2026-08-26,N,crypto/Ethereum L2 (zkSync); not B2B SaaS
+Matter Labs,a16z-speedrun,,2026-08-28,Y,"Account Executive, Institutional Sales (Unspec)"
 Medium.com,a16z-speedrun,,2026-08-26,N,publishing platform; not B2B SaaS
 NEAR Protocol,a16z-speedrun,,2026-08-26,N,crypto blockchain; not B2B SaaS
 ReadySet,a16z-speedrun,,2026-08-26,N,database caching SaaS; Greenhouse: no AE (SWE only)
@@ -5832,7 +5832,7 @@ Blue River Technology,a16z-speedrun,,2026-08-26,N,agri robotics (Deere) - no AE 
 Homebound,a16z-speedrun,,2026-08-26,N,construction tech - no IC AE (SDR only)
 Intro,a16z-speedrun,,2026-08-26,N,professional network - no AE posting
 k-ID,a16z-speedrun,,2026-08-26,N,digital identity for kids - no AE posting
-Descript,a16z-speedrun,,2026-08-26,N,video/audio tools - no AE (AI research/content/marketing only)
+Descript,a16z-speedrun,,2026-08-28,Y,Account Executive (Ent)
 Somethings,a16z-speedrun,,2026-08-26,N,healthcare - no IC AE (VP of Sales only; too senior)
 CertifyOS,a16z-speedrun,,2026-08-26,N,healthcare credentialing - no AE posting
 Neon,a16z-speedrun,,2026-08-26,N,serverless Postgres devtools - no AE (marketing/payment ops only)
@@ -6068,3 +6068,5 @@ Nominal,ats-devtools,,2026-08-28,N,no AE - Lever board empty (posting closed)
 Velocity,ats-fintech,,2026-08-28,Y,Enterprise Account Executive US-remote; OTE $280-310K; Ashby velocity board; payments/treasury/stablecoin SaaS; Ent; published 2026-08-04
 Prodigal,ats-fintech,,2026-08-28,N,AE requires hybrid 3-5x/wk Mountain View CA; YC-backed AI for loan servicing/collections; not US-remote
 Range,ats-fintech,,2026-08-28,N,AE requires Mon-Fri in-office McLean VA; AI-powered wealth management; not US-remote
+Push Security,ats-ai-infra,,2026-08-28,N,Lever board returned empty 2026-08-28; no qualifying AE posting
+Lifted,ats-ai-infra,,2026-08-28,N,No IC AE role; Account Manager/Director roles only; GH board lifted
