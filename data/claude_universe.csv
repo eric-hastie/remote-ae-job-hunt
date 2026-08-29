@@ -34,7 +34,7 @@ Doppler,claude,,2026-08-22,N,no AE role on board
 Drata,claude,85,2026-08-02,N,no AE (Ashby drata board; only engineering/solutions engineer)
 DroneDeploy,claude,83,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Elastic,claude,83,2026-08-15,N,no US-remote AE on Greenhouse; federal AE exists (enterprise/gov) 2026-08-15
-Eve,claude,,2026-08-29,Y,"Commercial Account Executive, Central (MM)"
+Eve,claude,,2026-08-29,Y,Strategic Account Executive (Ent)
 Fiddler AI,claude,,2026-07-23,N,ATS unresolved
 Fleetio,claude,83,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Fluint,claude,,2026-07-23,N,ATS unresolved
@@ -5303,7 +5303,7 @@ Xylem,a16z-speedrun,74,2026-08-29,N,speedrun board: not flagged remote
 Zipline,a16z-speedrun,,2026-08-29,N,speedrun board: not flagged remote
 krea.ai,a16z-speedrun,,2026-08-29,N,speedrun board: not flagged remote
 Anchorage,a16z-speedrun,,2026-08-29,Y,Institutional Sales Representative - Global Markets (Unspec)
-Bastion,a16z-speedrun,,2026-08-29,Y,"Account Executive, Stablecoins & Payments (Unspec)"
+Bastion,a16z-speedrun,,2026-08-29,N,speedrun board: posting gone (DEAD_ID)
 Clutch,a16z-speedrun,,2026-08-29,Y,Account Executive - Enterprise (Ent)
 Infinitus Systems,a16z-speedrun,,2026-08-29,Y,National Account Executive (Unspec)
 Resend,a16z-speedrun,,2026-08-29,Y,Technical Account Executive (Ent)
@@ -6120,3 +6120,53 @@ MyHeritage,repvue,,2026-08-29,N,consumer genealogy platform - not B2B SaaS
 Nuna,repvue,,2026-08-29,N,healthcare data analytics; Ashby confirmed - no AE (Customer Success Director only)
 nVent,repvue,,2026-08-29,N,electrical solutions manufacturer - not B2B SaaS
 Pine Rest,repvue,,2026-08-29,N,mental health hospital/provider - not B2B SaaS
+"Reflex Robotics","repvue","","2026-08-29","N","no AE roles; engineering only"
+"Samsung","repvue","","2026-08-29","N","not B2B SaaS; consumer electronics"
+"The Better Money Company","repvue","","2026-08-29","N","ATS unresolved; site 503"
+"TRIMEDX","repvue","","2026-08-29","N","not B2B SaaS; healthcare equipment maintenance"
+"Unlimited Industries","repvue","","2026-08-29","N","no AE roles; AI construction eng, onsite SF only"
+"Usul","repvue","","2026-08-29","N","no IC AE; defense tech"
+"Welocalize","repvue","","2026-08-29","N","not B2B SaaS; language/translation services"
+"Abundant","repvue","","2026-08-29","N","no AE roles; AI training data infra"
+"Appian","repvue","","2026-08-29","N","no US AE; only UK/Europe AE roles"
+"Astemo","repvue","","2026-08-29","N","not B2B SaaS; automotive components (Hitachi JV)"
+"Astera Labs","repvue","","2026-08-29","N","not B2B SaaS; semiconductor hardware"
+"Autoscience Institute","repvue","","2026-08-29","N","no AE roles; AI research automation"
+"Barry-Wehmiller","repvue","","2026-08-29","N","not B2B SaaS; industrial manufacturing"
+"Bevel","repvue","","2026-08-29","N","not B2B SaaS; B2C health app"
+"Bonfire Studios","repvue","","2026-08-29","N","not B2B SaaS; gaming studio"
+"CAE","repvue","","2026-08-29","N","not B2B SaaS; flight simulation/defense"
+"Casca","repvue","","2026-08-29","N","no AE roles; AI banking platform"
+"ConductorAI","repvue","","2026-08-29","N","no IC AE; cleared/defense AI"
+"Crucibl","repvue","","2026-08-29","N","no AE roles; enterprise AI decisions"
+"Dimensional Fund Advisors","repvue","","2026-08-29","N","not B2B SaaS; investment firm"
+"Dryft","repvue","","2026-08-29","N","no AE roles; industrial AI platform early stage"
+"Embry-Riddle Aeronautical University","repvue","","2026-08-29","N","not B2B SaaS; university"
+"Finning","repvue","","2026-08-29","N","not B2B SaaS; industrial equipment dealer"
+"Finvest","repvue","","2026-08-29","N","not B2B SaaS; B2C AI wealth manager"
+"Great American Insurance Company","repvue","","2026-08-29","N","not B2B SaaS; insurance carrier"
+"Integrity","repvue","","2026-08-29","N","not B2B SaaS; insurance distribution"
+"Iron Mountain","repvue","","2026-08-29","N","not B2B SaaS; physical/digital document storage"
+"Magic Leap","repvue","","2026-08-29","N","no AE roles; AR hardware manufacturing"
+"Marmon Holdings","repvue","","2026-08-29","N","not B2B SaaS; industrial conglomerate (Berkshire)"
+"Mass General Brigham","repvue","","2026-08-29","N","not B2B SaaS; hospital system"
+"Maven Securities","repvue","","2026-08-29","N","not B2B SaaS; trading firm"
+"Medical College of Wisconsin","repvue","","2026-08-29","N","not B2B SaaS; university/hospital"
+"Meshy","repvue","","2026-08-29","N","not remote; AE role hybrid Bay Area only"
+"Nelnet","repvue","","2026-08-29","N","not B2B SaaS; education finance services"
+"NewsBreak","repvue","","2026-08-29","N","not B2B SaaS; B2C news app"
+"Nightwing Intelligence Solutions","repvue","","2026-08-29","N","not B2B SaaS; defense/intel"
+"Nio","repvue","","2026-08-29","N","not B2B SaaS; EV hardware"
+"OffDeal","repvue","","2026-08-29","N","no IC AE; AI M&A platform (Dir of Sales Dev only)"
+"Paradigm","repvue","","2026-08-29","N","not B2B SaaS; crypto/frontier VC fund"
+"Pivot Robotics","repvue","","2026-08-29","N","no AE roles; robotics engineering only"
+"QuantCo","repvue","","2026-08-29","N","no AE roles; data science consulting"
+"QuEra Computing","repvue","","2026-08-29","N","not B2B SaaS; quantum computing hardware"
+"Revel","repvue","","2026-08-29","N","no AE roles; hardware control software, ITAR"
+"Schonfeld","repvue","","2026-08-29","N","not B2B SaaS; hedge fund"
+"Sola","repvue","","2026-08-29","N","no AE roles; AI enterprise automation"
+"Terranova","repvue","","2026-08-29","N","not B2B SaaS; environmental robotics"
+"Unisys","repvue","","2026-08-29","N","not B2B SaaS; IT services/outsourcing"
+"University of Miami","repvue","","2026-08-29","N","not B2B SaaS; university"
+"WeRide","repvue","","2026-08-29","N","no AE roles; autonomous vehicles"
+"Adtran","repvue","","2026-08-29","N","not B2B SaaS; network hardware"
