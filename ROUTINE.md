@@ -151,10 +151,22 @@ The kept row shows a `+N` pill so a company with more openings is visible rather
 Duplicate rows sharing one posting URL are dropped outright (the Remote listing wins, else westernmost).
 Do NOT prune `latest.csv` to achieve this - the dedupe is a render-time decision and must stay reversible.
 
-Then act on the verify script's output:
+Then act on the verify script's output. **Make every one of these edits with
+`scripts/edit_row.py`. Never write `latest.csv` by hand, and never rewrite it from rows read
+into context.** That is the mechanism that lost 358 and 366 rows on 2026-08-25 and 08-26: the
+copy came back short, and a truncated CSV is still a valid CSV, so it snapshotted, built,
+committed and pushed. `edit_row.py` reads from disk, touches the one matched row, refuses
+unless the URL matches exactly one, and checks the row count after writing.
+
+```
+python3 scripts/edit_row.py set-url --url <old> --to <new>
+python3 scripts/edit_row.py drop    --url <old>
+```
+
 - **DEAD/BROKEN with a qualifying replacement candidate** (IC AE, US-remote, right segment - read the
-  JD if unsure): update the row's URL, copying the replacement URL **verbatim from the script output**.
-- **DEAD/BROKEN with no qualifying candidate**: drop the row from `latest.csv` and set its
+  JD if unsure): `edit_row.py set-url`, copying the replacement URL **verbatim from the script
+  output**.
+- **DEAD/BROKEN with no qualifying candidate**: `edit_row.py drop`, and set its
   `claude_universe.csv` row to `Currently Open = N` (update `Last Checked`).
 - **UNKNOWN rows** (bot-blocked/JS-only sites - Workday, Salesforce, custom career sites): verify these
   the LLM way - WebFetch the careers site/sitemap, cross-check search-indexed copies of the company's
