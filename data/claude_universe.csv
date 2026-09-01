@@ -3246,7 +3246,7 @@ SpotHopper,repvue,79,2026-08-07,N,SMB segment only (restaurant marketing; not MM
 Fusion Worldwide,repvue,79,2026-07-16,N,not B2B SaaS; electronics distributor
 Commerce.com (BigCommerce),repvue,79,2026-08-07,N,ATS unresolved; no AE found on GH/Lever/Ashby or search
 Redox,repvue,79,2026-08-06,N,ATS unresolved; Lever (redox slug) 404; no IC AE found
-Udemy Business,repvue,79,2026-08-21,N,Enterprise AE (S&L Govt) remote US + Large Enterprise AE (Denver) on GH udemy board; added to latest.csv 2026-08-06
+Udemy Business,repvue,79,2026-09-01,N,GH posting 6132407004 dead 2026-09-01; replacement candidate Dublin IE not qualifying; dropped from latest.csv
 OneNeck IT Solutions,repvue,79,2026-07-16,N,not B2B SaaS; managed IT services
 Hub Group,repvue,79,2026-07-16,N,not B2B SaaS; transportation/logistics
 Rival Technologies,repvue,79,2026-08-07,N,Greenhouse board: only DevOps/IT roles; Canadian-focused; no AE
@@ -6403,3 +6403,53 @@ Axiomatic AI,a16z-speedrun,,2026-09-01,N,ATS unresolved; AI reasoning
 Argmax,a16z-speedrun,,2026-09-01,N,ATS unresolved; AI inference optimization
 Baro,a16z-speedrun,,2026-09-01,N,ATS unresolved after 2 ATS attempts
 Beacon Software,a16z-speedrun,,2026-09-01,N,ATS unresolved after 2 ATS attempts
+"Beacons","repvue","","2026-09-01","N","no AE on Ashby (empty board); creator monetization platform"
+"Bild AI","repvue","","2026-09-01","N","no AE; SF engineering roles only"
+"Blockhouse","repvue","","2026-09-01","N","no AE; empty jobs array on Ashby"
+"Blue Robotics","repvue","","2026-09-01","N","ATS unresolved; marine/hardware robotics"
+"Blue Sky Innovators","repvue","","2026-09-01","N","ATS unresolved; company unclear"
+"BlueCross BlueShield of South Carolina","repvue","","2026-09-01","N","not B2B SaaS; health insurance"
+"Bose","repvue","","2026-09-01","N","not B2B SaaS; consumer electronics"
+"Brain Co.","repvue","","2026-09-01","N","ATS unresolved"
+"Bree","repvue","","2026-09-01","N","no AE; Ashby shows engineering/ML roles only"
+"BRM","repvue","","2026-09-01","N","no AE; empty jobs on Ashby"
+"CarbonChain","repvue","","2026-09-01","N","no AE; all roles London UK; no US"
+"Cascade","repvue","","2026-09-01","N","ATS unresolved; no board found on GH/Lever/Ashby"
+"CHEP","repvue","","2026-09-01","N","not B2B SaaS; pallet/logistics services"
+"Circleback","repvue","","2026-09-01","N","no AE; no sales roles on Ashby"
+"Claros","repvue","","2026-09-01","N","ATS unresolved"
+"Colonial Pipeline Company","repvue","","2026-09-01","N","not B2B SaaS; energy pipeline infrastructure"
+"Context","repvue","","2026-09-01","N","no AE; AI deployment startup, only engineering/deployment roles"
+"Core & Main","repvue","","2026-09-01","N","not B2B SaaS; industrial distribution"
+"Crusoe","repvue","","2026-09-01","Y","Enterprise AE on Ashby excluded from posting-api feed; cloud/AI infra; Needs check"
+"Culdesac","repvue","","2026-09-01","N","ATS unresolved; urban development, not B2B SaaS AE"
+"CuspAI","repvue","","2026-09-01","N","no AE; materials science startup, European focus"
+"Darwin","repvue","","2026-09-01","N","no AE; only MTS role in Palo Alto"
+"Denari","repvue","","2026-09-01","N","no AE; accounting platform, engineering roles only"
+"Dyna Robotics","repvue","","2026-09-01","N","no AE; robotics hardware engineering, Redwood City onsite"
+"Edgehog Trading","repvue","","2026-09-01","N","ATS unresolved; trading signals, not standard B2B SaaS"
+"Egra AI","repvue","","2026-09-01","N","ATS unresolved"
+"ElectroKare","repvue","","2026-09-01","N","ATS unresolved; medical devices"
+"Eluvio","repvue","","2026-09-01","N","no AE found; content supply chain, no board on GH/Ashby"
+"Elwood Technologies","repvue","","2026-09-01","N","ATS unresolved; institutional crypto fintech"
+"endeavorai.com","repvue","","2026-09-01","N","ATS unresolved"
+"Enova","repvue","","2026-09-01","N","no AE; online lender, not B2B SaaS"
+"Eventual","repvue","","2026-09-01","N","no AE; only BDR and Growth roles"
+"Evolver","repvue","","2026-09-01","N","ATS unresolved"
+"F. Schumacher & Co.","repvue","","2026-09-01","N","not B2B SaaS; fabric/interior design"
+"Fab2","repvue","","2026-09-01","N","no AE; semiconductor fab, engineering only"
+"Faculty AI","repvue","","2026-09-01","N","ATS unresolved; UK-based AI consultancy"
+"Faros AI","repvue","","2026-09-01","N","Enterprise AE requires 8+ yrs (exceeds ceiling); hybrid San Mateo/NYC only"
+"FHLBank Topeka","repvue","","2026-09-01","N","not B2B SaaS; federal home loan bank"
+"First Bank & Trust","repvue","","2026-09-01","N","not B2B SaaS; banking"
+"Fluxergy","repvue","","2026-09-01","N","ATS unresolved; diagnostic hardware"
+"Focal","repvue","","2026-09-01","N","no AE; deployment engineer only, LA/SoCal"
+"Forgepoint","repvue","","2026-09-01","N","no AE; cybersecurity VC, only founding engineer"
+"Frontier Health","repvue","","2026-09-01","N","no AE; London-based, no US roles"
+"Fundwell","repvue","","2026-09-01","N","no AE; Sales Representatives not AE-titled; NY/Tel Aviv/Miami"
+"GE Appliances","repvue","","2026-09-01","N","not B2B SaaS; home appliances manufacturer"
+"Gemini","repvue","","2026-09-01","N","ATS unresolved; crypto exchange"
+"GenMD","repvue","","2026-09-01","N","no AE; founding GTM lead only"
+"Georgian Partners Growth","repvue","","2026-09-01","N","not B2B SaaS; VC/growth equity firm"
+"Ghost","repvue","","2026-09-01","N","no AE; founding engineer only"
+"Group 1001","repvue","","2026-09-01","N","ATS unresolved; insurance company"
