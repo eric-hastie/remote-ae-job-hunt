@@ -434,7 +434,27 @@ new rows simply stay blank until the next local run backfills them.
 `data/`, not `latest.csv`, so building first leaves `history.html` showing the PREVIOUS run's
 "roles right now" every single time. Caught 2026-08-21, when it read 1,110 against a real 1,177.
 
-copy `latest.csv` to `data/$(date -u +%F).csv` → `python3 build.py` (regenerates `index.html` +
+**Run the loss gate FIRST, as its own step, before the snapshot copy and before anything is
+built or committed:**
+
+```
+python3 scripts/check_no_silent_loss.py --dropped <the number this run means to remove>
+```
+
+It compares `latest.csv` against the last committed version and refuses when rows or whole
+companies have vanished in bulk. **If it exits non-zero, STOP.** Do not snapshot, do not build,
+do not commit, do not push. Recover with `git show HEAD:data/latest.csv > data/latest.csv` and
+redo this run's edits on top of the recovered file.
+
+Why it exists: on 2026-08-25 and 2026-08-26 two runs rewrote `latest.csv` from a partial read of
+it and lost the tail. They reported `-1` while actually removing 358 and 366 rows, 291 and 313
+whole companies. Every step downstream behaved perfectly, because a truncated CSV is a valid CSV.
+658 verified roles are still missing and nothing in the pipeline noticed for five days.
+**Never write `latest.csv` from rows read into context. Edit it in place with a script, or
+append to what is already on disk.** The gate runs in a separate step from the write on purpose:
+a check in the same command block as the thing it guards cannot stop it.
+
+Then: copy `latest.csv` to `data/$(date -u +%F).csv` → `python3 build.py` (regenerates `index.html` +
 `history.html` + `discards.html` - NEVER hand-edit those; `discards.html` lists every
 `Currently Open = N` universe row with its Notes as the discard reason) → `git add -A` → commit
 `Refresh <UTC date+hour>: +<added> -<dropped> ~<links fixed> | checked <n> (ring <walked>/<size>)`
