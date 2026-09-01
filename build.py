@@ -6,7 +6,7 @@ Reads data/latest.csv (the canonical dataset), sorts rows MM -> MM/Ent -> Ent,
 computes the headline stats, and writes a fully self-contained index.html.
 No third-party dependencies.
 """
-import csv, json, os, datetime, glob, re
+import csv, json, os, datetime, glob, re, subprocess, sys
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 REPO = "eric-hastie/remote-ae-job-hunt"
@@ -735,7 +735,33 @@ render();
 </body>
 </html>'''
 
+def guard_against_bulk_loss():
+    """Refuse to build pages from a latest.csv that has silently lost its tail.
+
+    ROUTINE.md tells the run to call scripts/check_no_silent_loss.py as its own
+    step. That is an instruction, and on 2026-08-25 and 2026-08-26 the run was
+    the thing that failed, so an instruction is not enough. build.py always runs
+    before the commit, so the check lives here too and cannot be walked past.
+
+    Pass --allow-bulk-loss when a large drop is real and intended.
+    """
+    if "--allow-bulk-loss" in sys.argv:
+        print("bulk-loss gate: SKIPPED by --allow-bulk-loss")
+        return
+    gate = os.path.join(ROOT, "scripts", "check_no_silent_loss.py")
+    if not os.path.exists(gate):
+        sys.exit(f"REFUSED: {gate} is missing. The loss gate must exist to build.")
+    r = subprocess.run([sys.executable, gate], capture_output=True, text=True)
+    sys.stdout.write(r.stdout)
+    if r.returncode != 0:
+        sys.stderr.write(r.stderr)
+        sys.exit("REFUSED: build.py stopped. data/latest.csv lost rows in bulk. "
+                 "Nothing was built. Recover the file, or rerun with "
+                 "--allow-bulk-loss if the drop is real.")
+
+
 def main():
+    guard_against_bulk_loss()
     today = datetime.date.today()
     human = today.strftime("%B %-d, %Y") if os.name != "nt" else today.strftime("%B %d, %Y")
 
