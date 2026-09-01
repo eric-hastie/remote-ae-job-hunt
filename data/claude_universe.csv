@@ -103,7 +103,7 @@ Sierra,claude,,2026-08-03,Y,High Growth Enterprise AE; Ashby 'sierra' board; on-
 Sigma Computing,claude,84,2026-08-03,Y,has open qualifying role
 Smartsheet,claude,77,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 SmartSuite,claude,,2026-07-23,N,ATS unresolved
-Starburst,claude,74,2026-09-01,N,speedrun board: not flagged remote
+Starburst,claude,74,2026-09-01,Y,Sr Enterprise AE (Remote - LA/SD/SF); Greenhouse 5382974008; $150-175K base; pub 2026-08-18; data platform/analytics SaaS; added latest.csv 2026-09-01
 Sumo Logic,claude,77,2026-07-02,Y,has open qualifying role
 Supermetrics,claude,80,2026-08-03,N,"recheck-B 2026-08-03: Re-confirmed via the live careers page (supermetrics.com/careers): only two sales roles open, both Singapore (Junior AE - Digital Velocity, Senior Com"
 Syniti,claude,84,2026-07-23,N,ATS unresolved
@@ -2713,7 +2713,7 @@ WorkWave,ats-search,77,2026-08-05,N,Enterprise AE; US-remote; OTE $190-250K; fie
 Bluesight,ats-search,,2026-08-11,N,AE posting dead 2026-08-11; no qualifying replacement found; dropped from latest.csv
 BriteCore,ats-search,,2026-08-03,Y,Enterprise AE; US-remote; P&C insurance SaaS
 Roebling,ats-search,,2026-08-24,N,Ashby board 404 again 2026-08-24; industrial infrastructure AI capital projects; no public ATS found
-9fin,ats-search,,2026-08-04,Y,"has open qualifying role (added latest.csv 2026-08-04; Ent AE NYC, Ashby, $150-175K base, pub 2025-09-29)"
+9fin,ats-search,,2026-09-01,N,posting dead (DEAD_ID 2026-09-01); no qualifying US replacement found
 GaggleAMP,ats-search,,2026-08-17,N,no AE open; board empty 2026-08-17
 SPOTIO,ats-search,66,2026-08-05,N,hybrid (Tues/Wed office in Addison TX); not remote
 Oversee,ats-search,,2026-08-03,Y,Enterprise AE; TX/FL remote; OTE $180-220K; travel spend SaaS
@@ -2792,7 +2792,7 @@ EasyMovie,repvue,80,2026-08-05,N,ATS unresolved; ATS unresolved re-checked 2026-
 Huntington National Bank,repvue,80,2026-07-15,N,not B2B SaaS (bank)
 Natus,repvue,80,2026-07-15,N,not B2B SaaS (medical devices)
 Ellucian,repvue,80,2026-08-05,N,"ATS unresolved; custom careers site, specific AE postings 404; ATS unresolved re-checked 2026-08-05"
-Pinecone,repvue,80,2026-09-01,Y,Senior Account Executive - Enterprise (Ent)
+Pinecone,repvue,80,2026-09-01,N,speedrun board: posting gone (DEAD_ID)
 Wrapify,repvue,80,2026-07-15,N,not B2B SaaS (OOH advertising media)
 SuperOps,repvue,80,2026-08-05,N,ATS unresolved; ATS unresolved re-checked 2026-08-05
 Aptum,repvue,80,2026-07-15,N,not B2B SaaS (managed cloud/telecom services)
@@ -5522,7 +5522,7 @@ lemon.markets,a16z-speedrun,,2026-08-23,N,EU stock trading API for developers; n
 Lightfield,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
 SPS North America,ats-fintech,,2026-08-23,N,"AE role is NYC hybrid for AV/tech solutions company, not B2B SaaS"
 Wisetack,ats-fintech,,2026-08-23,N,no AE role on Greenhouse board (only Merchant Risk Analyst found)
-Braintrust Data,a16z-speedrun,,2026-08-29,Y,Strategic Account Executive (Central Region) (Ent)
+Braintrust Data,a16z-speedrun,,2026-09-01,Y,Strategic Account Executive (Central Region) (Ent)
 Novita AI,ats-ai-infra,,2026-08-23,Y,"Account Executive | Hybrid SF (San Mateo CA) | AI & Agent Cloud platform - Model APIs, GPU Cloud, Agent Sandbox; AI infra B2B SaaS; Verified Ashby"
 Spice AI,ats-ai-infra,,2026-08-23,N,"Founding AE role exists but on-site Bellevue WA only (not remote, not in target cities)"
 Loop AI,ats-ai-infra,,2026-08-23,N,No Account Executive role found in Lever API; search hit was stale
