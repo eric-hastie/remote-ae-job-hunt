@@ -82,7 +82,7 @@ Motive,claude,87,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
 Neo4j,claude,77,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
 Nerdio,claude,86,2026-08-15,N,ATS unresolved (Lever/Ashby/GH 404) 2026-08-15
 Net Health,claude,86,2026-07-23,N,ATS unresolved
-NetBox Labs,claude,93,2026-08-18,Y,Ashby 7fc11546 live; Account Executive US MST Remote; re-confirmed 2026-08-18
+NetBox Labs,claude,93,2026-09-02,N,Ashby posting 7fc11546 dead; no replacement candidate found
 Numeric,claude,,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Outsystems,claude,81,2026-08-20,Y,"Commercial AE US-Remote; low-code platform; Workday (page shell only, multiple mirrors confirm)"
 PagerDuty,claude,79,2026-06-30,Y,has open qualifying role
@@ -154,7 +154,7 @@ January,repvue,98.85,2026-08-17,N,Ashby board: no AE; only engineering/ops roles
 Solidgate,repvue,98.77,2026-08-17,N,no US AE found; DACH-only sales roles (recheck 2026-08-17)
 Wistia,repvue,98.71,2026-08-17,N,Ashby board: no AE; Director of Sales + Senior Marketing only
 Ivo,repvue,98.60,2026-08-17,Y,LIVE in published list (verify_links confirmed); re-checked 2026-08-17
-Cursor,repvue,98.32,2026-09-02,Y,"Strategic Account Executive, Federal Sales — Civilian (Ent)"
+Cursor,repvue,98.32,2026-09-02,Y,"Strategic Account Executive, Enterprise - Thailand (Ent)"
 Whatnot,repvue,98.16,2026-08-17,N,not B2B SaaS (consumer marketplace)
 LettrLabs,repvue,98.05,2026-08-17,Y,LIVE in published list (verify_links confirmed); re-checked 2026-08-17
 Jetty,repvue,97.97,2026-08-17,N,ATS unresolved (no board found; proptech/renters insurance)
@@ -5584,7 +5584,7 @@ Partiful,a16z-speedrun,,2026-08-24,N,no AE
 PointFive,a16z-speedrun,,2026-08-24,N,"AE London only, no US role"
 Variance,a16z-speedrun,,2026-08-24,Y,Enterprise AE | Ent | SF & NYC
 Vital Lyfe,a16z-speedrun,,2026-08-24,N,"AE onsite Torrance LA, no US-remote or NYC/SF/DEN/BOS/AUS"
-Vizcom,a16z-speedrun,,2026-08-24,Y,Mid-Market AE - West | MM | SF hybrid
+Vizcom,a16z-speedrun,,2026-09-02,N,replacement posting is hybrid 3d/wk SF in-office; no qualifying remote AE
 Ascend,a16z-speedrun,,2026-08-24,N,ATS unresolved
 ChipAgents,a16z-speedrun,,2026-08-24,N,no ATS found (BVP job board only)
 Clarion,a16z-speedrun,,2026-08-24,Y,Account Executive | MM/Ent | NYC onsite (healthtech)
@@ -6539,3 +6539,7 @@ Hugging Face,ats-data,,2026-09-02,N,AE role EMEA only - not US; AI/ML platform
 Slingshot Aerospace,ats-data,,2026-09-02,N,Commercial AE posting dead 2026-09-02; space situational awareness/defense SaaS
 Runlayer,job3-devtools,,2026-09-02,Y,Enterprise AE NYC/Remote; AI agent governance/security SaaS; Ashby 63e79480-6472-4785-9138-19ea750c2ebf; published 2025-09-12
 Liquid AI,job3-devtools,,2026-09-02,N,MIT CSAIL spinout ML inference platform; no AE roles on Ashby board 2026-09-02
+Dizzion,repvue,,2026-09-02,N,Paylocity posting 4342419 HTTP dead; Ent AE
+Modern Treasury,ats-fintech,,2026-09-02,Y,AE (MM/Ent) Remote; Ashby 5bdba57f; OTE $160K-$220K; payments API
+Prelim,ats-fintech,,2026-09-02,N,Lever board empty; direct posting 403; no active AE found
+FERMAT,ats-fintech,,2026-09-02,N,Ashby board 404; posting page JS-only unverifiable; not confirmed B2B SaaS/fintech
