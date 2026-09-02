@@ -385,7 +385,7 @@ DemandJump,repvue,90.94,2026-08-19,N,ATS unresolved (GH/Ashby 404; re-check 2026
 Salesforce Maps,repvue,90.93,2026-08-19,N,re-check: not standalone company (Salesforce product unit)
 Outbuild,repvue,90.91,2026-08-19,N,ATS unresolved (GH/Ashby 404; re-check 2026-08-19)
 Kallidus,repvue,90.91,2026-08-19,N,UK LMS company; no US AE (Kallidus Recruit; re-check 2026-08-19)
-Ideals,repvue,90.85,2026-08-19,Y,Enterprise AE hybrid Boston; $130K-$160K OTE; Ashby c4def2a5-c123-4302-8486-bf31dc3faff4; published 2025-10-27
+Ideals,repvue,90.85,2026-09-02,N,Enterprise AE hybrid Boston; posting dead 2026-09-02
 Inky,repvue,90.80,2026-08-19,N,ATS unresolved (GH/Ashby 404; re-check 2026-08-19)
 Cisco Meraki,repvue,90.79,2026-08-19,N,re-check: not standalone (Cisco division)
 RudderStack,repvue,90.78,2026-08-19,N,Enterprise AE London UK only (Rippling board confirmed 2026-08-19); no US AE
@@ -4108,7 +4108,7 @@ UniFirst Corporation,repvue,77,2026-08-12,N,uniform services; not B2B SaaS
 Juvare,repvue,77,2026-08-12,N,no AE on Greenhouse board; emergency mgmt software
 VAST Data,repvue,77,2026-08-12,N,ATS unresolved; Jobgether aggregator only; no direct ATS URL
 Fifth Wheel Freight,repvue,77,2026-08-12,N,freight/logistics marketplace; not B2B SaaS
-Andela,repvue,77,2026-08-12,Y,Sr AE (Enterprise) on Ashby; remote North America; already in latest.csv
+Andela,repvue,77,2026-09-02,N,Sr AE posting dead 2026-09-02
 Hologram,repvue,77,2026-08-12,N,Greenhouse: only GTM Engineers; no IC AE role
 Tinuiti,repvue,77,2026-08-12,N,performance marketing agency; not B2B SaaS
 Nearmap,repvue,77,2026-08-12,N,ATS unresolved; no AE role found on standard boards
@@ -4610,7 +4610,7 @@ PowerPlan,aggregator-verify,,2026-08-15,Y,Strategic Account Executive | Ent | Re
 Recruitics,aggregator-verify,,2026-08-15,Y,"Enterprise Account Executive, HR Technology | Ent | NYC"
 SHI International,aggregator-verify,74,2026-08-15,Y,Enterprise Inside Account Executive - Acquisition | Ent | Austin
 Steer Health,aggregator-verify,,2026-08-15,Y,Senior Enterprise Account Executive | Ent | Remote
-The Ride Platform,aggregator-verify,,2026-08-15,Y,Roamly & Wheelbase - SMB/MM Account Executive | MM | SF
+The Ride Platform,aggregator-verify,,2026-09-02,N,Roamly & Wheelbase SMB/MM AE posting dead 2026-09-02
 Uncapped,aggregator-verify,,2026-08-15,Y,SMB Account Executive | SMB | Remote
 Bankjoy,aggregator-verify,,2026-08-15,Y,Senior Account Executive | Ent | Remote
 Boon,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | Remote
@@ -5522,7 +5522,7 @@ lemon.markets,a16z-speedrun,,2026-08-23,N,EU stock trading API for developers; n
 Lightfield,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
 SPS North America,ats-fintech,,2026-08-23,N,"AE role is NYC hybrid for AV/tech solutions company, not B2B SaaS"
 Wisetack,ats-fintech,,2026-08-23,N,no AE role on Greenhouse board (only Merchant Risk Analyst found)
-Braintrust Data,a16z-speedrun,,2026-09-01,Y,Strategic Account Executive (Central Region) (Ent)
+Braintrust Data,a16z-speedrun,,2026-09-02,Y,Strategic Account Executive (Central Region) (Ent)
 Novita AI,ats-ai-infra,,2026-08-23,Y,"Account Executive | Hybrid SF (San Mateo CA) | AI & Agent Cloud platform - Model APIs, GPU Cloud, Agent Sandbox; AI infra B2B SaaS; Verified Ashby"
 Spice AI,ats-ai-infra,,2026-08-23,N,"Founding AE role exists but on-site Bellevue WA only (not remote, not in target cities)"
 Loop AI,ats-ai-infra,,2026-08-23,N,No Account Executive role found in Lever API; search hit was stale
@@ -6536,3 +6536,6 @@ Sigma360,ats-data,,2026-09-02,N,ATS unresolved (careers page links only to Wellf
 MCA Connect,ats-data,,2026-09-02,N,Not B2B SaaS - Microsoft consulting/services firm; no AE roles
 SafeGraph,ats-data,,2026-09-02,Y,"AE, remote US, DaaS location data analytics B2B; base $110-130k; Workable (via Partner One Capital board)"
 Hugging Face,ats-data,,2026-09-02,N,AE role EMEA only - not US; AI/ML platform
+Slingshot Aerospace,ats-data,,2026-09-02,N,Commercial AE posting dead 2026-09-02; space situational awareness/defense SaaS
+Runlayer,job3-devtools,,2026-09-02,Y,Enterprise AE NYC/Remote; AI agent governance/security SaaS; Ashby 63e79480-6472-4785-9138-19ea750c2ebf; published 2025-09-12
+Liquid AI,job3-devtools,,2026-09-02,N,MIT CSAIL spinout ML inference platform; no AE roles on Ashby board 2026-09-02
