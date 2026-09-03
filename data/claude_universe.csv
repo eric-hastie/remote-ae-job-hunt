@@ -596,7 +596,7 @@ Cato Networks,repvue,88.38,2026-08-21,N,re-check 2026-08-21: GH catonetworks sti
 ZOLL Data Systems,repvue,88.37,2026-08-21,N,"re-check 2026-08-21: ATS unresolved; healthcare EMS hardware+software, not pure SaaS"
 Aligned,repvue,88.37,2026-08-21,Y,re-check 2026-08-21: Mid-Market AE (GH 4685191101) still live
 Radar Labs,repvue,88.37,2026-08-21,N,re-check 2026-08-21: ATS unresolved (Workable/GH 404)
-Appspace,repvue,88.35,2026-08-21,Y,re-check 2026-08-21: Enterprise AE USA (GH 6134571004) still live
+Appspace,repvue,88.35,2026-09-03,N,posting 6134571004 dead; UAE/SMB replacements only - no qualifying US role
 Dooly,repvue,88.35,2026-08-21,N,defunct — company website returns 404
 Premium Merchant Funding,repvue,88.34,2026-08-21,N,not B2B SaaS (MCA/merchant cash advance lending)
 Reachdesk,repvue,88.32,2026-08-21,N,re-check 2026-08-21: GH board only Account Manager (retention) + BDR; no AE
@@ -1192,7 +1192,7 @@ Sunbit,repvue,84.83,2026-07-24,N,ATS unresolved; BNPL for service industries
 OnBoard,repvue,84.83,2026-08-07,N,RepVue scan: open AE role; posting expired 2026-08-07
 Fairwinds,repvue,84.82,2026-07-24,N,ATS unresolved; Kubernetes security SaaS
 Manta,repvue,84.82,2026-07-24,N,ATS unresolved; data catalog/lineage SaaS
-Canto,repvue,84.82,2026-07-24,Y,MM AE Remote; GH job-boards.greenhouse.io/canto/jobs/5285728008; published 2026-07-02
+Canto,repvue,84.82,2026-09-03,N,posting 5285728008 dead; no AE replacement on GH board
 Algolia,repvue,84.82,2026-08-07,N,"GH posting dead; remaining US options are Renewal/Install Base AE only, no MM new-biz"
 CyberArk,repvue,84.81,2026-07-24,N,ATS unresolved; large enterprise security SaaS (GH board not accessible)
 ATG,repvue,84.80,2026-07-24,N,ATS unresolved; e-commerce platform
@@ -1797,7 +1797,7 @@ Fonoa,repvue,82,2026-08-03,Y,"URL updated 2026-08-03 to new Enterprise AE (New Y
 Reprise,repvue,82,2026-07-31,N,no IC AE on Ashby board (Director Marketing only); re-checked 2026-07-31
 Sunnova,repvue,82,2026-07-31,N,not B2B SaaS (residential solar energy)
 Influitive,repvue,82,2026-07-27,N,ATS unresolved (GH 'influitive' 404)
-ID.me,repvue,82,2026-08-03,Y,in-office 5 days/week; no US-remote AE role
+ID.me,repvue,82,2026-09-03,N,posting 7661521003 dead; replacements are SLED/Ent/Gov only
 BackBox,repvue,82,2026-07-27,N,ATS unresolved (GH 'backbox' 503)
 Fieldguide,repvue,82,2026-08-03,Y,Strategic AE / Ent / Remote USA / base $140-170K (50/50 split)
 Simon Data,repvue,82,2026-07-31,N,ATS unresolved (GH/Lever 404)
@@ -6553,3 +6553,5 @@ StockTwits,ats-fintech,,2026-09-03,N,"No open roles on Rippling board (stocktwit
 RemotePass,ats-fintech,,2026-09-03,N,No AE postings on Workable board (remotepass); only HR/admin roles open; global EOR/payroll B2B SaaS
 insightsoftware,ats-fintech,74,2026-09-03,Y,MM/Ent AE US-remote; EPM/financial analytics software; SmartRecruiters id 744000090924612; already in latest.csv since 2026-07-25
 Close,ats-fintech,,2026-09-03,N,Ashby board (close): AE role is SMB-only segment; CRM for inside sales teams; not MM/Ent segment
+Ombud,ats-ai-infra,,2026-09-03,N,"Commercial AE (AI solutions, GH 8577053002); SMB segment (companies under $50M, ACV $20K-$40K); Denver hybrid Tue-Thu (3 days/wk); does not meet MM segment or remote bar"
+Kai Cyber,ats-ai-infra,,2026-09-03,N,Agentic AI cybersecurity (kai.security); Rippling listing for Enterprise AE West appears closed; no AE roles on careers page
