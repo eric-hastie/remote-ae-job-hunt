@@ -392,7 +392,7 @@ RudderStack,repvue,90.78,2026-08-19,N,Enterprise AE London UK only (Rippling boa
 Tailscale,repvue,90.74,2026-08-18,N,"7 AE reqs, all hybrid Denver or Vancouver"
 Consensus,repvue,90.71,2026-08-19,N,ATS unresolved (Lever/Rippling 404; re-check 2026-08-19)
 RevenueCat,repvue,90.69,2026-08-31,N,MM AE posting dead 2026-08-31; no replacement found
-Reddit,repvue,90.68,2026-08-19,N,re-check: not B2B SaaS (consumer social)
+Reddit,repvue,90.68,2026-09-03,N,re-check: not B2B SaaS (consumer social); posting dead; dropped from latest.csv 2026-09-03
 Proliant,repvue,90.66,2026-08-19,N,ATS unresolved (GH/Ashby 404; re-check 2026-08-19)
 Cyberhaven,repvue,90.66,2026-08-19,Y,"Enterprise AE: Remote (718e2479-f62e-4596-9e35-595372a6b62f, posted 2026-06-05) + SF hybrid (2bbae059-ace5-4765-9f0b-ff685da0dc1c, posted 2026-05-14); OTE $300K-$350K"
 Masergy,repvue,90.65,2026-08-19,N,re-check: acquired by Comcast Business 2021 (defunct standalone)
@@ -4254,7 +4254,7 @@ Guidewheel,queue,77,2026-08-12,Y,MM AE (GH 5646843004) Remote - Physical AI; alr
 Conga,queue,77,2026-08-12,Y,Enterprise AE Atlanta Remote (GH 5194698007)
 Akeyless Security,queue,77,2026-08-12,Y,Enterprise AE US-CA (2026-05-25) and US-NY (2026-05-24) Remote; $250K-320K OTE; deadline Aug 22 2026 (Comeet)
 Trek Health,queue,77,2026-08-12,Y,Enterprise AE East Remote ($260-300K OTE) - LinkedIn only (no ATS)
-TeamSnap,queue,77,2026-08-12,Y,Enterprise AE Remote (Lever 80441878); sports SaaS
+TeamSnap,queue,77,2026-09-03,N,Lever AE posting dead; no replacement on board; dropped from latest.csv 2026-09-03
 Lumistry,queue,77,2026-08-12,N,No ATS board found; no open roles
 Syncron,queue,77,2026-08-12,N,"Teamtailor board; Enterprise SDR only, no AE"
 EasyPost,queue,77,2026-08-12,N,"Lever board; only Partnerships AE (channel role, not direct IC)"
@@ -4726,7 +4726,7 @@ Hubexo,aggregator-verify,,2026-08-15,Y,Account Executive - Latirra Spec | Unspec
 IQGeo,aggregator-verify,,2026-08-15,Y,Strategic Account Executive - Utilities | Ent | Denver
 Latent Health,aggregator-verify,,2026-08-15,Y,Strategic Account Executive | Ent | NYC
 M7 Health,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | Remote
-Motus,aggregator-verify,75,2026-08-15,Y,"Account Executive, Commercial | SMB | Remote"
+Motus,aggregator-verify,75,2026-09-03,Y,"Account Executive, Mid-Market | MM | Remote; GH 7550158; URL fixed from dead 8111999 on 2026-09-03"
 PlayOn! Sports,aggregator-verify,,2026-08-15,Y,Account Executive (National Advertising Sales) | Unspec | NYC
 Radware,aggregator-verify,74,2026-08-15,Y,Commercial Account Executive | MM | Remote
 Soulside AI,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | Remote
@@ -4757,7 +4757,7 @@ ZL Technologies,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | E
 Carestream Dental,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | Boston
 Copeland,aggregator-verify,,2026-08-15,Y,Strategic Account Executive | Ent | Remote
 Dodge Construction Network,aggregator-verify,76,2026-08-15,Y,Associate Account Executive (Evergreen) | SMB | Remote
-Flinn,aggregator-verify,,2026-08-15,Y,Founding Account Executive (US) | SMB | NYC
+Flinn,aggregator-verify,,2026-09-03,N,Ashby posting dead; only EU-based Founding AE remain (Vienna or Europe-Based); dropped from latest.csv 2026-09-03
 Hypercore,aggregator-verify,,2026-08-24,N,posting removed (ATS 404)
 J. J. Keller,aggregator-verify,78,2026-08-15,Y,Account Executive - National Accounts (West Region) | Unspec | Remote
 Medallia,aggregator-verify,74,2026-08-15,Y,Emerging Enterprise Account Executive | Ent | Remote
@@ -5753,7 +5753,7 @@ Motional,ats-physical-ai,,2026-08-25,N,"No qualifying AE role; AV company (Hyund
 webAI,ats-physical-ai,,2026-08-25,N,"No AE role; edge AI company, Ashby board shows only engineering roles"
 Artificial,ats-robotics,,2026-08-25,N,"Life sciences lab automation (B2B SaaS + robotics); Sr AE posting found on Lever (a7d627a8) but Lever API 404 on slug ""artificial"" - ATS unresolved; remote eligibility unconfirmed (offices in Palo Alto and Austin)"
 Liminal,repvue,,2026-08-25,N,"Job 1 drop 2026-08-25: Rippling ATS HTTP_DEAD, no AE roles on board"
-NikoHealth,ats-data,,2026-08-25,Y,Job 3 data/analytics: MM AE US-remote $225-250K OTE B2B SaaS healthcare DME/HME; Rippling board
+NikoHealth,ats-data,,2026-09-03,N,Rippling posting dead (b4f032b6); no replacement; dropped from latest.csv 2026-09-03
 Drivepoint,ats-data,,2026-08-25,Y,Job 3 data/analytics: MM/Ent AE Boston hybrid (1-2d/wk) B2B SaaS FP&A eCommerce; Rippling board
 Transifex,ats-data,,2026-08-25,N,"Job 3 data/analytics lead: ATS unresolved (Workable page incomplete); localization SaaS, not data vertical"
 MKS Instruments,a16z-speedrun,,2026-08-26,N,semiconductor equipment manufacturer; not B2B SaaS
@@ -6547,3 +6547,9 @@ ZeroDrift,a16z-speedrun,,2026-09-03,N,"AI compliance enforcement B2B SaaS ($10M 
 Antithesis,ats-devtools,,2026-09-03,Y,"Senior AE, Enterprise, Remote US, devtools/testing infra, $275K-$325K OTE; Ashby verified"
 Diagrid,ats-devtools,,2026-09-03,N,Enterprise AE requires 10+ yrs experience - exceeds 8-yr ceiling
 Revefi,ats-devtools,,2026-09-03,Y,"Enterprise AE, Remote US, data observability; Lever confirmed live; in latest.csv as Needs check"
+Shift4,ats-fintech,,2026-09-03,N,GH board slug shift4 API 404; individual posting 4800285007 dead (HTTP 404); large payments processor (Nasdaq: FOUR); not pure B2B SaaS
+Great Gray,ats-fintech,,2026-09-03,N,AE (Fintech Sales) role in Las Vegas/Boston; hybrid 4 days onsite 1 day remote; not US-remote; retirement plan recordkeeping SaaS
+StockTwits,ats-fintech,,2026-09-03,N,"No open roles on Rippling board (stocktwits); B2C financial social network, not B2B SaaS"
+RemotePass,ats-fintech,,2026-09-03,N,No AE postings on Workable board (remotepass); only HR/admin roles open; global EOR/payroll B2B SaaS
+insightsoftware,ats-fintech,74,2026-09-03,Y,MM/Ent AE US-remote; EPM/financial analytics software; SmartRecruiters id 744000090924612; already in latest.csv since 2026-07-25
+Close,ats-fintech,,2026-09-03,N,Ashby board (close): AE role is SMB-only segment; CRM for inside sales teams; not MM/Ent segment
