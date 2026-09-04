@@ -58,7 +58,7 @@ Infisical,claude,,2026-07-23,N,dropped 2026-07-23: DEAD posting (no AE on board)
 Ironclad,claude,84,2026-07-27,N,ATS unresolved (GH 503); previously Ent-only/hybrid
 Itential,claude,77,2026-07-23,N,ATS unresolved
 Iterable,claude,79,2026-08-03,Y,Enterprise AE West + Evergreen East; Ashby board; Remote US; OTE $266K-310K; Ent segment
-Jama Software,claude,87,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Jama Software,claude,87,2026-09-04,Y,has open qualifying role (re-verified 2026-07-23)
 Keeper Security,claude,76,2026-08-04,N,has open qualifying role; posting dead as of 2026-08-04
 Komodo Health,claude,79,2026-08-03,Y,has open qualifying role
 Kong,claude,85,2026-09-03,Y,Commercial Account Executive (MM)
@@ -113,7 +113,7 @@ Temporal,claude,95,2026-07-31,N,posting dead; remaining US AE roles senior-only 
 The Access Group,claude,75,2026-07-23,N,UK-based ERP; ATS unresolved; US AE unclear 2026-07-23
 Thoropass,claude,79,2026-08-15,N,"dropped 2026-07-22: Greenhouse board has no AE postings (posting 6001426004 dead, no replacement found)"
 ThoughtSpot,claude,79,2026-07-31,Y,Workday JR2069; Enterprise AE US Distributed (remote); OTE unconfirmed; re-checked 2026-07-31
-Tines,claude,87,2026-08-15,N,no IC AE on Greenhouse 2026-08-15
+Tines,claude,87,2026-09-04,Y,"New Greenhouse Senior Enterprise AE (6181544004), SF Bay Area, $320K OTE, posted 2026-09-03"
 Trunk Tools,claude,,2026-07-02,Y,has open qualifying role
 Vanta,claude,88,2026-09-03,N,compliance automation B2B SaaS; no US AE; only EMEA Dublin hybrid AE (SDR in SF only)
 Vantage,claude,72,2026-09-03,Y,Commercial Account Executive (MM)
@@ -745,54 +745,54 @@ A-LIGN,repvue,87.22,2026-09-03,Y,in latest.csv; verify-links confirmed LIVE 2026
 Western Digital,repvue,87.21,2026-09-03,N,not B2B SaaS; hardware manufacturer; re-check 2026-09-03
 Servers.com,repvue,87.21,2026-09-03,N,"not B2B SaaS; cloud hosting provider, not SaaS product; re-check 2026-09-03"
 Repsly,repvue,87.20,2026-09-03,N,no AE roles found; only Zagreb tech roles (backend/marketing); re-check 2026-09-03
-Better Homes and Gardens Real Estate,repvue,87.20,2026-07-22,N,not B2B SaaS; real estate brokerage franchise
-Westcon Comstor,repvue,87.19,2026-07-22,N,not B2B SaaS; IT distribution company
-PaymentWorks,repvue,87.17,2026-08-15,Y,"EarlyPay Vendor Sales AE, remote US, B2B payments SaaS 2026-08-15"
-AirDNA,repvue,87.17,2026-08-15,Y,"Lever a5e569c0 live; AE-DMO OTE $130K-$150K, Remote US; re-checked 2026-08-15"
-Shiftboard,repvue,87.17,2026-07-22,N,acquired by UKG; shiftboard.com redirects to ukg.com
-CData Software,repvue,87.17,2026-08-15,N,empty Workable board 2026-08-15
-Mutual of Omaha Mortgage,repvue,87.15,2026-07-22,N,not B2B SaaS; mortgage/consumer financial services
-Duo Security (Cisco),repvue,87.14,2026-07-22,N,Cisco subsidiary; not independent B2B SaaS company
-LendingTree,repvue,87.14,2026-07-22,N,not B2B SaaS; consumer financial marketplace
-emnify,repvue,87.13,2026-08-15,N,ATS unresolved; Greenhouse board slug unknown; careers shows AE via gh_jid 2026-08-15
-Deeto,repvue,87.12,2026-07-22,N,ATS unresolved; deeto.com/careers 404; deeto.ai redirects fail
-Automata,repvue,87.12,2026-08-15,N,ATS unresolved; automata.tech/careers 404; company may have pivoted 2026-08-15
-Toast,repvue,87.11,2026-08-15,N,no MM remote AE; only SMB Growth AE (city-specific) found on Greenhouse `toast` board
-Uproar Partners,repvue,87.10,2026-07-22,N,not B2B SaaS; PR/communications firm
-Camunda,repvue,87.10,2026-07-31,N,posting dead; all replacements non-US; re-checked 2026-07-31
-Leavitt Machinery,repvue,87.10,2026-07-22,N,not B2B SaaS; heavy equipment dealer
-Skuid,repvue,87.10,2026-08-15,N,ATS unresolved; Greenhouse/Lever all 404
-SimCorp,repvue,87.09,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
-Kyriba,repvue,87.08,2026-08-03,Y,top500 RepVue scan: open AE role
-MineralTree,repvue,87.08,2026-07-22,N,acquired by Global Payments 2021
-Satori Cyber,repvue,87.08,2026-08-03,Y,top500 RepVue scan: open AE role
-BI Worldwide,repvue,87.07,2026-07-22,N,not pure B2B SaaS product company; employee engagement/incentive programs
-SMART Technologies,repvue,87.07,2026-07-22,N,not pure SaaS; primarily hardware/AV classroom technology
-Ease,repvue,87.05,2026-08-15,N,ATS unresolved; Ashby/Lever 404; ease.com/careers 404
-Alvys,repvue,87.05,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
-Businessolver,repvue,87.05,2026-08-15,N,Greenhouse board found (businessolver); no AE roles listed
-Singular,repvue,87.05,2026-07-02,Y,top500 RepVue scan: open AE role
-strongDM,repvue,87.05,2026-08-15,N,Ashby board (strongdm) empty; no roles listed
-Maven Clinic,repvue,87.03,2026-08-15,N,ATS unresolved; Lever/Ashby 404
-Henkel,repvue,87.03,2026-07-22,N,not B2B SaaS; consumer/industrial goods conglomerate
-Advanced Sterilization Products,repvue,87.02,2026-07-22,N,not B2B SaaS; medical device manufacturer (Fortive subsidiary)
-Qualia,repvue,87.01,2026-08-15,N,ATS unresolved; Ashby 404
-Marketo,repvue,87.00,2026-07-22,N,acquired by Adobe; no longer independent
-Everyday Speech,repvue,87.00,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
-Drake Software,repvue,86.99,2026-08-15,N,ATS unresolved; tax software niche
-3E,repvue,86.99,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
-Dandy,repvue,86.99,2026-08-03,N,recheck-C 2026-08-03 CLOSED: Posting ID dc3d63f7-a6ce-46cb-957f-4a4da51591a0 is not present in the Ashby job-board API. The board currently lists zero jobs with 'Account Executive
-Sun Life,repvue,86.98,2026-07-22,N,not B2B SaaS; insurance/financial services
-Redzone,repvue,86.98,2026-08-15,Y,"SmartRecruiters (QADInc) 744000138926084 live; Sr. AE Champion AI, OTE $260K-$300K, Remote US; re-checked 2026-08-15"
-CHEQ,repvue,86.97,2026-08-15,N,"custom ATS (Comeet, cheq.ai/careers); no AE (BDR + tech only); re-checked 2026-08-15"
-Embrace,repvue,86.96,2026-07-31,N,top500 RepVue scan: open AE role
-Brevo,repvue,86.96,2026-08-15,N,EU AEs only on Lever; no US AE 2026-08-15
-AppFolio,repvue,86.95,2026-08-15,N,Jobvite board found; AE roles exist but CA-office only (not US remote); re-checked 2026-08-15
-Passage Health,repvue,86.94,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
-Pipefy,repvue,86.92,2026-08-15,N,ATS unresolved; Greenhouse/Lever/Ashby all 404
-People Data Labs,repvue,86.92,2026-08-15,N,ATS unresolved; Lever/Ashby all 404
-OEC,repvue,86.91,2026-08-15,N,ATS unresolved (Dayforce/Cloudflare blocked); AE roles in search unverifiable; re-checked 2026-08-15
-GAF,repvue,86.89,2026-07-22,N,not B2B SaaS; roofing products manufacturer
+Better Homes and Gardens Real Estate,repvue,87.20,2026-09-04,N,not B2B SaaS - real estate franchise
+Westcon Comstor,repvue,87.19,2026-09-04,N,not B2B SaaS - IT distributor/reseller
+PaymentWorks,repvue,87.17,2026-09-04,Y,"EarlyPay Vendor Sales AE, remote US, B2B payments SaaS 2026-08-15"
+AirDNA,repvue,87.17,2026-09-04,N,"AE posting dead, no replacement found 2026-09-04"
+Shiftboard,repvue,87.17,2026-09-04,N,acquired by UKG; shiftboard.com redirects to ukg.com
+CData Software,repvue,87.17,2026-09-04,N,empty Workable board; ATS unresolved re-checked 2026-09-04
+Mutual of Omaha Mortgage,repvue,87.15,2026-09-04,N,not B2B SaaS - mortgage lender
+Duo Security (Cisco),repvue,87.14,2026-09-04,N,"part of Cisco; Enterprise-only; Workday ATS JS-rendered, unverifiable"
+LendingTree,repvue,87.14,2026-09-04,N,not B2B SaaS - consumer financial marketplace
+emnify,repvue,87.13,2026-09-04,N,ATS unresolved; Greenhouse/Lever/Ashby all 404; re-checked 2026-09-04
+Deeto,repvue,87.12,2026-09-04,N,ATS unresolved; deeto.com/careers 404; re-checked 2026-09-04
+Automata,repvue,87.12,2026-09-04,N,ATS unresolved; automata.tech/careers 404; re-checked 2026-09-04
+Toast,repvue,87.11,2026-09-04,N,no MM remote AE; only SMB Growth AE (city-specific); re-checked 2026-09-04
+Uproar Partners,repvue,87.10,2026-09-04,N,not B2B SaaS; PR/communications firm
+Camunda,repvue,87.10,2026-09-04,N,no US AE; MEA-only Corporate AE on Greenhouse; re-checked 2026-09-04
+Leavitt Machinery,repvue,87.10,2026-09-04,N,not B2B SaaS - industrial machinery
+Skuid,repvue,87.10,2026-09-04,N,ATS unresolved; Greenhouse/Lever/Ashby all 404; re-checked 2026-09-04
+SimCorp,repvue,87.09,2026-09-04,N,ATS unresolved; Greenhouse/Lever/Ashby all 404; re-checked 2026-09-04
+Kyriba,repvue,87.08,2026-09-04,Y,Workday board; AE role corroborated via search; UNKNOWN status from verify_links; re-checked 2026-09-04
+MineralTree,repvue,87.08,2026-09-04,N,acquired by Global Payments 2021; jobs via globalpayments.com; no AE listed
+Satori Cyber,repvue,87.08,2026-09-04,Y,top500 RepVue scan: open AE role
+BI Worldwide,repvue,87.07,2026-09-04,N,not B2B SaaS - loyalty/incentive services
+SMART Technologies,repvue,87.07,2026-09-04,N,not B2B SaaS - interactive display hardware
+Ease,repvue,87.05,2026-09-04,N,Field AE only (face-to-face requirement); not remote-eligible
+Alvys,repvue,87.05,2026-09-04,N,ATS unresolved; Greenhouse/Lever/Ashby all 404; re-checked 2026-09-04
+Businessolver,repvue,87.05,2026-09-04,N,Greenhouse board (businessolver); no AE roles; re-checked 2026-09-04
+Singular,repvue,87.05,2026-09-04,Y,top500 RepVue scan: open AE role
+strongDM,repvue,87.05,2026-09-04,N,Ashby board (strongdm) empty; no roles listed; re-checked 2026-09-04
+Maven Clinic,repvue,87.03,2026-09-04,N,ATS unresolved; Lever/Ashby 404; re-checked 2026-09-04
+Henkel,repvue,87.03,2026-09-04,N,not B2B SaaS - consumer goods manufacturer
+Advanced Sterilization Products,repvue,87.02,2026-09-04,N,not B2B SaaS - medical device manufacturer
+Qualia,repvue,87.01,2026-09-04,N,ATS unresolved; Ashby 404; re-checked 2026-09-04
+Marketo,repvue,87.00,2026-09-04,N,acquired by Adobe; no longer independent
+Everyday Speech,repvue,87.00,2026-09-04,N,ATS unresolved; Greenhouse/Lever/Ashby all 404; re-checked 2026-09-04
+Drake Software,repvue,86.99,2026-09-04,N,ATS unresolved; Greenhouse 404 on drakeadvisors slug; tax software
+3E,repvue,86.99,2026-09-04,N,ATS unresolved; Greenhouse/Lever/Ashby all 404; re-checked 2026-09-04
+Dandy,repvue,86.99,2026-09-04,Y,"New Ashby Strategic AE (3ee8a58d) remote US, $300K-$334.5K OTE; dental lab SaaS; re-opened 2026-09-04"
+Sun Life,repvue,86.98,2026-09-04,N,not B2B SaaS - insurance company
+Redzone,repvue,86.98,2026-09-04,Y,"SmartRecruiters (QADInc) 744000138926084 live; Sr. AE Champion AI, OTE $260K-$300K, Remote US; re-checked 2026-08-15"
+CHEQ,repvue,86.97,2026-09-04,N,custom ATS (Comeet); no AE (BDR + tech only); re-checked 2026-09-04
+Embrace,repvue,86.96,2026-09-04,N,acquired by Palo Alto Networks; Greenhouse board stale; postings are now PANW
+Brevo,repvue,86.96,2026-09-04,N,EU AEs only on Lever; no US AE; re-checked 2026-09-04
+AppFolio,repvue,86.95,2026-09-04,N,AE roles CA-office only (not US remote); re-checked 2026-09-04
+Passage Health,repvue,86.94,2026-09-04,N,ATS unresolved; Greenhouse/Lever/Ashby all 404; re-checked 2026-09-04
+Pipefy,repvue,86.92,2026-09-04,N,ATS unresolved; Greenhouse/Lever/Ashby all 404; re-checked 2026-09-04
+People Data Labs,repvue,86.92,2026-09-04,N,ATS unresolved; Lever/Ashby 404; re-checked 2026-09-04
+OEC,repvue,86.91,2026-09-04,N,ATS unresolved (Dayforce/Cloudflare blocked); re-checked 2026-09-04
+GAF,repvue,86.89,2026-09-04,N,not B2B SaaS - roofing materials manufacturer
 Vivun,repvue,86.89,2026-08-27,N,Ashby: only Named AE Future Opportunities (not live); no open AE; re-verified 2026-08-27
 Baker Hill,repvue,86.88,2026-08-15,N,ATS unresolved; Ashby/Greenhouse all 404
 Ometria,repvue,86.88,2026-08-15,N,"Workable board found; no AE (2 total jobs, neither AE); re-checked 2026-08-15"
@@ -6512,7 +6512,7 @@ McMaster-Carr,repvue,,2026-09-02,N,not B2B SaaS; industrial distribution
 Simpson Strong-Tie,repvue,,2026-09-02,N,not B2B SaaS; construction hardware manufacturer
 Sourcerer AI,a16z-speedrun,,2026-09-02,N,ATS unresolved; very small/unknown startup
 Spherecast,a16z-speedrun,,2026-09-02,N,Munich-based startup; no US AE roles
-Summer,a16z-speedrun,,2026-09-03,N,ATS unresolved; student loan refinancing platform; no qualifying AE; re-check 2026-09-03
+Summer,a16z-speedrun,,2026-09-04,N,ATS unresolved; summer.com DNS failure; student loan benefits platform
 Sunday Robotics,a16z-speedrun,,2026-09-02,N,consumer household robotics (Memo); not B2B
 Supernova Technology,a16z-speedrun,,2026-09-02,N,fintech consulting/services; ATS unresolved
 Taya,a16z-speedrun,,2026-09-02,N,ATS unresolved
