@@ -93,6 +93,8 @@ def main():
         if not verdict:
             if args.no_verify:
                 verdict, reason = "unchecked", "verification skipped"
+            elif not r.get("ApplyURL", "").strip():
+                verdict, reason = "hold", "no apply URL"
             else:
                 status, org, kind, jid = vl.classify(r["ApplyURL"])
                 board_url = f"{kind}:{org}"
