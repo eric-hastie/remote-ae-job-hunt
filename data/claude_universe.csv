@@ -1137,7 +1137,7 @@ CD Recruitment,repvue,84.91,2026-07-24,N,not B2B SaaS (recruitment/staffing agen
 Jellyfish,repvue,84.90,2026-08-03,Y,Enterprise AE Remote; Ashby 6d08e74c-0866-4b0b-a196-c1ee674bcba1; OTE $280-330K; published 2026-06-10
 Foleon,repvue,84.89,2026-07-24,N,ATS unresolved; B2B content platform (Dutch company)
 Sensera Systems,repvue,84.89,2026-07-24,N,ATS unresolved; IoT/construction monitoring hardware-SaaS
-Verifiable,repvue,84.88,2026-08-03,Y,top1000 RepVue scan: open AE role
+Verifiable,repvue,84.88,2026-09-04,N,Lever posting dead (5a01eded); no US-remote replacement on board; dropped 2026-09-04
 Playvox,repvue,84.88,2026-07-24,N,ATS unresolved; contact center WFO SaaS
 Charted,repvue,84.88,2026-07-24,N,ATS unresolved; data visualization startup (likely defunct/small)
 Neat,repvue,84.87,2026-07-24,N,ATS unresolved; Zoom hardware partner; not core B2B SaaS AE target
@@ -3901,7 +3901,7 @@ Vertafore,repvue,78,2026-08-11,Y,identity/insurance software SaaS; AE role verif
 Trulioo,repvue,78,2026-08-11,Y,identity verification SaaS; AE role verified live in latest.csv
 Omnissa,repvue,78,2026-08-11,Y,digital workspace SaaS; AE role verified live in latest.csv
 Intermedia,repvue,78,2026-08-11,Y,UCaaS/cloud comms; AE role verified live in latest.csv
-Vultr,repvue,78,2026-08-18,Y,"2 AE reqs Remote-US incl. AI Infrastructure Sales; careers page Cloudflare-blocked, Ashby slug vultr"
+Vultr,repvue,78,2026-09-04,N,Ashby posting ae293c2f dead; 2 rows same URL both dropped 2026-09-04
 Nanonets,repvue,78,2026-08-11,N,MM AE posting dead 2026-08-11; only replacement is Ent AE in Palo Alto (non-qualifying city); dropped from latest.csv
 Applause,repvue,78,2026-09-01,N,crowdtesting SaaS; MM AE remote; already in latest.csv
 SPINS / MikMak,repvue,,2026-08-11,Y,retail analytics/commerce SaaS; AE Renewals remote $135K OTE; already in latest.csv
@@ -6558,3 +6558,6 @@ Kai Cyber,ats-ai-infra,,2026-09-03,N,Agentic AI cybersecurity (kai.security); Ri
 Pindrop,a16z-speedrun,,2026-09-04,N,speedrun board: no apply URL
 Inflect,ats-ai-infra,,2026-09-04,N,No AE or Account Director on GH inflect board; only engineering/ops roles
 Fulcrum Insurance AI,ats-ai-infra,,2026-09-04,N,MM AE SF-only in-person; AI insurance brokerage platform (Ashby slug: with-fulcrum)
+Comfy,ats-search,,2026-09-04,N,Ashby posting f0eb916e dead; no US-remote replacement; dropped 2026-09-04
+Aegis AI,ats-physical-ai,,2026-09-04,N,Ashby board has BDR only; searched AE UUID 05f1ddce - not in API (dead posting); not Physical AI focus (fintech/healthcare)
+Navflex,ats-physical-ai,,2026-09-04,N,"Ashby board; robotics AMR company but engineering roles only (Munich, Germany); no US AE"
