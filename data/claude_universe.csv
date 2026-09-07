@@ -7,7 +7,7 @@ Affinity.co,claude,86,2026-09-07,N,no roles on Ashby board; empty board confirme
 Apollo GraphQL,claude,76,2026-09-07,N,speedrun board: not open to US applicants
 Apollo.io,claude,85,2026-07-02,Y,has open qualifying role
 Arcade,claude,79,2026-08-15,N,GTM role (not AE-titled) in SF Bay Area only on Ashby 2026-08-15
-Arctic Wolf,claude,85,2026-06-30,Y,has open qualifying role
+Arctic Wolf,claude,85,2026-09-07,Y,"Enterprise AE roles on Workday (arcticwolf.wd1.myworkdayjobs.com); remote with geo territory; Workday JS-only, no URL captured"
 Arize AI,claude,87,2026-08-28,Y,Commercial AE Digital Native SF (5803069004) + Enterprise AE East live on GH arizeai; AI ML observability
 Articulate,claude,,2026-07-23,N,no roles on Lever articulate board
 Ashby,claude,91,2026-08-19,N,only EMEA French-speaking MM AE (Ashby board confirmed 2026-08-19); no US AE
@@ -31,7 +31,7 @@ Deepgram,claude,96,2026-08-17,Y,has open qualifying role
 Delinea,claude,80,2026-08-15,N,no IC AE on Ashby; APAC/management roles only 2026-08-15
 Demandbase,claude,87,2026-09-06,N,only Growth Account Director (expansion/renewal) on Ashby; no new-biz AE 2026-09-06
 Doppler,claude,,2026-08-22,N,no AE role on board
-Drata,claude,85,2026-08-02,N,no AE (Ashby drata board; only engineering/solutions engineer)
+Drata,claude,85,2026-09-07,Y,Commercial AE postings on Ashby (posting-api blind spot); city-specific Commercial AE - New York confirmed; Needs check
 DroneDeploy,claude,83,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
 Elastic,claude,83,2026-08-15,N,no US-remote AE on Greenhouse; federal AE exists (enterprise/gov) 2026-08-15
 Eve,claude,,2026-09-07,Y,"Commercial Account Executive, Central (MM)"
@@ -133,7 +133,7 @@ Melio,claude,89,2026-08-21,N,"re-check 2026-08-21: jobs 7689383003/7822176003/78
 PostHog,claude,,2026-07-23,Y,MM AE open; in latest.csv (added 2026-07-13)
 6sense,claude,83,2026-07-31,N,Enterprise AE remote-US; 5+ yrs; base $117-158K; ABM
 Salesloft,claude,77,2026-07-23,N,only Commercial Account Manager (not AE); no IC AE 2026-07-23
-Gorgias,claude,85,2026-07-23,N,AE postings on Ashby dead/closed; direct URLs return board page 2026-07-23
+Gorgias,claude,85,2026-09-07,N,no AE roles on Ashby board (CS and eng only); checked 2026-09-07
 Gusto,claude,84,2026-08-15,N,no AE on Greenhouse board 2026-08-15
 Culture Amp,claude,76,2026-08-26,N,Re-confirmed 2026-08-26: no US-remote AE on Greenhouse board; Director Commercial only
 Attentive,claude,80,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive I, Mid-Market | Originally rejected only for base pay below the old (removed) $150K OTE-equivalent floor. AE I is an explicitl"
@@ -1031,56 +1031,56 @@ Doximity,repvue,85.43,2026-09-07,N,"B2B healthcare advertising, not typical MM S
 Hebbia,repvue,85.43,2026-09-07,N,Ashby (hebbia-ai) board: no AE postings currently 2026-09-07
 Pathify,repvue,85.42,2026-09-07,N,ATS unresolved 2026-09-07
 Danaher Corporation,repvue,85.42,2026-09-07,N,not B2B SaaS (industrial conglomerate); permanent skip
-Idexx,repvue,85.41,2026-07-24,N,"not B2B SaaS (veterinary diagnostics, hardware-heavy); permanent skip"
-Coalition,repvue,85.41,2026-07-24,N,no AE roles on Greenhouse (claims/actuary/HR only)
-Johnson & Johnson MedTech,repvue,85.39,2026-07-24,N,not B2B SaaS (medical devices); permanent skip
+Idexx,repvue,85.41,2026-09-07,N,"not B2B SaaS (veterinary diagnostics, hardware-heavy); permanent skip"
+Coalition,repvue,85.41,2026-09-07,N,no AE roles on Greenhouse (BDR/channel only); checked 2026-09-07
+Johnson & Johnson MedTech,repvue,85.39,2026-09-07,N,not B2B SaaS (medical devices); permanent skip
 Signifyd,repvue,85.39,2026-09-04,N,No qualifying AE on Greenhouse signifyd95 board; previous role expired
 Everlaw,repvue,85.38,2026-09-07,N,speedrun board: not flagged remote
-deepset,repvue,85.38,2026-07-24,N,ATS unresolved (Ashby/Lever 404)
-Jumio Corporation,repvue,85.38,2026-08-03,N,US remote AE posting dead 2026-08-03; remaining open roles are APAC/EMEA/LATAM only
-Guild,repvue,85.38,2026-07-24,N,no AE roles on Ashby board (engineering/design/marketing only)
-Lessonly (owned by Seismic),repvue,85.37,2026-07-24,N,acquired by and integrated into Seismic; permanent skip
-World Wide Technology,repvue,85.36,2026-07-24,N,not B2B SaaS (IT reseller/services); permanent skip
-YouScience,repvue,85.36,2026-07-24,N,ATS unresolved
-Autodesk,repvue,85.36,2026-07-24,N,ATS unresolved (too large; no accessible MM AE API)
-FactSet,repvue,85.34,2026-07-24,N,ATS unresolved (Ashby 404)
-Sweetwater Sound,repvue,85.34,2026-07-24,N,not B2B SaaS (music retailer); permanent skip
-FireMon,repvue,85.31,2026-08-03,Y,top1000 RepVue scan: open AE role
-Secoda,repvue,85.31,2026-07-24,N,ATS unresolved (Ashby 404)
-Built In,repvue,85.30,2026-07-24,N,ATS unresolved
-Luminary Cloud,repvue,85.30,2026-07-24,N,ATS unresolved
-JobAdder,repvue,85.30,2026-07-24,N,ATS unresolved
-Snappt,repvue,85.29,2026-07-24,N,ATS unresolved
-Deepki,repvue,85.29,2026-07-24,N,ATS unresolved
-Arketa,repvue,85.29,2026-07-24,N,ATS unresolved
-Generis Group,repvue,85.28,2026-07-24,N,not B2B SaaS (events/media); permanent skip
-"Barcodes, Inc",repvue,85.28,2026-07-24,N,not B2B SaaS (distribution/supply chain); permanent skip
-Organogenesis,repvue,85.27,2026-07-24,N,not B2B SaaS (biotech/medical); permanent skip
-Metadata.io,repvue,85.27,2026-07-24,N,ATS unresolved (Ashby 404)
-RevSure.ai,repvue,85.26,2026-07-24,N,ATS unresolved (Ashby 404)
-Spring Health,repvue,85.26,2026-07-24,N,no active AE role; only future pipeline listing on Greenhouse
-BoomTown ROI,repvue,85.25,2026-07-24,N,ATS unresolved
-Palo Alto Networks,repvue,85.25,2026-07-24,N,ATS unresolved (Lever/Ashby 404); large company
-Keela,repvue,85.24,2026-07-24,N,ATS unresolved
+deepset,repvue,85.38,2026-09-07,N,ATS unresolved (Ashby 404 for deepset slug); no AE found
+Jumio Corporation,repvue,85.38,2026-09-07,N,AE posting dead; Greenhouse board postings 4605526005 and 4664088005 both 404; no qualifying US AE found
+Guild,repvue,85.38,2026-09-07,N,no AE roles on Ashby board (engineering/design only); checked 2026-09-07
+Lessonly (owned by Seismic),repvue,85.37,2026-09-07,N,acquired by and integrated into Seismic; permanent skip
+World Wide Technology,repvue,85.36,2026-09-07,N,not B2B SaaS (IT reseller/services); permanent skip
+YouScience,repvue,85.36,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
+Autodesk,repvue,85.36,2026-09-07,N,ATS unresolved; too large for accessible API; rechecked 2026-09-07
+FactSet,repvue,85.34,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
+Sweetwater Sound,repvue,85.34,2026-09-07,N,not B2B SaaS (music retailer); permanent skip
+FireMon,repvue,85.31,2026-09-07,Y,Enterprise AE on Lever (verified live 2026-09-07 by verify_links)
+Secoda,repvue,85.31,2026-09-07,Y,AE posting on Ashby (posting-api blind spot): jobs.ashbyhq.com/Secoda/92eade90-1bd5-4ea9-84c0-e06ad9818277; Needs check
+Built In,repvue,85.30,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
+Luminary Cloud,repvue,85.30,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
+JobAdder,repvue,85.30,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
+Snappt,repvue,85.29,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
+Deepki,repvue,85.29,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
+Arketa,repvue,85.29,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
+Generis Group,repvue,85.28,2026-09-07,N,not B2B SaaS (events/media); permanent skip
+"Barcodes, Inc",repvue,85.28,2026-09-07,N,not B2B SaaS (distribution/supply chain); permanent skip
+Organogenesis,repvue,85.27,2026-09-07,N,not B2B SaaS (biotech/medical); permanent skip
+Metadata.io,repvue,85.27,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
+RevSure.ai,repvue,85.26,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
+Spring Health,repvue,85.26,2026-09-07,N,no AE on Greenhouse springhealth66 board (CSM/director only); rechecked 2026-09-07
+BoomTown ROI,repvue,85.25,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
+Palo Alto Networks,repvue,85.25,2026-09-07,N,ATS unresolved; too large for accessible API; rechecked 2026-09-07
+Keela,repvue,85.24,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
 ElevenLabs,repvue,85.24,2026-09-07,Y,Account Executive - Enterprise (Ent)
-AssetWatch,repvue,85.24,2026-07-31,N,top1000 RepVue scan: open AE role
-LeagueApps,repvue,85.23,2026-07-24,N,"ATS unresolved (sports mgmt SaaS, niche/small)"
-Bausch and Lomb,repvue,85.23,2026-07-24,N,not B2B SaaS (pharma/consumer eye care); permanent skip
-Sentieo (AlphaSense),repvue,85.22,2026-07-24,N,integrated into AlphaSense (in latest.csv)
-Bitly,repvue,85.22,2026-07-24,N,no AE roles (Greenhouse board returns empty)
-Zenput,repvue,85.22,2026-07-24,N,acquired by Crunchtime (Crunchtime (Zenput) in latest.csv)
-Trintech,repvue,85.21,2026-07-24,N,ATS unresolved (Ashby 404)
-GetResponse,repvue,85.21,2026-07-24,N,"ATS unresolved (email marketing, primarily European)"
-Secure Code Warrior,repvue,85.21,2026-07-24,N,ATS unresolved
-Siemens Energy,repvue,85.21,2026-07-24,N,not B2B SaaS (industrial energy); permanent skip
-Amazon Web Services (AWS),repvue,85.21,2026-07-24,N,ATS unresolved (too large; no IC MM AE roles found via API)
-eSSENTIAL Accessibility,repvue,85.21,2026-07-24,N,ATS unresolved
+AssetWatch,repvue,85.24,2026-09-07,N,ATS unresolved (Lever 404); no qualifying AE confirmed; rechecked 2026-09-07
+LeagueApps,repvue,85.23,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
+Bausch and Lomb,repvue,85.23,2026-09-07,N,not B2B SaaS (pharma/consumer eye care); permanent skip
+Sentieo (AlphaSense),repvue,85.22,2026-09-07,N,integrated into AlphaSense (in latest.csv); permanent skip
+Bitly,repvue,85.22,2026-09-07,N,no AE roles on Greenhouse board; rechecked 2026-09-07
+Zenput,repvue,85.22,2026-09-07,N,acquired by Crunchtime; Crunchtime (Zenput) in latest.csv; permanent skip
+Trintech,repvue,85.21,2026-09-07,N,ATS unresolved; no AE on standard platforms; rechecked 2026-09-07
+GetResponse,repvue,85.21,2026-09-07,N,ATS unresolved; primarily European market; rechecked 2026-09-07
+Secure Code Warrior,repvue,85.21,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
+Siemens Energy,repvue,85.21,2026-09-07,N,not B2B SaaS (industrial energy); permanent skip
+Amazon Web Services (AWS),repvue,85.21,2026-09-07,N,ATS unresolved; too large; no IC MM AE found via API; rechecked 2026-09-07
+eSSENTIAL Accessibility,repvue,85.21,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
 Astronomer,repvue,85.19,2026-08-22,Y,Job-1 2026-08-22: old Strategic AE NYC/Boston URL dead; updated to Strategic AE Bay Area/SoCal Remote $300K-350K OTE Ent Ashby 2026-08-05; NYC/Boston rows replaced by Remote row; company still has open AE
-Help Scout,repvue,85.17,2026-07-24,N,ATS unresolved
-Niural,repvue,85.17,2026-07-24,N,ATS unresolved
-POS Nation,repvue,85.16,2026-07-24,N,not B2B SaaS (POS hardware/SMB software); permanent skip
-"Datacor, Inc.",repvue,85.16,2026-07-24,N,not B2B SaaS (niche chemical ERP); permanent skip
-Pursuit Sales Solutions,repvue,85.16,2026-07-24,N,not B2B SaaS (sales consulting/training); permanent skip
+Help Scout,repvue,85.17,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
+Niural,repvue,85.17,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
+POS Nation,repvue,85.16,2026-09-07,N,not B2B SaaS (POS hardware/SMB software); permanent skip
+"Datacor, Inc.",repvue,85.16,2026-09-07,N,not B2B SaaS (niche chemical ERP); permanent skip
+Pursuit Sales Solutions,repvue,85.16,2026-09-07,N,not B2B SaaS (sales consulting/training); permanent skip
 data.world,repvue,85.14,2026-07-24,N,ATS unresolved (Ashby 404)
 Pinpoint,repvue,85.13,2026-07-24,N,ATS unresolved
 hyperexponential,repvue,85.13,2026-09-07,N,speedrun board: not flagged remote
