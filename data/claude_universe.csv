@@ -697,7 +697,7 @@ Trane Technologies,repvue,87.64,2026-09-03,N,industrial HVAC/climate control equ
 Luciq,repvue,87.63,2026-09-03,N,ATS unresolved; mobile app testing SaaS (Instabug); dead posting; no replacement found
 Passport,repvue,87.62,2026-09-03,N,ATS unresolved (Lever/Ashby/GH all 404 on passportshipping/passport slugs); re-check 2026-09-03
 Stensul,repvue,87.61,2026-09-03,Y,Enterprise AE NYC hybrid; Ashby b199f914; publishedAt 2026-06-10; still live 2026-09-03
-PermitFlow,repvue,87.60,2026-08-26,N,Ashby board confirmed: no AE roles (posting 24204906 not in board); ATS checked 2026-08-26
+PermitFlow,repvue,87.60,2026-09-07,N,Ashby API re-verified 2026-09-07: no AE role (BDR only); search hit c4a5707d was stale
 MasterControl,repvue,87.59,2026-09-03,N,"no AE on GH board (CISO, applied-AI engineer only); re-check 2026-09-03"
 Instrumentl,repvue,87.59,2026-09-03,N,Lever board confirmed; no IC AE (only Sales Manager + SDRs); re-check 2026-09-03
 Mission Cloud,repvue,87.58,2026-09-03,N,not B2B SaaS; AWS managed services/cloud consulting; re-check 2026-09-03
@@ -1046,7 +1046,7 @@ Autodesk,repvue,85.36,2026-09-07,N,ATS unresolved; too large for accessible API;
 FactSet,repvue,85.34,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
 Sweetwater Sound,repvue,85.34,2026-09-07,N,not B2B SaaS (music retailer); permanent skip
 FireMon,repvue,85.31,2026-09-07,Y,Enterprise AE on Lever (verified live 2026-09-07 by verify_links)
-Secoda,repvue,85.31,2026-09-07,Y,AE posting on Ashby (posting-api blind spot): jobs.ashbyhq.com/Secoda/92eade90-1bd5-4ea9-84c0-e06ad9818277; Needs check
+Secoda,repvue,85.31,2026-09-07,N,Board gone (Ashby board disappeared); BOARD_GONE
 Built In,repvue,85.30,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
 Luminary Cloud,repvue,85.30,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
 JobAdder,repvue,85.30,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
@@ -1542,7 +1542,7 @@ AgencyAnalytics,repvue,83.24,2026-07-26,N,2026-07-26: ATS unresolved after slug 
 Stanley Black & Decker,repvue,83.24,2026-07-26,N,2026-07-26: not B2B SaaS (tools/hardware)
 Bluebeam,repvue,83.24,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
 Awin Global,repvue,83.23,2026-07-26,N,"2026-07-26: affiliate network, not core B2B SaaS"
-Redwood Software,repvue,83.23,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
+Redwood Software,repvue,83.23,2026-09-07,N,"GH board: Customer Account Manager only, no IC AE title; finance automation SaaS"
 Arthrex,repvue,83.23,2026-07-26,N,2026-07-26: not B2B SaaS (medical devices)
 National Academy of Sports Medicine (NASM),repvue,83.22,2026-07-26,N,2026-07-26: not B2B SaaS (fitness certifications)
 Harness,repvue,83.22,2026-07-26,N,2026-07-26: Greenhouse slug harnessinc; no IC AE role open
@@ -2434,7 +2434,7 @@ Medallion,repvue,80,2026-08-03,Y,"Enterprise AE, Remote US, OTE $290-320K; healt
 Mad City Windows & Baths,repvue,80,2026-07-06,N,not B2B SaaS (home improvement)
 Beqom,repvue,80,2026-08-02,N,no US AE; only Switzerland-based AE
 Slashdot Media,repvue,80,2026-07-06,N,not B2B SaaS (tech media)
-ShipHawk,repvue,80,2026-08-02,N,no AE role; only SDR and general interest app
+ShipHawk,repvue,80,2026-09-07,N,"GH board: no AE role (only SDR, CSM, general interest); search hit 7712494 appears stale"
 Lavu,repvue,80,2026-08-02,N,SMB restaurant POS; not qualifying segment
 Relex Solutions,repvue,80,2026-08-02,N,only AE in Japan; no US remote AE
 PitchBook Data,repvue,80,2026-08-02,N,AE requires 5 days in office
@@ -6568,3 +6568,4 @@ Senso AI,ats-ai-infra,,2026-09-05,N,Workable board empty (0 jobs); Canada-based 
 Lambda,ats-ai-infra,,2026-09-05,N,"Ashby board: no AE roles (only Account CTO, TAM, engineering roles); AI cloud GPU infrastructure"
 Bolster,ats-robotics,,2026-09-05,Y,Commercial Account Executive (MM) Remote US; cybersecurity/fraud-prevention SaaS; Lever 742264f1; posted 2026-09-04
 DroneSense,ats-robotics,,2026-09-06,N,Lever board dronesense 404; SMB segment (small public safety agencies <150 officers); territorial SE region only; not qualifying
+Process Street,ats-robotics,,2026-09-07,Y,"GH board processstreet: 9x AE (Remote) roles, 2+ yrs SaaS, inbound leads, compliance ops + AI; first posted 2026-08-27; Verified"
