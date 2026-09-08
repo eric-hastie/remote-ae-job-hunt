@@ -2676,7 +2676,7 @@ Dash0,ats-search,,2026-08-03,Y,Ent AE; Remote US; OTE ~$250K-$300K; observabilit
 Stacklok,ats-search,,2026-08-04,N,no AE on GH board (Senior FDE Kubernetes + Platform engineers only)
 Cybrid,ats-search,,2026-08-04,N,no AE (GH: only Operations Manager); B2B fintech crypto API platform
 Jeeves,ats-search,68,2026-09-08,Y,Mid-Market Account Executive - Fintech (MM)
-Swapcard,ats-search,78,2026-07-09,Y,MM AE; Remote US; event management SaaS (Lever)
+Swapcard,ats-search,78,2026-09-08,N,"AE posting dead, no qualifying US replacement"
 Edia,ats-search,,2026-08-03,Y,Ent AE East; Remote US; K-12 edtech AI SaaS (Ashby)
 Cloudforce,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Real ATS is Lever (api.lever.co/v0/postings/go-cloudforce, fetched live). Current board shows only 2 open roles, both marketing (Associate Director of"
 Resilinc,ats-search,,2026-08-03,N,recheck-B 2026-08-03: Lever board (token resilinc) no longer has an active Enterprise AE requisition - it now shows only a 'Go To Market Future Opportunities' placeholder p
@@ -4709,7 +4709,7 @@ ezCater,aggregator-verify,70,2026-08-15,Y,"Account Executive, Meal Program (Remo
 Invicti,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Austin
 Lansweeper,aggregator-verify,69,2026-08-17,N,Growth Account Executive - Digital Motion - AMER | SMB | Austin
 Lyric,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Remote
-MonetizeMore,aggregator-verify,,2026-08-15,Y,Senior Account Executive - Americas | Unspec | Remote
+MonetizeMore,aggregator-verify,,2026-09-08,N,"AE posting dead, no US replacement"
 OpenRouter,aggregator-verify,,2026-09-08,Y,Account Executive (Ent)
 Playlist,aggregator-verify,,2026-08-15,Y,Corporate Account Executive - San Francisco | MM | SF
 Qureos,aggregator-verify,,2026-08-15,Y,Account Executive - Public Sector (SLED) | Ent | NYC
@@ -6575,3 +6575,13 @@ The Prompting Company,yc,,2026-09-07,N,yc 2026-09-07: YC-backed AI product disco
 Arintra,funding-news,,2026-09-07,N,funding-news 2026-09-07: $25M Series B; healthcare AI revenue assurance (medical coding/billing); ATS unresolved (ZohoRecruit); no AE found; healthcare-specific
 Hevo Data,ats-devtools,,2026-09-07,N,"Lever board (hevodata): both AE roles (MM AE + Assoc AE) are Bangalore, India based; not US remote; disqualified 2026-09-07"
 Didomi,ats-devtools,,2026-09-07,Y,MM AE Remote US; consent/privacy SaaS; Lever 0b22e33e-3787-4e14-8ff8-78ef417738ce; $140K-$155K base; posted 2026-06-22; 3-5 yrs req
+Paragon Micro,unknown,,2026-09-08,N,"AE posting dead (Paylocity 4384343), no replacement"
+Urban SDK,ats-data,,2026-09-08,N,"AE posting in Jacksonville FL only, not remote/qualifying metro; urban analytics SaaS"
+SINGU,ats-data,,2026-09-08,N,"AE posting for DACH region only, not US"
+Criteria Corp,ats-data,,2026-09-08,N,"Enterprise Sales Executive only on BambooHR (blocked), no MM AE; HR-tech B2B SaaS"
+Revelio Labs,ats-data,,2026-09-08,N,ATS unresolved - not on Greenhouse/Lever/Ashby; workforce intelligence data company
+Analytics8,ats-data,,2026-09-08,N,"Data analytics consulting/services, not SaaS product"
+1000heads,ats-data,,2026-09-08,N,"Social media marketing agency, not B2B SaaS"
+Paid,ats-data,,2026-09-08,N,Founding AE role requires SF Bay Area on-site; AI monetization platform
+Vericast,ats-data,,2026-09-08,N,"Not pure SaaS (printing/marketing services); AE IV roles in Dallas/Denver/Phoenix, not remote"
+Embedding VC,ats-data,,2026-09-08,N,"VC firm, not a B2B SaaS company; AE NYC office for enterprise creative AI partnerships"
