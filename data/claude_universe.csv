@@ -1132,22 +1132,22 @@ Turquoise Health,repvue,84.93,2026-09-08,Y,"Senior Enterprise Account Executive,
 Resolve,repvue,84.91,2026-09-08,N,2026-09-08 recheck: ATS unresolved; AP automation SaaS
 Humana,repvue,84.91,2026-09-08,N,not B2B SaaS (health insurance); permanent skip
 GBG,repvue,84.91,2026-09-08,N,2026-09-08 recheck: ATS unresolved; identity/fraud verification (UK-heavy)
-Jivox,repvue,84.91,2026-07-24,N,ATS unresolved; ad personalization / DCO platform
-CD Recruitment,repvue,84.91,2026-07-24,N,not B2B SaaS (recruitment/staffing agency); permanent skip
-Jellyfish,repvue,84.90,2026-08-03,Y,Enterprise AE Remote; Ashby 6d08e74c-0866-4b0b-a196-c1ee674bcba1; OTE $280-330K; published 2026-06-10
-Foleon,repvue,84.89,2026-07-24,N,ATS unresolved; B2B content platform (Dutch company)
-Sensera Systems,repvue,84.89,2026-07-24,N,ATS unresolved; IoT/construction monitoring hardware-SaaS
+Jivox,repvue,84.91,2026-09-08,N,B2B programmatic marketing; no qualifying AE found
+CD Recruitment,repvue,84.91,2026-09-08,N,staffing firm; not B2B SaaS
+Jellyfish,repvue,84.90,2026-09-08,Y,in latest.csv; Strategic/Ent AE LIVE
+Foleon,repvue,84.89,2026-09-08,N,content experience platform; no qualifying AE open
+Sensera Systems,repvue,84.89,2026-09-08,N,hardware/IoT; not B2B SaaS
 Verifiable,repvue,84.88,2026-09-04,N,Lever posting dead (5a01eded); no US-remote replacement on board; dropped 2026-09-04
-Playvox,repvue,84.88,2026-07-24,N,ATS unresolved; contact center WFO SaaS
-Charted,repvue,84.88,2026-07-24,N,ATS unresolved; data visualization startup (likely defunct/small)
-Neat,repvue,84.87,2026-07-24,N,ATS unresolved; Zoom hardware partner; not core B2B SaaS AE target
-MathWorks,repvue,84.86,2026-07-24,N,"not standard B2B SaaS (engineering tools, private company); permanent skip"
-TraceGains,repvue,84.85,2026-07-24,N,ATS unresolved; supply chain compliance SaaS
-VirtualPRO,repvue,84.85,2026-07-24,N,ATS unresolved; virtual fitting room tech (niche)
-SimpleNexus,repvue,84.85,2026-07-24,N,acquired by nCino 2022; permanent skip
-Zip HQ,repvue,84.85,2026-07-24,N,ATS unresolved; procurement SaaS
-OUTFRONT Media,repvue,84.84,2026-07-24,N,not B2B SaaS (OOH advertising media company); permanent skip
-Endor Labs,repvue,84.84,2026-08-03,Y,top1000 RepVue scan: open AE role
+Playvox,repvue,84.88,2026-09-08,N,acquired by NICE; no standalone ATS board
+Charted,repvue,84.88,2026-09-08,N,no qualifying AE open
+Neat,repvue,84.87,2026-09-08,N,no qualifying AE open
+MathWorks,repvue,84.86,2026-09-08,N,scientific computing software; not B2B SaaS
+TraceGains,repvue,84.85,2026-09-08,N,acquired by Veralto; DACH-only AE
+VirtualPRO,repvue,84.85,2026-09-08,N,Hubilo slug; no qualifying AE open
+SimpleNexus,repvue,84.85,2026-09-08,N,acquired by nCino; no standalone ATS board
+Zip HQ,repvue,84.85,2026-09-08,N,no qualifying AE found via ATS
+OUTFRONT Media,repvue,84.84,2026-09-08,N,outdoor advertising; not B2B SaaS
+Endor Labs,repvue,84.84,2026-09-08,Y,in latest.csv; Enterprise AE LIVE
 Smart City Apartment Locating,repvue,84.57,2026-07-25,N,not B2B SaaS (apartment locating service)
 Avoxi,repvue,84.56,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 NFI,repvue,84.56,2026-07-25,N,not B2B SaaS (trucking/logistics operations)
@@ -1188,41 +1188,41 @@ Proposify,repvue,84.42,2026-07-25,N,ATS unresolved / re-checked 2026-07-25
 Main Street Hub,repvue,84.42,2026-07-25,N,acquired by GoDaddy 2018; brand retired
 Stryker,repvue,84.42,2026-09-08,N,speedrun board: not flagged remote
 Carta,repvue,84.42,2026-09-08,N,speedrun board: not flagged remote
-Sunbit,repvue,84.83,2026-07-24,N,ATS unresolved; BNPL for service industries
-OnBoard,repvue,84.83,2026-08-07,N,RepVue scan: open AE role; posting expired 2026-08-07
-Fairwinds,repvue,84.82,2026-07-24,N,ATS unresolved; Kubernetes security SaaS
-Manta,repvue,84.82,2026-07-24,N,ATS unresolved; data catalog/lineage SaaS
+Sunbit,repvue,84.83,2026-09-08,N,consumer fintech; no qualifying AE
+OnBoard,repvue,84.83,2026-09-08,N,board mgmt SaaS; no AE open
+Fairwinds,repvue,84.82,2026-09-08,N,Kubernetes governance; no qualifying AE open
+Manta,repvue,84.82,2026-09-08,N,data lineage; no qualifying AE open
 Canto,repvue,84.82,2026-09-03,N,posting 5285728008 dead; no AE replacement on GH board
-Algolia,repvue,84.82,2026-08-07,N,"GH posting dead; remaining US options are Renewal/Install Base AE only, no MM new-biz"
-CyberArk,repvue,84.81,2026-07-24,N,ATS unresolved; large enterprise security SaaS (GH board not accessible)
-ATG,repvue,84.80,2026-07-24,N,ATS unresolved; e-commerce platform
-NextPatient,repvue,84.80,2026-07-24,Y,Account Executive (East) Remote; Ashby 0825b614-68e6-4dda-b625-fd1e150e883a; $160-180K base+commission; published 2026-03-03
-USI Insurance Services,repvue,84.80,2026-07-24,N,not B2B SaaS (insurance brokerage); permanent skip
-Q2,repvue,84.79,2026-07-24,N,ATS unresolved; digital banking SaaS (niche/specialized)
-Electrolux,repvue,84.79,2026-07-24,N,not B2B SaaS (consumer appliances manufacturer); permanent skip
-Soldo,repvue,84.79,2026-07-24,N,ATS unresolved; business spending management (European-focused)
-Agora RE,repvue,84.78,2026-07-24,N,ATS unresolved; real estate investment management platform
-Relay,repvue,84.78,2026-07-24,N,business banking platform; not core B2B SaaS AE target
-Sirion,repvue,84.77,2026-07-24,N,ATS unresolved; contract lifecycle management SaaS
-SAP Signavio,repvue,84.76,2026-07-24,N,acquired by SAP 2021; integrated into SAP portfolio; permanent skip
-Fisher Investments,repvue,84.76,2026-07-24,N,not B2B SaaS (investment management); permanent skip
-BuildOps,repvue,84.75,2026-07-01,Y,RepVue scan: open AE role
-Firebolt,repvue,84.75,2026-07-24,N,ATS unresolved; cloud data warehouse SaaS
-Salesforce,repvue,84.74,2026-08-15,N,Workday JS-blocked; AE roles found but require 10+ yrs exp or specialized; ATS unresolved (Workday); re-checked 2026-08-15
-Smarty,repvue,84.73,2026-07-24,N,ATS unresolved; address verification / USPS API
-LocalShift,repvue,84.73,2026-07-24,N,ATS unresolved; unknown/very small company
-Device42,repvue,84.73,2026-07-24,N,acquired by Freshworks 2023; permanent skip
-DocuWare,repvue,84.73,2026-07-24,N,ATS unresolved; document management (Ricoh subsidiary)
-Cin7,repvue,84.73,2026-07-24,N,ATS unresolved; inventory management SaaS (NZ company)
-Kentik,repvue,84.72,2026-08-03,N,"recheck-B 2026-08-03: Confirmed via Greenhouse job content (id 4657235005): the only AE requisition, 'Account Executive, Strategic - TOLA', explicitly requires '10+ years o"
-Agorapulse,repvue,84.72,2026-07-24,N,ATS unresolved; social media management SaaS
-Origami Risk,repvue,84.72,2026-07-24,N,ATS unresolved; risk management / insurance SaaS
-Greystar,repvue,84.72,2026-07-24,N,not B2B SaaS (real estate management company); permanent skip
-User Interviews,repvue,84.71,2026-07-24,N,GH API inaccessible after 2 attempts; user research SaaS
-Vitable Health,repvue,84.71,2026-07-24,N,GH API inaccessible after 2 attempts; SMB healthcare benefits SaaS
-Ricoh Imaging Americas Corporation,repvue,84.71,2026-07-24,N,not B2B SaaS (cameras/hardware); permanent skip
-Clarify,repvue,84.70,2026-07-24,N,ATS unresolved; CRM/revenue intelligence startup
-Panorama Education,repvue,84.70,2026-07-24,N,GH API inaccessible after 2 attempts; EdTech SaaS
+Algolia,repvue,84.82,2026-09-08,N,"search API SaaS; DACH-only AE, no US remote"
+CyberArk,repvue,84.81,2026-09-08,N,territory-specific Commercial AE; not remote US
+ATG,repvue,84.80,2026-09-08,N,"AI fintech; Client Director only, no AE"
+NextPatient,repvue,84.80,2026-09-08,Y,in latest.csv; LIVE
+USI Insurance Services,repvue,84.80,2026-09-08,N,insurance broker; not B2B SaaS
+Q2,repvue,84.79,2026-09-08,N,fintech SaaS; no qualifying remote IC AE open
+Electrolux,repvue,84.79,2026-09-08,N,home appliances; not B2B SaaS
+Soldo,repvue,84.79,2026-09-08,N,expense management SaaS; no qualifying AE open
+Agora RE,repvue,84.78,2026-09-08,N,real estate SaaS; no qualifying AE open
+Relay,repvue,84.78,2026-09-08,N,Canadian fintech; Toronto-only AE
+Sirion,repvue,84.77,2026-09-08,N,CLM SaaS; no qualifying AE open
+SAP Signavio,repvue,84.76,2026-09-08,N,SAP product; not standalone B2B SaaS
+Fisher Investments,repvue,84.76,2026-09-08,N,investment management; not B2B SaaS
+BuildOps,repvue,84.75,2026-09-08,Y,in latest.csv; Commercial/MM AE LIVE (GH: buildops)
+Firebolt,repvue,84.75,2026-09-08,N,data analytics cloud; no qualifying AE open
+Salesforce,repvue,84.74,2026-09-08,N,large enterprise; no qualifying IC AE in scope
+Smarty,repvue,84.73,2026-09-08,N,address verification SaaS; no qualifying AE open
+LocalShift,repvue,84.73,2026-09-08,N,no qualifying AE open
+Device42,repvue,84.73,2026-09-08,N,IT asset mgmt; no qualifying AE open
+DocuWare,repvue,84.73,2026-09-08,N,document management; no qualifying AE open
+Cin7,repvue,84.73,2026-09-08,N,inventory SaaS; EMEA-only AE (London)
+Kentik,repvue,84.72,2026-09-08,N,network intelligence SaaS; no qualifying AE open
+Agorapulse,repvue,84.72,2026-09-08,N,social media mgmt SaaS; no qualifying AE open
+Origami Risk,repvue,84.72,2026-09-08,N,risk management SaaS; no qualifying AE open
+Greystar,repvue,84.72,2026-09-08,N,real estate; not B2B SaaS
+User Interviews,repvue,84.71,2026-09-08,N,UX research SaaS; AE posting 404 (closed)
+Vitable Health,repvue,84.71,2026-09-08,N,health benefits SaaS; AE posting 404 (closed)
+Ricoh Imaging Americas Corporation,repvue,84.71,2026-09-08,N,imaging hardware; not B2B SaaS
+Clarify,repvue,84.70,2026-09-08,N,AI CRM startup; no qualifying AE open (early stage)
+Panorama Education,repvue,84.70,2026-09-08,N,K-12 ed tech SaaS; AE state-restricted (OR/WA/MN/WI)
 Allegion,repvue,84.69,2026-07-24,N,ATS unresolved; physical/electronic security SaaS
 Datasite,repvue,84.69,2026-07-24,N,ATS unresolved; M&A data room / due diligence SaaS
 NEXA Mortgage,repvue,84.68,2026-07-24,N,not B2B SaaS (mortgage lead generation); permanent skip
@@ -6512,7 +6512,7 @@ McMaster-Carr,repvue,,2026-09-02,N,not B2B SaaS; industrial distribution
 Simpson Strong-Tie,repvue,,2026-09-02,N,not B2B SaaS; construction hardware manufacturer
 Sourcerer AI,a16z-speedrun,,2026-09-02,N,ATS unresolved; very small/unknown startup
 Spherecast,a16z-speedrun,,2026-09-02,N,Munich-based startup; no US AE roles
-Summer,a16z-speedrun,,2026-09-08,N,no AE - Greenhouse board is resume drop only; permanent
+Summer,a16z-speedrun,,2026-09-08,N,a16z-speedrun startup; no qualifying AE open
 Sunday Robotics,a16z-speedrun,,2026-09-02,N,consumer household robotics (Memo); not B2B
 Supernova Technology,a16z-speedrun,,2026-09-02,N,fintech consulting/services; ATS unresolved
 Taya,a16z-speedrun,,2026-09-02,N,ATS unresolved
