@@ -2740,7 +2740,7 @@ Omada.ai,ats-search,,2026-08-04,N,UK-only field/territory sales for SMB local bu
 Defense Unicorns,ats-search,,2026-07-11,N,B2G defense contractor; DoD software delivery; not B2B SaaS
 Eulerity,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Greenhouse board fully resolved (12 live postings). Only sales/BD role is ""Director, New Business"" (director title, excluded). No IC ""Account Executiv"
 Lavendo,ats-search,,2026-08-07,N,recruiting/staffing firm (not a product company); no AE postings
-ProRata.ai,ats-search,,2026-07-11,Y,MM/Ent AE (Account Executive Gist + Enterprise GEO); Remote US; OTE $250-300K; AI contextual advertising SaaS
+ProRata.ai,ats-search,,2026-09-08,N,"AE posting dead, no qualifying replacement found"
 Granica,ats-search,,2026-08-03,Y,Enterprise AE; Remote US/Canada; OTE not listed on remote posting; AI data infrastructure cost-optimization SaaS
 CivilGrid,ats-search,,2026-08-03,Y,"utility infrastructure data SaaS; Senior AE targets investor-owned utilities; US West required; ""Senior"" title"
 Fictiv,ats-search,66,2026-08-03,Y,"recheck-B 2026-08-03: Account Executive - Emerging Accounts | Was rejected for OTE ($125K) below the removed comp floor and for ""not pure SaaS."" Comp floor no longer applie"
@@ -3634,7 +3634,7 @@ eFinancial,repvue,78,2026-08-09,N,not B2B SaaS (insurance distribution)
 Plivo,repvue,78,2026-08-08,N,ATS unresolved (Ashby/Greenhouse all 404; CPaaS)
 InXpress,repvue,78,2026-08-09,N,not B2B SaaS (shipping/logistics franchise)
 Legends Global,repvue,78,2026-08-09,N,not B2B SaaS (entertainment/sports venue tech)
-Gamma,repvue,78,2026-09-08,N,speedrun board: not flagged remote
+Gamma,repvue,78,2026-09-08,Y,Account Executive (MM/Ent)
 360insights,repvue,78,2026-08-08,N,ATS unresolved (Greenhouse/Lever/Ashby all 404)
 LGCY Power,repvue,78,2026-08-09,N,not B2B SaaS (solar energy company)
 Hyperscience,repvue,78,2026-09-04,N,No AE on Ashby board (only Product Security Eng); previous TAE-Commercial posting dead
@@ -4744,7 +4744,7 @@ OPEXUS,aggregator-verify,75,2026-08-15,Y,Senior Account Executive | Unspec | Rem
 Plural,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | NYC
 Raindrop,aggregator-verify,,2026-08-15,Y,Founding Account Executive | Unspec | SF
 Sanas,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent | Boston
-Symplicity,aggregator-verify,68,2026-08-15,Y,Account Executive - Western US | Unspec | Remote
+Symplicity,aggregator-verify,68,2026-09-08,N,"AE posting dead (Lever), no replacement found"
 Truemed,aggregator-verify,,2026-08-17,N,no AE open; no AE on Ashby board 2026-08-17
 Veryon,aggregator-verify,69,2026-08-15,Y,Business Aviation Account Executive (MRO) | Unspec | Remote
 Aily Labs,aggregator-verify,,2026-08-15,Y,Account Executive - Sales - NYC | Ent | NYC
@@ -5522,7 +5522,7 @@ lemon.markets,a16z-speedrun,,2026-08-23,N,EU stock trading API for developers; n
 Lightfield,a16z-speedrun,,2026-08-23,N,no qualifying AE role found via speedrun triage
 SPS North America,ats-fintech,,2026-08-23,N,"AE role is NYC hybrid for AV/tech solutions company, not B2B SaaS"
 Wisetack,ats-fintech,,2026-08-23,N,no AE role on Greenhouse board (only Merchant Risk Analyst found)
-Braintrust Data,a16z-speedrun,,2026-09-07,Y,Strategic Account Executive (Central Region) (Ent)
+Braintrust Data,a16z-speedrun,,2026-09-08,Y,Strategic Account Executive (Central Region) (Ent)
 Novita AI,ats-ai-infra,,2026-08-23,Y,"Account Executive | Hybrid SF (San Mateo CA) | AI & Agent Cloud platform - Model APIs, GPU Cloud, Agent Sandbox; AI infra B2B SaaS; Verified Ashby"
 Spice AI,ats-ai-infra,,2026-08-23,N,"Founding AE role exists but on-site Bellevue WA only (not remote, not in target cities)"
 Loop AI,ats-ai-infra,,2026-08-23,N,No Account Executive role found in Lever API; search hit was stale
@@ -6007,7 +6007,7 @@ Insitro,repvue,,2026-08-28,N,ML drug discovery biotech; not B2B SaaS
 Nidec,repvue,,2026-08-28,N,industrial motors manufacturer; not B2B SaaS
 UnitedMasters,repvue,,2026-08-28,N,music/entertainment distribution; not B2B SaaS
 Virtu Financial,repvue,,2026-08-28,N,high-frequency trading firm; not B2B SaaS
-Camber,repvue,,2026-08-28,N,behavioral health SaaS; no active AE roles (posting expired)
+Camber,repvue,,2026-09-08,N,speedrun board: not flagged remote
 Character.AI,repvue,,2026-08-28,N,consumer AI chat; not B2B SaaS; no AE roles
 General Intuition,repvue,,2026-08-28,N,AI research lab/gaming AI training; not B2B SaaS
 PMG,repvue,,2026-08-28,N,marketing/advertising agency; not B2B SaaS
@@ -6585,3 +6585,4 @@ Analytics8,ats-data,,2026-09-08,N,"Data analytics consulting/services, not SaaS 
 Paid,ats-data,,2026-09-08,N,Founding AE role requires SF Bay Area on-site; AI monetization platform
 Vericast,ats-data,,2026-09-08,N,"Not pure SaaS (printing/marketing services); AE IV roles in Dallas/Denver/Phoenix, not remote"
 Embedding VC,ats-data,,2026-09-08,N,"VC firm, not a B2B SaaS company; AE NYC office for enterprise creative AI partnerships"
+Flex,ats-fintech,,2026-09-08,Y,Account Executive (MM) | AI-native B2B banking/payments SaaS | Remote US | OTE $150-230K | Lever a2d196e0
