@@ -274,7 +274,7 @@ Strider Technologies,repvue,93.24,2026-08-18,N,ATS unresolved; intelligence/nati
 Censys,repvue,93.23,2026-08-18,N,AE Japan only; no US AE
 InsideSales,repvue,93.21,2026-08-18,N,ATS unresolved; rebranded as XANT; board not found
 eMoney Advisor,repvue,93.16,2026-08-18,N,ATS unresolved; no AE found on standard boards
-Tremendous,repvue,93.16,2026-08-27,N,Ashby board: only Dir Partnerships + EMEA MM AE; no US AE; re-checked 2026-08-27
+Tremendous,repvue,93.16,2026-09-09,N,EMEA MM AE (German speaker) only; no US AE; re-confirmed 2026-09-09
 Cycode,repvue,93.04,2026-08-18,N,ATS unresolved; GH/Lever 404
 Pipedrive,repvue,93.04,2026-08-18,N,Junior AE Lisbon only; no US-remote AE
 Brellium,repvue,92.99,2026-08-18,N,AE posting gone/dead (Ashby board has no AE); re-checked 2026-08-18
@@ -446,7 +446,7 @@ Pocus,repvue,89.83,2026-08-20,N,empty Ashby board 2026-08-20; no roles at all
 Ritten,repvue,89.82,2026-08-20,N,ATS unresolved (checked 2026-07-09; Ashby 404)
 Winning by Design,repvue,89.81,2026-08-20,N,not B2B SaaS (sales consulting firm)
 Persona,repvue,89.81,2026-08-20,N,AE hybrid SF only; not US-remote (checked 2026-07-09)
-Middesk,repvue,89.79,2026-08-20,Y,Ent AE hybrid 3 days/week NYC/SF; not US-remote (checked 2026-07-09)
+Middesk,repvue,89.79,2026-09-09,Y,MM AE NYC (3 days/wk) + Ent AE NYC/SF hybrid; not US-remote; re-confirmed 2026-09-09
 Capital Group,repvue,89.79,2026-08-20,N,not B2B SaaS (investment management)
 Insulet corporation,repvue,89.76,2026-08-20,N,not B2B SaaS (medical device hardware/Omnipod)
 Quantum,repvue,89.76,2026-08-20,N,not primarily B2B SaaS (data storage hardware); ATS unresolved (checked 2026-07-09)
@@ -584,7 +584,7 @@ Kibo,repvue,88.48,2026-08-21,N,re-check 2026-08-21: ATS unresolved (GH/Ashby 404
 Boston Scientific,repvue,88.48,2026-08-21,N,not B2B SaaS (medical devices hardware)
 Wiz,repvue,88.46,2026-08-21,N,re-check 2026-08-21: GH wizinc still only federal/SLED AE roles; no commercial MM AE
 Marqii,repvue,88.46,2026-08-21,N,re-check 2026-08-21: ATS unresolved (Workable/GH/Ashby 404)
-Finch,repvue,88.44,2026-08-21,N,re-check 2026-08-21: Ashby board only product/design/animation; no AE
+Finch,repvue,88.44,2026-09-09,N,AE SF/NYC hybrid 2+days/wk $200-220K OTE; not remote; re-confirmed 2026-09-09
 Chewy,repvue,88.44,2026-08-21,N,not B2B SaaS (consumer e-commerce)
 Ryan Homes,repvue,88.43,2026-08-21,N,not B2B SaaS (residential construction)
 HSO,repvue,88.42,2026-08-21,N,not B2B SaaS (Microsoft Dynamics consulting/professional services)
@@ -1855,7 +1855,7 @@ Echo AI,repvue,82,2026-07-27,N,Ashby 'echo' board empty; no qualifying AE
 1upHealth,repvue,82,2026-07-27,N,GH '1uphealth' - no AE (PM/engineering only)
 Teleport,repvue,82,2026-07-03,Y,Enterprise AE confirmed on Lever board; board 403-blocked; URL unverified; not in latest.csv
 Hometap,repvue,82,2026-07-27,N,B2C home equity product; not B2B SaaS
-Red Hat,repvue,82,2026-07-31,N,IBM subsidiary; not startup-style B2B SaaS AE
+Red Hat,repvue,82,2026-09-09,N,speedrun board: not flagged remote
 Teamwork,repvue,82,2026-07-31,N,ATS unresolved (GH 404; Workable board empty)
 Liferaft,repvue,82,2026-07-27,N,ATS unresolved (Ashby 'liferaft' 404)
 LumApps,repvue,82,2026-07-27,N,ATS unresolved (Lever 'lumapps' 404)
@@ -2245,7 +2245,7 @@ Expedient,repvue,81,2026-07-05,N,not B2B SaaS (cloud managed IT services)
 Sentry,repvue,,2026-08-01,N,no AE (Ashby and GH boards checked; no AE roles; 2026-08-01 recheck)
 RangeForce,repvue,81,2026-08-01,N,ATS unresolved (Ashby 404; 2026-08-01 recheck)
 Symantec (Broadcom),repvue,81,2026-08-02,N,ATS unresolved (large enterprise; likely Workday)
-Airwallex,repvue,81,2026-08-01,N,not US remote (MM AE requires SF/NYC based; GH 404; 2026-08-01 recheck)
+Airwallex,repvue,81,2026-09-09,N,no AE roles on Ashby board; re-confirmed 2026-09-09
 RevSpring,repvue,81,2026-08-02,N,ATS unresolved (not on standard ATS boards)
 Mirakl,repvue,81,2026-08-02,N,confirmed EMEA only (Munich/London AE on GH board); no US AE
 NetApp,repvue,81,2026-08-02,N,ATS unresolved (large company; likely Workday)
@@ -2652,7 +2652,7 @@ Syrup,ats-search,,2026-08-23,N,ATS unresolved (Ashby 'syrup' board API 404; post
 Pachama,ats-search,,2026-07-07,N,not B2B SaaS; nature/carbon credits marketplace
 Mainshares,ats-search,,2026-07-07,N,SMB-focused (small business acquisition platform); not B2B SaaS AE ICP
 Loop,ats-search,,2026-08-11,N,Enterprise AE US-remote; OTE ~$241K; ecommerce returns SaaS
-OfficeSpace Software,ats-search,78,2026-07-08,Y,MM AE US-remote; workplace management SaaS
+OfficeSpace Software,ats-search,78,2026-09-09,Y,Enterprise AE US-remote; URL updated to jobs/5414700008 (old MM/Ent posting dead)
 Aerospike,ats-search,74,2026-07-24,N,No qualifying US AE posting; candidates in Tel Aviv/London only
 LivePerson,ats-search,73,2026-07-08,Y,Enterprise AE US-remote; base $140-160K OTE ~$280-320K; conversational AI SaaS
 Atrium Campus,ats-search,,2026-07-08,Y,AE US-remote (SE/Mid-Atl); campus management / higher ed SaaS
@@ -4684,7 +4684,7 @@ Hello Patient,aggregator-verify,,2026-08-15,Y,Enterprise Account Executive | Ent
 Krea,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | SF
 Lumin Digital,aggregator-verify,,2026-08-15,Y,Senior Account Executive | Unspec | Remote
 Omnifold,aggregator-verify,,2026-08-15,Y,Sales Account Executive - East Region | Ent | Remote
-Quizlet,aggregator-verify,,2026-08-15,Y,Sr Account Executive | Unspec | Remote
+Quizlet,aggregator-verify,,2026-09-09,N,Sr AE posting dead 2026-09-09; no replacement on Ashby board
 Rimes,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | NYC
 SmartBear,aggregator-verify,,2026-08-15,Y,Account Executive II - ReadyAPI | MM/Ent | Boston
 sunday,aggregator-verify,66,2026-08-15,Y,Account Executive - NYC | SMB | NYC
@@ -6588,3 +6588,6 @@ Embedding VC,ats-data,,2026-09-08,N,"VC firm, not a B2B SaaS company; AE NYC off
 Flex,ats-fintech,,2026-09-08,Y,Account Executive (MM) | AI-native B2B banking/payments SaaS | Remote US | OTE $150-230K | Lever a2d196e0
 PathAI,repvue,,2026-09-09,N,GH board: only ML/engineering roles; no AE posted; pathology AI for pharma/healthcare
 Checkly,ats-devtools,,2026-09-09,N,No AE role on Ashby board; Senior Sales Engineer only; devtools monitoring platform
+Walrus,ats-fintech,,2026-09-09,Y,Account Executive (MM) | Fintech / B2B payment fraud SaaS | US-remote | $140-200K OTE | Ashby walrusfi
+Formance,ats-fintech,,2026-09-09,N,AE Fintech NYC SoHo hybrid 3-4days/wk $300-330K OTE; not US-remote; financial infra for fintechs
+Parker,ats-fintech,,2026-09-09,N,AE NYC hybrid; eCommerce fintech corp cards for SMB merchants; not US-remote
