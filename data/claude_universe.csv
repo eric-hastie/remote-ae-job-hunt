@@ -6,7 +6,7 @@ Acquia,claude,76,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
 Affinity.co,claude,86,2026-09-07,N,no roles on Ashby board; empty board confirmed 2026-09-07
 Apollo GraphQL,claude,76,2026-09-09,N,speedrun board: not open to US applicants
 Apollo.io,claude,85,2026-09-08,Y,has open qualifying role; verified Job1
-Arcade,claude,79,2026-08-15,N,GTM role (not AE-titled) in SF Bay Area only on Ashby 2026-08-15
+Arcade,ats-ai-infra,79,2026-09-09,Y,Enterprise AE NYC-hybrid on Ashby arcadeai board; OTE $300-350K; MCP/agent tooling for enterprises; posted 2026-03-24
 Arctic Wolf,claude,85,2026-09-07,Y,"Enterprise AE roles on Workday (arcticwolf.wd1.myworkdayjobs.com); remote with geo territory; Workday JS-only, no URL captured"
 Arize AI,claude,87,2026-08-28,Y,Commercial AE Digital Native SF (5803069004) + Enterprise AE East live on GH arizeai; AI ML observability
 Articulate,claude,,2026-07-23,N,no roles on Lever articulate board
@@ -32,7 +32,7 @@ Delinea,claude,80,2026-08-15,N,no IC AE on Ashby; APAC/management roles only 202
 Demandbase,claude,87,2026-09-06,N,only Growth Account Director (expansion/renewal) on Ashby; no new-biz AE 2026-09-06
 Doppler,claude,,2026-08-22,N,no AE role on board
 Drata,claude,85,2026-09-07,Y,Commercial AE postings on Ashby (posting-api blind spot); city-specific Commercial AE - New York confirmed; Needs check
-DroneDeploy,claude,83,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+DroneDeploy,claude,83,2026-09-09,N,Lever posting dead 2026-09-09; no replacement on board
 Elastic,claude,83,2026-08-15,N,no US-remote AE on Greenhouse; federal AE exists (enterprise/gov) 2026-08-15
 Eve,claude,,2026-09-09,Y,"Commercial Account Executive, Central (MM)"
 Fiddler AI,claude,,2026-07-23,N,ATS unresolved
@@ -641,7 +641,7 @@ Kipi.ai,repvue,88.04,2026-09-02,N,ATS unresolved
 Helion,repvue,88.04,2026-09-02,N,not B2B SaaS; nuclear fusion energy startup
 Temelio,repvue,88.02,2026-09-02,N,ATS unresolved; very small philanthropy SaaS
 Andmore,repvue,88.02,2026-09-02,N,not B2B SaaS; trade show/events company
-Atlan,repvue,88.02,2026-09-02,N,no AE roles on Ashby board (BDR/ABDR only)
+Atlan,ats-ai-infra,88.02,2026-09-09,Y,Enterprise AE West on Ashby; Remote CA; OTE $330-360K; AI context layer for enterprise; posted 2026-09-07
 busybusy,repvue,88.01,2026-09-02,N,ATS unresolved; not on standard ATS API
 Spellbook,repvue,88.01,2026-09-02,N,ATS unresolved; posting-api blind spot (spellbook.legal)
 Artesian Bottleless Water,repvue,87.98,2026-09-02,N,not B2B SaaS; water delivery service
@@ -6591,3 +6591,5 @@ Checkly,ats-devtools,,2026-09-09,N,No AE role on Ashby board; Senior Sales Engin
 Walrus,ats-fintech,,2026-09-09,Y,Account Executive (MM) | Fintech / B2B payment fraud SaaS | US-remote | $140-200K OTE | Ashby walrusfi
 Formance,ats-fintech,,2026-09-09,N,AE Fintech NYC SoHo hybrid 3-4days/wk $300-330K OTE; not US-remote; financial infra for fintechs
 Parker,ats-fintech,,2026-09-09,N,AE NYC hybrid; eCommerce fintech corp cards for SMB merchants; not US-remote
+Ema,ats-ai-infra,,2026-09-09,Y,Enterprise AE US-remote on Ashby (blind spot - not in public API); agentic AI platform; OTE unknown; posted 2026-08-13; Needs check
+Lio,ats-ai-infra,,2026-09-09,N,AE role Munich-only on Ashby; not US-remote
