@@ -210,7 +210,7 @@ Jack Henry,repvue,95.08,2026-08-17,N,no ATS board found (Greenhouse/Ashby/Lever)
 Ionic,repvue,95.08,2026-08-17,N,no ATS board found — likely different company than search hits
 Scytale,repvue,95.04,2026-08-17,Y,no AE openings; SDR/GTM Lead only; South Africa/NY roles; re-checked 2026-07-08
 Okteto,repvue,95.03,2026-08-17,N,no AE on Ashby — Deployment/Support/Model Engineers only
-Popl,repvue,94.93,2026-08-17,Y,top-260 RepVue scan: open AE role
+Popl,repvue,94.93,2026-09-10,N,top-260 RepVue scan: open AE role
 Americor,repvue,94.89,2026-08-17,N,consumer debt relief — not B2B SaaS
 ProfitWell,repvue,94.80,2026-08-17,N,acquired by Paddle — no standalone AE
 Landytech,repvue,94.79,2026-08-17,N,"London-based; Workable roles UK/EU only, no US-remote AE"
@@ -2355,7 +2355,7 @@ Esker,repvue,81,2026-08-02,N,ATS unresolved (French doc automation SaaS; no US A
 ADP,repvue,81,2026-08-02,N,ATS unresolved (large HCM/payroll; Workday-type ATS)
 Rapid7,repvue,81,2026-08-02,N,ATS unresolved (Workday; commercial AE roles found but Austin role is hybrid)
 Cotality,repvue,81,2026-08-02,N,ATS unresolved (real estate data SaaS; large company; Workday)
-Iru,repvue,81,2026-08-03,Y,Enterprise AE NYC-Remote and SF-Remote on Lever (iru board); 4+ yrs exp; Ent; B2B SaaS IT security (identity/endpoint/compliance)
+Iru,repvue,81,2026-09-10,N,Enterprise AE NYC-Remote and SF-Remote on Lever (iru board); 4+ yrs exp; Ent; B2B SaaS IT security (identity/endpoint/compliance)
 Zylo,repvue,81,2026-08-02,N,no AE role (empty Greenhouse board)
 Salelytics,repvue,81,2026-07-05,N,not B2B SaaS (outsourced sales)
 Workday Strategic Sourcing,repvue,81,2026-08-02,N,ATS unresolved (Workday product; Workday ATS)
@@ -2897,7 +2897,7 @@ Dealroom,ats-search,,2026-08-05,N,no AE on Recruitee (only BD Mgr EMEA)
 Flinn.ai,ats-search,,2026-08-07,N,"Enterprise AE posting is hybrid, based in Vienna/Berlin/NYC hub offices — not US-remote (real ATS is Ashby, not Recruite"
 BibliU,ats-search,,2026-08-07,N,"Recruitee slug returned empty offers array; real ATS is BambooHR (bibliu.bamboohr.com/careers), which 403'd — no JSON AP"
 VertiGIS,ats-search,,2026-08-05,Y,"has open qualifying role: AE Utilities Remote US, Recruitee (posted 2026-07-31)"
-Routeware,ats-search,70,2026-08-03,Y,"Live IC Strategic Account Executive, remote US, targeting municipal/enterprise waste-hauling accounts; 5+ yrs B2B SaaS r"
+Routeware,ats-search,70,2026-09-10,N,"Live IC Strategic Account Executive, remote US, targeting municipal/enterprise waste-hauling accounts; 5+ yrs B2B SaaS r"
 "Signwarehouse, Inc.",ats-search,,2026-07-15,N,Not B2B SaaS - sells physical signmaking/vehicle-wrap supplies and equipment; AE role sells hardware/consumables to sign
 Focal Systems,ats-search,,2026-09-04,N,Rippling board empty again 2026-09-04 (no current openings)
 TheGuarantors,ats-search,,2026-07-15,Y,"Senior AE (Remote), MM/Ent multifamily fintech, 4+ yrs B2B, OTE $180-235K - qualifies"
@@ -3845,7 +3845,7 @@ Canopy Works,ats-search,,2026-08-10,Y,"MM AE East Remote, healthcare staff safet
 Laminar,ats-search,,2026-08-10,Y,MM AE Remote $170-200K OTE + Ent AE Boston $230-280K OTE; Physical AI industrial manufacturing CPG
 WATI.io,ats-search,,2026-08-10,N,Workable API: no AE postings (empty board)
 Bifrost AI,ats-search,,2026-08-14,N,Ashby board: no AE roles (only tech/strategy); Physical AI synthetic data but no AE hiring; Ashby API re-check 2026-08-14: no AE in feed; direct URL JS-only unverifiable
-SmartAsset,ats-search,71,2026-08-10,Y,"MM AE Remote US, $130K OTE; B2B SaaS financial advisor marketing platform AMP; GH 8691974002"
+SmartAsset,ats-search,71,2026-09-10,N,"MM AE Remote US, $130K OTE; B2B SaaS financial advisor marketing platform AMP; GH 8691974002"
 1848 Ventures,ats-search,,2026-08-10,N,"VC firm, not a direct company target; GH postings are for portcos"
 InterSystems,repvue,78,2026-08-11,Y,"Enterprise AE Health Plans, Boston MA; GH job 7723402003; $145-170K base"
 Coralogix,repvue,78,2026-08-11,Y,Enterprise AE Boston MA; OTE $280-320K; Comeet ATS; 5+ yrs req
@@ -6597,3 +6597,8 @@ Highnote,ats-fintech,,2026-09-10,N,"Senior-only AE postings (10+ yrs required, 7
 Rainforest,ats-fintech,,2026-09-10,N,"Payments-as-a-service; AE posting in Ashby search but not in API, JS-rendered only - ATS unresolved"
 Payabli,ats-fintech,,2026-09-10,N,"Payments infrastructure; Lever API empty, direct posting 404 - dead posting"
 PayEngine,ats-fintech,,2026-09-10,N,Payments ISV; no AE posting found on any tracked ATS
+Sable,ats-ai-infra,,2026-09-10,Y,Founding AE SF on-site; MM; voice AI agents (Aidan); $100-250K ACV; Ashby; published 2026-07-16
+Bernard,ats-ai-infra,,2026-09-10,N,Founding AE NYC on-site; SMB (appliance repair shops) - fails MM bar; Ashby board
+IonQ,ats-ai-infra,,2026-09-10,N,"No current AE on Greenhouse board; quantum computing hardware, not B2B SaaS"
+SalesAPE.ai,ats-ai-infra,,2026-09-10,N,Enterprise AE UK only (hybrid); not US; AI sales automation; Ashby board
+Ravio,ats-ai-infra,,2026-09-10,N,AE London/EMEA only; compensation benchmarking SaaS; Ashby board
