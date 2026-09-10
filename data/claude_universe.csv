@@ -2913,7 +2913,7 @@ RiskExec,ats-search,,2026-08-05,N,no AE on Rippling (only Sr Dir Product Mgmt)
 Shipium,ats-search,,2026-08-25,N,"has open qualifying role: Senior AE Remote (28 US states), $128-140K base, Rippling; posting dead 2026-08-25"
 Pendulum,ats-search,,2026-08-03,Y,"Enterprise AE, Remote US/Canada, OTE $300K uncapped, Fortune 500 focus, 6+ yrs B2B SaaS closing — qualifies (Ent segment"
 Zendesk,ats-search,78,2026-08-06,N,"ATS confirmed (Workday, zendesk.wd1.myworkdayjobs.com) and matching postings exist (Commercial AE (Hunter) R33459, Austi"
-Mimecast,ats-search,80,2026-07-15,Y,"Live IC Mid-Market AE, US-remote (Illinois - Remote), OTE $144-216K, B2B cybersecurity SaaS - no in-office cadence state"
+Mimecast,ats-search,80,2026-09-10,N,posting dead (HTTP 404); no replacement on custom careers site; dropped from latest.csv
 Pluralsight,ats-search,77,2026-08-06,N,"Only AE lead found (Enterprise AE, Workday board) requires 10+ years experience (senior-only, disqualifies) and is marke"
 Tealium,ats-search,76,2026-08-06,N,"Workday board confirmed real (tealium.wd1.myworkdayjobs.com) and lists a ""Sr. Account Executive - Mid Market (Remote)"" r"
 Fullsteam,ats-search,71,2026-08-06,N,Workday API blocked; posting unverified; held
@@ -6602,3 +6602,6 @@ Bernard,ats-ai-infra,,2026-09-10,N,Founding AE NYC on-site; SMB (appliance repai
 IonQ,ats-ai-infra,,2026-09-10,N,"No current AE on Greenhouse board; quantum computing hardware, not B2B SaaS"
 SalesAPE.ai,ats-ai-infra,,2026-09-10,N,Enterprise AE UK only (hybrid); not US; AI sales automation; Ashby board
 Ravio,ats-ai-infra,,2026-09-10,N,AE London/EMEA only; compensation benchmarking SaaS; Ashby board
+Wayve,ats-physical-ai,,2026-09-10,N,UK-based AV company; checked Greenhouse + Ashby boards; no AE/sales roles; engineering-focused
+Figure AI,ats-physical-ai,,2026-09-10,N,Humanoid robotics; Greenhouse board (figureai); no AE or sales roles; hardware/robotics company
+Skild AI,ats-physical-ai,,2026-09-10,N,General-purpose robotic intelligence; Greenhouse board (skildai-careers); no AE roles; only Sales Engineer role
