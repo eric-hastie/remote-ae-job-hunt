@@ -1,5 +1,5 @@
 Company,Source,RepVue Score,Last Checked,Currently Open,Notes
-8am (f/k/a AffiniPay),claude,83,2026-08-21,Y,"Account Executive | SMB remote US, $130-140K OTE (no comp floor); legal/accounting SaaS; Needs check remote status"
+8am (f/k/a AffiniPay),claude,83,2026-09-11,N,GH posting affinipay1/4601287006 DEAD_ID 2026-09-11; only Austin in-office replacements (not US remote); dropped from latest.csv
 Abnormal Security,claude,,2026-07-02,Y,has open qualifying role
 Accrue,claude,,2026-08-03,Y,has open qualifying role
 Acquia,claude,76,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
@@ -2911,7 +2911,7 @@ Workstreet,ats-search,,2026-08-14,N,"recheck-B 2026-08-03: Account Executive (Gr
 LegalOn Technologies,ats-search,,2026-08-05,Y,"has open qualifying role: Enterprise AE (Governance/Fides) Remote US, $200-240K base, Rippling"
 RiskExec,ats-search,,2026-08-05,N,no AE on Rippling (only Sr Dir Product Mgmt)
 Shipium,ats-search,,2026-08-25,N,"has open qualifying role: Senior AE Remote (28 US states), $128-140K base, Rippling; posting dead 2026-08-25"
-Pendulum,ats-search,,2026-08-03,Y,"Enterprise AE, Remote US/Canada, OTE $300K uncapped, Fortune 500 focus, 6+ yrs B2B SaaS closing — qualifies (Ent segment"
+Pendulum,ats-search,,2026-09-11,N,Rippling posting 32a031c5 HTTP_DEAD 2026-09-11; no qualifying US replacement found; dropped from latest.csv
 Zendesk,ats-search,78,2026-08-06,N,"ATS confirmed (Workday, zendesk.wd1.myworkdayjobs.com) and matching postings exist (Commercial AE (Hunter) R33459, Austi"
 Mimecast,ats-search,80,2026-09-10,N,posting dead (HTTP 404); no replacement on custom careers site; dropped from latest.csv
 Pluralsight,ats-search,77,2026-08-06,N,"Only AE lead found (Enterprise AE, Workday board) requires 10+ years experience (senior-only, disqualifies) and is marke"
@@ -3524,7 +3524,7 @@ iSolved HCM,repvue,79,2026-08-08,N,GH board found (isolved); 0 jobs open; HCM/pa
 twentyAI,repvue,79,2026-08-08,N,GH board found (twentyai); 0 jobs open; AI CRM startup
 Thales,repvue,79,2026-08-08,N,"defense/aerospace/industrial conglomerate (parent of ForgeRock, Ping Identity); no IC B2B SaaS AE"
 Awardco,repvue,79,2026-08-08,N,GH board (awardco); 14 jobs open; zero AE titles; employee recognition SaaS
-Transmit Security,repvue,79,2026-08-03,Y,GH board (TransmitSecurity): Strategic AE (job 7903588002) US Remote; OTE $200K-$350K; Enterprise (CIAM/fraud prevention); added to latest.csv 2026-07-17
+Transmit Security,repvue,79,2026-09-11,N,GH posting 7903588002 dead DEAD_ID 2026-09-11; no candidates on board; dropped from latest.csv
 Beanfield,repvue,79,2026-08-08,N,Enterprise AE role exists but Toronto Canada only; not US-remote; fiber ISP
 Youreka,repvue,79,2026-08-08,N,GH board found (yourekaapp); 0 jobs open; Salesforce field service SaaS
 Codefresh,repvue,79,2026-07-17,N,acquired by Octopus Deploy; no standalone ATS or AE posting; CI/CD SaaS now under Octopus Deploy brand
@@ -4542,7 +4542,7 @@ Moody’s Analytics,repvue,77,2026-08-14,N,queue-name alias for matching; see Mo
 "AdDaptive Intelligence, Inc.",repvue,76,2026-08-14,N,queue-name alias for matching; see AdDaptive Intelligence rows above
 Caret,ats-search,66,2026-08-14,N,"Workable board empty; legal/accounting SaaS, no AE posting"
 Fyxer,ats-search,,2026-08-14,N,Ashby board: only Customer Support role; AI executive assistant B2B SaaS
-HappyRobot Inc.,ats-search,,2026-08-20,Y,Strategic AE (66f36293) Remote US; $400K-$500K OTE; published 2026-07-16; Agentic AI for enterprise logistics; a16z/YC backed; added to latest.csv 2026-08-20
+HappyRobot Inc.,ats-search,,2026-09-11,N,Ashby posting 66f36293 DEAD_ID 2026-09-11; all board replacements non-US; dropped dead row; company still active via a16z-speedrun entry (e4d1ecfe)
 Jua,ats-search,,2026-08-31,N,"Ashby: AE roles London+Zürich only, no US-remote; Physical AI weather forecasting; re-verified 2026-08-31"
 Harmattan AI,ats-search,,2026-09-06,N,Ashby board re-verified: France/Morocco defense roles only; no US remote AE
 Popmenu,ats-search,72,2026-08-14,N,"Workable URL dead 2026-08-14; SMB segment, restaurant tech; no qualifying MM AE"
@@ -6608,3 +6608,5 @@ Skild AI,ats-physical-ai,,2026-09-10,N,General-purpose robotic intelligence; Gre
 PlayStation,repvue,,2026-09-11,N,not B2B SaaS (Sony gaming company; consumer/gaming); permanent disqualification
 Deluxe,repvue,,2026-09-11,N,ATS unresolved (Workday); apparent B2B payments AE roles but cannot verify remote via API; re-checked 2026-09-11
 Atomicwork,ats-ai-infra,,2026-09-11,Y,Ent AE (US) remote; 5-8 yrs exp; B2B SaaS AI ITSM; GH 4170612008; first_published 2024-10-08; added latest.csv 2026-09-11
+Sereact,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; only Solutions Manager and engineering; robotics manipulation software (Germany-based)
+Voyant Photonics,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; photonics/lidar sensor hardware; engineering-only postings
