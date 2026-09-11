@@ -2904,7 +2904,7 @@ TheGuarantors,ats-search,,2026-07-15,Y,"Senior AE (Remote), MM/Ent multifamily f
 Bloom Growth,ats-search,,2026-08-05,N,no AE on Rippling (only CSM)
 Enertiv,ats-search,,2026-08-06,Y,"Ent AE, Remote US, CRE energy management SaaS; board back online"
 GoTab,ats-search,,2026-08-05,N,Lever board 404 / gone
-Klir,ats-search,74,2026-08-03,Y,"Live IC Strategic/Enterprise AE, remote US, 5+ yrs $1M+ quota SaaS closing — qualifies (Ent segment); the Mid-Market AE "
+Klir,ats-search,74,2026-09-11,N,posting gone (HTTP_DEAD Rippling; no replacement candidates)
 SchoolAI,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Reconfirmed: Rippling board (ats.rippling.com/schoolai/jobs) shows zero open roles company-wide (""There are currently no open roles. Come back later!"""
 Summit Commercial Solutions,ats-search,,2026-08-07,N,"Canadian insurance brokerage (Kelowna, BC); AE posting is Canada-only (requires Level 2/RIBO license), not US-remote, no"
 Workstreet,ats-search,,2026-08-14,N,"recheck-B 2026-08-03: Account Executive (Growth) | Originally rejected for ""SMB segment, not MM/Ent"" — segment is not an exclusion under the corrected bar. Full-; URL dead 2026-08-14, no qualifying candidate"
@@ -3511,7 +3511,7 @@ Thought Industries,repvue,79,2026-08-07,N,SmartRecruiters; only BDR open; LMS/cu
 HR Acuity,repvue,79,2026-08-07,N,SmartRecruiters 0 postings (empty board); HR employee relations SaaS; checked 2026-08-07
 Flare,repvue,,2026-07-17,N,acquired by MYOB; Greenhouse board inactive/404; HR SaaS now under MYOB brand
 Oracle Marketing Cloud,repvue,79,2026-08-07,N,Oracle subsidiary; enterprise IT conglomerate; not ICP (not startup-scale AE); permanent; checked 2026-08-07
-Follett,repvue,79,2026-08-03,Y,"recheck-B 2026-08-03: Inside Sales Account Executive - Mountain or Pacific Time Zo | Originally rejected purely for OTE below the (now-removed) $150K floor. US-remote, IC AE title, 2-5 years requ"
+Follett,repvue,79,2026-09-11,N,posting gone (GH DEAD_ID 5250968008; no replacement candidates)
 Teads,repvue,79,2026-07-17,N,GH board (teads): only AE is SME NYC hybrid; OTE ~$100-140K (below $150K floor); AdTech/programmatic SaaS (acquired by Outbrain)
 Politico,repvue,79,2026-08-07,N,media/news company; not B2B SaaS product company; permanent; checked 2026-08-07
 Intelex,repvue,79,2026-08-07,N,GH 404; uses Fortive parent EHS mgmt platform; ATS unresolved; checked 2026-08-07
@@ -5164,7 +5164,7 @@ Istari Digital,ats-ai-infra,,2026-08-16,N,Defense/aerospace B2G AE; not B2B SaaS
 Metaprise,ats-ai-infra,,2026-08-16,Y,NYC onsite (5 days/wk) IC AE; enterprise AI governance/infra; OTE $120K-$180K; Lever posted 2026-06-01
 Serval,ats-ai-infra,,2026-08-16,N,SF only 5 days/week in-office; IT automation AI agents; no remote option
 Sardine,ats-fintech,,2026-09-10,Y,Account Executive - Crypto (Unspec)
-Exactera,ats-fintech,75,2026-08-17,Y,"AE International Tax, MM/Ent, Remote US, FinTech tax compliance SaaS"
+Exactera,ats-fintech,75,2026-09-11,N,posting gone (GH DEAD_ID 7823952003; no replacement candidates)
 BCB Group,ats-fintech,,2026-08-17,N,No AE on Greenhouse board; UK crypto/banking payments company
 Pathward,ats-fintech,,2026-08-17,N,Not B2B SaaS - banking institution (BaaS); AE role is structured finance portfolio mgmt
 Interface AI,ats-fintech,73,2026-08-17,N,ATS unresolved - Greenhouse board/posting returned 404
@@ -5578,7 +5578,7 @@ Thread AI,a16z-speedrun,,2026-08-24,Y,Ashby: Enterprise Account Executive (NYC o
 PointOne,a16z-speedrun,,2026-08-24,Y,Ashby: Account Executive (NYC on-site); 3+ yrs MM/Ent SaaS; $180K-$280K; AI revenue platform for professional services
 Auctor,a16z-speedrun,,2026-08-24,Y,Ashby: Founding Account Executive (NYC 5-day on-site); 5+ yrs closing; $140K-$250K OTE; AI automation for professional services / systems integrators
 Valerie Health,a16z-speedrun,,2026-08-24,Y,"Ashby: Account Executive (Remote US, SF address); 5+ yrs B2B, healthcare bonus; $225K-$350K OTE; healthcare AI for independent providers"
-Resolve AI,a16z-speedrun,,2026-08-24,Y,"Ashby (slug ""Resolve AI"" with space): Enterprise Account Executive - SF (on-site); comp not disclosed; agentic AI production engineer for SRE / observability; $150M raised (Lightspeed/Greylock)"
+Resolve AI,a16z-speedrun,,2026-09-11,N,Ashby board gone; no replacement candidates
 Mercura,a16z-speedrun,,2026-08-24,N,"no AE (BDR only), Munich onsite"
 Partiful,a16z-speedrun,,2026-08-24,N,no AE
 PointFive,a16z-speedrun,,2026-08-24,N,"AE London only, no US role"
@@ -6610,3 +6610,5 @@ Deluxe,repvue,,2026-09-11,N,ATS unresolved (Workday); apparent B2B payments AE r
 Atomicwork,ats-ai-infra,,2026-09-11,Y,Ent AE (US) remote; 5-8 yrs exp; B2B SaaS AI ITSM; GH 4170612008; first_published 2024-10-08; added latest.csv 2026-09-11
 Sereact,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; only Solutions Manager and engineering; robotics manipulation software (Germany-based)
 Voyant Photonics,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; photonics/lidar sensor hardware; engineering-only postings
+
+Dexterity,ats-robotics,,2026-09-11,N,Lever board checked (api.lever.co/v0/postings/dexterity): no AE/sales roles listed; searched posting 33d4eaf5 is expired; physical AI warehouse robotics (robotic arms); no qualifying IC AE role
