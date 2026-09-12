@@ -3439,7 +3439,7 @@ QOMPLX,repvue,79,2026-08-08,N,GH boards found (kyber-security + qomplx); 0 jobs 
 Rhombus Systems,repvue,79,2026-08-20,N,East AE posting dead 2026-08-20; no qualifying US-remote replacement on Lever board
 ExtraHop,repvue,79,2026-08-07,N,GH extrahopnetworks; no IC AE; RSM titles only; network detection SaaS; checked 2026-08-07
 FORT Robotics,robotics,75,2026-08-03,Y,robotics AE (Remote (must reside in Southeast or Central US region))
-Robust.AI,robotics,,2026-08-31,N,Lever board re-verified 2026-08-31: no AE roles; only engineering in San Carlos CA
+Robust.AI,robotics,,2026-09-12,N,Lever board robust-ai re-verified 2026-09-12: no AE roles; only engineering in San Carlos CA
 Encord,robotics,,2026-08-24,Y,AE Physical AI (Ent) - SF+NYC on-site; $220K-$320K base; data platform for robotics/AV; 3-7yr exp; Ashby 8a88f55e
 Covariant,robotics,,2026-08-03,Y,"robotics AE (New York, NY (hybrid, in-office 2-3x/week))"
 Ouster,robotics,77,2026-08-03,Y,robotics AE (Remote (US))
@@ -5657,7 +5657,7 @@ Blackbird,a16z-speedrun,,2026-08-25,N,Ashby 404 (slug blackbird); web search: Bl
 Finto,a16z-speedrun,,2026-08-25,N,Ashby board exists; no AE role; all roles Munich-based only
 Frec,a16z-speedrun,,2026-08-25,N,Ashby: AE in SF but Frec is consumer/prosumer fintech (direct indexing) - not B2B SaaS
 Midstream Health,a16z-speedrun,,2026-08-25,N,Ashby 404 (slug midstream-health)
-Nexxa.ai,a16z-speedrun,,2026-08-25,N,Ashby 404 (slug nexxa-ai)
+Nexxa.ai,a16z-speedrun,,2026-09-12,Y,"Ashby slug nexxa (not nexxa-ai); Account Executive & Business Development Lead; Enterprise; SF Bay area hybrid; industrial AI for heavy industries (manufacturing, infrastructure, logistics, autonomy); backed by a16z; ID 737c6532-44fe-4ed4-92a8-123a75f68edd; added to latest.csv 2026-09-12"
 Probably Genetic,a16z-speedrun,,2026-08-25,N,Ashby 404 (slug probably-genetic)
 Stacks,a16z-speedrun,,2026-08-25,N,Ashby: Ent AE in London/Amsterdam; not US-qualifying location
 Uplane,a16z-speedrun,,2026-08-25,N,Ashby board exists; no AE role; marketing/engineering roles only
@@ -6392,7 +6392,7 @@ Toyota Research Institute,a16z-speedrun,,2026-09-01,N,not B2B SaaS; automotive r
 Omni Design Technologies,a16z-speedrun,,2026-09-01,N,ATS unresolved; semiconductor chip design company
 Outpost Technologies,a16z-speedrun,,2026-09-01,N,ATS unresolved after 2 ATS attempts
 Quadrillion,a16z-speedrun,,2026-09-01,N,ATS unresolved after 2 ATS attempts
-Spacial AI,a16z-speedrun,,2026-09-01,N,ATS unresolved; spatial computing AI
+Spacial AI,a16z-speedrun,,2026-09-12,N,Ashby board spacial; Head of Sales (not IC AE) at Palo Alto; spatial computing AI; no qualifying IC AE role
 Toshiba Global Commerce,a16z-speedrun,,2026-09-01,N,ATS unresolved; retail POS/commerce tech
 True Anomaly,a16z-speedrun,,2026-09-01,N,ATS unresolved; space/defense tech
 Volaris Group,a16z-speedrun,,2026-09-01,N,ATS unresolved; PE vertical software acquirer
@@ -6610,5 +6610,9 @@ Deluxe,repvue,,2026-09-11,N,ATS unresolved (Workday); apparent B2B payments AE r
 Atomicwork,ats-ai-infra,,2026-09-11,Y,Ent AE (US) remote; 5-8 yrs exp; B2B SaaS AI ITSM; GH 4170612008; first_published 2024-10-08; added latest.csv 2026-09-11
 Sereact,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; only Solutions Manager and engineering; robotics manipulation software (Germany-based)
 Voyant Photonics,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; photonics/lidar sensor hardware; engineering-only postings
-Dexterity,ats-robotics,,2026-09-11,N,Lever board checked (api.lever.co/v0/postings/dexterity): no AE/sales roles listed; searched posting 33d4eaf5 is expired; physical AI warehouse robotics (robotic arms); no qualifying IC AE role
+Dexterity,ats-robotics,,2026-09-12,N,Lever board re-verified 2026-09-12: no AE roles; physical AI warehouse robotics (robotic arms); Redwood City CA only; confirmed N
 Yodeck,ats-search,,2026-09-12,N,Workable posting dead; Enterprise AE not remote (on-site Columbia SC)
+Wraithwatch Corporation,ats-physical-ai,,2026-09-12,N,Ashby board wraithwatch; defense/national security AI (not industrial physical AI target); no AE roles - only security engineers and federal mission managers
+Under Control Robotics Inc,ats-physical-ai,,2026-09-12,N,GH board undercontrolroboticsinc; robotics company (Noble Machines) in Sunnyvale CA; no AE roles - engineering/autonomy software only; onsite only
+Outsight,ats-physical-ai,,2026-09-12,N,Lever board outsight; 3D lidar perception company (physical AI); all roles Paris France; no US AE
+Torc Robotics,ats-physical-ai,,2026-09-12,N,"GH board torcrobotics; autonomous trucking (Daimler subsidiary); no AE roles - only CDL driver, safety analyst, autonomy engineer"
