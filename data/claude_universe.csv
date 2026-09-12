@@ -131,7 +131,7 @@ Pendo,claude,,2026-07-31,N,roles titled Account Director not AE; SMB Raleigh onl
 Brex,claude,86,2026-09-06,Y,MM AE SF office 3 days/wk; Upmarket Seattle; Commercial Vancouver; in latest.csv 2026-09-06
 Melio,claude,89,2026-08-21,N,"re-check 2026-08-21: jobs 7689383003/7822176003/7822163003 dead; remaining role (7570355003) is hybrid NYC partnerships AE, not qualifying"
 PostHog,claude,,2026-07-23,Y,MM AE open; in latest.csv (added 2026-07-13)
-6sense,claude,83,2026-07-31,N,Enterprise AE remote-US; 5+ yrs; base $117-158K; ABM
+6sense,claude,83,2026-09-12,N,GH board: no AE roles (only BDR/other); 2026-09-12 recheck
 Salesloft,claude,77,2026-07-23,N,only Commercial Account Manager (not AE); no IC AE 2026-07-23
 Gorgias,claude,85,2026-09-07,N,no AE roles on Ashby board (CS and eng only); checked 2026-09-07
 Gusto,claude,84,2026-09-11,N,no AE on GH board; re-checked 2026-09-11
@@ -1479,55 +1479,55 @@ Incredibuild,repvue,83.50,2026-09-12,N,Israeli company; Comeet ATS; only Tel Avi
 Telnyx,repvue,83.49,2026-09-01,Y,GH 7730210003 Account Executive (Remote) US live; MM/Ent; CPaaS/cloud comms
 TierPoint,repvue,83.48,2026-09-12,N,"data center/managed services, not pure SaaS; re-checked 2026-09-12"
 Ethicon,repvue,83.48,2026-09-12,N,"J&J medical devices subsidiary, not SaaS"
-Budget Dumpster,repvue,83.48,2026-07-26,N,"waste management/dumpster rental services, not SaaS"
-Vivint Smart Home,repvue,83.48,2026-08-08,N,"B2C home security/automation, not B2B SaaS"
-Inclusively,repvue,83.47,2026-07-26,N,2026-07-26: no open AE roles
-ABB,repvue,83.47,2026-07-26,N,"industrial manufacturing conglomerate, not B2B SaaS"
-Uline,repvue,83.46,2026-07-26,N,"industrial/commercial distribution company, not SaaS"
-Active Network,repvue,83.46,2026-07-31,N,job URL dead (redirects to homepage); no replacement found
-MLC CAD Systems,repvue,83.46,2026-07-26,N,"CAD software reseller/VAR, not a SaaS product company"
-Inspire Medical Systems,repvue,83.45,2026-07-26,N,"implantable medical device company (neurostimulation), not SaaS"
-SeedLegals,repvue,83.44,2026-07-26,N,"2026-07-26: UK-only, not US-remote"
-Avature,repvue,83.43,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-Claroty,repvue,83.43,2026-07-26,N,ATS unresolved (not on GH/Ashby/Lever standard boards); may use custom or Workday
-Nasdaq,repvue,83.43,2026-07-26,N,"stock exchange/financial markets infrastructure, not B2B SaaS"
-"Brown & Brown, Inc.",repvue,83.42,2026-07-26,N,"insurance brokerage, not B2B SaaS"
-CivicPlus,repvue,83.42,2026-07-02,Y,RepVue scan: open AE role
-Rocket.Chat,repvue,83.42,2026-07-26,N,GH board (rocketchat) confirmed: no US AE; only EU/Nordic Enterprise AE
-Nationwide,repvue,83.42,2026-07-26,N,"insurance company, not B2B SaaS"
-Analog Devices,repvue,83.41,2026-07-26,N,"semiconductor/electronics manufacturer, not SaaS"
-"Sage Intacct, Inc.",repvue,83.41,2026-08-03,N,recheck-B 2026-08-03: SmartRecruiters board (careers.smartrecruiters.com/SageIntacct) fully resolved. Only two sales-adjacent postings exist: Sales Engineer and Sales Devel
-AutoVitals,repvue,83.40,2026-07-26,N,"2026-07-26: auto shop SaaS, niche/small"
-GlobalVision,repvue,83.38,2026-07-26,N,"2026-07-26: QA SaaS, no open AE"
-Second Front Systems,repvue,83.37,2026-07-26,N,Lever board (secondfrontsystems) returns 403/404; ATS unresolved after multiple attempts
-Vivax Pros,repvue,83.36,2026-07-26,N,"residential painting services company, not SaaS"
-Canvs AI,repvue,83.36,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
+Budget Dumpster,repvue,83.48,2026-09-12,N,"waste management/dumpster rental services, not SaaS"
+Vivint Smart Home,repvue,83.48,2026-09-12,N,"B2C home security/automation, not B2B SaaS"
+Inclusively,repvue,83.47,2026-09-12,N,ATS unresolved; no AE found on Lever/GH/Ashby
+ABB,repvue,83.47,2026-09-12,N,"industrial manufacturing conglomerate, not B2B SaaS"
+Uline,repvue,83.46,2026-09-12,N,"industrial/commercial distribution company, not SaaS"
+Active Network,repvue,83.46,2026-09-12,N,job URL dead (redirects to homepage); no replacement found
+MLC CAD Systems,repvue,83.46,2026-09-12,N,"CAD software reseller/VAR, not a SaaS product company"
+Inspire Medical Systems,repvue,83.45,2026-09-12,N,"implantable medical device company (neurostimulation), not SaaS"
+SeedLegals,repvue,83.44,2026-09-12,N,"UK-only, not US-remote"
+Avature,repvue,83.43,2026-09-12,N,ATS unresolved after slug attempts
+Claroty,repvue,83.43,2026-09-12,N,ATS unresolved; not on GH/Lever/Ashby standard boards
+Nasdaq,repvue,83.43,2026-09-12,N,"stock exchange/financial markets infrastructure, not B2B SaaS"
+"Brown & Brown, Inc.",repvue,83.42,2026-09-12,N,"insurance brokerage, not B2B SaaS"
+CivicPlus,repvue,83.42,2026-09-12,N,GH board has only sample job; no AE roles
+Rocket.Chat,repvue,83.42,2026-09-12,N,GH board (rocketchat) confirmed: no US AE; only EU/Nordic Enterprise AE
+Nationwide,repvue,83.42,2026-09-12,N,"insurance company, not B2B SaaS"
+Analog Devices,repvue,83.41,2026-09-12,N,"semiconductor/electronics manufacturer, not SaaS"
+"Sage Intacct, Inc.",repvue,83.41,2026-09-12,N,"SmartRecruiters board: only SE/SDR, no AE open"
+AutoVitals,repvue,83.40,2026-09-12,N,Workable board empty; no AE
+GlobalVision,repvue,83.38,2026-09-12,N,ATS unresolved; no AE found
+Second Front Systems,repvue,83.37,2026-09-12,N,"B2G government/defense software (Game Warden), not commercial B2B SaaS"
+Vivax Pros,repvue,83.36,2026-09-12,N,"residential painting services company, not SaaS"
+Canvs AI,repvue,83.36,2026-09-12,N,ATS unresolved after Ashby/GH attempts
 Atlassian,repvue,83.35,2026-09-02,N,HTTP_DEAD; custom ATS (join.atlassian.com) - no verifiable replacement
-enVista,repvue,83.34,2026-07-26,N,2026-07-26: not B2B SaaS (consulting/services)
-Cvent,repvue,83.34,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-Dotmatics,repvue,83.34,2026-07-26,N,2026-07-26: Greenhouse; no AE open
-Own Company,repvue,83.34,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-Charles Schwab,repvue,83.34,2026-07-26,N,"financial services/brokerage, not B2B SaaS"
-Instapage,repvue,83.34,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-Verse.ai,repvue,83.34,2026-08-15,N,posting dead 2026-07-22; no qualifying replacement found
-Vyne Dental,repvue,83.34,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-Resy,repvue,83.34,2026-07-26,N,restaurant reservation software acquired by AmEx 2019; no longer standalone
-DOOR,repvue,83.33,2026-07-24,N,not B2B SaaS (B2C marketplace); permanent skip
-Principal Financial,repvue,83.33,2026-07-26,N,"financial services/insurance company, not B2B SaaS"
-Lincoln Financial,repvue,83.32,2026-07-26,N,"insurance/financial services company, not B2B SaaS"
-PulteGroup,repvue,83.32,2026-07-26,N,"homebuilder, not SaaS"
-Terumo Medical Corporation,repvue,83.32,2026-07-26,N,"Japanese medical device company, not SaaS"
-KPN,repvue,83.31,2026-07-26,N,2026-07-26: not B2B SaaS (telecom)
-Crossbeam,repvue,83.31,2026-07-26,N,2026-07-26: Greenhouse; no AE open
-Vision Solar,repvue,83.30,2026-07-26,N,2026-07-26: not B2B SaaS (solar installation)
-Built Technologies,repvue,83.30,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-McLeod Software,repvue,83.30,2026-07-26,N,"2026-07-26: trucking/logistics SaaS, no AE open"
-EBM Software,repvue,83.29,2026-07-26,N,2026-07-26: no open AE roles
-Mythics,repvue,83.29,2026-07-26,N,2026-07-26: not B2B SaaS (Oracle reseller)
-Nutrient,repvue,83.28,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-DraftKings,repvue,83.28,2026-07-26,N,2026-07-26: not B2B SaaS (B2C gambling)
-Sticky.io,repvue,83.28,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
-Array Behavioral Care,repvue,83.28,2026-07-26,N,2026-07-26: not B2B SaaS (telehealth)
+enVista,repvue,83.34,2026-09-12,N,not B2B SaaS (consulting/services)
+Cvent,repvue,83.34,2026-09-12,N,"ATS unresolved; SmartRecruiters 0 jobs, Lever/GH/Ashby 404"
+Dotmatics,repvue,83.34,2026-09-12,Y,Ent AE Mid Atlantic (remote USA); GH board `dotmatics`; $119k-$161k; Life Science SaaS
+Own Company,repvue,83.34,2026-09-12,N,ATS unresolved; GH/Ashby/SmartRecruiters all 404/empty
+Charles Schwab,repvue,83.34,2026-09-12,N,"financial services/brokerage, not B2B SaaS"
+Instapage,repvue,83.34,2026-09-12,N,"acquired by airSlate; ATS unresolved, no AE found on Lever/GH"
+Verse.ai,repvue,83.34,2026-09-12,N,posting dead; no qualifying replacement found
+Vyne Dental,repvue,83.34,2026-09-12,N,ATS unresolved; no AE found
+Resy,repvue,83.34,2026-09-12,N,restaurant reservation software acquired by AmEx 2019; no longer standalone
+DOOR,repvue,83.33,2026-09-12,N,not B2B SaaS (B2C marketplace); permanent skip
+Principal Financial,repvue,83.33,2026-09-12,N,"financial services/insurance company, not B2B SaaS"
+Lincoln Financial,repvue,83.32,2026-09-12,N,"insurance/financial services company, not B2B SaaS"
+PulteGroup,repvue,83.32,2026-09-12,N,"homebuilder, not SaaS"
+Terumo Medical Corporation,repvue,83.32,2026-09-12,N,"Japanese medical device company, not SaaS"
+KPN,repvue,83.31,2026-09-12,N,"telecom, not B2B SaaS"
+Crossbeam,repvue,83.31,2026-09-12,N,GH board empty; no AE open 2026-09-12
+Vision Solar,repvue,83.30,2026-09-12,N,"solar installation company, not SaaS"
+Built Technologies,repvue,83.30,2026-09-12,Y,Ent AE Lender (remote USA); GH `getbuilt`; $120k-$140k base; FinTech/ConstructionTech SaaS
+McLeod Software,repvue,83.30,2026-09-12,N,trucking/logistics SaaS; no AE open
+EBM Software,repvue,83.29,2026-09-12,N,no open AE roles
+Mythics,repvue,83.29,2026-09-12,N,"Oracle reseller/VAR, not B2B SaaS"
+Nutrient,repvue,83.28,2026-09-12,N,ATS unresolved; Ashby/Workable not found
+DraftKings,repvue,83.28,2026-09-12,N,"B2C gambling/gaming, not B2B SaaS"
+Sticky.io,repvue,83.28,2026-09-12,N,ATS unresolved; no AE found on GH/Ashby/Lever
+Array Behavioral Care,repvue,83.28,2026-09-12,N,"telehealth/behavioral health, not B2B SaaS"
 Perforce Software,repvue,83.27,2026-07-31,N,ATS unresolved (Ashby/GH both 404)
 "Rezult Group, Inc.",repvue,83.27,2026-07-26,N,2026-07-26: not B2B SaaS (staffing)
 Flowspace,repvue,83.26,2026-07-26,N,2026-07-26: ATS unresolved after slug attempts
@@ -6610,6 +6610,5 @@ Deluxe,repvue,,2026-09-11,N,ATS unresolved (Workday); apparent B2B payments AE r
 Atomicwork,ats-ai-infra,,2026-09-11,Y,Ent AE (US) remote; 5-8 yrs exp; B2B SaaS AI ITSM; GH 4170612008; first_published 2024-10-08; added latest.csv 2026-09-11
 Sereact,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; only Solutions Manager and engineering; robotics manipulation software (Germany-based)
 Voyant Photonics,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; photonics/lidar sensor hardware; engineering-only postings
-
 Dexterity,ats-robotics,,2026-09-11,N,Lever board checked (api.lever.co/v0/postings/dexterity): no AE/sales roles listed; searched posting 33d4eaf5 is expired; physical AI warehouse robotics (robotic arms); no qualifying IC AE role
 Yodeck,ats-search,,2026-09-12,N,Workable posting dead; Enterprise AE not remote (on-site Columbia SC)
