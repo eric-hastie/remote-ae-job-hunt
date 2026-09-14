@@ -36,7 +36,7 @@ DroneDeploy,claude,83,2026-09-09,N,Lever posting dead 2026-09-09; no replacement
 Elastic,claude,83,2026-09-13,N,no US-remote AE on Greenhouse; federal AE only (Enterprise vertical); re-checked 2026-09-13
 Eve,claude,,2026-09-10,Y,"Commercial Account Executive, Central (MM)"
 Fiddler AI,claude,,2026-09-13,Y,Enterprise AE US-Remote; $220K-$320K OTE; Ashby API confirmed 9f2e404c; AI model monitoring/eval SaaS; 5+ yrs req; posted 2026-08-10
-Fleetio,claude,83,2026-07-23,Y,has open qualifying role (re-verified 2026-07-23)
+Fleetio,claude,83,2026-09-14,Y,MM AE in latest.csv; confirmed live
 Fluint,claude,,2026-07-23,N,ATS unresolved
 GitGuardian,claude,,2026-08-03,Y,has open qualifying role
 Gitlab,claude,80,2026-08-26,N,Dead posting 8611838002 confirmed 2026-08-26; no qualifying US AE candidate on board
@@ -69,7 +69,7 @@ Limble CMMS,claude,79,2026-08-07,N,Ashby; talent pipeline listing only (no actua
 Linear,claude,97,2026-08-17,Y,"Ashby: Growth AE (453f1ba0), Startups AE (c21af93e), Ent AE (1bfdcabe) all live"
 Lockthreat,claude,,2026-08-03,N,recheck-B 2026-08-03: Live Workable board (apply.workable.com/api/v1/widget/accounts/lockthreat) confirms the only US AE role is 'Enterprise Account Executive' (Atlanta/NYC
 Lytx,claude,69,2026-07-02,Y,has open qualifying role
-Mabl,claude,83,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
+Mabl,claude,83,2026-09-14,Y,AE in latest.csv; confirmed live
 Maintainx,claude,91,2026-08-19,Y,re-verified 2026-08-19: AE role still live
 Maxio,claude,82,2026-08-11,N,has open qualifying role
 Mercury,claude,94,2026-08-17,Y,"Senior AE - Credit & Lending, Remote US, base $153-212K"
@@ -1681,54 +1681,54 @@ BizzyCar,repvue,83,2026-09-14,N,ATS unresolved (GH bizzycar 404)
 Concentra,repvue,83,2026-09-14,N,not B2B SaaS (occupational medicine clinic network)
 project44,repvue,83,2026-09-14,N,"Ashby board empty, no AE roles as of 2026-09-14"
 Tock,repvue,83,2026-09-14,N,acquired by Squarespace (2023); no longer standalone B2B SaaS
-Orthofix,repvue,83,2026-07-31,N,not B2B SaaS (orthopedic medical device company)
-Aqua Security,repvue,83,2026-07-27,N,ATS unresolved (GH/Ashby 404 for multiple slug attempts)
-Schoox,repvue,83,2026-07-27,N,ATS unresolved (Ashby 404)
-Moxo,repvue,83,2026-07-27,N,ATS unresolved (Ashby 'moxo'/'moxtra' 404)
-Wagepoint,repvue,83,2026-07-27,N,"Canadian payroll SaaS, Canada SMB market - permanent"
-TigerConnect,repvue,83,2026-07-27,N,ATS unresolved (Workable 404)
-QTS Data Centers,repvue,83,2026-07-31,N,not B2B SaaS (data center REIT)
-BeyondTrust,repvue,83,2026-07-27,N,hybrid (Atlanta/Boston offices required)
-SupplyPike,repvue,83,2026-07-27,N,ATS unresolved (GH 404)
-Cognex,repvue,83,2026-07-31,N,not B2B SaaS (industrial vision hardware)
-Userpilot,repvue,83,2026-07-27,N,hybrid in Austin TX (3 days in-office)
-ASSA ABLOY Group,repvue,83,2026-07-31,N,not B2B SaaS (door hardware manufacturer)
-Encompass Technologies,repvue,83,2026-07-31,N,ATS unresolved
-StackAdapt,repvue,83,2026-07-27,Y,"US-remote AE (GH stackadapt, eCommerce AE ID 4230062009); AI-powered programmatic ad SaaS; OTE not disclosed; added to latest.csv"
-Papirfly,repvue,83,2026-07-27,N,ATS unresolved (GH 'papirfly' 404)
-Commerce7,repvue,83,2026-07-31,N,ATS unresolved (GH 404; niche winery SaaS)
-Zuora,repvue,83,2026-07-27,N,no US-remote AE; location-specific AEs only (Tokyo/SF/Atlanta-Boston-NY)
-vCita,repvue,83,2026-07-31,N,ATS unresolved (Ashby 404)
-Alza,repvue,83,2026-07-31,N,ATS unresolved
-Nuvo,repvue,83,2026-07-31,N,ATS unresolved
-Plastiq,repvue,83,2026-07-27,N,B2B payments; financial difficulties; ATS unresolved
-"Brainstorm, Inc",repvue,83,2026-07-31,N,corporate L&D training services; not B2B SaaS product
-Clari,repvue,83,2026-07-27,N,Lever board empty (0 postings) as of 2026-07-27
-demandDrive,repvue,83,2026-07-31,N,lead gen agency; not B2B SaaS
-Centric Software,repvue,83,2026-07-27,N,ATS unresolved (Workday JS-only)
+Orthofix,repvue,83,2026-09-14,N,not B2B SaaS (orthopedic medical devices)
+Aqua Security,repvue,83,2026-09-14,N,ATS unresolved
+Schoox,repvue,83,2026-09-14,N,ATS unresolved
+Moxo,repvue,83,2026-09-14,N,ATS unresolved
+Wagepoint,repvue,83,2026-09-14,N,ATS unresolved
+TigerConnect,repvue,83,2026-09-14,Y,AE in latest.csv; HTTP_LIVE confirmed
+QTS Data Centers,repvue,83,2026-09-14,N,not B2B SaaS (data center REIT)
+BeyondTrust,repvue,83,2026-09-14,N,EMEA AE only; no US remote role
+SupplyPike,repvue,83,2026-09-14,N,ATS unresolved
+Cognex,repvue,83,2026-09-14,N,not pure SaaS (machine vision hardware)
+Userpilot,repvue,83,2026-09-14,N,ATS unresolved
+ASSA ABLOY Group,repvue,83,2026-09-14,N,not B2B SaaS (physical security hardware)
+Encompass Technologies,repvue,83,2026-09-14,N,ATS unresolved
+StackAdapt,repvue,83,2026-09-14,Y,AE in latest.csv; confirmed live
+Papirfly,repvue,83,2026-09-14,N,ATS unresolved
+Commerce7,repvue,83,2026-09-14,N,ATS unresolved (winery commerce niche)
+Zuora,repvue,83,2026-09-14,N,"Enterprise only, office-based"
+vCita,repvue,83,2026-09-14,N,ATS unresolved (SMB-focused)
+Alza,repvue,83,2026-09-14,N,ATS unresolved (company identity unclear)
+Nuvo,repvue,83,2026-09-14,N,ATS unresolved
+Plastiq,repvue,83,2026-09-14,N,acquired by Priority Technology Holdings 2023
+"Brainstorm, Inc",repvue,83,2026-09-14,N,ATS unresolved
+Clari,repvue,83,2026-09-14,N,no US IC AE (EMEA Enterprise Director only on Lever)
+demandDrive,repvue,83,2026-09-14,N,not B2B SaaS (demand gen services agency)
+Centric Software,repvue,83,2026-09-14,N,ATS unresolved
 OpenGov,repvue,83,2026-09-10,N,speedrun board: not flagged remote
-CarMax,repvue,83,2026-07-31,N,not B2B SaaS (used car retailer)
-Supermove,repvue,83,2026-07-27,N,ATS unresolved (Ashby 404)
-Mendix,repvue,83,2026-07-27,N,no AE roles; only Engagement Managers on Lever; UK/EU roles only
-Binary Stream,repvue,83,2026-07-27,N,Microsoft ISV - permanent
-McGraw Hill,repvue,83,2026-07-27,N,"education publisher, not traditional B2B SaaS - permanent"
-Mulesoft (Salesforce),repvue,83,2026-07-27,N,Salesforce subsidiary - permanent
-Expedia,repvue,83,2026-07-31,N,consumer/corporate travel; not B2B SaaS
-Applied Medical,repvue,83,2026-07-31,N,not B2B SaaS (medical devices/hardware)
-Ascentis,repvue,83,2026-07-31,N,acquired by UKG 2021
-Creyos,repvue,83,2026-07-27,N,ATS unresolved (Ashby 404)
-ITS Logistics,repvue,83,2026-07-31,N,not B2B SaaS (3PL logistics services)
-Amobee,repvue,83,2026-07-31,N,ad tech; acquired by Digital Turbine 2022
-Alchemer,repvue,83,2026-07-27,N,AE role office-based Louisville CO (unchanged)
-Twilio Segment,repvue,83,2026-07-25,N,re-check 2026-07-25: no US AE roles (AU/MX/UK/JP only)
-Sensitech,repvue,83,2026-07-31,N,not B2B SaaS (supply chain monitoring; Carrier subsidiary)
-Amazon Advertising,repvue,83,2026-07-27,N,"Amazon division, not standalone B2B SaaS - permanent"
-Instacart,repvue,83,2026-07-31,N,not B2B SaaS (consumer grocery delivery)
-Feedonomics,repvue,83,2026-07-27,N,BigCommerce subsidiary - permanent
-Snyk,repvue,83,2026-07-27,N,no qualifying IC AE US-remote; only Director and LATAM roles
-Acima,repvue,83,2026-07-31,N,not B2B SaaS (consumer rent-to-own)
-Boehringer Ingelheim,repvue,83,2026-07-31,N,not B2B SaaS (pharmaceutical company)
-TeachTown,repvue,83,2026-07-31,N,ATS unresolved; special ed software; niche market
+CarMax,repvue,83,2026-09-14,N,not B2B SaaS (car retail)
+Supermove,repvue,83,2026-09-14,N,ATS unresolved
+Mendix,repvue,83,2026-09-14,N,"ATS unresolved (Siemens-owned, likely Enterprise-only)"
+Binary Stream,repvue,83,2026-09-14,N,ATS unresolved
+McGraw Hill,repvue,83,2026-09-14,N,not B2B SaaS (education publisher)
+Mulesoft (Salesforce),repvue,83,2026-09-14,N,Salesforce subsidiary; no standalone AE
+Expedia,repvue,83,2026-09-14,N,not B2B SaaS
+Applied Medical,repvue,83,2026-09-14,N,not B2B SaaS (medical devices)
+Ascentis,repvue,83,2026-09-14,N,acquired by UKG 2021
+Creyos,repvue,83,2026-09-14,N,ATS unresolved
+ITS Logistics,repvue,83,2026-09-14,N,not B2B SaaS (logistics services)
+Amobee,repvue,83,2026-09-14,N,acquired by Tremor Video 2022
+Alchemer,repvue,83,2026-09-14,N,"AE not remote (Louisville, CO only)"
+Twilio Segment,repvue,83,2026-09-14,N,segment board 404; Twilio parent AE for Communications not CDP
+Sensitech,repvue,83,2026-09-14,N,Carrier Global subsidiary
+Amazon Advertising,repvue,83,2026-09-14,N,Amazon business unit
+Instacart,repvue,83,2026-09-14,N,not B2B SaaS (consumer grocery)
+Feedonomics,repvue,83,2026-09-14,N,ATS unresolved
+Snyk,repvue,83,2026-09-14,N,ATS unresolved
+Acima,repvue,83,2026-09-14,N,not B2B SaaS (consumer rent-to-own)
+Boehringer Ingelheim,repvue,83,2026-09-14,N,not B2B SaaS (pharmaceutical)
+TeachTown,repvue,83,2026-09-14,N,ATS unresolved
 D2IQ,repvue,83,2026-07-27,N,ATS unresolved (Ashby 404)
 Perpetua,repvue,83,2026-07-27,N,ATS unresolved (Lever 404)
 Trace3,repvue,83,2026-07-31,N,not B2B SaaS (IT solutions integrator/VAR)
@@ -6512,7 +6512,7 @@ McMaster-Carr,repvue,,2026-09-02,N,not B2B SaaS; industrial distribution
 Simpson Strong-Tie,repvue,,2026-09-02,N,not B2B SaaS; construction hardware manufacturer
 Sourcerer AI,a16z-speedrun,,2026-09-02,N,ATS unresolved; very small/unknown startup
 Spherecast,a16z-speedrun,,2026-09-02,N,Munich-based startup; no US AE roles
-Summer,a16z-speedrun,,2026-09-14,N,ATS unresolved (summer.com ENOTFOUND)
+Summer,a16z-speedrun,,2026-09-14,N,no AE posting (resume drop only)
 Sunday Robotics,a16z-speedrun,,2026-09-02,N,consumer household robotics (Memo); not B2B
 Supernova Technology,a16z-speedrun,,2026-09-02,N,fintech consulting/services; ATS unresolved
 Taya,a16z-speedrun,,2026-09-02,N,ATS unresolved
