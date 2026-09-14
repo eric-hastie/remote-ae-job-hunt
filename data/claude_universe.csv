@@ -3338,7 +3338,7 @@
 "Lusha Systems Inc","repvue","79","2026-08-07","N","ATS unresolved; searched GH/Ashby/Lever; not found; B2B contact data SaaS; checked 2026-08-07"
 "Pfizer Inc","repvue","79","2026-07-16","N","not B2B SaaS; pharmaceutical manufacturer"
 "Nuspire","repvue","79","2026-08-08","N","GH/Ashby/Lever checked; no AE found; managed security/MSSP"
-"HG Insights","repvue","79","2026-07-16","Y","AE - New Business, MM, Remote US; GH 7772288003"
+"HG Insights","repvue","79","2026-09-14","N","AE posting (GH 7772288003) dead, no qualifying replacement; role closed"
 "NexHealth","repvue","79","2026-08-04","Y","AE roles live for Austin TX and SF CA (GH board nexhealth); Remote AE (5597810004) dead; NYC AE (6115664004) dead"
 "PeerSpot","repvue","79","2026-08-08","N","GH/Ashby/Lever checked; no AE found; B2B peer review platform"
 "LRN","repvue","79","2026-08-07","N","GH 404; ATS unresolved; no IC AE confirmed; compliance training SaaS; checked 2026-08-07"
@@ -6631,3 +6631,4 @@
 "ResponsePro","wellfound","","2026-09-14","N","1099 commission-only contractor role ($27.5K-$80K); not an IC AE employee role"
 "Dreamdata","funding-news","","2026-09-14","N","ATS unresolved; all 404s on Greenhouse/Ashby/Lever API checks"
 "Peregrine Technologies","funding-news","","2026-09-14","Y","Senior AE Midwest (IN+MI) Remote; $135K-$165K base; Ent segment; public safety B2B SaaS AI platform"
+"Pangram Labs","repvue","","2026-09-14","N","AE posting (Ashby 376ff547) dead, no qualifying replacement found"
