@@ -1062,7 +1062,7 @@ Spring Health,repvue,85.26,2026-09-07,N,no AE on Greenhouse springhealth66 board
 BoomTown ROI,repvue,85.25,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
 Palo Alto Networks,repvue,85.25,2026-09-07,N,ATS unresolved; too large for accessible API; rechecked 2026-09-07
 Keela,repvue,85.24,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
-ElevenLabs,repvue,85.24,2026-09-10,Y,Account Executive - Enterprise (Ent)
+ElevenLabs,repvue,85.24,2026-09-15,N,AE posting dead; no qualifying US replacement (international only)
 AssetWatch,repvue,85.24,2026-09-07,N,ATS unresolved (Lever 404); no qualifying AE confirmed; rechecked 2026-09-07
 LeagueApps,repvue,85.23,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
 Bausch and Lomb,repvue,85.23,2026-09-07,N,not B2B SaaS (pharma/consumer eye care); permanent skip
@@ -3851,7 +3851,7 @@ InterSystems,repvue,78,2026-08-11,Y,"Enterprise AE Health Plans, Boston MA; GH j
 Coralogix,repvue,78,2026-08-11,Y,Enterprise AE Boston MA; OTE $280-320K; Comeet ATS; 5+ yrs req
 Sonrai Security,repvue,78,2026-08-11,Y,MM/Ent cloud security AE; remote; already in latest.csv
 Squiz,repvue,78,2026-08-11,Y,MM/Ent digital experience platform AE; remote; already in latest.csv
-Relay Payments,repvue,78,2026-08-11,Y,Ent fleet payments AE; remote; already in latest.csv
+Relay Payments,repvue,78,2026-09-15,N,AE posting dead; no qualifying US replacement (Atlanta GA only)
 PatientPop (now Tebra),repvue,78,2026-08-11,Y,SMB healthcare AE; remote; already in latest.csv
 PerformYard,repvue,78,2026-08-11,Y,SMB/MM performance management AE; remote; already in latest.csv
 Atmosphere,repvue,78,2026-09-05,N,AE posting dead; no replacement; no IC AE on board
@@ -6633,3 +6633,5 @@ Dreamdata,funding-news,,2026-09-14,N,ATS unresolved; all 404s on Greenhouse/Ashb
 Peregrine Technologies,funding-news,,2026-09-14,Y,Senior AE Midwest (IN+MI) Remote; $135K-$165K base; Ent segment; public safety B2B SaaS AI platform
 Pangram Labs,repvue,,2026-09-14,N,"AE posting (Ashby 376ff547) dead, no qualifying replacement found"
 Drivetrain,ats-devtools,,2026-09-15,Y,Account Executive - CFO Solutions (United States); MM/Ent; US Remote; Lever f70cc800-2b65-460f-879a-9623ea2ed7d2; FP&A SaaS; OTE undisclosed; posted 2025-01-22
+TheGuarantors,ats-fintech,,2026-09-15,Y,Senior AE; Remote US; MM/Ent; OTE $180K-$235K; fintech lease guarantee / renter underwriting; B2B SaaS
+Scratch Financial,ats-fintech,,2026-09-15,N,No AE role; has SDR + Dir of Strategic Partnerships only; patient financing lender
