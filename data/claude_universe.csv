@@ -1122,7 +1122,7 @@ Kpler,repvue,84.96,2026-09-08,Y,Maritime/Shipping AE (Remote US + NYC); Lever c8
 Textline,repvue,84.96,2026-09-08,N,2026-09-08 recheck: ATS unresolved
 Quantivate,repvue,84.96,2026-09-08,N,2026-09-08 recheck: ATS unresolved
 OpenAsset,repvue,84.96,2026-09-08,N,2026-09-08 recheck: ATS unresolved
-n8n,repvue,84.96,2026-08-26,N,AE role expired; board shows only SDR/Enablement 2026-08-26
+n8n,repvue,84.96,2026-09-15,N,Ashby board confirmed no AE; SDR/Enablement/Growth Eng only; re-confirmed 2026-09-15
 Divvy Homes,repvue,84.95,2026-09-08,N,not B2B SaaS (rent-to-own housing); permanent skip
 Clarabridge,repvue,84.95,2026-09-08,N,acquired by Qualtrics 2021; permanent skip
 Voxpopme,repvue,84.95,2026-09-08,N,jobs hosted on own careers site only; no ATS API URL obtainable
@@ -6632,3 +6632,4 @@ ResponsePro,wellfound,,2026-09-14,N,1099 commission-only contractor role ($27.5K
 Dreamdata,funding-news,,2026-09-14,N,ATS unresolved; all 404s on Greenhouse/Ashby/Lever API checks
 Peregrine Technologies,funding-news,,2026-09-14,Y,Senior AE Midwest (IN+MI) Remote; $135K-$165K base; Ent segment; public safety B2B SaaS AI platform
 Pangram Labs,repvue,,2026-09-14,N,"AE posting (Ashby 376ff547) dead, no qualifying replacement found"
+Drivetrain,ats-devtools,,2026-09-15,Y,Account Executive - CFO Solutions (United States); MM/Ent; US Remote; Lever f70cc800-2b65-460f-879a-9623ea2ed7d2; FP&A SaaS; OTE undisclosed; posted 2025-01-22
