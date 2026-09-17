@@ -24,7 +24,7 @@ air-space-intelligence,Air Space Intelligence,,0,onsite-leaning,engineering|mark
 airbound,Airbound,,0,onsite-leaning,design|engineering|marketing|operations|other,backed-by-lightspeed,name-unresolved
 airgarage,Airgarage,,0,remote-first,marketing|operations|other,a16z-portfolio|backed-by-abstract-ventures|enterprise-b2b|new-this-week|remote|remote-first,name-unresolved
 airops,Airops,,0,hybrid-friendly,engineering|marketing|operations|other|product|research|sales,backed-by-greylock-partners,name-unresolved
-airslate,Airslate,,0,remote-first,engineering|operations|other|product,backed-by-general-catalyst,name-unresolved
+airslate,Airslate,,0,remote-first,engineering|marketing|operations|other|product,backed-by-general-catalyst,name-unresolved
 aiwyn,Aiwyn,,0,remote-first,engineering|marketing|operations|product,backed-by-bessemer-ventures,name-unresolved
 akasa,Akasa,,0,onsite-leaning,engineering|operations|other|product|sales,a16z-portfolio|health-bio|remote,name-unresolved
 akuna-capital,Akuna Capital,,0,onsite-leaning,engineering|other|research,early-career,name-unresolved
@@ -45,7 +45,7 @@ ambarella,Ambarella,,0,onsite-leaning,design|engineering,early-career,name-unres
 ambience-healthcare,Ambience Healthcare,,0,hybrid-friendly,engineering|marketing|operations|other|product|research,a16z-portfolio|backed-by-kleiner-perkins|health-bio|new-this-week|remote,name-unresolved
 ambient,Ambient,,0,hybrid-friendly,engineering|marketing|other|product|research|sales,a16z-portfolio|boston|defense|los-angeles|new-this-week|new-york|remote,name-unresolved
 ambral,Ambral,,0,onsite-leaning,engineering|research,yc-s25,name-unresolved
-amentum,Amentum,,0,onsite-leaning,design|engineering|operations|other,early-career|new-this-week,name-unresolved
+amentum,Amentum,,0,onsite-leaning,design|engineering|other,early-career|new-this-week,name-unresolved
 ameren,Ameren,,0,onsite-leaning,engineering|marketing|operations|other,early-career,name-unresolved
 american-university,American University,,0,onsite-leaning,marketing|operations|other|research,early-career,name-unresolved
 amgen,Amgen,,0,hybrid-friendly,engineering|marketing|operations|other|sales,early-career|new-this-week|remote,name-unresolved
@@ -54,7 +54,7 @@ amperos,Amperos,,0,hybrid-friendly,design|engineering|operations|other|product|r
 amyris,Amyris,,0,onsite-leaning,engineering|operations|other,backed-by-khosla-ventures,name-unresolved
 anagram,Anagram,,0,remote-first,marketing,backed-by-general-catalyst,name-unresolved
 analog-devices,Analog Devices,,0,onsite-leaning,design|engineering|operations|other,early-career|new-this-week,name-unresolved
-ancestry,Ancestry,,0,hybrid-friendly,design|engineering|other,early-career|remote,name-unresolved
+ancestry,Ancestry,,0,hybrid-friendly,design|engineering|other,early-career|new-this-week|remote,name-unresolved
 anchorage,Anchorage,,1,remote-first,engineering|marketing|operations|other|sales,a16z-portfolio|miami|remote|remote-first,name-unresolved
 andesite,Andesite,,0,remote-first,other,backed-by-general-catalyst,name-unresolved
 ando,Ando,,0,onsite-leaning,design|engineering|operations|research,backed-by-index-ventures,name-unresolved
@@ -135,13 +135,13 @@ axq-capital,Axq Capital,,0,onsite-leaning,operations|research,early-career|new-y
 b12,B12,,0,hybrid-friendly,design|marketing,backed-by-general-catalyst,name-unresolved
 baba,Baba,,0,hybrid-friendly,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,name-unresolved
 backflip-ai,Backflip Ai,,0,onsite-leaning,engineering,a16z-portfolio|devtools-infra,name-unresolved
-backstory,Backstory,,1,remote-first,engineering|operations|product|sales,a16z-portfolio|remote|remote-first,name-unresolved
+backstory,Backstory,,1,remote-first,engineering|product|sales,a16z-portfolio|remote|remote-first,name-unresolved
 baker-hughes,Baker Hughes,,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,early-career|new-this-week,name-unresolved
 bamboohr-llc,Bamboohr Llc,,0,hybrid-friendly,engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,name-unresolved
 bank-of-montreal,Bank Of Montreal,,0,onsite-leaning,engineering|marketing|operations|other|research,early-career|london|new-this-week|new-york|seattle,name-unresolved
 bankjoy,Bankjoy,,0,remote-first,engineering|operations|product|sales,backed-by-bessemer-ventures,name-unresolved
 baro,Baro,,0,onsite-leaning,engineering,enterprise-b2b|founding-roles|new-york|speedrun-companies,name-unresolved
-barry-wehmiller,Barry Wehmiller,,0,onsite-leaning,engineering|other,early-career|new-this-week,name-unresolved
+barry-wehmiller,Barry Wehmiller,,0,onsite-leaning,engineering|operations|other,early-career|new-this-week,name-unresolved
 base-power-company,Base Power Company,,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|austin|backed-by-lightspeed|early-career|energy-climate|hiring-in-volume|new-this-week|remote,name-unresolved
 baseten,Baseten,,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-greylock-partners,name-unresolved
 basis,Basis,,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-khosla-ventures,name-unresolved
@@ -222,12 +222,12 @@ campfire,Campfire,,0,onsite-leaning,engineering|marketing|operations|other|produ
 campus,Campus,,0,onsite-leaning,engineering|marketing|operations|other|product,backed-by-general-catalyst,name-unresolved
 canonical,Canonical,,0,onsite-leaning,engineering|marketing|operations|other|product|research|sales,early-career,name-unresolved
 cantina,Cantina,,0,onsite-leaning,engineering|marketing|other|product|research,a16z-portfolio|consumer-social|early-career|los-angeles|remote,name-unresolved
-cape,Cape,,1,onsite-leaning,engineering|marketing|operations|other|research|sales,a16z-portfolio|defense|new-this-week|new-york|remote,name-unresolved
+cape,Cape,,1,onsite-leaning,engineering|marketing|operations|other|sales,a16z-portfolio|defense|new-this-week|new-york|remote,name-unresolved
 capi-money,Capi Money,,0,onsite-leaning,operations|other,yc-s23,name-unresolved
 capitolis,Capitolis,,0,onsite-leaning,engineering|operations,backed-by-index-ventures,name-unresolved
 capy,Capy,,0,onsite-leaning,design|engineering,yc-f24,name-unresolved
 cargo,Cargo,,0,hybrid-friendly,engineering|product|research|sales,yc-s23,name-unresolved
-cargo-one,Cargo One,,0,remote-first,engineering|marketing|operations,backed-by-bessemer-ventures|backed-by-index-ventures,name-unresolved
+cargo-one,Cargo One,,0,remote-first,engineering|operations,backed-by-bessemer-ventures|backed-by-index-ventures,name-unresolved
 carta,Carta,,7,onsite-leaning,engineering|marketing|operations|other|sales,a16z-portfolio|early-career|london|new-this-week|new-york|seattle,name-unresolved
 cartesia,Cartesia,,0,onsite-leaning,engineering|operations|research|sales,backed-by-general-catalyst|backed-by-index-ventures|backed-by-kleiner-perkins|backed-by-lightspeed,name-unresolved
 carwow,Carwow,,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-bessemer-ventures,name-unresolved
@@ -300,7 +300,7 @@ compound-eye,Compound Eye,,0,remote-first,engineering|marketing|research,backed-
 conagra-brands,Conagra Brands,,0,onsite-leaning,engineering|operations|other,early-career,name-unresolved
 concourse,Concourse,,1,onsite-leaning,engineering|marketing|other|sales,a16z-portfolio|fintech|founding-roles|new-york,name-unresolved
 conduct,Conduct,,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-index-ventures,name-unresolved
-conductorai,Conductorai,,0,onsite-leaning,engineering|other,a16z-portfolio|backed-by-abstract-ventures|defense|new-york,name-unresolved
+conductorai,Conductorai,,0,onsite-leaning,engineering|other,a16z-portfolio|backed-by-abstract-ventures|defense|early-career|new-this-week|new-york,name-unresolved
 confido,Confido,,0,onsite-leaning,engineering,early-career,name-unresolved
 connectprep,Connectprep,,0,remote-first,other,early-career|remote|remote-first,name-unresolved
 constellation-space,Constellation Space,,0,onsite-leaning,engineering|research|sales,yc-w26,name-unresolved
@@ -310,7 +310,7 @@ convex,Convex,,0,onsite-leaning,design|engineering|marketing|product|sales,a16z-
 cookunity,Cookunity,,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,name-unresolved
 copart,Copart,,0,onsite-leaning,engineering|other,early-career|new-this-week,name-unresolved
 core-main,Core Main,,0,onsite-leaning,other,early-career|new-this-week,name-unresolved
-cosine,Cosine,,0,onsite-leaning,engineering|operations|sales,yc-w23,name-unresolved
+cosine,Cosine,,0,onsite-leaning,engineering|sales,yc-w23,name-unresolved
 counsel-health,Counsel Health,,0,onsite-leaning,design|engineering|operations|other|product|research,a16z-portfolio|backed-by-gv|boston|founding-roles|health-bio|remote,name-unresolved
 cowboy-space-corporation,Cowboy Space Corporation,,0,onsite-leaning,design|engineering|marketing|operations|other,a16z-portfolio|aero-space|backed-by-index-ventures|early-career|new-this-week,name-unresolved
 cradle,Cradle,,0,onsite-leaning,design|engineering|operations|research|sales,backed-by-index-ventures,name-unresolved
@@ -323,7 +323,7 @@ crosby,Crosby,,0,onsite-leaning,engineering|marketing|operations|product|researc
 crossfit,Crossfit,,0,hybrid-friendly,operations|other,backed-by-general-catalyst,name-unresolved
 crossing-minds,Crossing Minds,,0,hybrid-friendly,engineering|marketing|operations|product,backed-by-index-ventures,name-unresolved
 crucibl,Crucibl,,0,onsite-leaning,engineering|other|product|research,backed-by-khosla-ventures,name-unresolved
-crux,Crux,,0,remote-first,engineering|marketing|operations|other|sales,a16z-portfolio|energy-climate|remote|remote-first,name-unresolved
+crux,Crux,,0,remote-first,engineering|operations|other|sales,a16z-portfolio|energy-climate|remote|remote-first,name-unresolved
 ctgt,Ctgt,,0,onsite-leaning,engineering,yc-f24,name-unresolved
 culdesac,Culdesac,,0,onsite-leaning,operations,backed-by-khosla-ventures,name-unresolved
 culture-amp,Culture Amp,,0,onsite-leaning,design|engineering|marketing|operations|other|research|sales,backed-by-index-ventures,name-unresolved
@@ -435,7 +435,7 @@ everlaw,Everlaw,,8,onsite-leaning,design|engineering|operations|other|product|sa
 every,Every,,0,remote-first,sales,yc-s23,name-unresolved
 evvy,Evvy,,0,onsite-leaning,design|engineering|marketing|operations|other|research,backed-by-general-catalyst,name-unresolved
 exa,Exa,,2,onsite-leaning,design|engineering|marketing|operations|research|sales,a16z-portfolio|ai-infra|backed-by-lightspeed|early-career|london|new-this-week|new-york,name-unresolved
-exowatt,Exowatt,,0,onsite-leaning,design|engineering|operations,a16z-portfolio|austin|miami,name-unresolved
+exowatt,Exowatt,,0,onsite-leaning,design|engineering|operations,a16z-portfolio|austin|miami|new-this-week,name-unresolved
 expedia-group,Expedia Group,,0,onsite-leaning,engineering|operations|other|research|sales,early-career,name-unresolved
 expel,Expel,,0,hybrid-friendly,engineering|marketing|operations|other|product|sales,backed-by-index-ventures,name-unresolved
 extend,Extend,,0,onsite-leaning,engineering|marketing|research|sales,yc-w23,name-unresolved
@@ -448,7 +448,7 @@ fal,Fal,,1,onsite-leaning,design|engineering|marketing|operations|other|sales,a1
 farfetch,Farfetch,,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-index-ventures,name-unresolved
 faros-ai,Faros Ai,,0,onsite-leaning,engineering,early-career,name-unresolved
 farther-finance,Farther Finance,,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-khosla-ventures,name-unresolved
-favorited,Favorited,,0,onsite-leaning,design|engineering|marketing|other|product,backed-by-abstract-ventures|consumer-social|los-angeles|speedrun-companies,name-unresolved
+favorited,Favorited,,0,onsite-leaning,design|engineering|marketing|operations|other|product,backed-by-abstract-ventures|consumer-social|los-angeles|new-this-week|speedrun-companies,name-unresolved
 feathery,Feathery,,0,onsite-leaning,engineering|marketing|other|sales,backed-by-index-ventures,name-unresolved
 ferrovial,Ferrovial,,0,onsite-leaning,design|operations,austin|early-career|london|new-york,name-unresolved
 fhlbank-topeka,Fhlbank Topeka,,0,onsite-leaning,operations,early-career,name-unresolved
@@ -585,7 +585,7 @@ heron-power,Heron Power,,0,onsite-leaning,design|engineering|operations|other|sa
 hewlett-packard,Hewlett Packard,,0,onsite-leaning,product,austin|early-career,name-unresolved
 hewlett-packard-enterprise,Hewlett Packard Enterprise,,0,onsite-leaning,design|engineering|other|product|research,early-career,name-unresolved
 highlight,Highlight,,0,onsite-leaning,design|engineering|operations,backed-by-general-catalyst,name-unresolved
-hilbert,Hilbert,,1,hybrid-friendly,engineering|marketing|operations|other|sales,a16z-portfolio|enterprise-b2b|london|new-this-week|new-york|remote,name-unresolved
+hilbert,Hilbert,,1,hybrid-friendly,engineering|marketing|operations|other|product|sales,a16z-portfolio|enterprise-b2b|london|new-this-week|new-york|remote,name-unresolved
 hilcorp,Hilcorp,,0,onsite-leaning,operations,early-career,name-unresolved
 hipp-health,Hipp Health,,0,remote-first,engineering,early-career|remote|remote-first,name-unresolved
 hippocratic-ai,Hippocratic Ai,,0,hybrid-friendly,engineering|marketing|operations|other|research|sales,a16z-portfolio|backed-by-general-catalyst|health-bio|new-this-week|remote|seattle,name-unresolved
@@ -693,12 +693,12 @@ kinetic-systems,Kinetic Systems,,0,onsite-leaning,engineering,early-career,name-
 kla,Kla,,0,onsite-leaning,engineering,early-career,name-unresolved
 kla-corporation,Kla Corporation,,0,onsite-leaning,design|operations|other,early-career,name-unresolved
 knownwell,Knownwell,,0,hybrid-friendly,operations|other,a16z-portfolio|new-this-week|new-york|remote,name-unresolved
-kobo,Kobo,,0,onsite-leaning,engineering|other,early-career,name-unresolved
+kobo,Kobo,,0,onsite-leaning,engineering,early-career,name-unresolved
 kobold-metals,Kobold Metals,,0,remote-first,engineering|operations|other|research|sales,a16z-portfolio|remote|remote-first,name-unresolved
 kodex,Kodex,,1,remote-first,operations|product|sales,a16z-portfolio|boston|defense|new-this-week|remote|remote-first,name-unresolved
 kognitos,Kognitos,,0,onsite-leaning,engineering|sales,backed-by-khosla-ventures,name-unresolved
 komodo-health,Komodo Health,,0,onsite-leaning,engineering|operations|other|product|research|sales,a16z-portfolio|new-this-week|new-york|remote,name-unresolved
-kong,Kong,,12,hybrid-friendly,engineering|marketing|operations|other|sales,a16z-portfolio|backed-by-index-ventures|devtools-infra|london|new-this-week|new-york|remote,name-unresolved
+kong,Kong,,12,hybrid-friendly,engineering|marketing|operations|other|product|sales,a16z-portfolio|backed-by-index-ventures|devtools-infra|london|new-this-week|new-york|remote,name-unresolved
 kos-ai,Kos Ai,,0,onsite-leaning,engineering,early-career,name-unresolved
 kraken-robotics,Kraken Robotics,,0,onsite-leaning,operations,early-career,name-unresolved
 krea-ai,Krea Ai,,0,onsite-leaning,engineering|operations|other|research,a16z-portfolio|backed-by-abstract-ventures|devtools-infra|founding-roles,name-unresolved
@@ -752,7 +752,7 @@ lottie,Lottie,,0,onsite-leaning,other,backed-by-general-catalyst,name-unresolved
 loula,Loula,,0,onsite-leaning,other,yc-w23,name-unresolved
 loyal,Loyal,,0,remote-first,operations|other|research,backed-by-khosla-ventures,name-unresolved
 lucis,Lucis,,0,onsite-leaning,design|engineering|operations|other|sales,backed-by-general-catalyst|yc-x25,name-unresolved
-luma-ai,Luma Ai,,4,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|london|los-angeles|new-this-week|remote,name-unresolved
+luma-ai,Luma Ai,,3,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|london|los-angeles|new-this-week|remote,name-unresolved
 lumentum,Lumentum,,0,onsite-leaning,design|engineering|other,early-career,name-unresolved
 luminai,Luminai,,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,name-unresolved
 luvu,Luvu,,0,onsite-leaning,engineering|research,ai-infra|founding-roles|speedrun-companies,name-unresolved
@@ -846,7 +846,7 @@ multiverse,Multiverse,,0,onsite-leaning,engineering|marketing|operations|other|s
 munari-labs,Munari Labs,,0,onsite-leaning,engineering,founding-roles|robotics-hardware|speedrun-companies,name-unresolved
 mutiny,Mutiny,,0,onsite-leaning,design|engineering|marketing|operations|sales,backed-by-sequoia-capital,name-unresolved
 mux,Mux,,0,onsite-leaning,operations,a16z-portfolio|devtools-infra|london,name-unresolved
-myheritage,Myheritage,,0,onsite-leaning,engineering|other,backed-by-index-ventures,name-unresolved
+myheritage,Myheritage,,0,onsite-leaning,engineering|operations|other,backed-by-index-ventures,name-unresolved
 mysten-labs,Mysten Labs,,0,remote-first,engineering|operations|sales,a16z-portfolio|backed-by-lightspeed|crypto-web3|new-this-week|remote|remote-first,name-unresolved
 n1,N1,,0,onsite-leaning,engineering,early-career|new-york,name-unresolved
 nace-ai,Nace Ai,,0,onsite-leaning,design|engineering|marketing|operations|other|product|research,backed-by-general-catalyst,name-unresolved
@@ -913,6 +913,7 @@ onyx,Onyx,,0,onsite-leaning,engineering|sales,backed-by-khosla-ventures|yc-w24,n
 op-labs,Op Labs,,1,hybrid-friendly,engineering|marketing|other|product|sales,a16z-portfolio|crypto-web3|new-this-week|new-york|remote,name-unresolved
 opal,Opal,,0,onsite-leaning,engineering|marketing|operations|product|sales,backed-by-greylock-partners,name-unresolved
 openai,Openai,,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,name-unresolved
+openevidence,Openevidence,,0,,engineering|research|sales,a16z-portfolio|miami,name-unresolved
 opengov,Opengov,,12,onsite-leaning,engineering|marketing|operations|other|sales,a16z-portfolio|early-career|enterprise-b2b|new-this-week,name-unresolved
 openrouter,Openrouter,,3,remote-first,engineering|marketing|operations|product|research|sales,a16z-portfolio|ai-infra|new-this-week|remote|remote-first,name-unresolved
 opensea,Opensea,,0,remote-first,design|engineering,a16z-portfolio|backed-by-paradigm|backed-by-sequoia-capital|crypto-web3|remote|remote-first,name-unresolved
@@ -960,7 +961,7 @@ phaidra,Phaidra,,0,remote-first,operations|product|research|sales,backed-by-inde
 phantom,Phantom,,0,remote-first,design|engineering|marketing|operations|sales,a16z-portfolio|backed-by-lightspeed|backed-by-paradigm|crypto-web3|new-this-week|remote|remote-first,name-unresolved
 pharos,Pharos,,0,onsite-leaning,engineering|research,yc-s24,name-unresolved
 philips,Philips,,0,onsite-leaning,design|engineering|marketing|operations|other|research,early-career,name-unresolved
-phinia,Phinia,,0,onsite-leaning,operations|other,early-career,name-unresolved
+phinia,Phinia,,0,onsite-leaning,other,early-career,name-unresolved
 phlair,Phlair,,0,onsite-leaning,engineering|marketing,early-career,name-unresolved
 phonely,Phonely,,0,onsite-leaning,engineering|marketing|operations|product|research|sales,yc-s24,name-unresolved
 phonic,Phonic,,0,onsite-leaning,research,early-career,name-unresolved
@@ -985,7 +986,7 @@ plume,Plume,,0,remote-first,other|product,backed-by-general-catalyst,name-unreso
 pmg,Pmg,,0,onsite-leaning,design|engineering|marketing|other,early-career,name-unresolved
 podium-automation,Podium Automation,,0,onsite-leaning,operations|sales,a16z-portfolio|new-york|robotics-hardware,name-unresolved
 point72,Point72,,0,onsite-leaning,engineering|other|research,early-career|london|new-york,name-unresolved
-pointfive,Pointfive,,0,onsite-leaning,engineering|marketing|operations|sales,backed-by-index-ventures,name-unresolved
+pointfive,Pointfive,,0,onsite-leaning,engineering|marketing|operations|research|sales,backed-by-index-ventures,name-unresolved
 pointone,Pointone,,0,onsite-leaning,engineering|operations|other|sales,yc-w24,name-unresolved
 polychain-capital,Polychain Capital,,0,onsite-leaning,other,a16z-portfolio,name-unresolved
 polygon-technology,Polygon Technology,,0,remote-first,marketing|operations|other,backed-by-lightspeed,name-unresolved
@@ -1084,7 +1085,7 @@ roblox,Roblox,,0,onsite-leaning,design|engineering|marketing|operations|other|pr
 rocket-lab-usa,Rocket Lab Usa,,0,onsite-leaning,design|engineering|marketing|operations|other,early-career|new-this-week,name-unresolved
 rockwell-automation,Rockwell Automation,,0,onsite-leaning,engineering|marketing|operations|other|product,early-career,name-unresolved
 rockwool-group,Rockwool Group,,0,onsite-leaning,other|product,early-career,name-unresolved
-rogers-behavioral-health,Rogers Behavioral Health,,0,onsite-leaning,other|product,early-career,name-unresolved
+rogers-behavioral-health,Rogers Behavioral Health,,0,onsite-leaning,other,early-career,name-unresolved
 rogo,Rogo,,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,name-unresolved
 rollstack,Rollstack,,0,remote-first,engineering|sales,yc-w23,name-unresolved
 roofstock,Roofstock,,0,onsite-leaning,operations|other|product,backed-by-khosla-ventures,name-unresolved
@@ -1103,7 +1104,7 @@ salespatriot,Salespatriot,,0,onsite-leaning,engineering|sales,yc-w25,name-unreso
 salient,Salient,,0,onsite-leaning,design|engineering|operations|other,a16z-portfolio|fintech|founding-roles,name-unresolved
 samaya,Samaya,,0,onsite-leaning,research,early-career,name-unresolved
 samsara,Samsara,,0,remote-first,design|engineering|marketing|operations|other|product|research|sales,backed-by-general-catalyst,name-unresolved
-samsung,Samsung,,0,onsite-leaning,engineering|marketing|other|product|sales,early-career,name-unresolved
+samsung,Samsung,,0,onsite-leaning,engineering|marketing|other|sales,early-career,name-unresolved
 samsung-research-america,Samsung Research America,,0,onsite-leaning,other,early-career|new-this-week,name-unresolved
 sapien,Sapien,,0,onsite-leaning,engineering|marketing|operations|sales,backed-by-general-catalyst,name-unresolved
 sardine,Sardine,,5,remote-first,engineering|operations|other|research|sales,a16z-portfolio|backed-by-gv|fintech|new-this-week|remote|remote-first,name-unresolved
@@ -1228,7 +1229,7 @@ sylvera,Sylvera,,0,onsite-leaning,operations|other|sales,backed-by-index-venture
 synchrony-financial,Synchrony Financial,,0,onsite-leaning,marketing|operations|other,early-career,name-unresolved
 synthesia,Synthesia,,0,hybrid-friendly,design|engineering|marketing|operations|other|product|research|sales,backed-by-kleiner-perkins,name-unresolved
 syzygy,Syzygy,,0,onsite-leaning,sales,speedrun-companies,name-unresolved
-tabs,Tabs,,0,onsite-leaning,engineering|marketing|operations|other|product|sales,backed-by-general-catalyst|backed-by-lightspeed,name-unresolved
+tabs,Tabs,,0,onsite-leaning,engineering|marketing|operations|other|sales,backed-by-general-catalyst|backed-by-lightspeed,name-unresolved
 tactile-games,Tactile Games,,0,onsite-leaning,other|product,backed-by-index-ventures,name-unresolved
 tacto,Tacto,,0,onsite-leaning,design|engineering|marketing|other|product|sales,backed-by-index-ventures|backed-by-sequoia-capital,name-unresolved
 take-two-interactive,Take Two Interactive,,0,onsite-leaning,design|engineering|operations|other|product|sales,backed-by-general-catalyst,name-unresolved
@@ -1239,7 +1240,7 @@ talos,Talos,,0,onsite-leaning,engineering|operations|other|product|sales,a16z-po
 tanium,Tanium,,0,onsite-leaning,engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|new-this-week|remote,name-unresolved
 tavus,Tavus,,0,onsite-leaning,design|engineering|marketing|product|research|sales,backed-by-sequoia-capital,name-unresolved
 tax-relief-advocates,Tax Relief Advocates,,0,onsite-leaning,engineering|operations,early-career,name-unresolved
-taxfix,Taxfix,,0,onsite-leaning,design|engineering|marketing|operations|product|sales,backed-by-index-ventures,name-unresolved
+taxfix,Taxfix,,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-index-ventures,name-unresolved
 taya,Taya,,0,onsite-leaning,engineering,consumer-social|founding-roles|speedrun-companies,name-unresolved
 td-bank,Td Bank,,0,onsite-leaning,other,boston|early-career|hiring-in-volume|london|new-york,name-unresolved
 td-synnex,Td Synnex,,0,onsite-leaning,marketing|operations|other,early-career,name-unresolved
@@ -1440,7 +1441,7 @@ zefir,Zefir,,0,hybrid-friendly,design|engineering|marketing|sales,backed-by-sequ
 zeit-ai,Zeit Ai,,0,onsite-leaning,engineering|marketing|sales,yc-s24,name-unresolved
 zerodrift,Zerodrift,,0,onsite-leaning,engineering|marketing,devtools-infra|new-york|speedrun-companies,name-unresolved
 zettabyte,Zettabyte,,0,onsite-leaning,engineering|marketing,early-career,name-unresolved
-zipline,Zipline,,4,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|austin|early-career|hiring-in-volume|new-this-week|remote,name-unresolved
+zipline,Zipline,,3,onsite-leaning,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|austin|early-career|hiring-in-volume|new-this-week|remote,name-unresolved
 zocdoc,Zocdoc,,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,backed-by-khosla-ventures,name-unresolved
 zoll-medical-corporation,Zoll Medical Corporation,,0,onsite-leaning,engineering|other,early-career|remote,name-unresolved
 zuma,Zuma,,0,hybrid-friendly,design|engineering|operations,a16z-portfolio|remote,name-unresolved
