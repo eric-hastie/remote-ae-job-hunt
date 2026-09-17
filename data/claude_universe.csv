@@ -1929,59 +1929,59 @@ AddShoppers,repvue,82,2026-09-16,N,GH/Ashby all 404; ATS still unresolved
 Reyes Beverage Group,repvue,82,2026-09-16,N,beverage distribution; not B2B SaaS
 IDR Inc,repvue,82,2026-07-04,N,IT staffing firm; not B2B SaaS
 Brazen,repvue,82,2026-09-16,N,GH/Lever all 404; ATS still unresolved (HR virtual events)
-Thyssenkrupp Elevator,repvue,82,2026-07-04,N,elevator manufacturer; not B2B SaaS
-Marqeta,repvue,82,2026-07-25,N,re-check 2026-07-25: ATS unresolved
-Edge Delta,repvue,82,2026-07-31,N,No open positions (careers page empty; Rippling redirects to company site)
-Crelate,repvue,82,2026-08-01,N,Ashby 404; ATS still unresolved
-MyCase,repvue,82,2026-07-31,N,GH board: 0 open jobs
-Doxis,repvue,82,2026-08-01,N,European ECM company (Germany); no US-remote AE expected
-SecureLink (Imprivata),repvue,82,2026-08-01,N,GH Imprivata slug 404; ATS still unresolved
-Hilti,repvue,82,2026-07-04,N,construction tools manufacturer; not B2B SaaS
-CyberSaint Security,repvue,82,2026-08-01,N,ATS still unresolved; not re-fetched
+Thyssenkrupp Elevator,repvue,82,2026-09-17,N,elevator manufacturer; not B2B SaaS; permanent disqualification
+Marqeta,repvue,82,2026-09-17,N,GH board private (API 404); search found AE roles but board unresolvable via API; ATS unresolved re-checked 2026-09-17
+Edge Delta,repvue,82,2026-09-17,N,Ashby 404; ATS still unresolved 2026-09-17
+Crelate,repvue,82,2026-09-17,N,Ashby 404; ATS still unresolved 2026-09-17
+MyCase,repvue,82,2026-09-17,N,GH board: 0 open jobs re-checked 2026-09-17
+Doxis,repvue,82,2026-09-17,N,European ECM company (Germany); no US-remote AE expected; permanent disqualification
+SecureLink (Imprivata),repvue,82,2026-09-17,N,GH Imprivata slug 404; ATS still unresolved 2026-09-17
+Hilti,repvue,82,2026-09-17,N,construction tools manufacturer; not B2B SaaS; permanent disqualification
+CyberSaint Security,repvue,82,2026-09-17,N,GH 404; ATS still unresolved 2026-09-17
 "Boundless, Inc",repvue,82,2026-09-16,N,GH/Ashby all 404; ATS still unresolved
 "RocketReach, LLC",repvue,82,2026-09-16,N,GH board active but 0 open jobs; re-checked 2026-09-16
 "IDR, Inc.",repvue,82,2026-09-16,N,not B2B SaaS (IT staffing/consulting firm)
-First Republic Bank,repvue,82,2026-07-04,N,"not B2B SaaS (bank; failed 2023, acquired by JPMorgan)"
-Immersive Labs,repvue,82,2026-07-31,N,ATS unresolved (Ashby/GH both 404)
-Sprout Social,repvue,82,2026-07-31,N,no AE IC roles on GH board (GTM/marketing/finance only)
-Device Magic,repvue,82,2026-07-04,N,acquired by GoCanvas; JazzHR board: Enterprise AE closed (HTTP 410)
-Quiq,repvue,82,2026-07-31,N,ATS unresolved (Ashby 404); Lever had no IC AE before
-LoginRadius,repvue,82,2026-08-01,N,GH 404 + Lever 404; ATS still unresolved
-Savills,repvue,82,2026-07-04,N,not B2B SaaS (commercial real estate services firm)
-The Clorox Company,repvue,82,2026-07-04,N,not B2B SaaS (consumer goods manufacturer)
-Level AI,repvue,82,2026-07-31,N,ATS unresolved (GH 404); Ashby had no IC AE before
-Adlumin,repvue,82,2026-07-04,N,acquired by N-able; no standalone Adlumin careers board
-Linnworks,repvue,82,2026-07-31,N,Workable board: 0 open positions
-Clay,repvue,82,2026-07-31,N,ATS unresolved (Ashby/Lever/GH all 404)
-"Graylog, Inc.",repvue,82,2026-07-31,N,ATS unresolved (GH 404); Lever had no IC AE before
-Qwick,repvue,,2026-07-04,N,not B2B SaaS (hospitality workforce marketplace model)
-SterlingBackCheck,repvue,82,2026-07-04,N,acquired by First Advantage; Workday ATS unresolved
-Veeva Systems,repvue,82,2026-08-01,N,IC seller title is Account Partner (not AE); custom ATS; still no standard AE title
-Fello,repvue,82,2026-07-04,Y,Senior AE SMB/MM US-Remote on Rippling ATS; real estate marketing/CRM SaaS
-Philips,repvue,82,2026-07-04,N,not B2B SaaS (medical devices/consumer electronics manufacturer)
-E.W. Scripps,repvue,82,2026-07-04,N,not B2B SaaS (media/broadcasting company)
-AppDynamics (Cisco),repvue,82,2026-08-01,N,Cisco subsidiary; ATS still unresolved; not re-fetched
-LedCor,repvue,82,2026-07-04,N,not B2B SaaS (construction company)
-Klaviyo,repvue,82,2026-08-03,Y,AE roles NYC/SF/Denver (office-based/hybrid); added to latest.csv 2026-07-15; no US-remote AE
-Cohesity,repvue,82,2026-07-31,N,ATS unresolved (GH 404; board previously private)
-CHG Healthcare,repvue,82,2026-07-04,N,not B2B SaaS (healthcare staffing)
+First Republic Bank,repvue,82,2026-09-17,N,"not B2B SaaS (bank; failed 2023, acquired by JPMorgan); permanent disqualification"
+Immersive Labs,repvue,82,2026-09-17,N,GH+Lever 404; ATS still unresolved 2026-09-17
+Sprout Social,repvue,82,2026-09-17,N,re-checked 2026-09-17: MM AE exists (GH board) but Chicago office 3 days/week required; not qualifying
+Device Magic,repvue,82,2026-09-17,N,acquired by GoCanvas; permanent disqualification
+Quiq,repvue,82,2026-09-17,N,Lever 404; ATS still unresolved 2026-09-17
+LoginRadius,repvue,82,2026-09-17,N,GH 404 + Lever 404; ATS still unresolved 2026-09-17
+Savills,repvue,82,2026-09-17,N,not B2B SaaS (commercial real estate services firm); permanent disqualification
+The Clorox Company,repvue,82,2026-09-17,N,not B2B SaaS (consumer goods manufacturer); permanent disqualification
+Level AI,repvue,82,2026-09-17,N,Ashby (levelai) 404; ATS still unresolved 2026-09-17
+Adlumin,repvue,82,2026-09-17,N,acquired by N-able; permanent disqualification
+Linnworks,repvue,82,2026-09-17,N,Workable 404; 0 open positions re-checked 2026-09-17
+Clay,repvue,82,2026-09-17,N,Ashby posting-api (claylabs) excludes AE/GTME roles from feed; search found AE postings but URL-capture rules prevent recording from search; needs browser verification 2026-09-17
+"Graylog, Inc.",repvue,82,2026-09-17,N,Lever: empty (0 open positions) re-checked 2026-09-17
+Qwick,repvue,,2026-09-17,N,not B2B SaaS (hospitality workforce marketplace model); permanent disqualification
+SterlingBackCheck,repvue,82,2026-09-17,N,acquired by First Advantage; permanent disqualification
+Veeva Systems,repvue,82,2026-09-17,N,IC seller title is Account Partner (not AE); custom ATS; still N 2026-09-17
+Fello,repvue,82,2026-09-17,Y,Senior AE SMB/MM US-Remote on Rippling ATS; verified live 2026-09-17
+Philips,repvue,82,2026-09-17,N,not B2B SaaS (medical devices/consumer electronics manufacturer); permanent disqualification
+E.W. Scripps,repvue,82,2026-09-17,N,not B2B SaaS (media/broadcasting company); permanent disqualification
+AppDynamics (Cisco),repvue,82,2026-09-17,N,GH 404; Cisco subsidiary; ATS still unresolved 2026-09-17
+LedCor,repvue,82,2026-09-17,N,not B2B SaaS (construction company); permanent disqualification
+Klaviyo,repvue,82,2026-09-17,Y,AE roles NYC/SF/Denver (office-based/hybrid); in latest.csv; verified live 2026-09-17
+Cohesity,repvue,82,2026-09-17,N,GH+Lever 404; ATS still unresolved 2026-09-17
+CHG Healthcare,repvue,82,2026-09-17,N,not B2B SaaS (healthcare staffing); permanent disqualification
 PolyAI,repvue,82,2026-08-19,N,"GH EU 4932846101 DEAD; board now has only Account Manager/BDM roles, no IC AE; dropped 2026-08-19"
-DailyPay,repvue,82,2026-08-03,Y,Enterprise AE US-Remote on Ashby; earned wage access / HR benefits B2B SaaS
-GreatAmerica Financial Services,repvue,82,2026-07-04,N,not B2B SaaS (equipment financing)
-Alphatec Spine,repvue,82,2026-07-04,N,not B2B SaaS (medical devices/spine implants)
-Personio,repvue,82,2026-08-01,N,Own Personio ATS: Account Manager (post-sale) only; no IC AE
-1VALET,repvue,82,2026-08-01,N,Canada-based multifamily tech; not re-fetched
-Metagenics,repvue,82,2026-07-04,N,not B2B SaaS (health supplements/nutraceuticals)
-Landscape Management Network,repvue,82,2026-07-31,N,GH (slug: lmn): 0 open positions
-Carrot Fertility,repvue,82,2026-07-31,N,"GH board: no AE IC roles (Legal, HR, CS, sales-assoc only)"
-PartnerStack,repvue,82,2026-07-31,N,ATS unresolved (GH 404; Lever 404)
-FrSecure,repvue,82,2026-07-04,N,not B2B SaaS (cybersecurity consulting/MSSP services firm)
-Recollective,repvue,82,2026-08-01,N,Canada-based market research; not re-fetched
-Teamworks,repvue,82,2026-07-31,N,ATS unresolved (GH/Lever 404)
-Pexip,repvue,82,2026-08-01,N,Lever 404; ATS still unresolved
-BSN Sports,repvue,82,2026-07-04,N,not B2B SaaS (sports equipment distributor)
-Shakudo,repvue,82,2026-08-01,N,Lever: Menlo Park onsite + Toronto AE; both onsite; no US-remote
-Arcadia,repvue,82,2026-07-31,N,ATS unresolved (GH 404)
+DailyPay,repvue,82,2026-09-17,Y,Enterprise AE US-Remote on Ashby; verified live 2026-09-17
+GreatAmerica Financial Services,repvue,82,2026-09-17,N,not B2B SaaS (equipment financing); permanent disqualification
+Alphatec Spine,repvue,82,2026-09-17,N,not B2B SaaS (medical devices/spine implants); permanent disqualification
+Personio,repvue,82,2026-09-17,N,own ATS: Account Manager (post-sale) only; no IC AE; re-checked 2026-09-17
+1VALET,repvue,82,2026-09-17,N,Canada-based multifamily tech; not US-remote eligible; permanent disqualification
+Metagenics,repvue,82,2026-09-17,N,not B2B SaaS (health supplements/nutraceuticals); permanent disqualification
+Landscape Management Network,repvue,82,2026-09-17,N,GH (slug: lmn): 0 open positions re-checked 2026-09-17
+Carrot Fertility,repvue,82,2026-09-17,N,"GH board: no AE IC roles (Legal, HR, CS, sales-assoc only) re-checked 2026-09-17"
+PartnerStack,repvue,82,2026-09-17,N,GH (partnerstack) API 404; search found AE roles (Canada/Remote) but unverifiable via API 2026-09-17
+FrSecure,repvue,82,2026-09-17,N,not B2B SaaS (cybersecurity consulting/MSSP services firm); permanent disqualification
+Recollective,repvue,82,2026-09-17,N,Canada-based market research; permanent disqualification
+Teamworks,repvue,82,2026-09-17,N,GH+Lever 404; ATS still unresolved 2026-09-17
+Pexip,repvue,82,2026-09-17,N,Lever+Ashby 404; ATS still unresolved 2026-09-17
+BSN Sports,repvue,82,2026-09-17,N,not B2B SaaS (sports equipment distributor); permanent disqualification
+Shakudo,repvue,82,2026-09-17,N,Lever: 2 AE roles (Menlo Park onsite + Toronto onsite); no US-remote; re-checked 2026-09-17
+Arcadia,repvue,82,2026-09-17,N,"Lever: this is Arcadia.io (healthcare software), no AE roles; re-checked 2026-09-17"
 Kevel,repvue,82,2026-08-01,N,GH 404; ATS still unresolved
 Flock Safety,repvue,,2026-08-31,N,speedrun board: not flagged remote
 Cherre,repvue,82,2026-07-31,N,Lever board: General Role only; no IC AE
@@ -6512,7 +6512,7 @@ McMaster-Carr,repvue,,2026-09-02,N,not B2B SaaS; industrial distribution
 Simpson Strong-Tie,repvue,,2026-09-02,N,not B2B SaaS; construction hardware manufacturer
 Sourcerer AI,a16z-speedrun,,2026-09-02,N,ATS unresolved; very small/unknown startup
 Spherecast,a16z-speedrun,,2026-09-02,N,Munich-based startup; no US AE roles
-Summer,a16z-speedrun,,2026-09-16,N,no AE posting (resume drop only); re-checked 2026-09-16
+Summer,a16z-speedrun,,2026-09-17,N,no AE posting (resume drop only); re-checked 2026-09-17
 Sunday Robotics,a16z-speedrun,,2026-09-02,N,consumer household robotics (Memo); not B2B
 Supernova Technology,a16z-speedrun,,2026-09-02,N,fintech consulting/services; ATS unresolved
 Taya,a16z-speedrun,,2026-09-02,N,ATS unresolved
@@ -6641,3 +6641,4 @@ MX Technologies,ats-fintech,,2026-09-16,N,No US-remote AE roles; open roles in L
 EBANX,ats-fintech,,2026-09-16,N,No AE roles on Greenhouse board; Brazilian fintech unicorn (payments)
 EnsoData,repvue,,2026-09-16,N,Workable URL HTTP dead; medical device AE (Midwest regional); no qualifying replacement
 HiveWatch,ats-physical-ai,,2026-09-16,N,"GH board hivewatch: Enterprise AE only, El Segundo CA on-site; no US-remote AE; Physical AI - smart infrastructure/security"
+Lorikeet,claude,,2026-09-17,N,Ashby posting DEAD_ID 2026-09-17; replacement is Sydney AU (not US remote); dropped from latest.csv
