@@ -2037,7 +2037,7 @@ WorkStep,repvue,82,2026-09-18,N,Ashby 404; no AE found via search; ATS still unr
 Softdocs,repvue,82,2026-09-18,N,Lever: Client Support only; no AE
 Boulevard,repvue,82,2026-09-18,N,GH board: no AE roles
 Datanomix,repvue,82,2026-09-18,N,Ashby 404; ATS still unresolved; manufacturing analytics
-Flock,repvue,82,2026-08-01,N,Ashby: Broker Development Manager only (not IC AE)
+Flock,repvue,82,2026-09-18,N,Ashby: AE roles exist but B2G (law enforcement focus); ATS slug broken via API; re-checked 2026-09-18
 Bud,repvue,82,2026-09-18,N,defunct (domain parked)
 Monsido (CivicPlus),repvue,82,2026-09-18,N,Ashby 404; ATS still unresolved; website accessibility
 Performio,repvue,82,2026-09-18,N,GH board: Technical Support only; no AE
@@ -2078,54 +2078,54 @@ Presidio,repvue,82,2026-09-18,N,not B2B SaaS (IT managed services)
 Jaggaer,repvue,82,2026-09-18,N,iCIMS board; Enterprise AE only; no MM; procurement SaaS
 Moogsoft,repvue,82,2026-09-18,N,acquired by Dell Technologies
 Assurant,repvue,82,2026-09-18,N,not B2B SaaS (insurance)
-Zego,repvue,81,2026-07-04,N,acquired by Global Payments
-National Instruments (NI),repvue,81,2026-07-04,N,acquired by Emerson Electric
-Challenger,repvue,81,2026-07-04,N,not B2B SaaS (sales training/consulting firm)
-EAB,repvue,81,2026-08-01,N,Ashby 404; ATS still unresolved; higher education SaaS
-Dandelion Energy,repvue,81,2026-07-04,N,not B2B SaaS (geothermal HVAC)
-CEO Coaching International,repvue,81,2026-07-04,N,not B2B SaaS (executive coaching)
-Common Room,repvue,81,2026-08-01,N,Ashby 404 + GH 404; ATS still unresolved
-igus,repvue,81,2026-07-04,N,not B2B SaaS (hardware manufacturer)
-ABC Glofox,repvue,81,2026-08-03,N,recheck-B 2026-08-03 UNRESOLVED: Real ATS identified as Workday (abcfinancial.wd5.myworkdayjobs.com/ABCFinancialServices) but it's a JS-rendered SPA that WebFetch cannot exe
-Provenir,repvue,81,2026-08-01,N,ATS still unresolved; not re-fetched; fintech SaaS
-Sana Benefits,repvue,81,2026-08-01,N,Lever 404; broker AE only per previous check; not direct IC AE
-BGSF (BG Staffing),repvue,81,2026-07-04,N,not B2B SaaS (staffing firm)
-CoSchedule,repvue,81,2026-08-01,N,ATS still unresolved; marketing software; not re-fetched
-Breakthru Beverage,repvue,81,2026-07-04,N,not B2B SaaS (beverage distribution)
-mPulse Mobile,repvue,81,2026-08-01,N,ATS still unresolved; patient engagement SaaS; not re-fetched
-Funnel,repvue,81,2026-08-01,N,Lever 404 + Lever-io 404; ATS still unresolved; AdTech SaaS
-Revvity,repvue,81,2026-07-04,N,not B2B SaaS (life sciences instruments; rebranded PerkinElmer)
-CipherHealth,repvue,81,2026-08-01,N,GH board: AE exists but 8-15yr req; senior-only; still not qualifying
-Pindrop Security,repvue,81,2026-08-01,N,GH 404 + Ashby 404 + Lever 404; ATS still unresolved
-Verified First,repvue,81,2026-08-01,N,ATS still unresolved; background checks SaaS; not re-fetched
+Zego,repvue,81,2026-09-18,N,acquired by Global Payments
+National Instruments (NI),repvue,81,2026-09-18,N,acquired by Emerson Electric
+Challenger,repvue,81,2026-09-18,N,not B2B SaaS (sales training/consulting firm)
+EAB,repvue,81,2026-09-18,N,GH/Ashby/Lever all 404; ATS still unresolved; higher education SaaS; re-checked 2026-09-18
+Dandelion Energy,repvue,81,2026-09-18,N,not B2B SaaS (geothermal HVAC)
+CEO Coaching International,repvue,81,2026-09-18,N,not B2B SaaS (executive coaching)
+Common Room,repvue,81,2026-09-18,N,GH/Ashby/Lever all 404; JS careers page; Commercial AE seen on aggregator but unverifiable; re-checked 2026-09-18
+igus,repvue,81,2026-09-18,N,not B2B SaaS (hardware manufacturer)
+ABC Glofox,repvue,81,2026-09-18,N,acquired by ABC Fitness Solutions (already in list); SMB AE only ($42-59K); Workable board empty; re-checked 2026-09-18
+Provenir,repvue,81,2026-09-18,N,GH/Ashby/Lever all 404; careers page empty; ATS still unresolved; fintech decisioning SaaS; re-checked 2026-09-18
+Sana Benefits,repvue,81,2026-09-18,N,Lever board active: no direct IC AE (only broker channel AE + clinical/claims roles); re-checked 2026-09-18
+BGSF (BG Staffing),repvue,81,2026-09-18,N,not B2B SaaS (staffing firm)
+CoSchedule,repvue,81,2026-09-18,N,Workable board (coschedule) empty; marketing software; re-checked 2026-09-18
+Breakthru Beverage,repvue,81,2026-09-18,N,not B2B SaaS (beverage distribution)
+mPulse Mobile,repvue,81,2026-09-18,N,GH/Ashby/Workable 404; ATS still unresolved; patient engagement SaaS; re-checked 2026-09-18
+Funnel,repvue,81,2026-09-18,N,GH/Ashby/Lever all 404; ATS still unresolved; AdTech SaaS; re-checked 2026-09-18
+Revvity,repvue,81,2026-09-18,N,not B2B SaaS (life sciences instruments; rebranded PerkinElmer)
+CipherHealth,repvue,81,2026-09-18,N,GH board active: AE exists but 8-15yr acute care req; senior-only; re-checked 2026-09-18
+Pindrop Security,repvue,81,2026-09-18,N,GH board (pindropsecurity) active: no AE roles (marketing/finance/PM/engineering only); re-checked 2026-09-18
+Verified First,repvue,81,2026-09-18,N,Workable (verified-first-llc) board found but empty; ATS confirmed; no AE; re-checked 2026-09-18
 Brink’s Inc,repvue,81,2026-07-04,N,not B2B SaaS (security transport company)
-Bitwarden,repvue,81,2026-07-04,Y,MM AE (GH 7789818003) + Ent AE (7789345003); US-remote; 4-8yr
-Maltego Technologies,repvue,81,2026-08-08,N,Ashby 404; ATS still unresolved; OSINT security
-QGenda,repvue,81,2026-08-01,N,GH board active: no AE roles (BDR/PM/Impl/Data only)
-Fitch Solutions,repvue,81,2026-08-01,N,Not startup B2B SaaS (Fitch Group subsidiary; financial data)
-Ncontracts,repvue,81,2026-08-01,N,Ashby board: BDR + ABM only; no AE role
-Rossum,repvue,81,2026-08-01,N,GH 404 + Ashby 404; ATS still unresolved; Prague-based AP automation
-Skillable,repvue,81,2026-08-01,N,Lever 404 + Ashby 404 + GH 404; ATS still unresolved
-Qwilr,repvue,81,2026-08-01,N,Ashby board active but empty (0 jobs currently)
-Skill Dynamics,repvue,81,2026-08-01,N,ATS still unresolved; eLearning; not re-fetched
-ContactMonkey,repvue,81,2026-08-01,N,Lever 404; ATS still unresolved; internal comms SaaS
-Currax Pharmaceuticals,repvue,81,2026-07-04,N,not B2B SaaS (pharma)
-Living Security,repvue,81,2026-08-01,N,Ashby 404 + GH 404; ATS still unresolved
-Noibu,repvue,81,2026-08-01,N,Ashby board: Canada-only roles; no US-remote AE
-Compass,repvue,81,2026-07-04,N,not B2B SaaS (real estate brokerage platform)
-General Dynamics,repvue,81,2026-07-04,N,not B2B SaaS (defense contractor)
-Perceptyx,repvue,81,2026-08-01,N,GH 404 + Ashby 404; ATS still unresolved after multiple attempts
-The Baldwin Group,repvue,81,2026-07-04,N,not B2B SaaS (insurance brokerage)
-WatchGuard Technologies Inc,repvue,81,2026-08-01,N,Network security hardware+SW; not pure B2B SaaS; no qualifying role expected
+Bitwarden,repvue,81,2026-09-18,Y,MM AE (GH 7789818003) + Ent AE (7789345003); US-remote; 4-8y; verify_links LIVE; re-checked 2026-09-18
+Maltego Technologies,repvue,81,2026-09-18,N,GH/Ashby all 404; ATS still unresolved; OSINT security; re-checked 2026-09-18
+QGenda,repvue,81,2026-09-18,N,GH board active: no AE roles (only CS/tech); re-checked 2026-09-18
+Fitch Solutions,repvue,81,2026-09-18,N,not startup B2B SaaS (Fitch Group subsidiary; financial data)
+Ncontracts,repvue,81,2026-09-18,N,Ashby board active: no AE (only PM/data/engineering); re-checked 2026-09-18
+Rossum,repvue,81,2026-09-18,N,Ashby (rossum.ai) active: no US-remote AE (only Prague Enterprise AM); re-checked 2026-09-18
+Skillable,repvue,81,2026-09-18,N,Rippling board: AE posting (a0c513f1) dead; now only PM/engineering; re-checked 2026-09-18
+Qwilr,repvue,81,2026-09-18,N,Ashby board active but empty (0 jobs); re-checked 2026-09-18
+Skill Dynamics,repvue,81,2026-09-18,N,ATS still unresolved; eLearning; re-checked 2026-09-18
+ContactMonkey,repvue,81,2026-09-18,N,GH board (contactmonkey) active: no AE (only BDR/engineering/support); re-checked 2026-09-18
+Currax Pharmaceuticals,repvue,81,2026-09-18,N,not B2B SaaS (pharma)
+Living Security,repvue,81,2026-09-18,N,GH/Ashby/Lever all 404; ATS still unresolved; re-checked 2026-09-18
+Noibu,repvue,81,2026-09-18,N,Ashby board: Canada-only roles; no US-remote AE; re-checked 2026-09-18
+Compass,repvue,81,2026-09-18,N,not B2B SaaS (real estate brokerage platform)
+General Dynamics,repvue,81,2026-09-18,N,not B2B SaaS (defense contractor)
+Perceptyx,repvue,81,2026-09-18,N,Workable (perceptyx + perceptyx-2) both empty; no AE; re-checked 2026-09-18
+The Baldwin Group,repvue,81,2026-09-18,N,not B2B SaaS (insurance brokerage)
+WatchGuard Technologies Inc,repvue,81,2026-09-18,N,"Lever (watchguard) active: no AE (only Channel AM, MSP roles); re-checked 2026-09-18"
 ServiceMax Inc,repvue,81,2026-08-02,N,ATS unresolved (PTC Workday JS-only; URL not capturable)
-Camms,repvue,81,2026-08-02,N,ATS unresolved (GH 404; likely AU-based GRC SaaS)
-LearnUpon,repvue,81,2026-08-01,N,"no US AE (GH: SDR/CS/RevOps, all Dublin/Sydney-based; 2026-08-01 recheck)"
-WalkMe,repvue,81,2026-08-04,N,no US AE (SAP acquired; only Stockholm AE on Lever)
-Valet Living,repvue,81,2026-07-04,N,not B2B SaaS (facility services)
-Ethico,repvue,81,2026-08-01,N,"ATS unresolved (GH 404, Lever blocked; 2026-08-01 recheck)"
+Camms,repvue,81,2026-09-18,N,ATS unresolved (GH 404; AU-based GRC SaaS)
+LearnUpon,repvue,81,2026-09-18,N,"no US AE (GH: SDR/CS/RevOps, all Dublin/Sydney-based); re-checked 2026-09-18"
+WalkMe,repvue,81,2026-09-18,N,acquired by SAP; only Stockholm AE on Lever
+Valet Living,repvue,81,2026-09-18,N,not B2B SaaS (facility services)
+Ethico,repvue,81,2026-09-18,N,GH/Lever/Ashby all 404; ATS still unresolved; compliance SaaS; re-checked 2026-09-18
 Chetu Inc,repvue,81,2026-07-04,N,not B2B SaaS (custom software dev services)
-Aramark,repvue,81,2026-07-04,N,not B2B SaaS (food/facility services)
-Canoe Intelligence,repvue,81,2026-08-01,N,ATS unresolved (Ashby 404; 2026-08-01 recheck)
+Aramark,repvue,81,2026-09-18,N,not B2B SaaS (food/facility services)
+Canoe Intelligence,repvue,81,2026-09-18,N,GH/Ashby/Lever all 404; ATS still unresolved; alt investments data SaaS; re-checked 2026-09-18
 Enterprise Fleet Management,repvue,81,2026-07-04,N,not B2B SaaS (fleet management services)
 DTEN,repvue,81,2026-07-04,N,not B2B SaaS (video conferencing hardware)
 Dell EMC,repvue,81,2026-07-04,N,not B2B SaaS (Dell hardware/storage subsidiary)
@@ -2137,8 +2137,8 @@ Marigold,repvue,81,2026-08-01,N,"ATS unresolved (Workday campaignmonitor.wd5; R2
 ELB Learning,repvue,81,2026-08-02,N,ATS unresolved; niche e-learning dev tools
 GoSite,repvue,81,2026-08-02,N,SMB-only local business SaaS; no MM/Ent AE
 Agent Elite,repvue,81,2026-07-04,N,not B2B SaaS (real estate agent technology)
-"ServiceMax, Inc.",repvue,81,2026-08-02,N,ATS unresolved (Salesforce subsidiary; not on GH/Ashby/Lever)
-"Chetu, Inc.",repvue,81,2026-07-05,N,not B2B SaaS (IT services/custom dev)
+"ServiceMax, Inc.",repvue,81,2026-09-18,N,ATS unresolved (Salesforce subsidiary; not on GH/Ashby/Lever)
+"Chetu, Inc.",repvue,81,2026-09-18,N,not B2B SaaS (IT services/custom dev)
 "Cellular Sales, Inc.",repvue,81,2026-07-05,N,not B2B SaaS (telecom retail)
 Allegis Global Solutions,repvue,81,2026-07-05,N,not B2B SaaS (staffing)
 Klevu,repvue,81,2026-08-02,N,ATS unresolved; no US AE found (GH/Ashby 404)
@@ -6512,7 +6512,7 @@ McMaster-Carr,repvue,,2026-09-02,N,not B2B SaaS; industrial distribution
 Simpson Strong-Tie,repvue,,2026-09-02,N,not B2B SaaS; construction hardware manufacturer
 Sourcerer AI,a16z-speedrun,,2026-09-02,N,ATS unresolved; very small/unknown startup
 Spherecast,a16z-speedrun,,2026-09-02,N,Munich-based startup; no US AE roles
-Summer,a16z-speedrun,,2026-09-18,N,no AE posting (resume drop only); re-checked 2026-09-17
+Summer,a16z-speedrun,,2026-09-18,N,no AE posting (resume drop only); re-checked 2026-09-18
 Sunday Robotics,a16z-speedrun,,2026-09-02,N,consumer household robotics (Memo); not B2B
 Supernova Technology,a16z-speedrun,,2026-09-02,N,fintech consulting/services; ATS unresolved
 Taya,a16z-speedrun,,2026-09-02,N,ATS unresolved
@@ -6665,3 +6665,4 @@ SparkCognition,ats-physical-ai,,2026-09-17,N,no GH board found
 Uptake Technologies,ats-physical-ai,,2026-09-17,N,no GH board found
 Swift Navigation,ats-physical-ai,,2026-09-17,N,no GH board found
 Falkonry,ats-physical-ai,,2026-09-17,N,no GH/Ashby board found
+Brink's Inc,repvue,81.44,2026-09-18,N,GH/Ashby 404; not primarily B2B SaaS (physical security/cash logistics; BrinksMoney digital sub-brand); ATS unresolved
