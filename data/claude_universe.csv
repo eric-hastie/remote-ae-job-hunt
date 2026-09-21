@@ -2623,7 +2623,7 @@ Coupa,ats-search,,2026-07-07,Y,MM AE; Remote US; no listed OTE; spend management
 Restaurant365,ats-search,79,2026-07-07,Y,MM AE; Remote US; no listed OTE; restaurant management SaaS
 Rithum,ats-search,71,2026-09-04,N,"dead posting, no qualifying US-remote AE replacement found 2026-09-04"
 Akuity,ats-search,,2026-09-01,N,"GH board (akuity) re-confirmed 2026-09-01: only Enterprise Sales Manager (mgmt), no IC AE"
-Chainalysis,ats-search,76,2026-08-03,Y,Enterprise AE (Crypto Native) US-remote confirmed via Ashby API (board: chainalysis-careers); Ent segment; OTE ~$300K-$350K; re-checked 2026-08-03
+Chainalysis,ats-search,76,2026-09-21,N,dead Ashby posting; no US-remote Ent AE candidates on board as of 2026-09-21
 Perplexity,ats-search,,2026-08-23,N,Ashby board confirmed no AE (marketing/AI research/CS only); re-confirmed 2026-08-23
 Blumira,ats-search,72,2026-08-03,N,no AE (empty Greenhouse blumira board); re-checked 2026-08-03
 Snappy,ats-search,,2026-08-10,N,Ashby board: UUID d6672801 dead; no AE roles (only CS/CSM)
@@ -3634,7 +3634,7 @@ eFinancial,repvue,78,2026-08-09,N,not B2B SaaS (insurance distribution)
 Plivo,repvue,78,2026-08-08,N,ATS unresolved (Ashby/Greenhouse all 404; CPaaS)
 InXpress,repvue,78,2026-08-09,N,not B2B SaaS (shipping/logistics franchise)
 Legends Global,repvue,78,2026-08-09,N,not B2B SaaS (entertainment/sports venue tech)
-Gamma,repvue,78,2026-09-10,N,speedrun board: not flagged remote
+Gamma,repvue,78,2026-09-21,N,speedrun board: not flagged remote; Ashby posting dead 2026-09-21; no qualifying replacement
 360insights,repvue,78,2026-08-08,N,ATS unresolved (Greenhouse/Lever/Ashby all 404)
 LGCY Power,repvue,78,2026-08-09,N,not B2B SaaS (solar energy company)
 Hyperscience,repvue,78,2026-09-04,N,No AE on Ashby board (only Product Security Eng); previous TAE-Commercial posting dead
@@ -6680,5 +6680,14 @@ Flint,ats-data,,2026-09-20,N,Founding AE posting dead (Ashby page empty); all op
 Ropes,ats-devtools,,2026-09-20,Y,Founding AE NYC on-site; B2B SaaS talent screening; seed-stage (6 employees); Ashby confirmed live; added latest.csv NYC
 Nuvei,ats-fintech,,2026-09-20,N,no AE on Workable board 2026-09-20; Canadian payments fintech; Workable slug confirmed nuvei
 Cavco Industries,repvue,,2026-09-21,N,not B2B SaaS (manufactured homes)
-"Andromeda Cluster","ats-devtools","","2026-09-21","N","compute marketplace / GPU infra - not B2B SaaS; no AE role in Ashby API"
-"HTTPie","ats-devtools","","2026-09-21","N","developer HTTP client tool; no AE/sales roles in Ashby API; PLG model"
+Andromeda Cluster,ats-devtools,,2026-09-21,N,compute marketplace / GPU infra - not B2B SaaS; no AE role in Ashby API
+HTTPie,ats-devtools,,2026-09-21,N,developer HTTP client tool; no AE/sales roles in Ashby API; PLG model
+Dayjob,yc,,2026-09-21,N,YC S26 AI scheduling for trucking; AE posting dead (404)
+Qumis,wellfound,,2026-09-21,Y,AE confirmed in Ashby API; NYC hybrid 2-3d/wk; Ent $50K-$250K+ ACV; OTE $250K-$350K; added to latest.csv
+Kris@Work,wellfound,,2026-09-21,N,ATS unresolved; India-HQ GTM platform
+Astra,wellfound,,2026-09-21,N,no AE in Ashby board; only TAM/eng roles
+UpCodes,wellfound,,2026-09-21,Y,AE confirmed in Ashby API; remote US; construction compliance B2B SaaS; OTE $145K-$175K; added to latest.csv
+Kritik,wellfound,,2026-09-21,N,EdTech; ATS unresolved (no Ashby/GH board found)
+VanishID,wellfound,,2026-09-21,N,Enterprise AE posting dead; not in Ashby API board
+Actionable,funding-news,,2026-09-21,N,$10M Series A customer behavior prediction; ATS unresolved (404 on careers)
+Veridion,funding-news,,2026-09-21,N,$20M Series A B2B intelligence; no AE role on careers page
