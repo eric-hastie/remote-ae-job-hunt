@@ -431,7 +431,7 @@ LinearB,repvue,90.14,2026-08-19,N,Workable board empty - no jobs (2026-08-19); N
 Veterans United Home Loans,repvue,90.13,2026-08-19,N,re-check: not B2B SaaS (mortgage lender)
 Warmly,repvue,90.12,2026-08-20,N,ATS unresolved (checked 2026-07-09; no AE on standard boards)
 Garner Health,repvue,90.11,2026-08-20,Y,top500 RepVue scan: open AE role
-Toro TMS,repvue,90.10,2026-08-20,Y,"MM AE (Remote, $150,000-$220,000 OTE); GH job ID 4271627009; confirmed 2026-08-20"
+Toro TMS,repvue,90.10,2026-09-21,N,"MM AE (Remote, $150,000-$220,000 OTE); GH job ID 4271627009; confirmed 2026-08-20"
 Basware,repvue,90.08,2026-08-20,N,ATS unresolved (checked 2026-07-09; Greenhouse 404)
 Jasper,repvue,90.00,2026-08-20,N,no AE role (checked 2026-07-09; only Director/VP on Ashby board); re-checked 2026-08-05
 Google,repvue,89.94,2026-09-16,N,not B2B SaaS (tech conglomerate)
@@ -4038,7 +4038,7 @@ Red Canary,repvue,77,2026-08-11,N,MDR SaaS; acquired by Zscaler 2022; standalone
 Lumenis,repvue,77,2026-08-11,N,medical laser devices; not B2B SaaS
 ZocDoc,repvue,77,2026-08-11,N,healthcare marketplace; Greenhouse board has Account Directors only (no IC AE)
 Nextworld,repvue,77,2026-08-11,N,ERP SaaS; Lever 404 ATS unresolved
-Poka,repvue,77,2026-08-11,N,manufacturing connected worker SaaS; same as Poka Labs (checked 2026-08-07 as N)
+Poka,repvue,77,2026-09-21,N,manufacturing connected worker SaaS; same as Poka Labs (checked 2026-08-07 as N)
 ThinScale Technology,repvue,77,2026-08-11,N,endpoint security SaaS; ATS unresolved (Ashby 404 search no results)
 Logical Position,repvue,77,2026-08-11,N,digital marketing agency; not B2B SaaS product
 Pearl,repvue,77,2026-08-11,N,dental AI SaaS; Ashby board confirmed but no AE postings open
@@ -4728,7 +4728,7 @@ Latent Health,aggregator-verify,,2026-08-15,Y,Strategic Account Executive | Ent 
 M7 Health,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | Remote
 Motus,aggregator-verify,75,2026-09-03,Y,"Account Executive, Mid-Market | MM | Remote; GH 7550158; URL fixed from dead 8111999 on 2026-09-03"
 PlayOn! Sports,aggregator-verify,,2026-08-15,Y,Account Executive (National Advertising Sales) | Unspec | NYC
-Radware,aggregator-verify,74,2026-08-15,Y,Commercial Account Executive | MM | Remote
+Radware,aggregator-verify,74,2026-09-21,N,Commercial Account Executive | MM | Remote
 Soulside AI,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | Remote
 Surgimate,aggregator-verify,,2026-08-15,Y,Account Executive | Unspec | Remote
 Tribute Technology,aggregator-verify,,2026-08-15,Y,Solution Account Executive #611265 | Unspec | Remote
@@ -6691,3 +6691,7 @@ Kritik,wellfound,,2026-09-21,N,EdTech; ATS unresolved (no Ashby/GH board found)
 VanishID,wellfound,,2026-09-21,N,Enterprise AE posting dead; not in Ashby API board
 Actionable,funding-news,,2026-09-21,N,$10M Series A customer behavior prediction; ATS unresolved (404 on careers)
 Veridion,funding-news,,2026-09-21,N,$20M Series A B2B intelligence; no AE role on careers page
+Bobyard,ats-search,,2026-09-21,N,"Dead posting, SF-only candidates, no US-remote AE"
+Globalli,repvue,,2026-09-21,N,"Dead posting, no replacement found"
+ServiceNow,repvue,,2026-09-21,N,"Dead posting (HTTP_DEAD), no replacement found"
+The San Francisco Compute Company,ats-ai-infra,,2026-09-21,N,"Ashby board (sfcompute): only GTM Lead role, SF on-site, no AE title - not qualifying"
