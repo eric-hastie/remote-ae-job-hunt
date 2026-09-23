@@ -33,7 +33,7 @@ Demandbase,claude,87,2026-09-06,N,only Growth Account Director (expansion/renewa
 Doppler,claude,,2026-08-22,N,no AE role on board
 Drata,claude,85,2026-09-07,Y,Commercial AE postings on Ashby (posting-api blind spot); city-specific Commercial AE - New York confirmed; Needs check
 DroneDeploy,claude,83,2026-09-09,N,Lever posting dead 2026-09-09; no replacement on board
-Elastic,claude,83,2026-09-13,N,no US-remote AE on Greenhouse; federal AE only (Enterprise vertical); re-checked 2026-09-13
+Elastic,claude,83,2026-09-23,N,posting 8048317 dead; replacements are Foreign/Federal/Emerging-Enterprise only - no US-remote MM AE
 Eve,claude,,2026-09-10,Y,"Commercial Account Executive, Central (MM)"
 Fiddler AI,claude,,2026-09-17,N,no AE role on board (was dead posting)
 Fleetio,claude,83,2026-09-14,Y,MM AE in latest.csv; confirmed live
@@ -691,7 +691,7 @@ Locus Robotics,repvue,87.66,2026-09-03,N,Physical AI / warehouse AMR robotics; o
 Ignition,repvue,87.66,2026-09-03,N,accounting/professional services software SaaS; Ashby shows Key Account Manager in Toronto; no US AE
 Reltio,repvue,87.65,2026-09-03,N,data unification B2B SaaS; only LATAM Senior AE (Spanish required); no US remote non-geo AE
 Shift Technology,repvue,87.65,2026-09-03,N,insurance fraud AI B2B SaaS; US role requires 10+ years (exceeds ~8yr ceiling); UK/EMEA roles non-US
-Yipitdata,repvue,87.65,2026-09-03,Y,has open qualifying role; confirmed HTTP_LIVE 2026-09-03
+Yipitdata,repvue,87.65,2026-09-23,N,posting 5585428 dead; no qualifying US replacement (no open AE postings on board)
 Calix,repvue,87.64,2026-09-03,N,ATS unresolved; broadband networking software SaaS for ISPs
 Trane Technologies,repvue,87.64,2026-09-03,N,industrial HVAC/climate control equipment; not B2B SaaS; permanent disqualification
 Luciq,repvue,87.63,2026-09-03,N,ATS unresolved; mobile app testing SaaS (Instabug); dead posting; no replacement found
@@ -2233,7 +2233,7 @@ Easygenerator,repvue,81,2026-09-19,N,no AE roles (BDR/CS/RevOps/Dev only); ring 
 Davisware,repvue,81,2026-09-19,N,ATS unresolved (niche field service SaaS); ring recheck 2026-09-19
 Fusion Risk Management,repvue,81,2026-09-19,N,ATS resolved (Hirebridge); no qualifying AE; ring recheck 2026-09-19
 Parloa,repvue,81,2026-09-19,N,no US AE (EU only); ring recheck 2026-09-19
-Corelight,repvue,81,2026-09-19,Y,4 Enterprise AE roles on GH board; Central qualifies; ring recheck 2026-09-19 still open
+Corelight,repvue,81,2026-09-23,N,posting 8082634 dead; replacement candidates are Dallas/UAE/Central-region Enterprise only - no US-remote qualifying AE
 Umbrella,repvue,81,2026-09-19,N,ATS unresolved (no AE found on boards); ring recheck 2026-09-19
 "Axonics, Inc.",repvue,81,2026-09-19,N,not pure SaaS (hardware + B2B public safety); ring recheck 2026-09-19
 Briq,repvue,81,2026-09-19,N,ATS unresolved (no board found); ring recheck 2026-09-19
@@ -6701,3 +6701,6 @@ Fullthrottle.ai,ats-ai-infra,,2026-09-22,N,Rippling board: Media Sales AE is Kan
 Binalyze,repvue,,2026-09-22,N,"Ent AE posting dead, no replacement on Ashby board"
 Banyan Software,repvue,,2026-09-22,N,"AE posting dead; Community Banking replacement requires heavy travel, not remote; Atlanta role not in target cities"
 Tracebit,ats-search,,2026-09-23,N,Founding AE posting dead; only Channel Lead + SE on board
+Treeswift,ats-physical-ai,,2026-09-23,Y,Senior AE Remote US; Ashby board treeswift; posting 96e07dcf pub 2026-07-01; Physical AI edge AI / LiDAR for forestry/environmental sensing; no OTE listed; added to latest.csv
+Augrade,ats-physical-ai,,2026-09-23,Y,Enterprise AE SF hybrid; Ashby board augrade; posting fcaecfb7 pub 2026-08-17; base $150K-$200K + uncapped commission; Physical AI spatial computing / scan-to-BIM construction; 7+ yrs req; added to latest.csv
+OneTrack.AI,ats-physical-ai,,2026-09-23,N,"Workable board: Senior AE is NYC + Chicago only, not remote; computer vision / warehouse operations; no qualifying US-remote AE"
