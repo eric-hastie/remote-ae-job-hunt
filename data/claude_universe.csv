@@ -333,7 +333,7 @@ Casetext,repvue,91.69,2026-08-19,N,acquired by Thomson Reuters 2023
 Boostlingo,repvue,91.69,2026-08-19,N,no qualifying AE (Greenhouse: Language Access Account Manager and Product Owner only)
 Lightico,repvue,91.68,2026-08-19,N,ATS unresolved (GH/Ashby 404)
 Braintrust.dev,repvue,91.68,2026-08-19,Y,re-verified 2026-08-19: AE role still live
-Skydio,repvue,91.66,2026-09-10,Y,Inside Sales Representative - National Security (NatSec) (Unspec)
+Skydio,repvue,91.66,2026-09-23,N,"no qualifying AE role - Inside Sales (NatSec) posting dead, no replacement"
 HockeyStack,repvue,91.65,2026-08-18,N,AE posting dead (ea8c20c1 not in Ashby board); no qualifying replacement 2026-08-18
 Regie.ai,repvue,91.65,2026-08-19,N,No open AE roles (careers page: no roles listed)
 Hearsay Systems,repvue,91.61,2026-08-19,Y,2 Enterprise AE found in Lever search (hearsaysystems slug); API 404 so UUIDs unrecordable; Needs check
@@ -6704,3 +6704,7 @@ Tracebit,ats-search,,2026-09-23,N,Founding AE posting dead; only Channel Lead + 
 Treeswift,ats-physical-ai,,2026-09-23,Y,Senior AE Remote US; Ashby board treeswift; posting 96e07dcf pub 2026-07-01; Physical AI edge AI / LiDAR for forestry/environmental sensing; no OTE listed; added to latest.csv
 Augrade,ats-physical-ai,,2026-09-23,Y,Enterprise AE SF hybrid; Ashby board augrade; posting fcaecfb7 pub 2026-08-17; base $150K-$200K + uncapped commission; Physical AI spatial computing / scan-to-BIM construction; 7+ yrs req; added to latest.csv
 OneTrack.AI,ats-physical-ai,,2026-09-23,N,"Workable board: Senior AE is NYC + Chicago only, not remote; computer vision / warehouse operations; no qualifying US-remote AE"
+Mytra,ats-robotics,,2026-09-23,N,Rippling board; warehouse/industrial robotics automation; no AE role (only engineering/ops/marketing); checked 2026-09-23
+Bedrock Robotics,ats-robotics,,2026-09-23,N,Ashby board (bedrock-robotics); construction AI robots; no AE role; all engineering + SF/NYC hybrid; checked 2026-09-23
+Intrinsic Robotics,ats-robotics,,2026-09-23,N,Greenhouse board (intrinsicrobotics); Google AI robotics spinout; no AE role; only engineering/ops; checked 2026-09-23
+Persona AI Inc,ats-robotics,,2026-09-23,N,Ashby board (persona.ai); humanoid robots for heavy industry (shipyards/steel mills); no AE role; early-stage engineering only; checked 2026-09-23
