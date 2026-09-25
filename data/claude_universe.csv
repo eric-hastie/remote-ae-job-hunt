@@ -57,7 +57,7 @@ Infios,claude,,2026-07-23,N,ATS unresolved
 Infisical,claude,,2026-09-19,Y,New Commercial AE posting published 2026-08-26; Ashby board confirmed live (1c7943a5); previously dead July 2026
 Ironclad,claude,84,2026-09-10,N,"all AE roles hybrid (NYC/Chicago) or Enterprise/Strategic, no US-remote MM; re-checked 2026-09-10"
 Itential,claude,77,2026-07-23,N,ATS unresolved
-Iterable,claude,79,2026-08-03,Y,Enterprise AE West + Evergreen East; Ashby board; Remote US; OTE $266K-310K; Ent segment
+Iterable,claude,79,2026-09-25,Y,Enterprise AE West + Evergreen East; Ashby board; Remote US; OTE $266K-310K; Ent; verified live 2026-09-25
 Jama Software,claude,87,2026-09-18,N,posting expired; no US-remote qualifying replacement (EMEA candidate only)
 Keeper Security,claude,76,2026-08-04,N,has open qualifying role; posting dead as of 2026-08-04
 Komodo Health,claude,79,2026-08-03,Y,has open qualifying role
@@ -3161,7 +3161,7 @@ Straumann Group,repvue,80,2026-09-25,N,Not B2B SaaS; dental products/implant com
 phData,repvue,80,2026-09-25,N,Not B2B SaaS; data engineering/ML consulting firm
 Lilt,queue,80,2026-09-24,N,ATS unresolved for remote status
 Board International,queue,80,2026-09-24,N,ATS unresolved
-EvenUp,queue,80,2026-09-25,Y,"Ashby board private (posting-api 404); fallback search confirmed AE postings at jobs.ashbyhq.com/evenup (NYC, Boston, SE Atlantic, OK/NM, LA); JS-rendered, unverifiable via API; added NYC AE to latest.csv as Needs check"
+EvenUp,queue,80,2026-09-25,N,Ashby board gone (BOARD_GONE 2026-09-25); posting 789c426f-3a87-4e28-9464-4b8052c6bfcf no longer exists; dropped from latest.csv
 Virtuagym,queue,80,2026-09-25,N,ATS unresolved — Dutch fitness SaaS; no Greenhouse/Ashby/Lever board found; not US-market AE
 Planhat,queue,80,2026-09-25,N,"recheck Sep 2026: confirmed all AE roles on-site only (Amsterdam, London, Toronto, Atlanta, Indianapolis); no US-remote AE"
 Evaluate,queue,80,2026-09-25,N,ATS unresolved — UK pharma intelligence platform (Norstella subsidiary); no US AE board found
@@ -3191,55 +3191,55 @@ Ascent Cloud,queue,80,2026-09-25,N,ATS unresolved — small territory management
 Shippo,repvue,80,2026-09-25,N,no AE on Lever (shippo); search confirmed strategic acct mgr only
 AIQ.com,repvue,80,2026-09-25,N,no IC AE on Rippling; cannabis retail analytics SaaS
 Dow Jones,repvue,80,2026-09-25,N,not B2B SaaS (news media company)
-Human Bees,repvue,80,2026-07-16,N,not B2B SaaS (staffing/workforce platform)
-Fluke,repvue,80,2026-07-16,N,not B2B SaaS (industrial test equipment hardware)
-Formic,repvue,80,2026-07-16,N,not B2B SaaS (industrial robotics/automation)
-TrueLayer,repvue,80,2026-08-07,N,UK-based open banking fintech; not US-remote
-Seesaw Learning,repvue,80,2026-08-07,N,no IC AE on Greenhouse; K-12 EdTech SaaS
+Human Bees,repvue,80,2026-09-25,N,not B2B SaaS (staffing/workforce platform)
+Fluke,repvue,80,2026-09-25,N,not B2B SaaS (industrial test equipment hardware)
+Formic,repvue,80,2026-09-25,N,Physical AI (robotics/automation); GH board found; no IC AE - only field Automation Sales Manager (territory/travel) roles; monitor for future AE opening
+TrueLayer,repvue,80,2026-09-25,N,UK-based open banking fintech; no US AE (only UK/Europe roles on GH); confirmed 2026-09-25
+Seesaw Learning,repvue,80,2026-09-25,N,GH board (seesawlearning) now 404; K-12 EdTech SaaS; ATS unresolved 2026-09-25
 CodeRabbit,repvue,80,2026-08-18,Y,17 AE reqs; 8 US remote metro-anchored (Southeast/West/Chicago/Austin/Detroit/NE/Boston)
-WeWork,repvue,80,2026-07-16,N,not B2B SaaS (coworking/commercial real estate)
-HighLevel,repvue,80,2026-08-06,N,no AE on Lever (gohighlevel); affiliate mgr + ops only
-Dolead,repvue,80,2026-07-16,N,not B2B SaaS (lead generation service; French company)
-SecurityPal,repvue,80,2026-08-06,N,Ashby board 404 (securitypal slug); ATS unresolved
-Videate,repvue,80,2026-08-07,N,ATS unresolved; video automation SaaS (small co)
-Yubico,repvue,80,2026-07-16,N,not B2B SaaS (hardware security keys)
-Sysco,repvue,80,2026-07-16,N,not B2B SaaS (food distribution/wholesale)
-Tipalti,repvue,80,2026-08-06,N,AE on GH (tipaltisolutions): London + Toronto only; no US-remote
-Sazerac Company,repvue,80,2026-07-16,N,not B2B SaaS (spirits/alcohol manufacturer)
-Aviso AI,repvue,80,2026-08-03,Y,AE Remote US+Canada; Ent; base $165K-$185K; revenue intelligence AI SaaS; custom careers page
-Planet DDS,repvue,80,2026-08-07,N,ATS unresolved; dental practice management SaaS
-ITILITE,repvue,80,2026-08-07,N,ATS unresolved; travel & expense management SaaS
-Service Express,repvue,80,2026-07-16,N,not B2B SaaS (IT hardware/infrastructure services)
-Laserfiche,repvue,80,2026-08-07,N,AE Long Beach CA hybrid 3d/wk required; not US-remote
-talent.io,repvue,80,2026-07-16,N,not B2B SaaS AE target (tech talent recruitment marketplace)
-NBC Sports Next,repvue,79,2026-07-16,N,not B2B SaaS ICP (sports media/team management vertical)
+WeWork,repvue,80,2026-09-25,N,not B2B SaaS (coworking/commercial real estate)
+HighLevel,repvue,80,2026-09-25,N,no AE on Lever board (gohighlevel) confirmed 2026-09-25; only BDR and field event sales roles
+Dolead,repvue,80,2026-09-25,N,not B2B SaaS (lead generation service; French company)
+SecurityPal,repvue,80,2026-09-25,N,"ATS unresolved; GH 404, Ashby 404, Workable 404 2026-09-25; security operations SaaS"
+Videate,repvue,80,2026-09-25,N,ATS unresolved 2026-09-25; video automation SaaS (small co)
+Yubico,repvue,80,2026-09-25,N,not B2B SaaS (hardware security keys)
+Sysco,repvue,80,2026-09-25,N,not B2B SaaS (food distribution/wholesale)
+Tipalti,repvue,80,2026-09-25,N,only Toronto AE (hybrid 3d/wk) on GH (tipaltisolutions); Ashby 404; no US-remote; confirmed 2026-09-25
+Sazerac Company,repvue,80,2026-09-25,N,not B2B SaaS (spirits/alcohol manufacturer)
+Aviso AI,repvue,80,2026-09-25,Y,AE Remote US+Canada; Ent; base $165K-$185K; revenue intelligence AI SaaS; verified live 2026-09-25
+Planet DDS,repvue,80,2026-09-25,N,"ATS unresolved; GH 404, Ashby 404 2026-09-25; dental practice management SaaS"
+ITILITE,repvue,80,2026-09-25,N,ATS unresolved; Lever 404 2026-09-25; travel & expense management SaaS (India-founded)
+Service Express,repvue,80,2026-09-25,N,not B2B SaaS (IT hardware/infrastructure services)
+Laserfiche,repvue,80,2026-09-25,N,AE Long Beach CA hybrid 3d/wk required; no US-remote; ECM SaaS
+talent.io,repvue,80,2026-09-25,N,not B2B SaaS AE ICP (tech talent recruitment marketplace)
+NBC Sports Next,repvue,79,2026-09-25,N,not B2B SaaS ICP (sports media/team management vertical)
 Backstory,repvue,79,2026-09-10,N,speedrun board: demands 10+ years
-Scoro,repvue,79,2026-08-07,N,ATS unresolved - not on major ATS boards; PSA SaaS (European-founded)
-Zywave,repvue,79,2026-08-07,N,ATS unresolved - not on major ATS boards; insurance SaaS platform
-Mitiga,repvue,79,2026-08-06,N,GH board 404 (mitiga slug); ATS unresolved 2026-08-06
-Olympus,repvue,79,2026-07-16,N,not B2B SaaS (medical devices/imaging hardware)
-Stratascale,repvue,79,2026-07-16,N,not B2B SaaS (IT infrastructure solutions/services)
-Carbon,repvue,79,2026-07-16,N,not B2B SaaS (3D printing hardware/manufacturing)
-Trinity Solar,repvue,79,2026-07-16,N,not B2B SaaS (residential solar installation)
-Custom Ink,repvue,79,2026-07-16,N,not B2B SaaS (custom merchandise/printing)
-PlexTrac,repvue,79,2026-08-07,N,only EMEA AE (UK&I) found; no US-remote AE; security assessment/pentesting SaaS
-Packback,repvue,79,2026-07-16,N,not B2B SaaS ICP (AI EdTech for higher education)
-Anaplan,repvue,79,2026-07-16,N,acquired by Workday 2022; ATS consolidated under Workday parent
-BluSky Restoration Contractors,repvue,79,2026-07-16,N,not B2B SaaS (property/commercial restoration services)
-Lyra Health,repvue,79,2026-08-06,N,no AE on Lever (lyrahealth); account/admin mgr roles only
-C Spire,repvue,79,2026-07-16,N,not B2B SaaS (regional wireless telecom carrier)
-Fiix Software,repvue,79,2026-07-16,N,acquired by IFS 2021; CMMS SaaS; ATS consolidated under IFS parent
-PR Newswire,repvue,79,2026-08-07,N,part of Cision; press release distribution (media services)
-Octus,repvue,79,2026-08-07,N,Greenhouse board has AM roles (London/NY) but no AE; financial intelligence/credit data
-Wise,repvue,79,2026-07-16,N,not B2B SaaS AE ICP (consumer/SMB international money transfer)
-Latchel,repvue,79,2026-08-07,N,ATS unresolved; property maintenance SaaS (niche/small)
-Intel,repvue,79,2026-07-16,N,not B2B SaaS (semiconductor/chip manufacturer)
-Sherwin-Williams,repvue,79,2026-07-16,N,not B2B SaaS (paint/coatings manufacturer)
-GLENTEL,repvue,79,2026-07-16,N,not B2B SaaS; Canadian wireless telecom reseller
-Leadr,repvue,79,2026-08-07,N,ATS unresolved; people development/performance SaaS (small co)
-Goodshuffle,repvue,79,2026-08-07,N,ATS unresolved; event rental management SaaS (niche/small)
-LabCorp,repvue,79,2026-07-16,N,not B2B SaaS; healthcare diagnostics company
-Lifetouch,repvue,79,2026-07-16,N,not B2B SaaS; school photography
+Scoro,repvue,79,2026-09-25,N,"ATS unresolved; Ashby 404, Lever 404 2026-09-25; PSA SaaS (European-founded)"
+Zywave,repvue,79,2026-09-25,N,Workable board empty 2026-09-25; no AE; insurance SaaS platform
+Mitiga,repvue,79,2026-09-25,N,Comeet ATS found; AE-Northeast and Senior AE-TOLA postings inactive 2026-09-25; cloud security SaaS
+Olympus,repvue,79,2026-09-25,N,not B2B SaaS (medical devices/imaging hardware)
+Stratascale,repvue,79,2026-09-25,N,not B2B SaaS (IT infrastructure solutions/services)
+Carbon,repvue,79,2026-09-25,N,not B2B SaaS (3D printing hardware/manufacturing)
+Trinity Solar,repvue,79,2026-09-25,N,not B2B SaaS (residential solar installation)
+Custom Ink,repvue,79,2026-09-25,N,not B2B SaaS (custom merchandise/printing)
+PlexTrac,repvue,79,2026-09-25,N,"ATS unresolved; Ashby 404, GH 404, Lever 404 2026-09-25; cybersecurity/pentesting SaaS"
+Packback,repvue,79,2026-09-25,N,not B2B SaaS ICP (AI EdTech for higher education)
+Anaplan,repvue,79,2026-09-25,N,acquired by Workday 2022; ATS consolidated under Workday parent
+BluSky Restoration Contractors,repvue,79,2026-09-25,N,not B2B SaaS (property/commercial restoration services)
+Lyra Health,repvue,79,2026-09-25,N,no AE on Lever (lyrahealth) confirmed 2026-09-25; only Accreditation Consultant and Account Manager roles
+C Spire,repvue,79,2026-09-25,N,not B2B SaaS (regional wireless telecom carrier)
+Fiix Software,repvue,79,2026-09-25,N,acquired by IFS 2021; CMMS SaaS; ATS consolidated under IFS parent
+PR Newswire,repvue,79,2026-09-25,N,part of Cision; press release distribution (media services)
+Octus,repvue,79,2026-09-25,N,"ATS unresolved; Ashby 404, Lever 404 2026-09-25; financial intelligence/credit SaaS"
+Wise,repvue,79,2026-09-25,N,not B2B SaaS AE ICP (consumer/SMB international money transfer)
+Latchel,repvue,79,2026-09-25,N,"ATS unresolved; Lever 404, Ashby 404 2026-09-25; property maintenance SaaS (small)"
+Intel,repvue,79,2026-09-25,N,not B2B SaaS (semiconductor/chip manufacturer)
+Sherwin-Williams,repvue,79,2026-09-25,N,not B2B SaaS (paint/coatings manufacturer)
+GLENTEL,repvue,79,2026-09-25,N,not B2B SaaS; Canadian wireless telecom reseller
+Leadr,repvue,79,2026-09-25,N,ATS unresolved 2026-09-25; people development/performance SaaS (small)
+Goodshuffle,repvue,79,2026-09-25,N,ATS unresolved 2026-09-25; event rental management SaaS (niche/small)
+LabCorp,repvue,79,2026-09-25,N,not B2B SaaS; healthcare diagnostics company
+Lifetouch,repvue,79,2026-09-25,N,not B2B SaaS; school photography
 Cutover,repvue,79,2026-08-06,N,GH board 404 (cutoverco slug); board gone; no AE
 Wunderkind,repvue,79,2026-08-06,N,no AE on GH board; no IC sales roles
 SpotHopper,repvue,79,2026-08-07,N,SMB segment only (restaurant marketing; not MM/Ent)
