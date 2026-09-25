@@ -687,7 +687,7 @@ MetLife,repvue,87.69,2026-09-03,N,insurance company; not B2B SaaS; permanent dis
 Snapdocs,repvue,87.69,2026-09-03,Y,has open qualifying role; confirmed LIVE 2026-09-03
 Copper,repvue,87.67,2026-09-03,N,CRM SaaS; Lever shows Sales Manager only; no IC AE open
 Triptease,repvue,87.67,2026-09-03,N,ATS unresolved; hotel distribution/revenue management tech
-Locus Robotics,repvue,87.66,2026-09-03,N,Physical AI / warehouse AMR robotics; only Sales Manager in Germany (DACH); no US AE open
+Locus Robotics,repvue,87.66,2026-09-25,N,GH board active: no AE roles; only eng/ops/support; re-confirmed N 2026-09-25
 Ignition,repvue,87.66,2026-09-03,N,accounting/professional services software SaaS; Ashby shows Key Account Manager in Toronto; no US AE
 Reltio,repvue,87.65,2026-09-03,N,data unification B2B SaaS; only LATAM Senior AE (Spanish required); no US remote non-geo AE
 Shift Technology,repvue,87.65,2026-09-03,N,insurance fraud AI B2B SaaS; US role requires 10+ years (exceeds ~8yr ceiling); UK/EMEA roles non-US
@@ -2671,7 +2671,7 @@ SPS-North America,ats-search,,2026-07-08,N,"not B2B SaaS - managed services / BP
 FourKites,ats-search,73,2026-08-04,N,no qualifying AE (GH 8029316: Enterprise AE requires 8+ yrs supply chain selling; over ceiling)
 Trackforce,ats-search,71,2026-08-14,N,Lever board 404 / gone; confirmed dead 2026-08-14
 Sourcegraph,ats-search,76,2026-09-20,N,GH sourcegraph91 board re-checked 2026-09-20: no AE (CSM/ML/PM/PMM only); re-confirmed N
-Trustwell,ats-search,65,2026-08-04,N,GH board 404; posting dead
+Trustwell,ats-search,65,2026-09-25,N,GH board still 404; search result stale; re-confirmed N 2026-09-25
 Dash0,ats-search,,2026-08-03,Y,Ent AE; Remote US; OTE ~$250K-$300K; observability / DevOps SaaS
 Stacklok,ats-search,,2026-08-04,N,no AE on GH board (Senior FDE Kubernetes + Platform engineers only)
 Cybrid,ats-search,,2026-08-04,N,no AE (GH: only Operations Manager); B2B fintech crypto API platform
@@ -2712,7 +2712,7 @@ Outreach,ats-search,,2026-08-12,N,Commercial AE (MM Remote) dead; no qualifying 
 WorkWave,ats-search,77,2026-08-05,N,Enterprise AE; US-remote; OTE $190-250K; field service SaaS; posting expired 2026-08-05
 Bluesight,ats-search,,2026-08-11,N,AE posting dead 2026-08-11; no qualifying replacement found; dropped from latest.csv
 BriteCore,ats-search,,2026-08-03,Y,Enterprise AE; US-remote; P&C insurance SaaS
-Roebling,ats-search,,2026-09-22,N,Ashby board 404; new Ashby URL found via search (68c0b660) but API unverifiable; process simulation/industrial AI; Enterprise AE; needs manual verification
+Roebling,ats-search,,2026-09-25,N,Ashby board still 404; Enterprise AE 68c0b660 unverifiable via API; industrial/process sim AI; re-confirmed N 2026-09-25
 9fin,ats-search,,2026-09-01,N,posting dead (DEAD_ID 2026-09-01); no qualifying US replacement found
 GaggleAMP,ats-search,,2026-08-17,N,no AE open; board empty 2026-08-17
 SPOTIO,ats-search,66,2026-08-05,N,hybrid (Tues/Wed office in Addison TX); not remote
@@ -3855,7 +3855,7 @@ Relay Payments,repvue,78,2026-09-15,N,AE posting dead; no qualifying US replacem
 PatientPop (now Tebra),repvue,78,2026-08-11,Y,SMB healthcare AE; remote; already in latest.csv
 PerformYard,repvue,78,2026-08-11,Y,SMB/MM performance management AE; remote; already in latest.csv
 Atmosphere,repvue,78,2026-09-05,N,AE posting dead; no replacement; no IC AE on board
-Dusty Robotics,repvue,78,2026-09-06,N,GH board dustyrobotics 404; GH listing 7707908003 in search but board unreachable
+Dusty Robotics,repvue,78,2026-09-25,N,GH board dustyrobotics 404; Rippling board (dusty-robotics-inc) active: no AE roles as of 2026-09-25 (VDC/Eng/SDR only)
 Dustin,repvue,78,2026-08-11,N,"IT product distributor (Nordic), not B2B SaaS"
 Stack Sports,repvue,78,2026-08-11,N,"ATS unresolved (Paylocity JS-only, can't verify remotely)"
 OrderMyGear,repvue,78,2026-08-11,N,AE role SMB segment only (MergeCo Rippling board); not MM/Ent
@@ -5233,7 +5233,7 @@ TrueComp,claude,65,2026-08-19,N,posting dead (Rippling); no qualifying replaceme
 GovWell,ats-search,,2026-08-19,Y,MM B2B SaaS (gov tech); AE posting live on Ashby; NYC
 Deepnote,ats-data,,2026-08-19,Y,MM AE live on Ashby; SF-based; data analytics notebook B2B SaaS
 RecordPoint,ats-data,,2026-08-19,N,only AE role is Australia-based; not US-remote
-Burro,ats-robotics,,2026-08-20,N,Lever AE postings d45e7ec6/0989c016 both 404 (dead); board has only PA-based ops/engineering; agricultural outdoor robotics; no AE
+Burro,ats-robotics,,2026-09-25,N,Lever board: no AE roles; PA-based ops/eng only; re-confirmed N 2026-09-25
 Hospitable,ats-data,,2026-08-20,Y,Account Executive US-Remote; short-term rental SaaS; Workable API confirms live
 RevenueBase,ats-data,,2026-08-20,Y,Founding-GTM AE US-Remote; verified B2B data; Ashby API confirms live
 OneSchema,ats-data,,2026-08-20,N,MM AE posting dead 2026-08-20; board shows only Eng roles
@@ -5563,7 +5563,7 @@ Live Nation Entertainment,a16z-speedrun,,2026-08-24,N,"live entertainment (Ticke
 Moo,a16z-speedrun,,2026-08-24,N,ATS unresolved (Ashby moo 404); a16z-speedrun name too generic to disambiguate quickly
 Nox Metals,a16z-speedrun,,2026-08-24,N,Ashby nox-metals: no Account Executive posting (yc-s25 stealth phase)
 Ohalo Genetics,a16z-speedrun,,2026-08-24,N,"ATS unresolved (Ashby ohalo 404); agricultural biotech, likely out of ICP anyway"
-Pallet,a16z-speedrun,,2026-08-24,N,"GH pallet: Enterprise Sales Engineer + Enterprise Deployment Strategist only, no current Account Executive title (older AE IDs from Google index are dead)"
+Pallet,a16z-speedrun,,2026-09-25,N,GH pallet: new postings (5186144/5186145/5186147) all London UK only; no US AE; re-confirmed N 2026-09-25
 AKASA,a16z-speedrun,,2026-08-24,N,Ashby akasa: no Account Executive posting
 Conduct,a16z-speedrun,,2026-08-24,N,"Ashby conduct: only Enterprise AE in London, UK (non-US)"
 CRED,a16z-speedrun,,2026-08-24,N,"Indian consumer-fintech (rewards app), not US B2B SaaS"
@@ -6610,7 +6610,7 @@ Deluxe,repvue,,2026-09-11,N,ATS unresolved (Workday); apparent B2B payments AE r
 Atomicwork,ats-ai-infra,,2026-09-11,Y,Ent AE (US) remote; 5-8 yrs exp; B2B SaaS AI ITSM; GH 4170612008; first_published 2024-10-08; added latest.csv 2026-09-11
 Sereact,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; only Solutions Manager and engineering; robotics manipulation software (Germany-based)
 Voyant Photonics,ats-physical-ai,,2026-09-11,N,Ashby board: no AE/sales roles; photonics/lidar sensor hardware; engineering-only postings
-Dexterity,ats-robotics,,2026-09-12,N,Lever board re-verified 2026-09-12: no AE roles; physical AI warehouse robotics (robotic arms); Redwood City CA only; confirmed N
+Dexterity,ats-robotics,,2026-09-25,N,Lever board: no AE roles; physical AI warehouse robotics; Redwood City CA only; re-confirmed N 2026-09-25
 Yodeck,ats-search,,2026-09-12,N,Workable posting dead; Enterprise AE not remote (on-site Columbia SC)
 Wraithwatch Corporation,ats-physical-ai,,2026-09-12,N,Ashby board wraithwatch; defense/national security AI (not industrial physical AI target); no AE roles - only security engineers and federal mission managers
 Under Control Robotics Inc,ats-physical-ai,,2026-09-12,N,GH board undercontrolroboticsinc; robotics company (Noble Machines) in Sunnyvale CA; no AE roles - engineering/autonomy software only; onsite only
