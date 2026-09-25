@@ -5250,7 +5250,7 @@ RunSybil,ats-devtools,,2026-08-20,Y,Commercial AE US Remote (Ashby f94d5150); se
 Hyperbound,ats-ai-infra,,2026-08-21,N,Dead Ashby posting ffc454ea; no US-remote AE replacement found
 OutSystems,ats-devtools,81,2026-08-21,N,HTTP_DEAD Workday posting R1432; no replacement found; low-code platform
 MinIO,ats-data,,2026-08-21,Y,"Enterprise AE - Chicago (remote US), data infrastructure/AI storage; in latest.csv since 2026-07-21"
-Steer CRM,ats-data,,2026-08-21,N,No AE (partner/support roles only); automotive CRM SaaS
+Steer CRM,ats-data,,2026-09-25,Y,Full Cycle AE + expansion AEs live on GH (5247237007/5238366007/5238355007); SMB automotive CRM; $120K OTE; published 2026-09-23
 Signal Vine,ats-data,,2026-08-21,N,"Higher ed B2B SaaS messaging; AE posting from 2021 (stale, likely dead)"
 Invisible Technologies,ats-data,,2026-08-21,N,No AE (engineering/ops roles only); AI operations
 Future,ats-data,,2026-08-21,N,No AE (engineering/product roles only)
@@ -6282,7 +6282,7 @@ University of Pennsylvania,a16z-speedrun,,2026-08-30,N,not B2B SaaS (university)
 University of Rochester,a16z-speedrun,,2026-08-30,N,not B2B SaaS (university)
 Verdantas,a16z-speedrun,,2026-08-30,N,not B2B SaaS (environmental consulting)
 GC AI,ats-ai-infra,,2026-08-30,Y,Ent SAE + Ent AE both Remote US; legal AI B2B SaaS; $60M Series B; Ashby posting-api blind spot (SAE posting 64cc3984); Status=Needs check
-Maxima,ats-ai-infra,,2026-08-30,Y,AE MM/Ent Remote US; agentic AI accounting platform; Ashby board maxima; posting 7bb4b50b published 2025-11-07
+Maxima,ats-ai-infra,,2026-09-25,N,Ashby posting 1e8d6329 confirmed dead 2026-09-25; no qualifying US replacement found
 Pickle Robot Company,ats-robotics,,2026-08-30,N,Lever board: only engineering + People Ops roles (Charlestown MA); no AE/sales role; warehouse automation robotics
 Wallbit,a16z-speedrun,,2026-08-31,N,not B2B SaaS; banking for remote workers; no US presence
 Walleye Capital,a16z-speedrun,,2026-08-31,N,not B2B SaaS; hedge fund / systematic trading
@@ -6715,3 +6715,6 @@ Common Sense Privacy,ats-robotics,,2026-09-24,Y,Lever/AIFund 3699a783; Account E
 Omakase.ai,ats-robotics,,2026-09-24,N,GH board (omakaseai); AE posting 5779623004 dead; only Full Stack Engineer in Tokyo; Japan-based; disqualified
 OpenObserve,ats-data,,2026-09-24,Y,MM Commercial AE remote US; $150K-200K OTE; observability/devtools B2B SaaS; Ashby API confirmed live 2026-09-24
 Dune,ats-data,,2026-09-24,Y,Enterprise AE remote US (East Coast); crypto data analytics B2B SaaS; Ashby API confirmed live; published 2026-01-22
+FareHarbor,repvue,,2026-09-25,N,GH posting 8646268002 dead 2026-09-25; Amsterdam-only replacement candidates; no qualifying US AE
+Sumble,ats-data,,2026-09-25,Y,Founding AE US-Remote; account intelligence for GTM; Workable 6E479FF65A; Series A $38.5M (Coatue/Canaan)
+Datamaran,ats-data,,2026-09-25,N,No open AE roles on Workable board 2026-09-25; ESG analytics SaaS
