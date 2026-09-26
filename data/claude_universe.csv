@@ -2981,7 +2981,7 @@ Mortgage Automator,ats-search,,2026-08-06,N,"Posting is IC ""Sales Account Execu
 RTM Business Group,ats-search,67,2026-08-05,N,B2B conference/events company (not product SaaS); excluded
 Fiscal.ai,ats-search,,2026-08-03,N,"recheck-B 2026-08-03: Live Workable board (apply.workable.com/api/v1/widget/accounts/fiscal-ai, fetched as raw JSON) currently lists exactly 2 'Account Executive - Capital "
 Mission Inbox,ats-search,,2026-08-03,Y,recheck-B 2026-08-03: Enterprise Account Executive (Founding Hire) | Previously excluded on comp grounds ($80K OTE looked too low). No comp floor applies now. Title is IC ('quota-
-Hostaway,ats-search,79,2026-09-26,N,GH/Lever/Ashby all 404; ATS unresolved; prior AE finding 2026-07-31 now boards all 404; re-checked 2026-09-26
+Hostaway,ats-search,79,2026-09-26,Y,Account Executive 100% Remote US; Recruitee (careers.hostaway.com); 1-3 yrs exp; posted 2026-09-04; verified ID 2735393; re-checked 2026-09-26
 Hygraph,ats-search,67,2026-08-05,N,no AE on Recruitee (only Partner Dev Rep Berlin)
 SidelineSwap,ats-search,,2026-08-05,N,AEs are hybrid in-person retail territory roles
 Spectrm,ats-search,,2026-08-06,N,No Recruitee board found (404); real ATS is join.com/companies/spectrm which explicitly states no open positions current
@@ -3275,7 +3275,7 @@ CircleCI,repvue,79,2026-09-26,N,re-checked 2026-09-26; only Strategic AE EMEA/NA
 OnDeck,repvue,,2026-09-26,N,not B2B SaaS; small business lending; re-checked 2026-09-26
 Scrive,repvue,79,2026-09-26,N,Lever 404; ATS unresolved; European e-sign SaaS; re-checked 2026-09-26
 Porch,repvue,79,2026-09-26,N,not B2B SaaS; home services marketplace; re-checked 2026-09-26
-Nextraq,repvue,79,2026-09-26,N,Workable board empty no AE roles; GH 404; ATS unresolved; re-checked 2026-09-26
+Nextraq,repvue,79,2026-09-26,N,rebranded to Michelin Connected Fleet; ADP WFN careers not API-accessible; re-checked 2026-09-26
 ON24,repvue,79,2026-09-26,N,GH/Ashby/Lever 404; ATS unresolved; re-checked 2026-09-26
 TikTok,repvue,79,2026-09-09,N,speedrun board: not flagged remote
 Becton Dickinson,repvue,79,2026-09-26,N,not B2B SaaS; medical devices; re-checked 2026-09-26
@@ -3285,11 +3285,11 @@ Exabeam,repvue,79,2026-09-26,N,GH board empty (0 jobs); re-checked 2026-09-26
 Egress,repvue,79,2026-09-26,N,acquired by KnowBe4 2024; board gone; re-checked 2026-09-26
 Dozuki,repvue,79,2026-09-26,N,GH board 404; ATS unresolved; re-checked 2026-09-26
 Tactile Medical,repvue,79,2026-09-26,N,not B2B SaaS; medical device company; re-checked 2026-09-26
-Cyncly,repvue,79,2026-09-26,N,GH/Ashby 404; ATS unresolved; design software SaaS; re-checked 2026-09-26
-Adventfs,repvue,79,2026-09-26,N,GH/Ashby 404; ATS unresolved; re-checked 2026-09-26
+Cyncly,repvue,79,2026-09-26,N,Oracle HCM offline; board suspended; design software SaaS; re-checked 2026-09-26
+Adventfs,repvue,79,2026-09-26,N,gov-sector SaaS (criminal justice/diversion); board gone GH/Ashby 404; re-checked 2026-09-26
 Brivo,repvue,79,2026-09-26,N,Ashby 404; ATS unresolved; re-checked 2026-09-26
-DAT Freight & Analytics,repvue,79,2026-09-26,N,GH 404; ATS unresolved; freight data/analytics SaaS; re-checked 2026-09-26
-Netchex,repvue,79,2026-09-26,N,Ashby/GH 404; ATS unresolved; HR/payroll SaaS; re-checked 2026-09-26
+DAT Freight & Analytics,repvue,79,2026-09-26,N,"GH slug 'datsolutions'; 30 jobs, no AE roles; re-checked 2026-09-26"
+Netchex,repvue,79,2026-09-26,N,CareersPage.io; BDR/Field AM only; no IC AE; HR/payroll SaaS; re-checked 2026-09-26
 Instabase,repvue,79,2026-09-26,N,GH board 404; ATS unresolved; re-checked 2026-09-26
 Black Knight,repvue,79,2026-07-16,N,acquired by ICE (Intercontinental Exchange) 2023; no longer standalone
 Keysight Technologies,repvue,79,2026-07-16,N,not B2B SaaS; electronic test & measurement hardware
@@ -6718,4 +6718,4 @@ Dune,ats-data,,2026-09-24,Y,Enterprise AE remote US (East Coast); crypto data an
 FareHarbor,repvue,,2026-09-25,N,GH posting 8646268002 dead 2026-09-25; Amsterdam-only replacement candidates; no qualifying US AE
 Sumble,ats-data,,2026-09-25,Y,Founding AE US-Remote; account intelligence for GTM; Workable 6E479FF65A; Series A $38.5M (Coatue/Canaan)
 Datamaran,ats-data,,2026-09-25,N,No open AE roles on Workable board 2026-09-25; ESG analytics SaaS
-Commerce.com,repvue,,2026-09-26,N,BigCommerce slug; Workable board empty no AE roles; GH/Lever 404; re-checked 2026-09-26
+Commerce.com,repvue,,2026-09-26,N,BigCommerce; Workday board 0 AE roles; Workable empty; e-commerce platform SaaS; re-checked 2026-09-26
