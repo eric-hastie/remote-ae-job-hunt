@@ -2962,7 +2962,7 @@ PathPilot,wellfound,,2026-08-06,N,"No IC Account Executive posting found on any 
 Infrawatch,wellfound,,2026-08-06,N,"No ATS job board found (Greenhouse/Ashby/Lever all 404); Wellfound listing is explicitly London-based Founding AE, not U"
 Trayo AI,wellfound,,2026-08-06,N,"Founding AE role is San Mateo, CA (Hybrid), not remote, and applications go via direct email (careers@trayo.ai) — no ATS"
 Seeds,wellfound,,2026-08-06,N,"Could not locate a live company ATS board (Greenhouse/Ashby/Lever/Workable) under ""seeds"" or ""useseeds"" slugs after 5 fe"
-AI Squared,ats-search,,2026-08-05,N,AE Enterprise + MM on Greenhouse but both require 10+ years (exceeds 8yr ceiling)
+AI Squared,ats-search,,2026-09-26,N,AE Enterprise + MM on Greenhouse but both require 10+ years (exceeds 8yr ceiling)
 Rollstack,ats-search,74,2026-08-15,Y,"Ashby fc740df2 live; Account Executive, Remote US+Canada, posted 2026-07-28; re-checked 2026-08-15"
 TrackTik (Trackforce),ats-search,,2026-08-14,N,Lever: MM AE (19d81252) confirmed US Remote from JD; Job-1 2026-08-14: no qualifying US-remote AE candidates on tracktik board
 Trellis,ats-search,,2026-08-05,N,"stale AE posting on Lever (created 2025-05-13, still not hired after 15+ months)"
