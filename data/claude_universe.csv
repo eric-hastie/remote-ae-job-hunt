@@ -3762,7 +3762,7 @@ Sunrun,repvue,78,2026-08-09,N,solar energy; not B2B SaaS
 IQPC,repvue,78,2026-08-08,N,events/conferences company; not SaaS
 Lytics,repvue,78,2026-08-08,N,CDP SaaS; ATS unresolved (not found on Lever/Ashby/GH)
 Vivi,repvue,78,2026-08-08,N,Australian edtech; not US-focused
-Uberall,repvue,78,2026-08-08,N,European location marketing SaaS; ATS unresolved
+Uberall,repvue,78,2026-09-28,N,No qualifying AE role on Ashby board; only SAM and BDR. Dropped.
 Meltwater,repvue,78,2026-08-08,N,media intelligence SaaS; ttcportals.com ATS blocked; only Federal AE found
 Synup,repvue,78,2026-08-08,N,local marketing SaaS; ATS unresolved (not found on standard boards)
 Voltus,repvue,78,2026-08-09,N,energy demand response; not B2B SaaS
@@ -6730,3 +6730,5 @@ Knot,claude,,2026-09-27,Y,"Account Executive, Banking via Ashby; NYC; MM; jobs.a
 Sela AI,claude,,2026-09-27,Y,BD/Strategic AE via Ashby; SF; Ent; $200-300K OTE; $21M Series A 2026-09-22; added to latest.csv 2026-09-27
 Alkami Technology,claude,,2026-09-27,Y,Workday ATS (JS-only cannot capture URL); qualifying AE roles exist (remote/TX); fintech banking SaaS; Mantl acquired by Alkami; universe-only 2026-09-27
 Mantl,claude,,2026-09-27,N,Acquired by Alkami Technology; careers.mantl.com redirects to alkami.wd12.myworkdayjobs.com
+Handle,ats-fintech,,2026-09-28,Y,"Enterprise AE, US-remote, construction payments/lien SaaS, Series B $27M. handle.com/jobs"
+Form3,ats-fintech,,2026-09-28,N,"No qualifying AE in Greenhouse API (job 8084773002 expired); fintech payments infra, only engineers/analysts on board"
