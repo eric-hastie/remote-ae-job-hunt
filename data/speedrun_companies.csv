@@ -3,7 +3,7 @@ Slug,Company,OpenRoles,SalesRoles,RemotePosture,Functions,Collections,Pulled
 1password,1Password,,0,remote-first,engineering|marketing|operations|other|product|sales,backed-by-lightspeed,name-unresolved
 3redpartners,3Redpartners,,0,onsite-leaning,engineering|other|research,early-career,name-unresolved
 abb,Abb,,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,early-career|hiring-in-volume|new-this-week|remote,name-unresolved
-abbott,Abbott,,0,onsite-leaning,engineering|marketing|operations|other|research,early-career|new-this-week|remote,name-unresolved
+abbott,Abbott,,0,onsite-leaning,engineering|operations|other|research,early-career|new-this-week|remote,name-unresolved
 abridge,Abridge,,0,onsite-leaning,design|engineering|marketing|operations|other|product|research|sales,a16z-portfolio|backed-by-bessemer-ventures|backed-by-lightspeed|backed-by-union-square-ventures|early-career|health-bio|new-this-week|remote|remote-september-2026,name-unresolved
 abundant,Abundant,,0,onsite-leaning,engineering|operations|research,yc-f24,name-unresolved
 acceldata,Acceldata,,0,onsite-leaning,engineering|operations|sales,early-career,name-unresolved
@@ -56,7 +56,7 @@ amperos,Amperos,,0,hybrid-friendly,design|engineering|operations|other|product|r
 amyris,Amyris,,0,onsite-leaning,engineering|operations|other,backed-by-khosla-ventures,name-unresolved
 anagram,Anagram,,0,remote-first,marketing,backed-by-general-catalyst,name-unresolved
 analog-devices,Analog Devices,,0,onsite-leaning,design|engineering|operations|other,early-career|new-this-week,name-unresolved
-anaplan,Anaplan,,0,onsite-leaning,operations,early-career|new-this-week,name-unresolved
+anaplan,Anaplan,,0,onsite-leaning,operations,early-career,name-unresolved
 ancestry,Ancestry,,0,remote-first,design|engineering|other,early-career|new-this-week|remote|remote-first,name-unresolved
 anchorage,Anchorage,,1,remote-first,engineering|marketing|operations|other|sales,a16z-portfolio|early-career|miami|new-this-week|remote|remote-first|remote-september-2026,name-unresolved
 andesite,Andesite,,0,remote-first,other,backed-by-general-catalyst,name-unresolved
@@ -131,7 +131,7 @@ avis-budget-group,Avis Budget Group,,0,onsite-leaning,engineering|operations|oth
 avoca-ai,Avoca Ai,,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-general-catalyst,name-unresolved
 awardco,Awardco,,0,onsite-leaning,design|engineering|marketing|operations|other|sales,backed-by-general-catalyst,name-unresolved
 axiomatic-ai,Axiomatic Ai,,0,onsite-leaning,research,early-career,name-unresolved
-axion,Axion,,0,onsite-leaning,engineering|marketing|operations|other,backed-by-bessemer-ventures,name-unresolved
+axion,Axion,,0,onsite-leaning,engineering|marketing|operations|other|product,backed-by-bessemer-ventures,name-unresolved
 axos-bank,Axos Bank,,0,onsite-leaning,marketing|other,early-career,name-unresolved
 axq-capital,Axq Capital,,0,onsite-leaning,operations|research,early-career|new-york,name-unresolved
 b12,B12,,0,remote-first,design|marketing,backed-by-general-catalyst,name-unresolved
@@ -319,7 +319,7 @@ cowboy-space-corporation,Cowboy Space Corporation,,0,onsite-leaning,design|engin
 cradle,Cradle,,0,onsite-leaning,operations|research|sales,backed-by-index-ventures,name-unresolved
 cranston-ai,Cranston Ai,,0,onsite-leaning,engineering|operations,yc-f25,name-unresolved
 creatify-lab,Creatify Lab,,0,onsite-leaning,engineering|product,early-career,name-unresolved
-cred,Cred,,0,onsite-leaning,marketing|other|sales,backed-by-general-catalyst,name-unresolved
+cred,Cred,,0,onsite-leaning,marketing|operations|other|sales,backed-by-general-catalyst,name-unresolved
 credal-ai,Credal Ai,,0,onsite-leaning,engineering|sales,yc-w23,name-unresolved
 cresta,Cresta,,5,hybrid-friendly,design|engineering|marketing|operations|other|product|sales,a16z-portfolio|early-career|gtm-september-2026|new-york|remote|remote-september-2026,name-unresolved
 crosby,Crosby,,0,onsite-leaning,engineering|marketing|operations|product|research|sales,backed-by-index-ventures|backed-by-sequoia-capital,name-unresolved
@@ -922,7 +922,7 @@ openrouter,Openrouter,,3,remote-first,engineering|marketing|operations|product|r
 opensea,Opensea,,0,remote-first,design|engineering,a16z-portfolio|backed-by-paradigm|backed-by-sequoia-capital|crypto-web3|remote|remote-first,name-unresolved
 openx,Openx,,0,hybrid-friendly,design|engineering|operations|other,backed-by-index-ventures,name-unresolved
 ophelia,Ophelia,,0,hybrid-friendly,marketing|operations|other|product,backed-by-general-catalyst,name-unresolved
-optiver,Optiver,,0,onsite-leaning,engineering|other|research,austin|early-career|london|new-this-week|new-york,name-unresolved
+optiver,Optiver,,0,onsite-leaning,other,early-career|new-this-week,name-unresolved
 opusclip,Opusclip,,0,onsite-leaning,product,early-career,name-unresolved
 orb,Orb,,0,onsite-leaning,design|engineering|marketing|operations|other|product|sales,backed-by-greylock-partners,name-unresolved
 orchard-robotics,Orchard Robotics,,0,onsite-leaning,design|engineering|operations|sales,backed-by-general-catalyst,name-unresolved
