@@ -1458,7 +1458,7 @@ UnitedHealthcare,repvue,83.56,2026-09-12,N,"health insurance company, not B2B Sa
 HackerRank,repvue,83.55,2026-09-12,Y,GH board (hackerrank) confirmed: Strategic AE; re-verified 2026-09-12
 Vector Marketing,repvue,83.55,2026-09-12,N,"direct sales company (Cutco knives), not B2B SaaS; re-checked 2026-09-12"
 Financeit,repvue,83.55,2026-09-12,N,"Canada-only, not US-remote; re-checked 2026-09-12"
-TrustArc,repvue,83.54,2026-09-12,Y,open AE role; re-verified 2026-09-12
+TrustArc,repvue,83.54,2026-09-28,N,"dead Lever posting, no US-qualifying replacement"
 Merz Aesthetics,repvue,83.54,2026-09-12,N,"medical aesthetics, not SaaS; re-checked 2026-09-12"
 Fairmarkit,repvue,83.54,2026-09-12,N,no IC AE (Sales Director UK/Boston only); re-checked 2026-09-12
 Red Ventures,repvue,83.54,2026-09-12,N,"media/affiliate marketing, not B2B SaaS; re-checked 2026-09-12"
@@ -2013,7 +2013,7 @@ Willis Towers Watson,repvue,82,2026-09-17,N,consulting/insurance brokerage; not 
 Wells Fargo,repvue,82,2026-09-17,N,banking; not B2B SaaS (permanent)
 Billd,repvue,82,2026-09-17,N,ATS still unresolved; construction fintech; search found no AE on GH/Ashby/Lever as of 2026-09-17
 FormAssembly,repvue,82,2026-09-17,N,ATS still unresolved; search found no AE results as of 2026-09-17
-Upwind Security,repvue,82,2026-09-17,N,ATS still unresolved; search found no AE results as of 2026-09-17
+Upwind Security,repvue,82,2026-09-28,Y,"Comeet ATS at upwind.io/careers; 5 AE roles found (2 Commercial MM, 3 Enterprise Ent); qualifies 2026-09-28"
 Marcura,repvue,82,2026-09-17,N,ATS still unresolved; maritime data; search found no AE on GH/Ashby as of 2026-09-17
 CBORD,repvue,82,2026-09-17,N,ATS still unresolved; campus management SaaS; search found no AE on GH/Ashby/Lever as of 2026-09-17
 Siemens-Healthineers,repvue,82,2026-09-17,N,medical imaging/equipment; not B2B SaaS (permanent)
@@ -4686,7 +4686,7 @@ Lumin Digital,aggregator-verify,,2026-09-25,N,Senior AE dead (Ashby); no AE role
 Omnifold,aggregator-verify,,2026-08-15,Y,Sales Account Executive - East Region | Ent | Remote
 Quizlet,aggregator-verify,,2026-09-09,N,Sr AE posting dead 2026-09-09; no replacement on Ashby board
 Rimes,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | NYC
-SmartBear,aggregator-verify,,2026-08-15,Y,Account Executive II - ReadyAPI | MM/Ent | Boston
+SmartBear,aggregator-verify,,2026-09-28,N,"dead Greenhouse posting, no US-qualifying replacement"
 sunday,aggregator-verify,66,2026-08-15,Y,Account Executive - NYC | SMB | NYC
 Transform AI,aggregator-verify,,2026-09-20,N,GH board empty (0 jobs); posting 4322547009 dead
 Valsoft,aggregator-verify,,2026-08-21,N,"Account Executive, Restaurant | SMB | Remote"
@@ -6730,5 +6730,14 @@ Knot,claude,,2026-09-27,Y,"Account Executive, Banking via Ashby; NYC; MM; jobs.a
 Sela AI,claude,,2026-09-27,Y,BD/Strategic AE via Ashby; SF; Ent; $200-300K OTE; $21M Series A 2026-09-22; added to latest.csv 2026-09-27
 Alkami Technology,claude,,2026-09-27,Y,Workday ATS (JS-only cannot capture URL); qualifying AE roles exist (remote/TX); fintech banking SaaS; Mantl acquired by Alkami; universe-only 2026-09-27
 Mantl,claude,,2026-09-27,N,Acquired by Alkami Technology; careers.mantl.com redirects to alkami.wd12.myworkdayjobs.com
-Handle,ats-fintech,,2026-09-28,Y,"Enterprise AE, US-remote, construction payments/lien SaaS, Series B $27M. handle.com/jobs"
+Handle,ats-fintech,,2026-09-28,N,"HTTP dead posting, no replacement found"
 Form3,ats-fintech,,2026-09-28,N,"No qualifying AE in Greenhouse API (job 8084773002 expired); fintech payments infra, only engineers/analysts on board"
+Warp,ats-direct,,2026-09-28,Y,Ashby slug warp = warp.co payroll/HR compliance; AE NYC on-site 6fa4373f; OTE $160-200K; qualifies 2026-09-28
+Warp.dev,ats-direct,,2026-09-28,N,Greenhouse slug warp = warp.dev terminal; Strategic AE requires 6-10+ years; exceeds 8-yr ceiling; N 2026-09-28
+Rime,ats-direct,,2026-09-28,Y,Ashby slug rime; Founding AE SF 385985d7; OTE $250-300K; voice AI; qualifies 2026-09-28
+Rox,ats-direct,,2026-09-28,Y,Ashby slug Rox-Data-Corp; Strategic AE Austin+SF; revenue intelligence/AI CRM; qualifies 2026-09-28
+DealHub,ats-direct,,2026-09-28,Y,Custom ATS at dealhub.io/careers; Ent AE Austin in-office; CPQ SaaS; qualifies 2026-09-28
+Coverbase,ats-direct,,2026-09-28,Y,Ashby slug coverbase; MM AE c1d79265 $210-240K + Ent AE 330eb625 $260-320K; SF hybrid; TPRM SaaS; qualifies 2026-09-28
+Xapien,ats-search,,2026-09-28,N,UK-based company; no US AE roles found; email-only hiring listed; N 2026-09-28
+Chamelio,funding-news,,2026-09-28,N,$26M Series A; no ATS found; too early-stage to have AE roles yet; N 2026-09-28
+PodPitch,wellfound,,2026-09-28,N,No ATS found on wellfound search; no qualifying AE role; N 2026-09-28
