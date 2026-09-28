@@ -2407,7 +2407,7 @@ Visier,repvue,81,2026-09-21,Y,Account Executive Embedded Analytics; GH job 47124
 Eaton,repvue,81,2026-09-21,N,"power management hardware, not B2B SaaS"
 "Xyleme, Inc",repvue,81,2026-09-21,N,ATS unresolved
 TransUnion,repvue,81,2026-09-21,N,ATS unresolved (likely Workday JS-rendered)
-DataGrail,repvue,81,2026-09-21,Y,verified still open in latest.csv (verify_links LIVE)
+DataGrail,repvue,81,2026-09-28,N,verified still open in latest.csv (verify_links LIVE)
 ShipBob,repvue,80,2026-09-21,N,"fulfillment/logistics platform, not pure B2B SaaS"
 Anyscale,repvue,80,2026-09-10,N,speedrun board: not flagged remote
 SS&C Intralinks,repvue,80,2026-09-21,N,no US-remote AE; only non-US/hybrid roles
@@ -5270,7 +5270,7 @@ Fal,a16z-speedrun,,2026-09-10,N,speedrun board: not flagged remote
 Freenome,a16z-speedrun,,2026-09-10,Y,Strategic Account Executive (Pacific Northwest) (Ent)
 GoodData.AI,a16z-speedrun,,2026-09-10,N,speedrun board: not flagged remote
 Halliday,a16z-speedrun,,2026-08-26,N,speedrun board: not flagged remote
-HappyRobot,a16z-speedrun,,2026-09-10,Y,Enterprise Account Executive (Ent)
+HappyRobot,a16z-speedrun,,2026-09-28,N,Enterprise Account Executive (Ent)
 Hebbia AI,a16z-speedrun,,2026-09-10,N,speedrun board: not flagged remote
 Hewlett Packard,a16z-speedrun,,2026-09-10,N,speedrun board: not flagged remote
 Ideogram,a16z-speedrun,,2026-09-10,N,speedrun board: not flagged remote
@@ -6719,7 +6719,7 @@ Sumble,ats-data,,2026-09-25,Y,Founding AE US-Remote; account intelligence for GT
 Datamaran,ats-data,,2026-09-25,N,No open AE roles on Workable board 2026-09-25; ESG analytics SaaS
 Commerce.com,repvue,,2026-09-26,N,BigCommerce; Workday board 0 AE roles; Workable empty; e-commerce platform SaaS; re-checked 2026-09-26
 Intellistack,ats-devtools,,2026-09-26,Y,"Ashby dd1f7ead: MM AE Denver CO (open to remote), OTE $200K-$210K, no-code workflow automation platform, pub 2026-05-13"
-Pressable,ats-devtools,,2026-09-26,Y,"Greenhouse 8077929: Sales AE Remote (North America), MM, WordPress managed hosting, OTE $90K-$125K, pub 2026-07-21"
+Pressable,ats-devtools,,2026-09-28,N,"Greenhouse 8077929: Sales AE Remote (North America), MM, WordPress managed hosting, OTE $90K-$125K, pub 2026-07-21"
 Upsun,ats-devtools,,2026-09-26,N,"Remote Woman Greenhouse board: only EMEA AE roles (Benelux/Nordics, DACH); no US-remote AE posting found. PaaS for developers."
 Runhappy,ats-devtools,,2026-09-26,N,Lever (tildei board): AE role is for booking infrastructure for experience-driven businesses - not B2B SaaS devtools/infra
 Employ,ats-fintech,,2026-09-26,N,"B2B SaaS recruiting platform (JazzHR/Lever). Only open AE is High Velocity AE (SMB, $64-70K base); no MM AE role."
@@ -6741,3 +6741,4 @@ Coverbase,ats-direct,,2026-09-28,Y,Ashby slug coverbase; MM AE c1d79265 $210-240
 Xapien,ats-search,,2026-09-28,N,UK-based company; no US AE roles found; email-only hiring listed; N 2026-09-28
 Chamelio,funding-news,,2026-09-28,N,$26M Series A; no ATS found; too early-stage to have AE roles yet; N 2026-09-28
 PodPitch,wellfound,,2026-09-28,N,No ATS found on wellfound search; no qualifying AE role; N 2026-09-28
+Retrocausal,ats-physical-ai,,2026-09-28,N,ATS unresolved - no major ATS board found; Physical AI (computer vision/manufacturing); Enterprise AE posting seen on Techstars board only
