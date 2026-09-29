@@ -73,7 +73,7 @@ Mabl,claude,83,2026-09-14,Y,AE in latest.csv; confirmed live
 Maintainx,claude,91,2026-08-19,Y,re-verified 2026-08-19: AE role still live
 Maxio,claude,82,2026-09-15,N,custom ATS (applytojob) - no AE found (Account Manager only)
 Mercury,claude,94,2026-08-17,Y,"Senior AE - Credit & Lending, Remote US, base $153-212K"
-Merge,claude,73,2026-08-03,Y,has open qualifying role (re-verified 2026-07-23)
+Merge,claude,73,2026-09-29,N,Ashby board: no AE postings found; posting 633161e8 dead; dropped from list 2026-09-29
 Meter,claude,95,2026-08-17,N,no AE on Ashby — Deployment/CS/SE/Support only
 Mindtickle,claude,76,2026-07-23,N,no US AE; India-based US-shift only on Lever
 Mistral AI,claude,103,2026-08-17,N,Lever board empty; no active US AE posting (recheck 2026-08-17)
@@ -5250,7 +5250,7 @@ RunSybil,ats-devtools,,2026-08-20,Y,Commercial AE US Remote (Ashby f94d5150); se
 Hyperbound,ats-ai-infra,,2026-08-21,N,Dead Ashby posting ffc454ea; no US-remote AE replacement found
 OutSystems,ats-devtools,81,2026-08-21,N,HTTP_DEAD Workday posting R1432; no replacement found; low-code platform
 MinIO,ats-data,,2026-08-21,Y,"Enterprise AE - Chicago (remote US), data infrastructure/AI storage; in latest.csv since 2026-07-21"
-Steer CRM,ats-data,,2026-09-25,Y,Full Cycle AE + expansion AEs live on GH (5247237007/5238366007/5238355007); SMB automotive CRM; $120K OTE; published 2026-09-23
+Steer CRM,ats-data,,2026-09-29,N,SMB automotive CRM; posting 5247237007 dead; remaining openings are SMB expansion/upsell only; dropped 2026-09-29
 Signal Vine,ats-data,,2026-08-21,N,"Higher ed B2B SaaS messaging; AE posting from 2021 (stale, likely dead)"
 Invisible Technologies,ats-data,,2026-08-21,N,No AE (engineering/ops roles only); AI operations
 Future,ats-data,,2026-08-21,N,No AE (engineering/product roles only)
@@ -6745,3 +6745,5 @@ Retrocausal,ats-physical-ai,,2026-09-28,N,ATS unresolved - no major ATS board fo
 Dispatch,repvue,72,2026-09-29,N,board gone (BOARD_GONE)
 CopilotKit,ats-ai-infra,,2026-09-29,N,Lever board (copilotkit): Enterprise Sales AE posting a840e7ce dead (404 API); no active AE posting on board; open-source AI copilot framework
 Sine Engineering,ats-physical-ai,,2026-09-29,N,"Ashby board 'sine engineering': all roles Tampere, Finland on-site; Key AE posting 7f2bf84e dead/not in feed; UAV/drone radio systems; no US AE"
+Gravis Robotics,ats-robotics,,2026-09-29,N,Lever board: no AE roles; robotics software engineering company (autonomous ground vehicles)
+Teleo,ats-robotics,,2026-09-29,N,Lever: no AE roles (only Head of Commercial/eng); Ashby 404; autonomous construction equipment; not pure B2B SaaS
