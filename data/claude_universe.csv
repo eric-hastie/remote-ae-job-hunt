@@ -1045,7 +1045,7 @@ YouScience,repvue,85.36,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
 Autodesk,repvue,85.36,2026-09-07,N,ATS unresolved; too large for accessible API; rechecked 2026-09-07
 FactSet,repvue,85.34,2026-09-07,N,ATS unresolved (Ashby 404); rechecked 2026-09-07
 Sweetwater Sound,repvue,85.34,2026-09-07,N,not B2B SaaS (music retailer); permanent skip
-FireMon,repvue,85.31,2026-09-07,Y,Enterprise AE on Lever (verified live 2026-09-07 by verify_links)
+FireMon,repvue,85.31,2026-09-30,N,"Lever posting dead; new postings are hybrid only, not qualifying"
 Secoda,repvue,85.31,2026-09-07,N,Board gone (Ashby board disappeared); BOARD_GONE
 Built In,repvue,85.30,2026-09-07,N,ATS unresolved; rechecked 2026-09-07
 Luminary Cloud,repvue,85.30,2026-09-17,N,"Rippling board confirmed 2026-09-17: Enterprise AE only (Automotive/A&D), San Mateo CA; not remote"
