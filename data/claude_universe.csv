@@ -2729,7 +2729,7 @@ GoLinks,ats-search,79,2026-09-29,Y,in latest.csv; Ashby URL LIVE (verified 2026-
 EasyLlama,ats-search,,2026-08-04,N,no AE roles on Ashby board (only Technical Support/Creative/Design)
 Bland,ats-search,,2026-08-20,N,"SF location, isRemote=None; no remote designation; MM AE + Ent AE both SF; re-checked 2026-08-20"
 Civitech,ats-search,,2026-08-05,N,civic/political tech (Democratic campaigns/nonprofits); not qualifying B2B SaaS
-Spreedly,ats-search,78,2026-08-04,N,no AE roles on Lever board (general application only); payment infrastructure SaaS
+Spreedly,ats-search,78,2026-10-02,N,"no AE in Lever board (TAM, ops, engineering only)"
 PublicInput,ats-search,,2026-08-04,N,no AE roles on GH board (Sales Engineer / QA / CSM only)
 Newsela,ats-search,76,2026-08-04,N,K-12 EdTech selling to school districts; OTE $140-145K below bar
 GlossGenius,ats-search,,2026-08-04,N,SMB beauty salon management SaaS; AE OTE $95K well below bar
@@ -3780,55 +3780,55 @@ LocumTenens.com,repvue,78,2026-10-01,N,healthcare staffing; not SaaS
 One Medical,repvue,78,2026-10-01,N,healthcare practice (Amazon); not SaaS
 Qstream,repvue,78,2026-10-01,N,Irish microlearning SaaS; ATS unresolved on recheck 2026-10-01
 Canibuild,repvue,78,2026-10-01,N,Australian construction tech; not US-focused
-Flight Centre Travel Group,repvue,78,2026-08-09,N,travel agency; not SaaS
-SundaySky,repvue,78,2026-08-09,N,acquired by Kaltura 2022; defunct as standalone
-Landtech,repvue,78,2026-08-09,N,niche title/real estate SaaS; ATS unresolved 2026-08-09
-Comcast Business,repvue,78,2026-08-09,N,telecom/ISP; not pure SaaS
-Uptempo,repvue,78,2026-08-09,N,Ashby 404; ATS still unresolved 2026-08-09
-MPLC,repvue,78,2026-08-09,N,media licensing; not SaaS
-KPMG,repvue,78,2026-08-09,N,consulting firm; not SaaS
-Televerde,repvue,78,2026-08-09,N,B2B demand gen services; not SaaS
-Textio,repvue,78,2026-08-09,N,Lever 404; board removed; ATS unresolved 2026-08-09
-Florence Healthcare,repvue,78,2026-08-09,N,clinical trial SaaS; GH board confirmed no AE 2026-08-09
-DataRobot,repvue,78,2026-08-09,N,GH 404; no ATS board found; no current AE postings 2026-08-09
-GoCo,repvue,78,2026-08-09,N,Ashby 404; ATS unresolved 2026-08-09
-"Spreedly, Inc.",repvue,78,2026-08-09,N,Lever board live; no AE postings 2026-08-09
-BMC Software,repvue,78,2026-08-09,N,jobs.bmc.com 404; ATS unresolved 2026-08-09
-"WOW! Internet, TV, & Phone",repvue,78,2026-08-09,N,ISP/telecom; not SaaS
-Bushel,repvue,78,2026-08-09,N,agtech SaaS for grain/agriculture; niche vertical; ATS unresolved 2026-08-09
-Wildix,repvue,78,2026-08-09,N,UCaaS; primarily European company; ATS unresolved
-All Covered,repvue,78,2026-08-09,N,IT managed services (Konica Minolta); not SaaS
-Formlabs,repvue,78,2026-08-09,N,No AE roles; 3D printing hardware; GH board has no AE 2026-08-09
-J.J. Keller,repvue,78,2026-08-09,N,Compliance/EHS training; ATS unresolved 2026-08-09
-ETQ,repvue,78,2026-08-09,N,Acquired by Octave (rebranded Octave Reliance)
-Incident IQ,repvue,78,2026-08-09,N,GH board live; no AE (only technical + VP roles) 2026-08-09
-Eightfold,repvue,78,2026-08-09,N,no AE found on ATS boards 2026-08-09
-NextLot,repvue,78,2026-08-09,N,Niche auction platform; ATS unresolved 2026-08-09
-MountainSeed,repvue,78,2026-08-09,N,Niche bank technology; ATS unresolved 2026-08-09
-COMPLY,repvue,78,2026-08-09,N,Lever board live; empty; no AE 2026-08-09
-MARKT-PILOT,repvue,78,2026-08-09,N,Industrial spare parts pricing SaaS; ATS unresolved 2026-08-09
-Sitetracker,repvue,78,2026-08-09,N,Lever board live; no AE (Account Manager + SDR only) 2026-08-09
-Amergis,repvue,78,2026-08-09,N,Healthcare staffing; not B2B SaaS
-Sunbelt Rentals,repvue,78,2026-08-09,N,Equipment rental; not B2B SaaS
-Xeneta,repvue,78,2026-08-09,N,Ocean freight intelligence SaaS; no open positions (Workable empty; Pinpoint HQ: no jobs)
-Clevry,repvue,78,2026-08-09,N,Nordic/Sweden HR assessment; no US AE roles found
-Tesla,repvue,78,2026-08-09,N,Automotive/EV; not B2B SaaS
-Gainsight,repvue,78,2026-08-09,N,Ashby board live; only RVP Strategic Accounts; no IC AE 2026-08-09
-ZenGRC,repvue,78,2026-08-09,N,GRC SaaS (Reciprocity); acquired by LogicGate; ATS unresolved
-Safe Security,repvue,78,2026-08-09,N,Lever board; Enterprise AE requires 8yr closing (above ceiling); no qualifying AE 2026-08-09
-EdCast,repvue,78,2026-08-09,N,LXP; acquired by Cornerstone OnDemand (2022)
-Jabra,repvue,78,2026-08-09,N,Audio hardware (GN Audio); not B2B SaaS
-Cloudbeds,repvue,78,2026-08-09,N,Ashby 404; ATS unresolved 2026-08-09
-Gallagher,repvue,78,2026-08-09,N,Arthur J. Gallagher insurance broker; not B2B SaaS
-SearchStax,repvue,78,2026-08-09,Y,Senior Enterprise AE + Senior AE Healthcare; both Remote US; Ashby board verified live 2026-07-20
-Realtor.com,repvue,78,2026-08-09,N,Real estate portal (News Corp); ATS unresolved 2026-08-09
-CB Insights,repvue,78,2026-08-03,Y,Senior AE NYC Ent; Greenhouse cbinsights/jobs/6379605; posted 2026-01-29
-Dallas Stars,repvue,78,2026-08-09,N,NHL hockey team; not B2B SaaS
-120Water,repvue,78,2026-08-09,N,Water utility management SaaS; ATS unresolved 2026-08-09
-AutoTrader.ca,repvue,78,2026-08-09,N,Canadian auto marketplace; not US market
-LG Electronics,repvue,78,2026-08-09,N,Consumer electronics manufacturer; not B2B SaaS
-STORD,repvue,78,2026-08-09,N,no ATS board found 2026-08-09
-Audicus,repvue,78,2026-08-09,N,Hearing aid company; not B2B SaaS
+Flight Centre Travel Group,repvue,78,2026-10-02,N,not B2B SaaS (travel agency)
+SundaySky,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+Landtech,repvue,78,2026-10-02,N,not US B2B SaaS; Brazil-based recruitment company
+Comcast Business,repvue,78,2026-10-02,N,not B2B SaaS (telecom enterprise services)
+Uptempo,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+MPLC,repvue,78,2026-10-02,N,not B2B SaaS (music/media licensing rights)
+KPMG,repvue,78,2026-10-02,N,not B2B SaaS (professional services)
+Televerde,repvue,78,2026-10-02,N,not B2B SaaS (sales outsourcing/BPO)
+Textio,repvue,78,2026-10-02,N,ATS unresolved; not on Lever/Ashby/Greenhouse
+Florence Healthcare,repvue,78,2026-10-02,N,no AE in Greenhouse board (AI/engineering roles only)
+DataRobot,repvue,78,2026-10-02,N,ATS unresolved (Workday); AE roles likely exist but cannot verify via API
+GoCo,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+"Spreedly, Inc.",repvue,78,2026-10-02,N,"no AE in Lever board (TAM, ops, engineering only)"
+BMC Software,repvue,78,2026-10-02,N,"Enterprise-only software, no MM/remote AE found"
+"WOW! Internet, TV, & Phone",repvue,78,2026-10-02,N,not B2B SaaS (cable/ISP)
+Bushel,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+Wildix,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+All Covered,repvue,78,2026-10-02,N,"not B2B SaaS (IT managed services, Kyndryl subsidiary)"
+Formlabs,repvue,78,2026-10-02,N,"hardware (3D printing), not SaaS"
+J.J. Keller,repvue,78,2026-10-02,N,ATS unresolved; compliance/transportation software
+ETQ,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+Incident IQ,repvue,78,2026-10-02,N,AE exists (Greenhouse) but not remote (Atlanta/Alpharetta offices)
+Eightfold,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+NextLot,repvue,78,2026-10-02,N,niche auction platform; no AE found
+MountainSeed,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+COMPLY,repvue,78,2026-10-02,N,Lever board returned empty (archived postings)
+MARKT-PILOT,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+Sitetracker,repvue,78,2026-10-02,N,no US AE on Lever; DACH/Europe roles only
+Amergis,repvue,78,2026-10-02,N,not B2B SaaS (healthcare staffing)
+Sunbelt Rentals,repvue,78,2026-10-02,N,not B2B SaaS (equipment rental)
+Xeneta,repvue,78,2026-10-02,N,no AE found; Lever/Greenhouse 404
+Clevry,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+Tesla,repvue,78,2026-10-02,N,not B2B SaaS
+Gainsight,repvue,78,2026-10-02,N,"no AE in Ashby board (EA, engineering, PM roles only)"
+ZenGRC,repvue,78,2026-10-02,N,Greenhouse board empty (zengrc slug); Reciprocity slug 404
+Safe Security,repvue,78,2026-10-02,N,"Lever board empty (CS, ops, engineering only)"
+EdCast,repvue,78,2026-10-02,N,acquired by Cornerstone OnDemand 2022
+Jabra,repvue,78,2026-10-02,N,"hardware (audio devices), not B2B SaaS"
+Cloudbeds,repvue,78,2026-10-02,N,no AE in Greenhouse board
+Gallagher,repvue,78,2026-10-02,N,not B2B SaaS (insurance broker)
+SearchStax,repvue,78,2026-10-02,N,"no AE on Ashby board (CS, alliances, marketing only)"
+Realtor.com,repvue,78,2026-10-02,N,"B2C real estate portal, not B2B SaaS"
+CB Insights,repvue,78,2026-10-02,Y,Senior AE NYC | Ent | already in latest.csv
+Dallas Stars,repvue,78,2026-10-02,N,not B2B SaaS (sports team)
+120Water,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+AutoTrader.ca,repvue,78,2026-10-02,N,not US (Canadian automotive marketplace)
+LG Electronics,repvue,78,2026-10-02,N,not B2B SaaS (consumer electronics)
+STORD,repvue,78,2026-10-02,N,no AE found on Greenhouse/Lever/Ashby
+Audicus,repvue,78,2026-10-02,N,"B2C consumer hearing health, not B2B SaaS"
 VC3,repvue,78,2026-08-09,N,Managed IT services provider; not SaaS product company
 Caspio,repvue,78,2026-08-09,N,Low-code database platform; ATS unresolved 2026-08-09
 Maropost,repvue,78,2026-08-09,N,Workable board; no open positions 2026-08-09
@@ -4724,7 +4724,7 @@ Digi International,aggregator-verify,,2026-08-15,Y,"Strategic Sales Account Exec
 Genspark,aggregator-verify,,2026-08-15,Y,"Account Executive, Mid-Market (Commercial Sales) | MM | NYC"
 Hubexo,aggregator-verify,,2026-09-19,N,AE posting dead (HTTP_DEAD 2026-09-19); dropped from latest.csv
 IQGeo,aggregator-verify,,2026-08-15,Y,Strategic Account Executive - Utilities | Ent | Denver
-Latent Health,aggregator-verify,,2026-08-15,Y,Strategic Account Executive | Ent | NYC
+Latent Health,aggregator-verify,,2026-10-02,N,no AE posting found; Strategic AE (NYC) posting 316e7d8f expired
 M7 Health,aggregator-verify,,2026-08-15,Y,Account Executive | Ent | Remote
 Motus,aggregator-verify,75,2026-09-03,Y,"Account Executive, Mid-Market | MM | Remote; GH 7550158; URL fixed from dead 8111999 on 2026-09-03"
 PlayOn! Sports,aggregator-verify,,2026-08-15,Y,Account Executive (National Advertising Sales) | Unspec | NYC
@@ -6512,7 +6512,7 @@ McMaster-Carr,repvue,,2026-09-02,N,not B2B SaaS; industrial distribution
 Simpson Strong-Tie,repvue,,2026-09-02,N,not B2B SaaS; construction hardware manufacturer
 Sourcerer AI,a16z-speedrun,,2026-09-02,N,ATS unresolved; very small/unknown startup
 Spherecast,a16z-speedrun,,2026-09-02,N,Munich-based startup; no US AE roles
-Summer,a16z-speedrun,,2026-10-01,N,"ATS unresolved (summer.com NXDOMAIN, Ashby/Lever 404); a16z speedrun seed company"
+Summer,a16z-speedrun,,2026-10-02,N,ATS unresolved (slug: summer); no qualifying AE confirmed
 Sunday Robotics,a16z-speedrun,,2026-09-02,N,consumer household robotics (Memo); not B2B
 Supernova Technology,a16z-speedrun,,2026-09-02,N,fintech consulting/services; ATS unresolved
 Taya,a16z-speedrun,,2026-09-02,N,ATS unresolved
