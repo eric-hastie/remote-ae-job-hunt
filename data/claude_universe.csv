@@ -2442,7 +2442,7 @@ The Alexander Group,repvue,80,2026-09-22,N,"revenue consulting firm, not a SaaS 
 Barrington James,repvue,80,2026-09-22,N,"recruitment/staffing firm, not B2B SaaS"
 Bamboo Health,repvue,80,2026-09-22,N,ATS unresolved; no AE found on standard boards
 Xceptor,repvue,80,2026-09-22,N,ATS unresolved; financial data automation
-Block,repvue,80,2026-09-22,N,"ATS unresolved; wrong slug, complex ATS structure"
+Block,repvue,80,2026-10-03,N,GH board (block) checked 2026-10-03: no AE; Account Manager SMB only
 Demandforce,repvue,80,2026-09-22,N,ATS unresolved; acquired by Internet Brands
 "xMatters, inc",repvue,80,2026-09-22,N,"acquired by Everbridge in 2021, no separate ATS"
 ForUsAll,repvue,80,2026-09-22,N,"ATS unresolved; 401k SaaS, small company"
@@ -6782,3 +6782,4 @@ The Brattle Group,a16z-speedrun,,2026-10-03,N,economic consulting firm; not B2B 
 Brinc Drones,a16z-speedrun,,2026-10-03,N,same as BRINC; drone hardware/autonomy company; no AE roles (checked via BRINC entry)
 Horizon3,a16z-speedrun,,2026-10-03,Y,same as Horizon3.ai in universe; MM/Ent AE remote US; verified live 2026-10-03
 Avoca Ai,a16z-speedrun,,2026-10-03,N,same as Avoca; AE role NYC in-office only; not qualifying
+OptimaFI,ats-fintech,,2026-10-03,Y,"Account Executive (AE), Remote US (22 states), MM/community FIs, OTE $135K-$175K; B2B SaaS fintech (banking/credit union software)"
